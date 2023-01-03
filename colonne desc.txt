@@ -1,0 +1,12 @@
+Beat -->: Indicates the beat where the incident occurred. 
+	A beat is the smallest police geographic area – 
+	each beat has a dedicated police beat car. Three to five beats make up a police sector, 
+	and three sectors make up a police district. 
+District -->  Indicates the police district where the incident occurred The Chicago Police Department has 22 police districts.
+Ward --> The ward(City Council District) where the incident occurred --> sono 50 e 2010-2019 sicuramente non sono cambiati in questo decennio
+Community Area --> chicago ne ha 77
+FBI code --> crime classification as outlined in FBI's National incident-Based reporting System (NIBRS)
+X coord --> valore della quota ortometrica
+Y coord -->
+Lati --> 
+Longi -->
