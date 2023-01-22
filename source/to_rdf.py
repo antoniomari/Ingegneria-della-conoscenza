@@ -1,4 +1,6 @@
 import rdflib
+from rdflib import Namespace
+from rdflib import Literal
 from rdflib.plugins.sparql import prepareQuery
 import pandas as pd
 
@@ -66,11 +68,6 @@ def search_inactive():
 
 g = rdflib.Graph()
 main()
-"""
-
-
-def create_graph():
-    dataset: pd.DataFrame = pd.read_csv("complete_crimes_adjust.csv")
 
     columns = ["CASE_NUMBER", "DATE_SHOOT", "BLOCK", "VICTIMIZATION_PRIMARY", "INCIDENT_PRIMARY", "GUNSHOT_INJURY_I",
                "ZIP_CODE", "WARD", "STREET_OUTREACH_ORGANIZATION", "AREA", "DISTRICT", "BEAT", "AGE", "SEX",
@@ -95,6 +92,35 @@ def create_graph():
                "CHARGES DESCRIPTION", "CHARGES TYPE", "CHARGES CLASS", "Location Description", "Domestic",
                "Community Area", "Latitude", "Longitude"
                ]
+"""
 
-    # crime case part
-    crime_case_columns = ["CASE_NUMBER", "DATE_SHOOT"]
+
+def create_graph():
+    crime_dataset: pd.DataFrame = pd.read_csv("crimes_selected.csv")
+    g = rdflib.Graph()
+
+    crime_ns = Namespace("urn:crime/")
+    ds = Namespace("https://data.cityofchicago.org/resource/crimes/")
+
+    for index, row in crime_dataset.iterrows():
+        crime_uri = crime_ns[row["CASE_NUMBER"]]
+        g.add((crime_uri, ds["case_number"], Literal(row["CASE_NUMBER"])))
+        g.add((crime_uri, ds["location_description"], Literal(row["Location Description"])))
+        g.add((crime_uri, ds["domestic"], Literal(row["Domestic"])))
+        g.add((crime_uri, ds["beat"], Literal(row["Beat"])))
+        g.add((crime_uri, ds["district"], Literal(row["District"])))
+        g.add((crime_uri, ds["ward"], Literal(row["Ward"])))
+        g.add((crime_uri, ds["community_area"], Literal(row["Community Area"])))
+        g.add((crime_uri, ds["latitude"], Literal(row["Latitude"])))
+        g.add((crime_uri, ds["longitude"], Literal(row["Longitude"])))
+
+    rdf_xml = g.serialize(format="xml")
+
+    with open("../rdf_prova/crimes.rdf", "w") as f:
+        f.write(rdf_xml)
+
+
+create_graph()
+
+
+

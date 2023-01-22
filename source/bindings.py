@@ -204,6 +204,7 @@ def create_dataset() -> pd.DataFrame:
 
     return complete_df
 
+
 def drop_dup_crimes_selected():
     col_del = ['Block', 'IUCR',
                'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year',
@@ -225,5 +226,5 @@ def main():
     create_dataset()
     adjust_features()
 
-#main()
+main()
 drop_dup_crimes_selected()
