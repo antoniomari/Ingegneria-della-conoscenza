@@ -72,6 +72,19 @@ result = arrest_case_codes[arrest_case_codes.isin(shoot_case_codes)]
 print(f"Intersezione: {len(result)}")
 """
 
+#Adjust features in complete_crimes.csv (renaming and deleting)
+def adjust_features():
 
+    col_ren = {'Date' : 'Date_Crime', 'DATE' : 'DATE_SHOOT',
+                'BLOCK' : 'BLOCK_SHOOT', 'Block' : 'Block_Crime'}
+    #VICTIMIZATION_IUCR_CD == IUCR
+    #BLOCK_SHOOT == Block_crime ?
+    col_del = ['VICTIMIZATION_IUCR_CD']
 
+    complete_crimes = pd.read_csv("complete_crimes.csv")
+    
+    complete_crimes.rename(columns = col_ren, inplace = True)
+    complete_crimes = complete_crimes.drop(col_del, axis=1)
 
+    complete_crimes.to_csv("complete_crimes_adjust.csv")
+    pass
