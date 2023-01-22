@@ -79,6 +79,9 @@ def adjust_features():
     complete_crimes = complete_crimes.drop(col_del, axis=1)
 
     complete_crimes.to_csv("complete_crimes_adjust.csv")
+    
+    # Remove duplicates, a small feature selection
+    check_values_consistency()
 
 
 def check_values_consistency():
@@ -120,7 +123,7 @@ def check_values_consistency():
     # 80+     -> 80
     age_mapping = {"0-19": 10, "20-29": 25, "30-39": 35, "40-49": 45, "50-59": 55,
                    "60-69": 65, "70-79": 75, "80+": 80, "Unknown": None}
-    # gunshot injury map to boolean
+    # age to middle age
     complete_crimes["AGE"] = complete_crimes["AGE"].map(age_mapping)
 
     # check location description
@@ -136,6 +139,10 @@ def check_values_consistency():
     # we note that DATE_SHOOT is never later than Date_Crime, so it surely will give a better approximation
     # Date_crime may be in fact delayed.
     complete_crimes = complete_crimes.drop(["Date_Crime"], axis=1)
+
+    # mapping gunshot injury to boolean values
+    gunshot_injury_mapping = {"NO":0, "YES":1}
+    complete_crimes["GUNSHOT_INJURY_I"] = complete_crimes["GUNSHOT_INJURY_I"].map(gunshot_injury_mapping)
 
     complete_crimes.to_csv("complete_crimes_adjust.csv")
 
@@ -184,6 +191,3 @@ def create_dataset() -> pd.DataFrame:
 def main():
     create_dataset()
     adjust_features()
-
-adjust_features()
-check_values_consistency()
