@@ -1,7 +1,8 @@
 import rdflib
 from rdflib.plugins.sparql import prepareQuery
+import pandas as pd
 
-
+"""
 def main():
     g.parse("dataset/health.rdf", format="xml")
     g.parse("dataset/iucr.rdf", format="xml")
@@ -65,3 +66,35 @@ def search_inactive():
 
 g = rdflib.Graph()
 main()
+"""
+
+
+def create_graph():
+    dataset: pd.DataFrame = pd.read_csv("complete_crimes_adjust.csv")
+
+    columns = ["CASE_NUMBER", "DATE_SHOOT", "BLOCK", "VICTIMIZATION_PRIMARY", "INCIDENT_PRIMARY", "GUNSHOT_INJURY_I",
+               "ZIP_CODE", "WARD", "STREET_OUTREACH_ORGANIZATION", "AREA", "DISTRICT", "BEAT", "AGE", "SEX",
+               "victim_race", "INCIDENT_IUCR_CD", "HOMICIDE_VICTIM_FIRST_NAME", "HOMICIDE_VICTIM_MI",
+               "HOMICIDE_VICTIM_LAST_NAME", "DAY_OF_WEEK", "STATE_HOUSE_DISTRICT", "STATE_SENATE_DISTRICT",
+               "ARREST_NUMBER", "ARREST DATE", "criminal_race", "CHARGE 1 STATUTE", "CHARGE 1 DESCRIPTION",
+               "CHARGE 1 TYPE", "CHARGE 1 CLASS", "CHARGE 2 STATUTE", "CHARGE 2 DESCRIPTION", "CHARGE 2 TYPE",
+               "CHARGE 2 CLASS", "CHARGE 3 STATUTE", "CHARGE 3 DESCRIPTION", "CHARGE 3 TYPE", "CHARGE 3 CLASS",
+               "CHARGE 4 STATUTE", "CHARGE 4 DESCRIPTION", "CHARGE 4 TYPE", "CHARGE 4 CLASS", "CHARGES STATUTE",
+               "CHARGES DESCRIPTION", "CHARGES TYPE", "CHARGES CLASS", "Location Description", "Domestic",
+               "Community Area", "Latitude", "Longitude"
+               ]
+
+    f = [, , "BLOCK", "VICTIMIZATION_PRIMARY", "INCIDENT_PRIMARY", "GUNSHOT_INJURY_I",
+               "ZIP_CODE", "WARD", "STREET_OUTREACH_ORGANIZATION", "AREA", "DISTRICT", "BEAT", "AGE", "SEX",
+               "victim_race", "INCIDENT_IUCR_CD", "HOMICIDE_VICTIM_FIRST_NAME", "HOMICIDE_VICTIM_MI",
+               "HOMICIDE_VICTIM_LAST_NAME", "DAY_OF_WEEK", "STATE_HOUSE_DISTRICT", "STATE_SENATE_DISTRICT",
+               "ARREST_NUMBER", "ARREST DATE", "criminal_race", "CHARGE 1 STATUTE", "CHARGE 1 DESCRIPTION",
+               "CHARGE 1 TYPE", "CHARGE 1 CLASS", "CHARGE 2 STATUTE", "CHARGE 2 DESCRIPTION", "CHARGE 2 TYPE",
+               "CHARGE 2 CLASS", "CHARGE 3 STATUTE", "CHARGE 3 DESCRIPTION", "CHARGE 3 TYPE", "CHARGE 3 CLASS",
+               "CHARGE 4 STATUTE", "CHARGE 4 DESCRIPTION", "CHARGE 4 TYPE", "CHARGE 4 CLASS", "CHARGES STATUTE",
+               "CHARGES DESCRIPTION", "CHARGES TYPE", "CHARGES CLASS", "Location Description", "Domestic",
+               "Community Area", "Latitude", "Longitude"
+               ]
+
+    # crime case part
+    crime_case_columns = ["CASE_NUMBER", "DATE_SHOOT"]

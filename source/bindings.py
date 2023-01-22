@@ -78,7 +78,7 @@ def adjust_features():
     complete_crimes.rename(columns=col_ren, inplace=True)
     complete_crimes = complete_crimes.drop(col_del, axis=1)
 
-    complete_crimes.to_csv("complete_crimes_adjust.csv")
+    complete_crimes.to_csv("complete_crimes_adjust.csv", index=False)
     
     # Remove duplicates, a small feature selection
     check_values_consistency()
@@ -144,18 +144,29 @@ def check_values_consistency():
     gunshot_injury_mapping = {"NO":0, "YES":1}
     complete_crimes["GUNSHOT_INJURY_I"] = complete_crimes["GUNSHOT_INJURY_I"].map(gunshot_injury_mapping)
 
-    complete_crimes.to_csv("complete_crimes_adjust.csv")
+    complete_crimes.to_csv("complete_crimes_adjust.csv", index=False)
+
 
 def create_dataset() -> pd.DataFrame:
     # BINDING SHOOT e ARREST
+
+    ## search case_number in shoot =
     shoot_df: pd.DataFrame = pd.read_csv("../old_dataset/shoot.csv")
+    shoot_case_number: pd.Series = shoot_df["CASE_NUMBER"].drop_duplicates()
+
     arrest_1_df: pd.DataFrame = pd.read_csv("../old_dataset/arrests_1.csv").rename({"CASE NUMBER": "CASE_NUMBER"},
                                                                                    axis=1)
     arrest_2_df: pd.DataFrame = pd.read_csv("../old_dataset/arrests_2.csv").rename({"CASE NUMBER": "CASE_NUMBER"},
                                                                                    axis=1)
+
+    arrest_case_number: pd.Series = pd.concat([arrest_1_df["CASE_NUMBER"], arrest_2_df["CASE_NUMBER"]]).drop_duplicates()
+
+    total_case_number = shoot_case_number[shoot_case_number.isin(arrest_case_number)]
+
     print(f"Shoot df {len(shoot_df.index)}")
     print(f"Arrest 1 df {len(arrest_1_df.index)}")
     print(f"Arrest 2 df {len(arrest_2_df.index)}")
+    print(f"Total case: {len(total_case_number)}")
 
     shoot_and_arrest_1_df: pd.DataFrame = shoot_df.merge(arrest_1_df, on="CASE_NUMBER")
     shoot_and_arrest_2_df: pd.DataFrame = shoot_df.merge(arrest_2_df, on="CASE_NUMBER")
@@ -168,6 +179,8 @@ def create_dataset() -> pd.DataFrame:
     crime_paths = ["../old_dataset/" + str(i) + ".csv" for i in range(2010, 2023)]
     complete_df = None
 
+    crime_selected_df = None
+
     for path in crime_paths:
         print(f"File {path}")
         crime_df: pd.DataFrame = pd.read_csv(path).rename({"Case Number": "CASE_NUMBER"}, axis=1)
@@ -175,19 +188,42 @@ def create_dataset() -> pd.DataFrame:
         if complete_df is None:
             print("None")
             complete_df = shoot_and_arrest.merge(crime_df, on="CASE_NUMBER")
+            crime_selected_df = crime_df[crime_df["CASE_NUMBER"].isin(total_case_number)]
         else:
             print("conc")
             complete_df = pd.concat([complete_df, shoot_and_arrest.merge(crime_df, on="CASE_NUMBER")])
+            crime_selected_df = pd.concat([crime_selected_df, crime_df[crime_df["CASE_NUMBER"].isin(total_case_number)]])
 
         print(f"Lunghezza completo: {len(complete_df.index)}")
 
     print(len(complete_df.index))
-    complete_df.to_csv("complete_crimes.csv")
-    complete_df.describe().to_csv("report1.csv")
+    complete_df.to_csv("complete_crimes.csv", index=False)
+    complete_df.describe().to_csv("report1.csv", index=False)
+
+    crime_selected_df.to_csv("crimes_selected.csv", index=False)
 
     return complete_df
 
+def drop_dup_crimes_selected():
+    col_del = ['Block', 'IUCR',
+               'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year',
+               'Updated On', 'Location', 'ID', 'Date']
+
+    crime_selected: pd.DataFrame = pd.read_csv("crimes_selected.csv")
+    crime_selected = crime_selected.drop(col_del, axis=1)
+    crime_selected = crime_selected.drop_duplicates()
+
+    # now the only wrong value is a duplicate with inconsistent Location
+    # JA329470, there are two rows (one with value 'PORCH', one other with value 'STREET')
+    # having checked in shoot dataset, the correct value is 'STREET'
+    wrong_index = (crime_selected["CASE_NUMBER"] == "JA329470") & (crime_selected["Location Description"] == 'PORCH')
+    crime_selected = crime_selected.drop(crime_selected.index[wrong_index], axis=0)
+
+    crime_selected.to_csv("crimes_selected.csv", index=False)
 
 def main():
     create_dataset()
     adjust_features()
+
+#main()
+drop_dup_crimes_selected()
