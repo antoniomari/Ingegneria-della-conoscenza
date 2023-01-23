@@ -1,5 +1,6 @@
+import owlready2
 import rdflib
-from rdflib import Namespace
+from rdflib import Namespace, URIRef, RDF
 from rdflib import Literal
 from rdflib.plugins.sparql import prepareQuery
 import pandas as pd
@@ -100,11 +101,14 @@ def create_graph():
     g = rdflib.Graph()
 
     crime_ns = Namespace("urn:crime/")
+    crime_onto = owlready2.get_ontology("crimes.owl").load()
+    crime_class = URIRef(crime_onto.Crime.iri)
     ds = Namespace("https://data.cityofchicago.org/resource/crimes/")
 
     for index, row in crime_dataset.iterrows():
         crime_uri = crime_ns[row["CASE_NUMBER"]]
         g.add((crime_uri, ds["case_number"], Literal(row["CASE_NUMBER"])))
+        g.add((crime_uri, RDF.type, crime_class))
         g.add((crime_uri, ds["location_description"], Literal(row["Location Description"])))
         g.add((crime_uri, ds["domestic"], Literal(row["Domestic"])))
         g.add((crime_uri, ds["beat"], Literal(row["Beat"])))
