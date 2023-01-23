@@ -61,8 +61,8 @@ class Embedding:
                 news.append(this_news)
 
             news = np.array(news)
-            print(news)
-
+            #print(news)
+            return news
             pass
 
 class WebDataPickUp:
