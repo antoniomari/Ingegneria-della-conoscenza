@@ -345,7 +345,7 @@ def create_prolog_kb():
         for index, row in arrest_df.iterrows():
             arrest_num = row['ARREST_NUMBER']
             facts = [f"has_arrest({row['CASE_NUMBER']}, {arrest_num})",
-                     f"crime_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
+                     f"arrest_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
                      f"criminal_race({arrest_num},{row['criminal_race']})"]
 
             num_charges = 0
