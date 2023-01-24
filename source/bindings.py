@@ -300,6 +300,12 @@ def preprocess_arrest_dataset(extracted_arrest_dataset: pd.DataFrame) -> pd.Data
 
     extracted_arrest_dataset.rename(columns=col_ren, inplace=True)
 
+    # map races to match with victim races
+    race_mapping = {"WHITE": "WHI", "BLACK": "BLK", "WHITE HISPANIC": "WWH",
+                    "BLACK HISPANIC": "WBH", "ASIAN / PACIFIC ISLANDER": "API",
+                    "AMER INDIAN / ALASKAN NATIVE": "I", "UNKNOWN": "UNKNOWN"}
+    extracted_arrest_dataset["criminal_race"] = extracted_arrest_dataset["criminal_race"].map(race_mapping)
+
     # important: string values to lowercase
     extracted_arrest_dataset = adjust_string_columns(extracted_arrest_dataset, except_columns=["ARREST DATE"])
 
@@ -307,17 +313,27 @@ def preprocess_arrest_dataset(extracted_arrest_dataset: pd.DataFrame) -> pd.Data
 
 
 def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFrame:
-    col_del = ['VICTIMIZATION_IUCR_CD', 'UNIQUE_ID', 'COMMUNITY_AREA', 'VICTIMIZATION_FBI_DESCR',
+    col_del = ['INCIDENT_IUCR_CD', 'VICTIMIZATION_IUCR_CD', 'UNIQUE_ID', 'COMMUNITY_AREA', 'VICTIMIZATION_FBI_DESCR',
                'INCIDENT_FBI_DESCR', 'VICTIMIZATION_FBI_CD', 'INCIDENT_FBI_CD', 'VICTIMIZATION_IUCR_SECONDARY',
-               'INCIDENT_IUCR_SECONDARY', 'UPDATED', 'LATITUDE', 'LONGITUDE', 'LOCATION']
+               'INCIDENT_IUCR_SECONDARY', 'UPDATED', 'LATITUDE', 'LONGITUDE', 'LOCATION', 'WARD',
+               'DISTRICT', 'BEAT', 'MONTH', 'HOUR', 'LOCATION_DESCRIPTION']
 
-    col_ren = {'DATE': 'DATE_SHOOT', 'RACE': 'victim_race'}
+    col_ren = {'DATE': 'DATE_SHOOT', 'RACE': 'victim_race', 'VICTIMIZATION_PRIMARY': 'VICTIMIZATION',
+               'INCIDENT_PRIMARY': 'INCIDENT', 'GUNSHOT_INJURY_I': 'GUNSHOT'}
 
     extracted_shoot_dataset.rename(columns=col_ren, inplace=True)
     extracted_shoot_dataset = extracted_shoot_dataset.drop(col_del, axis=1)
 
+    age_mapping = {"0-19": 10, "20-29": 25, "30-39": 35, "40-49": 45, "50-59": 55,
+                   "60-69": 65, "70-79": 75, "80+": 80, "Unknown": None}
+    # age to middle age
+    extracted_shoot_dataset["AGE"] = extracted_shoot_dataset["AGE"].map(age_mapping)
+
     # important: string values to lowercase
     extracted_shoot_dataset = adjust_string_columns(extracted_shoot_dataset, except_columns=["DATE_SHOOT"])
+
+    # since there is no id_column, we will add one
+    extracted_shoot_dataset = extracted_shoot_dataset.assign(VICTIM_CODE=extracted_shoot_dataset.index)
 
     return extracted_shoot_dataset
 
@@ -359,6 +375,14 @@ def create_prolog_kb():
             facts.append(f"num_of_charges({arrest_num}, {num_charges})")
 
             prologfile.writelines(".\n".join(facts) + ".\n")
+
+        # insert data for shoot
+        """
+        for index, row in shoot_df.iterrows():
+            victim_code = row['VICTIM_CODE']
+            facts = [f"victimization({row['CASE_NUMBER']}, {victim_code}, {row['VICTIMIZATION']})",
+                     f"arrest_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
+                     f"criminal_race({arrest_num},{row['criminal_race']})"]"""
 
 
 def datetime_to_prolog_fact(datetime_str: str) -> str:
