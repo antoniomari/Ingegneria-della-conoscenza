@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import numpy as np
 import rdflib
 import pandas as pd
@@ -334,14 +336,16 @@ def create_prolog_kb():
                      f"beat({case_num},{row['Beat']})",
                      f"district({case_num},{row['District']})",
                      f"comm_area({case_num},{row['Community Area']})",
-                     f"ward({case_num},{row['Ward']})"]
+                     f"ward({case_num},{row['Ward']})",
+                     datetime_to_prolog_fact(row["Date"])]
+
             prologfile.writelines(".\n".join(facts) + ".\n")
 
         # insert data for arrests
         for index, row in arrest_df.iterrows():
             arrest_num = row['ARREST_NUMBER']
             facts = [f"has_arrest({row['CASE_NUMBER']}, {arrest_num})",
-                     # TODO: rimettere data f"arrest_date({arrest_num},{row['ARREST DATE']})",
+                     datetime_to_prolog_fact(row['ARREST DATE']),
                      f"criminal_race({arrest_num},{row['criminal_race']})"]
 
             num_charges = 0
@@ -355,6 +359,14 @@ def create_prolog_kb():
             facts.append(f"num_of_charges({arrest_num}, {num_charges})")
 
             prologfile.writelines(".\n".join(facts) + ".\n")
+
+
+def datetime_to_prolog_fact(datetime_str: str) -> str:
+    dt = datetime.strptime(datetime_str, '%m/%d/%Y %I:%M:%S %p')
+    datetime_str = "date({}, {}, {}, {}, {}, {})".format(dt.year, dt.month, dt.day,
+                                                         dt.hour, dt.minute, dt.second)
+    return f"datime({datetime_str})"
+
 
 def main():
     crime_codes = extract_crime_codes()
