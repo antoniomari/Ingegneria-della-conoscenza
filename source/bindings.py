@@ -324,11 +324,11 @@ def create_prolog_kb():
         # insert data for crimes
         for index, row in crimes_df.iterrows():
             case_num = row['CASE_NUMBER']
-            facts = [f"location_description({case_num}, {row['Location Description']})",
-                     f"beat({case_num},{row['Beat']})",
-                     f"district({case_num},{row['District']})",
-                     f"comm_area({case_num},{row['Community Area']})",
-                     f"ward({case_num},{row['Ward']})"]
+            facts = [f"location_description('{case_num}', '{row['Location Description']}')",
+                     f"beat('{case_num}',{row['Beat']})",
+                     f"district('{case_num}',{row['District']})",
+                     f"comm_area('{case_num}',{row['Community Area']})",
+                     f"ward('{case_num}',{row['Ward']})"]
             prologfile.writelines(".\n".join(facts) + ".\n")
 
 
@@ -347,5 +347,5 @@ def main():
     # adjust_features()
 
 
-main()
+#main()
 create_prolog_kb()
