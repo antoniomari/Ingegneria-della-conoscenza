@@ -25,8 +25,6 @@ print(f"Num: {len(results)}")
 
 """
 
-
-
 """
 arrest_case_codes = pd.concat([arrest_1_df["CASE NUMBER"], arrest_2_df["CASE NUMBER"]])
 print(f"Ci sono {len(arrest_case_codes)} casi di arresto")
@@ -38,10 +36,16 @@ result = arrest_case_codes[arrest_case_codes.isin(shoot_case_codes)]
 print(f"Intersezione: {len(result)}")
 """
 
+SHOOT_DATASET_PATH = "../old_dataset/shoot.csv"
+CRIME_DATASET_PATHS = ["../old_dataset/" + str(i) + ".csv" for i in range(2010, 2023)]
+ARRESTS_DATASET_PATHS = ["../old_dataset/arrests_1.csv", "../old_dataset/arrests_2.csv"]
+
+CLEAN_CRIME_PATH = "crimes_selected.csv"
+CLEAN_SHOOT_PATH = "shoot_selected.csv"
+CLEAN_ARREST_PATH = "arrest_selected.csv"
 
 # Adjust features in complete_crimes.csv (renaming and deleting)
 def adjust_features():
-
     col_ren = {'Date': 'Date_Crime', 'DATE': 'DATE_SHOOT',
                'RACE_x': 'victim_race', 'RACE_y': 'criminal_race', 'CB_NO': 'ARREST_NUMBER'}
 
@@ -74,18 +78,17 @@ def adjust_features():
                'Updated On', 'Location', 'MONTH', 'HOUR']
 
     complete_crimes = pd.read_csv("complete_crimes.csv")
-    
+
     complete_crimes.rename(columns=col_ren, inplace=True)
     complete_crimes = complete_crimes.drop(col_del, axis=1)
 
     complete_crimes.to_csv("complete_crimes_adjust.csv", index=False)
-    
+
     # Remove duplicates, a small feature selection
     check_values_consistency()
 
 
 def check_values_consistency():
-
     complete_crimes = pd.read_csv("complete_crimes_adjust.csv")
     # check WARD
     diff_ward = complete_crimes[complete_crimes["WARD"] != complete_crimes["Ward"]]
@@ -141,17 +144,67 @@ def check_values_consistency():
     complete_crimes = complete_crimes.drop(["Date_Crime"], axis=1)
 
     # mapping gunshot injury to boolean values
-    gunshot_injury_mapping = {"NO":0, "YES":1}
+    gunshot_injury_mapping = {"NO": 0, "YES": 1}
     complete_crimes["GUNSHOT_INJURY_I"] = complete_crimes["GUNSHOT_INJURY_I"].map(gunshot_injury_mapping)
 
     complete_crimes.to_csv("complete_crimes_adjust.csv", index=False)
 
 
+# returns all crime codes that are in common to ARREST_DATASET and SHOOT_DATASET
+def extract_crime_codes() -> pd.Series:
+    shoot_df: pd.DataFrame = pd.read_csv(SHOOT_DATASET_PATH)
+    shoot_case_number: pd.Series = shoot_df["CASE_NUMBER"].drop_duplicates()
+
+    arrest_1_df: pd.DataFrame = pd.read_csv(ARRESTS_DATASET_PATHS[0]).rename({"CASE NUMBER": "CASE_NUMBER"},
+                                                                             axis=1)
+    arrest_2_df: pd.DataFrame = pd.read_csv(ARRESTS_DATASET_PATHS[1]).rename({"CASE NUMBER": "CASE_NUMBER"},
+                                                                             axis=1)
+
+    arrest_case_number: pd.Series = pd.concat(
+        [arrest_1_df["CASE_NUMBER"], arrest_2_df["CASE_NUMBER"]]).drop_duplicates()
+
+    total_case_number = shoot_case_number[shoot_case_number.isin(arrest_case_number)]
+
+    return total_case_number
+
+
+# extract the dataset containing only crimes for which we have data from ARREST_DATASET and
+def extract_crime_dataset(crime_codes: pd.Series) -> pd.DataFrame:
+
+    crime_selected_df = None
+
+    for path in CRIME_DATASET_PATHS:
+        print(f"Processing File: {path}")
+        crime_df: pd.DataFrame = pd.read_csv(path).rename({"Case Number": "CASE_NUMBER"}, axis=1)
+
+        if crime_selected_df is None:
+            crime_selected_df = crime_df[crime_df["CASE_NUMBER"].isin(crime_codes)]
+        else:
+            crime_selected_df = pd.concat(
+                [crime_selected_df, crime_df[crime_df["CASE_NUMBER"].isin(crime_codes)]])
+
+    return crime_selected_df
+
+
+def extract_arrest_dataset(crime_codes: pd.Series) -> pd.DataFrame:
+
+    arrest_dataset: pd.DataFrame = pd.concat(
+        [pd.read_csv(ARRESTS_DATASET_PATHS[i]).rename({"CASE NUMBER": "CASE_NUMBER"}, axis=1) for i in {0, 1}])
+    arrest_dataset = arrest_dataset[arrest_dataset["CASE_NUMBER"].isin(crime_codes)]
+    return arrest_dataset
+
+
+def extract_shoot_dataset(crime_codes: pd.Series) -> pd.DataFrame:
+    shoot_dataset: pd.DataFrame = pd.read_csv(SHOOT_DATASET_PATH)
+    shoot_dataset = shoot_dataset[shoot_dataset["CASE_NUMBER"].isin(crime_codes)]
+    return shoot_dataset
+
+# OLD FUNCTION
 def create_dataset() -> pd.DataFrame:
     # BINDING SHOOT e ARREST
 
     ## search case_number in shoot =
-    shoot_df: pd.DataFrame = pd.read_csv("../old_dataset/shoot.csv")
+    shoot_df: pd.DataFrame = pd.read_csv(SHOOT_DATASET_PATH)
     shoot_case_number: pd.Series = shoot_df["CASE_NUMBER"].drop_duplicates()
 
     arrest_1_df: pd.DataFrame = pd.read_csv("../old_dataset/arrests_1.csv").rename({"CASE NUMBER": "CASE_NUMBER"},
@@ -159,7 +212,8 @@ def create_dataset() -> pd.DataFrame:
     arrest_2_df: pd.DataFrame = pd.read_csv("../old_dataset/arrests_2.csv").rename({"CASE NUMBER": "CASE_NUMBER"},
                                                                                    axis=1)
 
-    arrest_case_number: pd.Series = pd.concat([arrest_1_df["CASE_NUMBER"], arrest_2_df["CASE_NUMBER"]]).drop_duplicates()
+    arrest_case_number: pd.Series = pd.concat(
+        [arrest_1_df["CASE_NUMBER"], arrest_2_df["CASE_NUMBER"]]).drop_duplicates()
 
     total_case_number = shoot_case_number[shoot_case_number.isin(arrest_case_number)]
 
@@ -192,7 +246,8 @@ def create_dataset() -> pd.DataFrame:
         else:
             print("conc")
             complete_df = pd.concat([complete_df, shoot_and_arrest.merge(crime_df, on="CASE_NUMBER")])
-            crime_selected_df = pd.concat([crime_selected_df, crime_df[crime_df["CASE_NUMBER"].isin(total_case_number)]])
+            crime_selected_df = pd.concat(
+                [crime_selected_df, crime_df[crime_df["CASE_NUMBER"].isin(total_case_number)]])
 
         print(f"Lunghezza completo: {len(complete_df.index)}")
 
@@ -205,26 +260,76 @@ def create_dataset() -> pd.DataFrame:
     return complete_df
 
 
-def drop_dup_crimes_selected():
+def preprocess_crimes_dataset(extracted_crime_dataset: pd.DataFrame) -> pd.DataFrame:
     col_del = ['Block', 'IUCR',
                'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year',
                'Updated On', 'Location', 'ID', 'Date']
 
-    crime_selected: pd.DataFrame = pd.read_csv("crimes_selected.csv")
-    crime_selected = crime_selected.drop(col_del, axis=1)
-    crime_selected = crime_selected.drop_duplicates()
+    col_ren = {'Date': 'Date_Crime'}
+
+    extracted_crime_dataset = extracted_crime_dataset.drop(col_del, axis=1).drop_duplicates()
 
     # now the only wrong value is a duplicate with inconsistent Location
     # JA329470, there are two rows (one with value 'PORCH', one other with value 'STREET')
     # having checked in shoot dataset, the correct value is 'STREET'
-    wrong_index = (crime_selected["CASE_NUMBER"] == "JA329470") & (crime_selected["Location Description"] == 'PORCH')
-    crime_selected = crime_selected.drop(crime_selected.index[wrong_index], axis=0)
+    wrong_index = (extracted_crime_dataset["CASE_NUMBER"] == "JA329470") & (extracted_crime_dataset["Location Description"] == 'PORCH')
+    extracted_crime_dataset = extracted_crime_dataset.drop(extracted_crime_dataset.index[wrong_index], axis=0)
 
-    crime_selected.to_csv("crimes_selected.csv", index=False)
+    return extracted_crime_dataset
+
+
+def preprocess_arrest_dataset(extracted_arrest_dataset: pd.DataFrame) -> pd.DataFrame:
+    col_ren = {'RACE': 'criminal_race', 'CB_NO': 'ARREST_NUMBER'}
+
+    extracted_arrest_dataset.rename(columns=col_ren, inplace=True)
+
+    return extracted_arrest_dataset
+
+
+def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFrame:
+    col_del = ['VICTIMIZATION_IUCR_CD', 'UNIQUE_ID', 'COMMUNITY_AREA', 'VICTIMIZATION_FBI_DESCR',
+               'INCIDENT_FBI_DESCR', 'VICTIMIZATION_FBI_CD', 'INCIDENT_FBI_CD', 'VICTIMIZATION_IUCR_SECONDARY',
+               'INCIDENT_IUCR_SECONDARY', 'UPDATED', 'LATITUDE', 'LONGITUDE', 'LOCATION']
+
+    col_ren = {'DATE': 'DATE_SHOOT', 'RACE': 'victim_race'}
+
+    extracted_shoot_dataset.rename(columns=col_ren, inplace=True)
+    extracted_shoot_dataset = extracted_shoot_dataset.drop(col_del, axis=1)
+
+    return extracted_shoot_dataset
+
+def create_prolog_kb():
+    crimes_df = pd.read_csv(CLEAN_CRIME_PATH)
+    arrest_df = pd.read_csv(CLEAN_ARREST_PATH)
+    shoot_df = pd.read_csv(CLEAN_SHOOT_PATH)
+
+    with open("facts.pl", "w") as prologfile:
+
+        # insert data for crimes
+        for index, row in crimes_df.iterrows():
+            case_num = row['CASE_NUMBER']
+            facts = [f"location_description({case_num}, {row['Location Description']})",
+                     f"beat({case_num},{row['Beat']})",
+                     f"district({case_num},{row['District']})",
+                     f"comm_area({case_num},{row['Community Area']})",
+                     f"ward({case_num},{row['Ward']})"]
+            prologfile.writelines(".\n".join(facts) + ".\n")
+
 
 def main():
-    create_dataset()
-    adjust_features()
+    crime_codes = extract_crime_codes()
+    clean_crime_dataset: pd.DataFrame = preprocess_crimes_dataset(extract_crime_dataset(crime_codes))
+    clean_crime_dataset.to_csv(CLEAN_CRIME_PATH, index=False)
 
-main()
-drop_dup_crimes_selected()
+    clean_arrest_dataset: pd.DataFrame = preprocess_arrest_dataset(extract_arrest_dataset(crime_codes))
+    clean_arrest_dataset.to_csv(CLEAN_ARREST_PATH, index=False)
+
+    clean_shoot_dataset: pd.DataFrame = preprocess_shoot_dataset(extract_shoot_dataset(crime_codes))
+    clean_shoot_dataset.to_csv(CLEAN_SHOOT_PATH, index=False)
+
+    # create_dataset()
+    # adjust_features()
+
+
+#main()
+create_prolog_kb()
