@@ -337,7 +337,7 @@ def create_prolog_kb():
                      f"district({case_num},{row['District']})",
                      f"comm_area({case_num},{row['Community Area']})",
                      f"ward({case_num},{row['Ward']})",
-                     f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})."]
+                     f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})"]
 
             prologfile.writelines(".\n".join(facts) + ".\n")
 
