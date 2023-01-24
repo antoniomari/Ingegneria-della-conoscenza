@@ -80,7 +80,7 @@ def adjust_features():
                'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year',
                'Updated On', 'Location', 'MONTH', 'HOUR']
 
-    complete_crimes = pd.read_csv("complete_crimes.csv")
+    complete_crimes = pd.read_csv("../old source/complete_crimes.csv")
 
     complete_crimes.rename(columns=col_ren, inplace=True)
     complete_crimes = complete_crimes.drop(col_del, axis=1)
@@ -92,7 +92,7 @@ def adjust_features():
 
 
 def check_values_consistency():
-    complete_crimes = pd.read_csv("complete_crimes_adjust.csv")
+    complete_crimes = pd.read_csv("../old source/complete_crimes_adjust.csv")
     # check WARD
     diff_ward = complete_crimes[complete_crimes["WARD"] != complete_crimes["Ward"]]
     complete_crimes = complete_crimes.drop(["Ward"], axis=1)

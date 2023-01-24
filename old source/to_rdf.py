@@ -97,7 +97,7 @@ main()
 
 
 def create_graph():
-    crime_dataset: pd.DataFrame = pd.read_csv("crimes_selected.csv")
+    crime_dataset: pd.DataFrame = pd.read_csv("../source/crimes_selected.csv")
     g = rdflib.Graph()
 
     crime_ns = Namespace("urn:crime/")
