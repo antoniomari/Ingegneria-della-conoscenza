@@ -15257,12250 +15257,12250 @@ comm_area(jf502031,70.0).
 ward(jf502031,18.0).
 crime_date(jf502031, datime(date(2022, 12, 7, 20, 33, 0)))..
 has_arrest(hx327607, 18926144).
-crime_date(18926144, datime(date(2014, 7, 2, 0, 50, 0)))..
+crime_date(18926144, datime(date(2014, 7, 2, 0, 50, 0))).
 criminal_race(18926144,white_hispanic).
 num_of_charges(18926144, 4).
 has_arrest(hx288115, 18907366).
-crime_date(18907366, datime(date(2014, 6, 3, 13, 46, 0)))..
+crime_date(18907366, datime(date(2014, 6, 3, 13, 46, 0))).
 criminal_race(18907366,black).
 num_of_charges(18907366, 4).
 has_arrest(hx303294, 18915671).
-crime_date(18915671, datime(date(2014, 6, 16, 14, 12, 0)))..
+crime_date(18915671, datime(date(2014, 6, 16, 14, 12, 0))).
 criminal_race(18915671,black).
 num_of_charges(18915671, 4).
 has_arrest(hw430327, 18913804).
-crime_date(18913804, datime(date(2014, 6, 13, 14, 50, 0)))..
+crime_date(18913804, datime(date(2014, 6, 13, 14, 50, 0))).
 criminal_race(18913804,black).
 num_of_charges(18913804, 4).
 has_arrest(hx116936, 18924184).
-crime_date(18924184, datime(date(2014, 6, 29, 0, 10, 0)))..
+crime_date(18924184, datime(date(2014, 6, 29, 0, 10, 0))).
 criminal_race(18924184,black).
 num_of_charges(18924184, 4).
 has_arrest(hx322022, 18923644).
-crime_date(18923644, datime(date(2014, 6, 28, 2, 45, 0)))..
+crime_date(18923644, datime(date(2014, 6, 28, 2, 45, 0))).
 criminal_race(18923644,black).
 num_of_charges(18923644, 4).
 has_arrest(je181828, 30039896).
-crime_date(30039896, datime(date(2021, 3, 30, 12, 30, 0)))..
+crime_date(30039896, datime(date(2021, 3, 30, 12, 30, 0))).
 criminal_race(30039896,black).
 num_of_charges(30039896, 4).
 has_arrest(hx281278, 18921690).
-crime_date(18921690, datime(date(2014, 6, 25, 15, 0, 0)))..
+crime_date(18921690, datime(date(2014, 6, 25, 15, 0, 0))).
 criminal_race(18921690,black).
 num_of_charges(18921690, 4).
 has_arrest(hx321764, 18923538).
-crime_date(18923538, datime(date(2014, 6, 27, 22, 53, 0)))..
+crime_date(18923538, datime(date(2014, 6, 27, 22, 53, 0))).
 criminal_race(18923538,black).
 num_of_charges(18923538, 4).
 has_arrest(hx325591, 18925361).
-crime_date(18925361, datime(date(2014, 6, 30, 17, 30, 0)))..
+crime_date(18925361, datime(date(2014, 6, 30, 17, 30, 0))).
 criminal_race(18925361,black).
 num_of_charges(18925361, 4).
 has_arrest(hx314114, 18926309).
-crime_date(18926309, datime(date(2014, 7, 2, 11, 15, 0)))..
+crime_date(18926309, datime(date(2014, 7, 2, 11, 15, 0))).
 criminal_race(18926309,black).
 num_of_charges(18926309, 4).
 has_arrest(hx176463, 18923091).
-crime_date(18923091, datime(date(2014, 6, 27, 9, 45, 0)))..
+crime_date(18923091, datime(date(2014, 6, 27, 9, 45, 0))).
 criminal_race(18923091,white_hispanic).
 num_of_charges(18923091, 4).
 has_arrest(je266489, 30063153).
-crime_date(30063153, datime(date(2021, 6, 23, 8, 50, 0)))..
+crime_date(30063153, datime(date(2021, 6, 23, 8, 50, 0))).
 criminal_race(30063153,black).
 num_of_charges(30063153, 4).
 has_arrest(je276719, 30063233).
-crime_date(30063233, datime(date(2021, 6, 23, 12, 13, 0)))..
+crime_date(30063233, datime(date(2021, 6, 23, 12, 13, 0))).
 criminal_race(30063233,black).
 num_of_charges(30063233, 4).
 has_arrest(hx323230, 18926480).
-crime_date(18926480, datime(date(2014, 7, 2, 18, 0, 0)))..
+crime_date(18926480, datime(date(2014, 7, 2, 18, 0, 0))).
 criminal_race(18926480,white_hispanic).
 num_of_charges(18926480, 4).
 has_arrest(je388504, 30086138).
-crime_date(30086138, datime(date(2021, 9, 27, 0, 55, 0)))..
+crime_date(30086138, datime(date(2021, 9, 27, 0, 55, 0))).
 criminal_race(30086138,black).
 num_of_charges(30086138, 4).
 has_arrest(hx307202, 18922548).
-crime_date(18922548, datime(date(2014, 6, 26, 19, 32, 0)))..
+crime_date(18922548, datime(date(2014, 6, 26, 19, 32, 0))).
 criminal_race(18922548,white_hispanic).
 num_of_charges(18922548, 4).
 has_arrest(je389276, 30086258).
-crime_date(30086258, datime(date(2021, 9, 27, 15, 57, 0)))..
+crime_date(30086258, datime(date(2021, 9, 27, 15, 57, 0))).
 criminal_race(30086258,white_hispanic).
 num_of_charges(30086258, 4).
 has_arrest(hx317062, 18925332).
-crime_date(18925332, datime(date(2014, 6, 30, 18, 5, 0)))..
+crime_date(18925332, datime(date(2014, 6, 30, 18, 5, 0))).
 criminal_race(18925332,black).
 num_of_charges(18925332, 4).
 has_arrest(je147801, 30040205).
-crime_date(30040205, datime(date(2021, 3, 31, 18, 30, 0)))..
+crime_date(30040205, datime(date(2021, 3, 31, 18, 30, 0))).
 criminal_race(30040205,black).
 num_of_charges(30040205, 4).
 has_arrest(hx315796, 18926249).
-crime_date(18926249, datime(date(2014, 7, 2, 10, 20, 0)))..
+crime_date(18926249, datime(date(2014, 7, 2, 10, 20, 0))).
 criminal_race(18926249,black).
 num_of_charges(18926249, 4).
 has_arrest(jb441125, 19704816).
-crime_date(19704816, datime(date(2018, 9, 18, 19, 12, 0)))..
+crime_date(19704816, datime(date(2018, 9, 18, 19, 12, 0))).
 criminal_race(19704816,white_hispanic).
 num_of_charges(19704816, 4).
 has_arrest(hx217334, 18906950).
-crime_date(18906950, datime(date(2014, 6, 3, 10, 14, 0)))..
+crime_date(18906950, datime(date(2014, 6, 3, 10, 14, 0))).
 criminal_race(18906950,black).
 num_of_charges(18906950, 4).
 has_arrest(hx327719, 18926437).
-crime_date(18926437, datime(date(2014, 7, 2, 15, 0, 0)))..
+crime_date(18926437, datime(date(2014, 7, 2, 15, 0, 0))).
 criminal_race(18926437,white_hispanic).
 num_of_charges(18926437, 4).
 has_arrest(je185681, 30040433).
-crime_date(30040433, datime(date(2021, 4, 1, 1, 44, 0)))..
+crime_date(30040433, datime(date(2021, 4, 1, 1, 44, 0))).
 criminal_race(30040433,black).
 num_of_charges(30040433, 4).
 has_arrest(jd302372, 30063484).
-crime_date(30063484, datime(date(2021, 6, 24, 14, 34, 0)))..
+crime_date(30063484, datime(date(2021, 6, 24, 14, 34, 0))).
 criminal_race(30063484,black).
 num_of_charges(30063484, 4).
 has_arrest(je404573, 30089474).
-crime_date(30089474, datime(date(2021, 10, 10, 19, 0, 0)))..
+crime_date(30089474, datime(date(2021, 10, 10, 19, 0, 0))).
 criminal_race(30089474,black).
 num_of_charges(30089474, 4).
 has_arrest(hx207408, 18920878).
-crime_date(18920878, datime(date(2014, 6, 24, 9, 20, 0)))..
+crime_date(18920878, datime(date(2014, 6, 24, 9, 20, 0))).
 criminal_race(18920878,black).
 num_of_charges(18920878, 4).
 has_arrest(je189401, 30053481).
-crime_date(30053481, datime(date(2021, 5, 20, 13, 45, 0)))..
+crime_date(30053481, datime(date(2021, 5, 20, 13, 45, 0))).
 criminal_race(30053481,black).
 num_of_charges(30053481, 4).
 has_arrest(hw343994, 18925513).
-crime_date(18925513, datime(date(2014, 7, 1, 9, 45, 0)))..
+crime_date(18925513, datime(date(2014, 7, 1, 9, 45, 0))).
 criminal_race(18925513,black).
 num_of_charges(18925513, 4).
 has_arrest(je272197, 30063475).
-crime_date(30063475, datime(date(2021, 6, 24, 14, 5, 0)))..
+crime_date(30063475, datime(date(2021, 6, 24, 14, 5, 0))).
 criminal_race(30063475,white_hispanic).
 num_of_charges(30063475, 4).
 has_arrest(hw481838, 18912149).
-crime_date(18912149, datime(date(2014, 6, 11, 9, 5, 0)))..
+crime_date(18912149, datime(date(2014, 6, 11, 9, 5, 0))).
 criminal_race(18912149,black).
 num_of_charges(18912149, 4).
 has_arrest(hv213223, 18911780).
-crime_date(18911780, datime(date(2014, 6, 10, 13, 31, 0)))..
+crime_date(18911780, datime(date(2014, 6, 10, 13, 31, 0))).
 criminal_race(18911780,black).
 num_of_charges(18911780, 4).
 has_arrest(hx300941, 18916254).
-crime_date(18916254, datime(date(2014, 6, 17, 11, 50, 0)))..
+crime_date(18916254, datime(date(2014, 6, 17, 11, 50, 0))).
 criminal_race(18916254,white_hispanic).
 num_of_charges(18916254, 4).
 has_arrest(hx288115, 18918314).
-crime_date(18918314, datime(date(2014, 6, 20, 13, 20, 0)))..
+crime_date(18918314, datime(date(2014, 6, 20, 13, 20, 0))).
 criminal_race(18918314,black).
 num_of_charges(18918314, 4).
 has_arrest(hx327719, 18926415).
-crime_date(18926415, datime(date(2014, 7, 2, 15, 0, 0)))..
+crime_date(18926415, datime(date(2014, 7, 2, 15, 0, 0))).
 criminal_race(18926415,white_hispanic).
 num_of_charges(18926415, 4).
 has_arrest(hx293348, 18909753).
-crime_date(18909753, datime(date(2014, 6, 7, 4, 40, 0)))..
+crime_date(18909753, datime(date(2014, 6, 7, 4, 40, 0))).
 criminal_race(18909753,black).
 num_of_charges(18909753, 4).
 has_arrest(jd440137, 30040475).
-crime_date(30040475, datime(date(2021, 4, 1, 11, 0, 0)))..
+crime_date(30040475, datime(date(2021, 4, 1, 11, 0, 0))).
 criminal_race(30040475,black).
 num_of_charges(30040475, 4).
 has_arrest(je186692, 30040683).
-crime_date(30040683, datime(date(2021, 4, 1, 22, 1, 0)))..
+crime_date(30040683, datime(date(2021, 4, 1, 22, 1, 0))).
 criminal_race(30040683,black).
 num_of_charges(30040683, 4).
 has_arrest(hx285750, 18906133).
-crime_date(18906133, datime(date(2014, 6, 1, 20, 47, 0)))..
+crime_date(18906133, datime(date(2014, 6, 1, 20, 47, 0))).
 criminal_race(18906133,black).
 num_of_charges(18906133, 4).
 has_arrest(je156432, 30040568).
-crime_date(30040568, datime(date(2021, 4, 1, 14, 30, 0)))..
+crime_date(30040568, datime(date(2021, 4, 1, 14, 30, 0))).
 criminal_race(30040568,black).
 num_of_charges(30040568, 4).
 has_arrest(hw481838, 18913283).
-crime_date(18913283, datime(date(2014, 6, 12, 20, 8, 0)))..
+crime_date(18913283, datime(date(2014, 6, 12, 20, 8, 0))).
 criminal_race(18913283,black).
 num_of_charges(18913283, 4).
 has_arrest(hx318026, 18924035).
-crime_date(18924035, datime(date(2014, 6, 28, 20, 29, 0)))..
+crime_date(18924035, datime(date(2014, 6, 28, 20, 29, 0))).
 criminal_race(18924035,black).
 num_of_charges(18924035, 4).
 has_arrest(hx213100, 18912523).
-crime_date(18912523, datime(date(2014, 6, 11, 11, 0, 0)))..
+crime_date(18912523, datime(date(2014, 6, 11, 11, 0, 0))).
 criminal_race(18912523,black).
 num_of_charges(18912523, 4).
 has_arrest(je272078, 30063500).
-crime_date(30063500, datime(date(2021, 6, 24, 15, 58, 0)))..
+crime_date(30063500, datime(date(2021, 6, 24, 15, 58, 0))).
 criminal_race(30063500,black).
 num_of_charges(30063500, 4).
 has_arrest(hx285750, 18906142).
-crime_date(18906142, datime(date(2014, 6, 1, 20, 20, 0)))..
+crime_date(18906142, datime(date(2014, 6, 1, 20, 20, 0))).
 criminal_race(18906142,black).
 num_of_charges(18906142, 4).
 has_arrest(hx308110, 18926387).
-crime_date(18926387, datime(date(2014, 7, 2, 14, 30, 0)))..
+crime_date(18926387, datime(date(2014, 7, 2, 14, 30, 0))).
 criminal_race(18926387,black).
 num_of_charges(18926387, 4).
 has_arrest(hx322075, 18923717).
-crime_date(18923717, datime(date(2014, 6, 28, 6, 22, 0)))..
+crime_date(18923717, datime(date(2014, 6, 28, 6, 22, 0))).
 criminal_race(18923717,white_hispanic).
 num_of_charges(18923717, 4).
 has_arrest(hx297618, 18914400).
-crime_date(18914400, datime(date(2014, 6, 14, 13, 10, 0)))..
+crime_date(18914400, datime(date(2014, 6, 14, 13, 10, 0))).
 criminal_race(18914400,white_hispanic).
 num_of_charges(18914400, 4).
 has_arrest(hx294012, 18910062).
-crime_date(18910062, datime(date(2014, 6, 7, 18, 41, 0)))..
+crime_date(18910062, datime(date(2014, 6, 7, 18, 41, 0))).
 criminal_race(18910062,black).
 num_of_charges(18910062, 4).
 has_arrest(hx303329, 18914492).
-crime_date(18914492, datime(date(2014, 6, 14, 17, 0, 0)))..
+crime_date(18914492, datime(date(2014, 6, 14, 17, 0, 0))).
 criminal_race(18914492,black).
 num_of_charges(18914492, 4).
 has_arrest(je185470, 30040866).
-crime_date(30040866, datime(date(2021, 4, 2, 18, 3, 0)))..
+crime_date(30040866, datime(date(2021, 4, 2, 18, 3, 0))).
 criminal_race(30040866,white_hispanic).
 num_of_charges(30040866, 4).
 has_arrest(hx158889, 18907097).
-crime_date(18907097, datime(date(2014, 6, 3, 14, 0, 0)))..
+crime_date(18907097, datime(date(2014, 6, 3, 14, 0, 0))).
 criminal_race(18907097,black).
 num_of_charges(18907097, 4).
 has_arrest(hx255335, 18923429).
-crime_date(18923429, datime(date(2014, 6, 27, 22, 43, 0)))..
+crime_date(18923429, datime(date(2014, 6, 27, 22, 43, 0))).
 criminal_race(18923429,black).
 num_of_charges(18923429, 4).
 has_arrest(hx319825, 18922920).
-crime_date(18922920, datime(date(2014, 6, 27, 10, 52, 0)))..
+crime_date(18922920, datime(date(2014, 6, 27, 10, 52, 0))).
 criminal_race(18922920,black).
 num_of_charges(18922920, 4).
 has_arrest(hx239937, 18936755).
-crime_date(18936755, datime(date(2014, 7, 17, 17, 45, 0)))..
+crime_date(18936755, datime(date(2014, 7, 17, 17, 45, 0))).
 criminal_race(18936755,white_hispanic).
 num_of_charges(18936755, 4).
 has_arrest(hw471141, 18947218).
-crime_date(18947218, datime(date(2014, 8, 2, 10, 55, 0)))..
+crime_date(18947218, datime(date(2014, 8, 2, 10, 55, 0))).
 criminal_race(18947218,black).
 num_of_charges(18947218, 4).
 has_arrest(je279325, 30063727).
-crime_date(30063727, datime(date(2021, 6, 25, 16, 32, 0)))..
+crime_date(30063727, datime(date(2021, 6, 25, 16, 32, 0))).
 criminal_race(30063727,white).
 num_of_charges(30063727, 4).
 has_arrest(hx338489, 18931908).
-crime_date(18931908, datime(date(2014, 7, 10, 18, 0, 0)))..
+crime_date(18931908, datime(date(2014, 7, 10, 18, 0, 0))).
 criminal_race(18931908,white_hispanic).
 num_of_charges(18931908, 4).
 has_arrest(je178815, 30041122).
-crime_date(30041122, datime(date(2021, 4, 3, 14, 37, 0)))..
+crime_date(30041122, datime(date(2021, 4, 3, 14, 37, 0))).
 criminal_race(30041122,white_hispanic).
 num_of_charges(30041122, 4).
 has_arrest(hx339887, 18932056).
-crime_date(18932056, datime(date(2014, 7, 10, 20, 59, 0)))..
+crime_date(18932056, datime(date(2014, 7, 10, 20, 59, 0))).
 criminal_race(18932056,black).
 num_of_charges(18932056, 4).
 has_arrest(hx355082, 18939662).
-crime_date(18939662, datime(date(2014, 7, 22, 2, 8, 0)))..
+crime_date(18939662, datime(date(2014, 7, 22, 2, 8, 0))).
 criminal_race(18939662,white_hispanic).
 num_of_charges(18939662, 4).
 has_arrest(je279537, 30063774).
-crime_date(30063774, datime(date(2021, 6, 25, 21, 14, 0)))..
+crime_date(30063774, datime(date(2021, 6, 25, 21, 14, 0))).
 criminal_race(30063774,black).
 num_of_charges(30063774, 4).
 has_arrest(hx324632, 18931727).
-crime_date(18931727, datime(date(2014, 7, 10, 13, 15, 0)))..
+crime_date(18931727, datime(date(2014, 7, 10, 13, 15, 0))).
 criminal_race(18931727,black).
 num_of_charges(18931727, 4).
 has_arrest(jc170829, 30063780).
-crime_date(30063780, datime(date(2021, 6, 25, 21, 15, 0)))..
+crime_date(30063780, datime(date(2021, 6, 25, 21, 15, 0))).
 criminal_race(30063780,white).
 num_of_charges(30063780, 4).
 has_arrest(hx350571, 18937281).
-crime_date(18937281, datime(date(2014, 7, 18, 18, 53, 0)))..
+crime_date(18937281, datime(date(2014, 7, 18, 18, 53, 0))).
 criminal_race(18937281,white_hispanic).
 num_of_charges(18937281, 4).
 has_arrest(hw459159, 18945298).
-crime_date(18945298, datime(date(2014, 7, 30, 11, 30, 0)))..
+crime_date(18945298, datime(date(2014, 7, 30, 11, 30, 0))).
 criminal_race(18945298,black).
 num_of_charges(18945298, 4).
 has_arrest(hx281542, 18938585).
-crime_date(18938585, datime(date(2014, 7, 20, 15, 6, 0)))..
+crime_date(18938585, datime(date(2014, 7, 20, 15, 6, 0))).
 criminal_race(18938585,black).
 num_of_charges(18938585, 4).
 has_arrest(hx350804, 18940502).
-crime_date(18940502, datime(date(2014, 7, 22, 17, 0, 0)))..
+crime_date(18940502, datime(date(2014, 7, 22, 17, 0, 0))).
 criminal_race(18940502,black).
 num_of_charges(18940502, 4).
 has_arrest(hx370498, 18947064).
-crime_date(18947064, datime(date(2014, 8, 2, 1, 0, 0)))..
+crime_date(18947064, datime(date(2014, 8, 2, 1, 0, 0))).
 criminal_race(18947064,white_hispanic).
 num_of_charges(18947064, 4).
 has_arrest(je188958, 30041286).
-crime_date(30041286, datime(date(2021, 4, 4, 8, 30, 0)))..
+crime_date(30041286, datime(date(2021, 4, 4, 8, 30, 0))).
 criminal_race(30041286,black).
 num_of_charges(30041286, 4).
 has_arrest(hx342288, 18933325).
-crime_date(18933325, datime(date(2014, 7, 12, 15, 43, 0)))..
+crime_date(18933325, datime(date(2014, 7, 12, 15, 43, 0))).
 criminal_race(18933325,black).
 num_of_charges(18933325, 4).
 has_arrest(hw192261, 18941122).
-crime_date(18941122, datime(date(2014, 7, 24, 11, 15, 0)))..
+crime_date(18941122, datime(date(2014, 7, 24, 11, 15, 0))).
 criminal_race(18941122,black).
 num_of_charges(18941122, 4).
 has_arrest(hx367129, 18945318).
-crime_date(18945318, datime(date(2014, 7, 30, 19, 30, 0)))..
+crime_date(18945318, datime(date(2014, 7, 30, 19, 30, 0))).
 criminal_race(18945318,black).
 num_of_charges(18945318, 4).
 has_arrest(hx320241, 18936500).
-crime_date(18936500, datime(date(2014, 7, 17, 18, 21, 0)))..
+crime_date(18936500, datime(date(2014, 7, 17, 18, 21, 0))).
 criminal_race(18936500,black).
 num_of_charges(18936500, 4).
 has_arrest(hx362083, 18948677).
-crime_date(18948677, datime(date(2014, 8, 4, 17, 25, 0)))..
+crime_date(18948677, datime(date(2014, 8, 4, 17, 25, 0))).
 criminal_race(18948677,white_hispanic).
 num_of_charges(18948677, 4).
 has_arrest(hv350140, 18934219).
-crime_date(18934219, datime(date(2014, 7, 14, 10, 15, 0)))..
+crime_date(18934219, datime(date(2014, 7, 14, 10, 15, 0))).
 criminal_race(18934219,black).
 num_of_charges(18934219, 4).
 has_arrest(hx363080, 18943614).
-crime_date(18943614, datime(date(2014, 7, 27, 21, 36, 0)))..
+crime_date(18943614, datime(date(2014, 7, 27, 21, 36, 0))).
 criminal_race(18943614,black).
 num_of_charges(18943614, 4).
 has_arrest(hx247733, 18930328).
-crime_date(18930328, datime(date(2014, 7, 8, 10, 35, 0)))..
+crime_date(18930328, datime(date(2014, 7, 8, 10, 35, 0))).
 criminal_race(18930328,black).
 num_of_charges(18930328, 4).
 has_arrest(hx338640, 18931489).
-crime_date(18931489, datime(date(2014, 7, 9, 22, 22, 0)))..
+crime_date(18931489, datime(date(2014, 7, 9, 22, 22, 0))).
 criminal_race(18931489,black).
 num_of_charges(18931489, 4).
 has_arrest(je279836, 30063904).
-crime_date(30063904, datime(date(2021, 6, 26, 6, 0, 0)))..
+crime_date(30063904, datime(date(2021, 6, 26, 6, 0, 0))).
 criminal_race(30063904,black).
 num_of_charges(30063904, 4).
 has_arrest(hx360472, 18942474).
-crime_date(18942474, datime(date(2014, 7, 25, 22, 48, 0)))..
+crime_date(18942474, datime(date(2014, 7, 25, 22, 48, 0))).
 criminal_race(18942474,white_hispanic).
 num_of_charges(18942474, 4).
 has_arrest(hx343821, 18934175).
-crime_date(18934175, datime(date(2014, 7, 14, 5, 25, 0)))..
+crime_date(18934175, datime(date(2014, 7, 14, 5, 25, 0))).
 criminal_race(18934175,black).
 num_of_charges(18934175, 4).
 has_arrest(jf100102, 30108345).
-crime_date(30108345, datime(date(2022, 1, 1, 2, 30, 0)))..
+crime_date(30108345, datime(date(2022, 1, 1, 2, 30, 0))).
 criminal_race(30108345,black).
 num_of_charges(30108345, 4).
 has_arrest(hw529757, 18943920).
-crime_date(18943920, datime(date(2014, 7, 28, 16, 25, 0)))..
+crime_date(18943920, datime(date(2014, 7, 28, 16, 25, 0))).
 criminal_race(18943920,black).
 num_of_charges(18943920, 4).
 has_arrest(jd375982, 30041859).
-crime_date(30041859, datime(date(2021, 4, 6, 13, 45, 0)))..
+crime_date(30041859, datime(date(2021, 4, 6, 13, 45, 0))).
 criminal_race(30041859,black).
 num_of_charges(30041859, 4).
 has_arrest(hx341165, 18932808).
-crime_date(18932808, datime(date(2014, 7, 11, 23, 30, 0)))..
+crime_date(18932808, datime(date(2014, 7, 11, 23, 30, 0))).
 criminal_race(18932808,black).
 num_of_charges(18932808, 4).
 has_arrest(je190809, 30041760).
-crime_date(30041760, datime(date(2021, 4, 6, 4, 12, 0)))..
+crime_date(30041760, datime(date(2021, 4, 6, 4, 12, 0))).
 criminal_race(30041760,black).
 num_of_charges(30041760, 4).
 has_arrest(je191019, 30041879).
-crime_date(30041879, datime(date(2021, 4, 6, 11, 36, 0)))..
+crime_date(30041879, datime(date(2021, 4, 6, 11, 36, 0))).
 criminal_race(30041879,black).
 num_of_charges(30041879, 4).
 has_arrest(hx334293, 18944044).
-crime_date(18944044, datime(date(2014, 7, 28, 19, 20, 0)))..
+crime_date(18944044, datime(date(2014, 7, 28, 19, 20, 0))).
 criminal_race(18944044,black).
 num_of_charges(18944044, 4).
 has_arrest(hx324349, 18928610).
-crime_date(18928610, datime(date(2014, 7, 5, 19, 45, 0)))..
+crime_date(18928610, datime(date(2014, 7, 5, 19, 45, 0))).
 criminal_race(18928610,black).
 num_of_charges(18928610, 4).
 has_arrest(hx305149, 18939933).
-crime_date(18939933, datime(date(2014, 7, 22, 17, 55, 0)))..
+crime_date(18939933, datime(date(2014, 7, 22, 17, 55, 0))).
 criminal_race(18939933,black).
 num_of_charges(18939933, 4).
 has_arrest(hx280665, 18931980).
-crime_date(18931980, datime(date(2014, 7, 10, 19, 42, 0)))..
+crime_date(18931980, datime(date(2014, 7, 10, 19, 42, 0))).
 criminal_race(18931980,black).
 num_of_charges(18931980, 4).
 has_arrest(hx280665, 18931814).
-crime_date(18931814, datime(date(2014, 7, 10, 15, 40, 0)))..
+crime_date(18931814, datime(date(2014, 7, 10, 15, 40, 0))).
 criminal_race(18931814,black).
 num_of_charges(18931814, 4).
 has_arrest(hx341165, 18932806).
-crime_date(18932806, datime(date(2014, 7, 11, 23, 30, 0)))..
+crime_date(18932806, datime(date(2014, 7, 11, 23, 30, 0))).
 criminal_race(18932806,black).
 num_of_charges(18932806, 4).
 has_arrest(hx212376, 18939842).
-crime_date(18939842, datime(date(2014, 7, 22, 13, 0, 0)))..
+crime_date(18939842, datime(date(2014, 7, 22, 13, 0, 0))).
 criminal_race(18939842,black).
 num_of_charges(18939842, 4).
 has_arrest(hx355082, 18939656).
-crime_date(18939656, datime(date(2014, 7, 22, 2, 5, 0)))..
+crime_date(18939656, datime(date(2014, 7, 22, 2, 5, 0))).
 criminal_race(18939656,white_hispanic).
 num_of_charges(18939656, 4).
 has_arrest(hx361872, 18950129).
-crime_date(18950129, datime(date(2014, 8, 6, 21, 0, 0)))..
+crime_date(18950129, datime(date(2014, 8, 6, 21, 0, 0))).
 criminal_race(18950129,white_hispanic).
 num_of_charges(18950129, 4).
 has_arrest(je233110, 30052712).
-crime_date(30052712, datime(date(2021, 5, 17, 18, 2, 0)))..
+crime_date(30052712, datime(date(2021, 5, 17, 18, 2, 0))).
 criminal_race(30052712,black).
 num_of_charges(30052712, 4).
 has_arrest(hx331572, 18928263).
-crime_date(18928263, datime(date(2014, 7, 5, 5, 23, 0)))..
+crime_date(18928263, datime(date(2014, 7, 5, 5, 23, 0))).
 criminal_race(18928263,black).
 num_of_charges(18928263, 4).
 has_arrest(hx281542, 18939864).
-crime_date(18939864, datime(date(2014, 7, 22, 12, 40, 0)))..
+crime_date(18939864, datime(date(2014, 7, 22, 12, 40, 0))).
 criminal_race(18939864,black).
 num_of_charges(18939864, 4).
 has_arrest(je176867, 30042241).
-crime_date(30042241, datime(date(2021, 4, 7, 14, 55, 0)))..
+crime_date(30042241, datime(date(2021, 4, 7, 14, 55, 0))).
 criminal_race(30042241,black).
 num_of_charges(30042241, 4).
 has_arrest(hx327719, 18936262).
-crime_date(18936262, datime(date(2014, 7, 17, 9, 55, 0)))..
+crime_date(18936262, datime(date(2014, 7, 17, 9, 55, 0))).
 criminal_race(18936262,white_hispanic).
 num_of_charges(18936262, 4).
 has_arrest(hx352495, 18954598).
-crime_date(18954598, datime(date(2014, 8, 13, 16, 30, 0)))..
+crime_date(18954598, datime(date(2014, 8, 13, 16, 30, 0))).
 criminal_race(18954598,black).
 num_of_charges(18954598, 4).
 has_arrest(je282655, 30064526).
-crime_date(30064526, datime(date(2021, 6, 28, 20, 0, 0)))..
+crime_date(30064526, datime(date(2021, 6, 28, 20, 0, 0))).
 criminal_race(30064526,black).
 num_of_charges(30064526, 4).
 has_arrest(jf100010, 30108253).
-crime_date(30108253, datime(date(2022, 1, 1, 0, 50, 0)))..
+crime_date(30108253, datime(date(2022, 1, 1, 0, 50, 0))).
 criminal_race(30108253,black).
 num_of_charges(30108253, 4).
 has_arrest(hx324349, 18962257).
-crime_date(18962257, datime(date(2014, 8, 25, 13, 49, 0)))..
+crime_date(18962257, datime(date(2014, 8, 25, 13, 49, 0))).
 criminal_race(18962257,black).
 num_of_charges(18962257, 4).
 has_arrest(hw576296, 18950441).
-crime_date(18950441, datime(date(2014, 8, 7, 9, 15, 0)))..
+crime_date(18950441, datime(date(2014, 8, 7, 9, 15, 0))).
 criminal_race(18950441,black).
 num_of_charges(18950441, 4).
 has_arrest(hw192261, 18961625).
-crime_date(18961625, datime(date(2014, 8, 24, 13, 55, 0)))..
+crime_date(18961625, datime(date(2014, 8, 24, 13, 55, 0))).
 criminal_race(18961625,black).
 num_of_charges(18961625, 4).
 has_arrest(hw468490, 18959685).
-crime_date(18959685, datime(date(2014, 8, 21, 12, 40, 0)))..
+crime_date(18959685, datime(date(2014, 8, 21, 12, 40, 0))).
 criminal_race(18959685,black).
 num_of_charges(18959685, 4).
 has_arrest(hx416536, 18969518).
-crime_date(18969518, datime(date(2014, 9, 5, 12, 49, 0)))..
+crime_date(18969518, datime(date(2014, 9, 5, 12, 49, 0))).
 criminal_race(18969518,white_hispanic).
 num_of_charges(18969518, 4).
 has_arrest(hx371889, 18961254).
-crime_date(18961254, datime(date(2014, 8, 23, 22, 35, 0)))..
+crime_date(18961254, datime(date(2014, 8, 23, 22, 35, 0))).
 criminal_race(18961254,black).
 num_of_charges(18961254, 4).
 has_arrest(hw431623, 18958280).
-crime_date(18958280, datime(date(2014, 8, 19, 5, 7, 0)))..
+crime_date(18958280, datime(date(2014, 8, 19, 5, 7, 0))).
 criminal_race(18958280,black).
 num_of_charges(18958280, 4).
 has_arrest(hw468490, 18959625).
-crime_date(18959625, datime(date(2014, 8, 20, 17, 15, 0)))..
+crime_date(18959625, datime(date(2014, 8, 20, 17, 15, 0))).
 criminal_race(18959625,black).
 num_of_charges(18959625, 4).
 has_arrest(hx382008, 18952725).
-crime_date(18952725, datime(date(2014, 8, 10, 15, 39, 0)))..
+crime_date(18952725, datime(date(2014, 8, 10, 15, 39, 0))).
 criminal_race(18952725,black).
 num_of_charges(18952725, 4).
 has_arrest(hx405874, 18967538).
-crime_date(18967538, datime(date(2014, 9, 2, 14, 11, 0)))..
+crime_date(18967538, datime(date(2014, 9, 2, 14, 11, 0))).
 criminal_race(18967538,black).
 num_of_charges(18967538, 4).
 has_arrest(hw431623, 18958641).
-crime_date(18958641, datime(date(2014, 8, 19, 19, 46, 0)))..
+crime_date(18958641, datime(date(2014, 8, 19, 19, 46, 0))).
 criminal_race(18958641,black).
 num_of_charges(18958641, 4).
 has_arrest(hx368916, 18955147).
-crime_date(18955147, datime(date(2014, 8, 14, 11, 18, 0)))..
+crime_date(18955147, datime(date(2014, 8, 14, 11, 18, 0))).
 criminal_race(18955147,black).
 num_of_charges(18955147, 4).
 has_arrest(hx334293, 18964354).
-crime_date(18964354, datime(date(2014, 8, 28, 17, 0, 0)))..
+crime_date(18964354, datime(date(2014, 8, 28, 17, 0, 0))).
 criminal_race(18964354,black).
 num_of_charges(18964354, 4).
 has_arrest(je266324, 30086895).
-crime_date(30086895, datime(date(2021, 9, 30, 9, 0, 0)))..
+crime_date(30086895, datime(date(2021, 9, 30, 9, 0, 0))).
 criminal_race(30086895,black).
 num_of_charges(30086895, 4).
 has_arrest(hx368965, 18950581).
-crime_date(18950581, datime(date(2014, 8, 7, 15, 0, 0)))..
+crime_date(18950581, datime(date(2014, 8, 7, 15, 0, 0))).
 criminal_race(18950581,black).
 num_of_charges(18950581, 4).
 has_arrest(hx400756, 18961737).
-crime_date(18961737, datime(date(2014, 8, 24, 15, 45, 0)))..
+crime_date(18961737, datime(date(2014, 8, 24, 15, 45, 0))).
 criminal_race(18961737,black).
 num_of_charges(18961737, 4).
 has_arrest(hx386494, 18955820).
-crime_date(18955820, datime(date(2014, 8, 15, 11, 58, 0)))..
+crime_date(18955820, datime(date(2014, 8, 15, 11, 58, 0))).
 criminal_race(18955820,black).
 num_of_charges(18955820, 4).
 has_arrest(hx404725, 18963728).
-crime_date(18963728, datime(date(2014, 8, 27, 16, 50, 0)))..
+crime_date(18963728, datime(date(2014, 8, 27, 16, 50, 0))).
 criminal_race(18963728,black).
 num_of_charges(18963728, 4).
 has_arrest(hx179976, 18967597).
-crime_date(18967597, datime(date(2014, 9, 2, 15, 25, 0)))..
+crime_date(18967597, datime(date(2014, 9, 2, 15, 25, 0))).
 criminal_race(18967597,white).
 num_of_charges(18967597, 4).
 has_arrest(hx315119, 18953245).
-crime_date(18953245, datime(date(2014, 8, 11, 13, 30, 0)))..
+crime_date(18953245, datime(date(2014, 8, 11, 13, 30, 0))).
 criminal_race(18953245,black).
 num_of_charges(18953245, 4).
 has_arrest(hx332945, 18957898).
-crime_date(18957898, datime(date(2014, 8, 18, 16, 40, 0)))..
+crime_date(18957898, datime(date(2014, 8, 18, 16, 40, 0))).
 criminal_race(18957898,black).
 num_of_charges(18957898, 4).
 has_arrest(jf414709, 30181417).
-crime_date(30181417, datime(date(2022, 9, 29, 1, 32, 0)))..
+crime_date(30181417, datime(date(2022, 9, 29, 1, 32, 0))).
 criminal_race(30181417,black).
 num_of_charges(30181417, 4).
 has_arrest(hv436957, 18953725).
-crime_date(18953725, datime(date(2014, 8, 12, 8, 50, 0)))..
+crime_date(18953725, datime(date(2014, 8, 12, 8, 50, 0))).
 criminal_race(18953725,white_hispanic).
 num_of_charges(18953725, 4).
 has_arrest(hx400756, 18961727).
-crime_date(18961727, datime(date(2014, 8, 24, 15, 45, 0)))..
+crime_date(18961727, datime(date(2014, 8, 24, 15, 45, 0))).
 criminal_race(18961727,black).
 num_of_charges(18961727, 4).
 has_arrest(hx383118, 18953344).
-crime_date(18953344, datime(date(2014, 8, 11, 13, 54, 0)))..
+crime_date(18953344, datime(date(2014, 8, 11, 13, 54, 0))).
 criminal_race(18953344,black).
 num_of_charges(18953344, 4).
 has_arrest(hx397278, 18959994).
-crime_date(18959994, datime(date(2014, 8, 21, 22, 30, 0)))..
+crime_date(18959994, datime(date(2014, 8, 21, 22, 30, 0))).
 criminal_race(18959994,black).
 num_of_charges(18959994, 4).
 has_arrest(hx417291, 18970138).
-crime_date(18970138, datime(date(2014, 9, 6, 1, 40, 0)))..
+crime_date(18970138, datime(date(2014, 9, 6, 1, 40, 0))).
 criminal_race(18970138,white).
 num_of_charges(18970138, 4).
 has_arrest(hx389533, 18956409).
-crime_date(18956409, datime(date(2014, 8, 16, 3, 30, 0)))..
+crime_date(18956409, datime(date(2014, 8, 16, 3, 30, 0))).
 criminal_race(18956409,white_hispanic).
 num_of_charges(18956409, 4).
 has_arrest(hx255335, 18964890).
-crime_date(18964890, datime(date(2014, 8, 29, 13, 30, 0)))..
+crime_date(18964890, datime(date(2014, 8, 29, 13, 30, 0))).
 criminal_race(18964890,black).
 num_of_charges(18964890, 4).
 has_arrest(hx417291, 18970100).
-crime_date(18970100, datime(date(2014, 9, 6, 3, 4, 0)))..
+crime_date(18970100, datime(date(2014, 9, 6, 3, 4, 0))).
 criminal_race(18970100,white).
 num_of_charges(18970100, 4).
 has_arrest(hx394073, 18958545).
-crime_date(18958545, datime(date(2014, 8, 19, 16, 0, 0)))..
+crime_date(18958545, datime(date(2014, 8, 19, 16, 0, 0))).
 criminal_race(18958545,black).
 num_of_charges(18958545, 4).
 has_arrest(hx414391, 18972499).
-crime_date(18972499, datime(date(2014, 9, 10, 10, 20, 0)))..
+crime_date(18972499, datime(date(2014, 9, 10, 10, 20, 0))).
 criminal_race(18972499,black).
 num_of_charges(18972499, 4).
 has_arrest(je197265, 30043562).
-crime_date(30043562, datime(date(2021, 4, 12, 14, 45, 0)))..
+crime_date(30043562, datime(date(2021, 4, 12, 14, 45, 0))).
 criminal_race(30043562,black).
 num_of_charges(30043562, 4).
 has_arrest(je173689, 30043461).
-crime_date(30043461, datime(date(2021, 4, 12, 8, 40, 0)))..
+crime_date(30043461, datime(date(2021, 4, 12, 8, 40, 0))).
 criminal_race(30043461,black).
 num_of_charges(30043461, 4).
 has_arrest(hx380483, 18967438).
-crime_date(18967438, datime(date(2014, 9, 2, 11, 34, 0)))..
+crime_date(18967438, datime(date(2014, 9, 2, 11, 34, 0))).
 criminal_race(18967438,white_hispanic).
 num_of_charges(18967438, 4).
 has_arrest(hx382970, 18953345).
-crime_date(18953345, datime(date(2014, 8, 11, 15, 20, 0)))..
+crime_date(18953345, datime(date(2014, 8, 11, 15, 20, 0))).
 criminal_race(18953345,white_hispanic).
 num_of_charges(18953345, 4).
 has_arrest(hx404187, 18966187).
-crime_date(18966187, datime(date(2014, 8, 31, 10, 15, 0)))..
+crime_date(18966187, datime(date(2014, 8, 31, 10, 15, 0))).
 criminal_race(18966187,white_hispanic).
 num_of_charges(18966187, 4).
 has_arrest(je197265, 30043557).
-crime_date(30043557, datime(date(2021, 4, 12, 14, 35, 0)))..
+crime_date(30043557, datime(date(2021, 4, 12, 14, 35, 0))).
 criminal_race(30043557,black).
 num_of_charges(30043557, 4).
 has_arrest(hw468490, 18960444).
-crime_date(18960444, datime(date(2014, 8, 22, 14, 15, 0)))..
+crime_date(18960444, datime(date(2014, 8, 22, 14, 15, 0))).
 criminal_race(18960444,black).
 num_of_charges(18960444, 4).
 has_arrest(je393543, 30087098).
-crime_date(30087098, datime(date(2021, 10, 1, 0, 46, 0)))..
+crime_date(30087098, datime(date(2021, 10, 1, 0, 46, 0))).
 criminal_race(30087098,black).
 num_of_charges(30087098, 4).
 has_arrest(je127767, 30043849).
-crime_date(30043849, datime(date(2021, 4, 13, 18, 23, 0)))..
+crime_date(30043849, datime(date(2021, 4, 13, 18, 23, 0))).
 criminal_race(30043849,white_hispanic).
 num_of_charges(30043849, 4).
 has_arrest(hx381196, 18952333).
-crime_date(18952333, datime(date(2014, 8, 9, 21, 33, 0)))..
+crime_date(18952333, datime(date(2014, 8, 9, 21, 33, 0))).
 criminal_race(18952333,black).
 num_of_charges(18952333, 4).
 has_arrest(hx274827, 18968551).
-crime_date(18968551, datime(date(2014, 9, 3, 21, 42, 0)))..
+crime_date(18968551, datime(date(2014, 9, 3, 21, 42, 0))).
 criminal_race(18968551,black).
 num_of_charges(18968551, 4).
 has_arrest(je199141, 30044036).
-crime_date(30044036, datime(date(2021, 4, 14, 11, 33, 0)))..
+crime_date(30044036, datime(date(2021, 4, 14, 11, 33, 0))).
 criminal_race(30044036,white_hispanic).
 num_of_charges(30044036, 4).
 has_arrest(hx415817, 18971818).
-crime_date(18971818, datime(date(2014, 9, 9, 7, 40, 0)))..
+crime_date(18971818, datime(date(2014, 9, 9, 7, 40, 0))).
 criminal_race(18971818,black).
 num_of_charges(18971818, 4).
 has_arrest(hw346938, 18968307).
-crime_date(18968307, datime(date(2014, 9, 3, 14, 5, 0)))..
+crime_date(18968307, datime(date(2014, 9, 3, 14, 5, 0))).
 criminal_race(18968307,black).
 num_of_charges(18968307, 4).
 has_arrest(hk112469, 18977377).
-crime_date(18977377, datime(date(2014, 9, 18, 10, 45, 0)))..
+crime_date(18977377, datime(date(2014, 9, 18, 10, 45, 0))).
 criminal_race(18977377,black).
 num_of_charges(18977377, 4).
 has_arrest(hx472992, 18996585).
-crime_date(18996585, datime(date(2014, 10, 18, 20, 0, 0)))..
+crime_date(18996585, datime(date(2014, 10, 18, 20, 0, 0))).
 criminal_race(18996585,black).
 num_of_charges(18996585, 4).
 has_arrest(je190306, 30044404).
-crime_date(30044404, datime(date(2021, 4, 15, 17, 30, 0)))..
+crime_date(30044404, datime(date(2021, 4, 15, 17, 30, 0))).
 criminal_race(30044404,black).
 num_of_charges(30044404, 4).
 has_arrest(hw142848, 18980480).
-crime_date(18980480, datime(date(2014, 9, 23, 9, 52, 0)))..
+crime_date(18980480, datime(date(2014, 9, 23, 9, 52, 0))).
 criminal_race(18980480,white_hispanic).
 num_of_charges(18980480, 4).
 has_arrest(hw342105, 18995601).
-crime_date(18995601, datime(date(2014, 10, 17, 10, 33, 0)))..
+crime_date(18995601, datime(date(2014, 10, 17, 10, 33, 0))).
 criminal_race(18995601,black).
 num_of_charges(18995601, 4).
 has_arrest(hx289439, 18988908).
-crime_date(18988908, datime(date(2014, 10, 6, 10, 15, 0)))..
+crime_date(18988908, datime(date(2014, 10, 6, 10, 15, 0))).
 criminal_race(18988908,black).
 num_of_charges(18988908, 4).
 has_arrest(jf107391, 30109748).
-crime_date(30109748, datime(date(2022, 1, 9, 5, 50, 0)))..
+crime_date(30109748, datime(date(2022, 1, 9, 5, 50, 0))).
 criminal_race(30109748,black).
 num_of_charges(30109748, 4).
 has_arrest(hx179976, 18981345).
-crime_date(18981345, datime(date(2014, 9, 24, 11, 30, 0)))..
+crime_date(18981345, datime(date(2014, 9, 24, 11, 30, 0))).
 criminal_race(18981345,white).
 num_of_charges(18981345, 4).
 has_arrest(je394946, 30087418).
-crime_date(30087418, datime(date(2021, 10, 2, 4, 10, 0)))..
+crime_date(30087418, datime(date(2021, 10, 2, 4, 10, 0))).
 criminal_race(30087418,black).
 num_of_charges(30087418, 4).
 has_arrest(f557229, 18982620).
-crime_date(18982620, datime(date(2014, 9, 26, 10, 15, 0)))..
+crime_date(18982620, datime(date(2014, 9, 26, 10, 15, 0))).
 criminal_race(18982620,black).
 num_of_charges(18982620, 4).
 has_arrest(je394946, 30087421).
-crime_date(30087421, datime(date(2021, 10, 2, 4, 10, 0)))..
+crime_date(30087421, datime(date(2021, 10, 2, 4, 10, 0))).
 criminal_race(30087421,black).
 num_of_charges(30087421, 4).
 has_arrest(hw347770, 18990579).
-crime_date(18990579, datime(date(2014, 10, 8, 10, 50, 0)))..
+crime_date(18990579, datime(date(2014, 10, 8, 10, 50, 0))).
 criminal_race(18990579,black).
 num_of_charges(18990579, 4).
 has_arrest(hx432531, 18977072).
-crime_date(18977072, datime(date(2014, 9, 17, 20, 53, 0)))..
+crime_date(18977072, datime(date(2014, 9, 17, 20, 53, 0))).
 criminal_race(18977072,black).
 num_of_charges(18977072, 4).
 has_arrest(hx409464, 18988270).
-crime_date(18988270, datime(date(2014, 10, 5, 1, 20, 0)))..
+crime_date(18988270, datime(date(2014, 10, 5, 1, 20, 0))).
 criminal_race(18988270,white_hispanic).
 num_of_charges(18988270, 4).
 has_arrest(hx448309, 18984736).
-crime_date(18984736, datime(date(2014, 9, 29, 15, 50, 0)))..
+crime_date(18984736, datime(date(2014, 9, 29, 15, 50, 0))).
 criminal_race(18984736,black).
 num_of_charges(18984736, 4).
 has_arrest(hx427169, 18980019).
-crime_date(18980019, datime(date(2014, 9, 22, 15, 50, 0)))..
+crime_date(18980019, datime(date(2014, 9, 22, 15, 50, 0))).
 criminal_race(18980019,black).
 num_of_charges(18980019, 4).
 has_arrest(hx442273, 18986711).
-crime_date(18986711, datime(date(2014, 10, 2, 14, 56, 0)))..
+crime_date(18986711, datime(date(2014, 10, 2, 14, 56, 0))).
 criminal_race(18986711,black).
 num_of_charges(18986711, 4).
 has_arrest(hx395473, 18977485).
-crime_date(18977485, datime(date(2014, 9, 17, 23, 3, 0)))..
+crime_date(18977485, datime(date(2014, 9, 17, 23, 3, 0))).
 criminal_race(18977485,black).
 num_of_charges(18977485, 4).
 has_arrest(je242582, 30065553).
-crime_date(30065553, datime(date(2021, 7, 2, 16, 50, 0)))..
+crime_date(30065553, datime(date(2021, 7, 2, 16, 50, 0))).
 criminal_race(30065553,black).
 num_of_charges(30065553, 4).
 has_arrest(je287550, 30065621).
-crime_date(30065621, datime(date(2021, 7, 2, 16, 30, 0)))..
+crime_date(30065621, datime(date(2021, 7, 2, 16, 30, 0))).
 criminal_race(30065621,black).
 num_of_charges(30065621, 4).
 has_arrest(hx447404, 18984374).
-crime_date(18984374, datime(date(2014, 9, 28, 23, 3, 0)))..
+crime_date(18984374, datime(date(2014, 9, 28, 23, 3, 0))).
 criminal_race(18984374,black).
 num_of_charges(18984374, 4).
 has_arrest(je202539, 30044988).
-crime_date(30044988, datime(date(2021, 4, 17, 23, 52, 0)))..
+crime_date(30044988, datime(date(2021, 4, 17, 23, 52, 0))).
 criminal_race(30044988,black).
 num_of_charges(30044988, 4).
 has_arrest(hx395473, 18977427).
-crime_date(18977427, datime(date(2014, 9, 18, 6, 20, 0)))..
+crime_date(18977427, datime(date(2014, 9, 18, 6, 20, 0))).
 criminal_race(18977427,black).
 num_of_charges(18977427, 4).
 has_arrest(hx414391, 18976111).
-crime_date(18976111, datime(date(2014, 9, 16, 18, 0, 0)))..
+crime_date(18976111, datime(date(2014, 9, 16, 18, 0, 0))).
 criminal_race(18976111,black).
 num_of_charges(18976111, 4).
 has_arrest(ht383639, 18986540).
-crime_date(18986540, datime(date(2014, 10, 2, 10, 5, 0)))..
+crime_date(18986540, datime(date(2014, 10, 2, 10, 5, 0))).
 criminal_race(18986540,black).
 num_of_charges(18986540, 4).
 has_arrest(hx448978, 18985075).
-crime_date(18985075, datime(date(2014, 9, 30, 3, 52, 0)))..
+crime_date(18985075, datime(date(2014, 9, 30, 3, 52, 0))).
 criminal_race(18985075,black).
 num_of_charges(18985075, 4).
 has_arrest(je202458, 30044962).
-crime_date(30044962, datime(date(2021, 4, 17, 23, 15, 0)))..
+crime_date(30044962, datime(date(2021, 4, 17, 23, 15, 0))).
 criminal_race(30044962,black).
 num_of_charges(30044962, 4).
 has_arrest(je404919, 30089424).
-crime_date(30089424, datime(date(2021, 10, 10, 14, 16, 0)))..
+crime_date(30089424, datime(date(2021, 10, 10, 14, 16, 0))).
 criminal_race(30089424,black).
 num_of_charges(30089424, 4).
 has_arrest(hx315796, 18985881).
-crime_date(18985881, datime(date(2014, 10, 1, 11, 50, 0)))..
+crime_date(18985881, datime(date(2014, 10, 1, 11, 50, 0))).
 criminal_race(18985881,black).
 num_of_charges(18985881, 4).
 has_arrest(hx435683, 18986562).
-crime_date(18986562, datime(date(2014, 10, 2, 10, 15, 0)))..
+crime_date(18986562, datime(date(2014, 10, 2, 10, 15, 0))).
 criminal_race(18986562,black).
 num_of_charges(18986562, 4).
 has_arrest(je144478, 30065428).
-crime_date(30065428, datime(date(2021, 7, 2, 10, 45, 0)))..
+crime_date(30065428, datime(date(2021, 7, 2, 10, 45, 0))).
 criminal_race(30065428,black).
 num_of_charges(30065428, 4).
 has_arrest(hx448077, 18984655).
-crime_date(18984655, datime(date(2014, 9, 29, 13, 7, 0)))..
+crime_date(18984655, datime(date(2014, 9, 29, 13, 7, 0))).
 criminal_race(18984655,black).
 num_of_charges(18984655, 4).
 has_arrest(hx467125, 18995220).
-crime_date(18995220, datime(date(2014, 10, 16, 17, 35, 0)))..
+crime_date(18995220, datime(date(2014, 10, 16, 17, 35, 0))).
 criminal_race(18995220,white).
 num_of_charges(18995220, 4).
 has_arrest(hx448843, 18984902).
-crime_date(18984902, datime(date(2014, 9, 29, 20, 56, 0)))..
+crime_date(18984902, datime(date(2014, 9, 29, 20, 56, 0))).
 criminal_race(18984902,black).
 num_of_charges(18984902, 4).
 has_arrest(hx424815, 18973502).
-crime_date(18973502, datime(date(2014, 9, 11, 20, 1, 0)))..
+crime_date(18973502, datime(date(2014, 9, 11, 20, 1, 0))).
 criminal_race(18973502,black).
 num_of_charges(18973502, 4).
 has_arrest(hx449928, 18988768).
-crime_date(18988768, datime(date(2014, 10, 5, 22, 30, 0)))..
+crime_date(18988768, datime(date(2014, 10, 5, 22, 30, 0))).
 criminal_race(18988768,black).
 num_of_charges(18988768, 4).
 has_arrest(je483853, 30108636).
-crime_date(30108636, datime(date(2022, 1, 3, 10, 35, 0)))..
+crime_date(30108636, datime(date(2022, 1, 3, 10, 35, 0))).
 criminal_race(30108636,black).
 num_of_charges(30108636, 4).
 has_arrest(jf445345, 30189087).
-crime_date(30189087, datime(date(2022, 10, 27, 15, 42, 0)))..
+crime_date(30189087, datime(date(2022, 10, 27, 15, 42, 0))).
 criminal_race(30189087,black).
 num_of_charges(30189087, 4).
 has_arrest(hx445686, 18983526).
-crime_date(18983526, datime(date(2014, 9, 27, 15, 16, 0)))..
+crime_date(18983526, datime(date(2014, 9, 27, 15, 16, 0))).
 criminal_race(18983526,black).
 num_of_charges(18983526, 4).
 has_arrest(jf100403, 30108641).
-crime_date(30108641, datime(date(2022, 1, 3, 10, 2, 0)))..
+crime_date(30108641, datime(date(2022, 1, 3, 10, 2, 0))).
 criminal_race(30108641,black).
 num_of_charges(30108641, 4).
 has_arrest(hx422647, 18990000).
-crime_date(18990000, datime(date(2014, 10, 7, 23, 25, 0)))..
+crime_date(18990000, datime(date(2014, 10, 7, 23, 25, 0))).
 criminal_race(18990000,white_hispanic).
 num_of_charges(18990000, 4).
 has_arrest(hx431889, 18976822).
-crime_date(18976822, datime(date(2014, 9, 17, 13, 41, 0)))..
+crime_date(18976822, datime(date(2014, 9, 17, 13, 41, 0))).
 criminal_race(18976822,black).
 num_of_charges(18976822, 4).
 has_arrest(je201157, 30045296).
-crime_date(30045296, datime(date(2021, 4, 19, 14, 25, 0)))..
+crime_date(30045296, datime(date(2021, 4, 19, 14, 25, 0))).
 criminal_race(30045296,black).
 num_of_charges(30045296, 4).
 has_arrest(je234062, 30052919).
-crime_date(30052919, datime(date(2021, 5, 18, 12, 37, 0)))..
+crime_date(30052919, datime(date(2021, 5, 18, 12, 37, 0))).
 criminal_race(30052919,black).
 num_of_charges(30052919, 4).
 has_arrest(hx442102, 18981676).
-crime_date(18981676, datime(date(2014, 9, 24, 22, 0, 0)))..
+crime_date(18981676, datime(date(2014, 9, 24, 22, 0, 0))).
 criminal_race(18981676,black).
 num_of_charges(18981676, 4).
 has_arrest(hx459145, 18989991).
-crime_date(18989991, datime(date(2014, 10, 7, 23, 28, 0)))..
+crime_date(18989991, datime(date(2014, 10, 7, 23, 28, 0))).
 criminal_race(18989991,black).
 num_of_charges(18989991, 4).
 has_arrest(je205115, 30045615).
-crime_date(30045615, datime(date(2021, 4, 20, 19, 21, 0)))..
+crime_date(30045615, datime(date(2021, 4, 20, 19, 21, 0))).
 criminal_race(30045615,black).
 num_of_charges(30045615, 4).
 has_arrest(hx446571, 18984135).
-crime_date(18984135, datime(date(2014, 9, 28, 10, 30, 0)))..
+crime_date(18984135, datime(date(2014, 9, 28, 10, 30, 0))).
 criminal_race(18984135,white).
 num_of_charges(18984135, 4).
 has_arrest(hx470450, 18995467).
-crime_date(18995467, datime(date(2014, 10, 16, 20, 30, 0)))..
+crime_date(18995467, datime(date(2014, 10, 16, 20, 30, 0))).
 criminal_race(18995467,black).
 num_of_charges(18995467, 4).
 has_arrest(jf484543, 30195813).
-crime_date(30195813, datime(date(2022, 11, 22, 23, 11, 0)))..
+crime_date(30195813, datime(date(2022, 11, 22, 23, 11, 0))).
 criminal_race(30195813,black).
 num_of_charges(30195813, 4).
 has_arrest(hx424815, 18973474).
-crime_date(18973474, datime(date(2014, 9, 11, 20, 1, 0)))..
+crime_date(18973474, datime(date(2014, 9, 11, 20, 1, 0))).
 criminal_race(18973474,black).
 num_of_charges(18973474, 4).
 has_arrest(hx428315, 18975009).
-crime_date(18975009, datime(date(2014, 9, 14, 18, 14, 0)))..
+crime_date(18975009, datime(date(2014, 9, 14, 18, 14, 0))).
 criminal_race(18975009,black).
 num_of_charges(18975009, 4).
 has_arrest(hx449928, 18986424).
-crime_date(18986424, datime(date(2014, 10, 2, 0, 21, 0)))..
+crime_date(18986424, datime(date(2014, 10, 2, 0, 21, 0))).
 criminal_race(18986424,black).
 num_of_charges(18986424, 4).
 has_arrest(je205115, 30045612).
-crime_date(30045612, datime(date(2021, 4, 20, 23, 22, 0)))..
+crime_date(30045612, datime(date(2021, 4, 20, 23, 22, 0))).
 criminal_race(30045612,black).
 num_of_charges(30045612, 4).
 has_arrest(je191019, 30045523).
-crime_date(30045523, datime(date(2021, 4, 20, 11, 55, 0)))..
+crime_date(30045523, datime(date(2021, 4, 20, 11, 55, 0))).
 criminal_race(30045523,black).
 num_of_charges(30045523, 4).
 has_arrest(hx467125, 18994816).
-crime_date(18994816, datime(date(2014, 10, 16, 0, 15, 0)))..
+crime_date(18994816, datime(date(2014, 10, 16, 0, 15, 0))).
 criminal_race(18994816,white).
 num_of_charges(18994816, 4).
 has_arrest(hv273455, 18980685).
-crime_date(18980685, datime(date(2014, 9, 23, 8, 50, 0)))..
+crime_date(18980685, datime(date(2014, 9, 23, 8, 50, 0))).
 criminal_race(18980685,black).
 num_of_charges(18980685, 4).
 has_arrest(hx447455, 18984360).
-crime_date(18984360, datime(date(2014, 9, 29, 0, 16, 0)))..
+crime_date(18984360, datime(date(2014, 9, 29, 0, 16, 0))).
 criminal_race(18984360,white_hispanic).
 num_of_charges(18984360, 4).
 has_arrest(hx445845, 18983908).
-crime_date(18983908, datime(date(2014, 9, 28, 7, 23, 0)))..
+crime_date(18983908, datime(date(2014, 9, 28, 7, 23, 0))).
 criminal_race(18983908,black).
 num_of_charges(18983908, 4).
 has_arrest(hx460710, 18990690).
-crime_date(18990690, datime(date(2014, 10, 9, 3, 48, 0)))..
+crime_date(18990690, datime(date(2014, 10, 9, 3, 48, 0))).
 criminal_race(18990690,black).
 num_of_charges(18990690, 4).
 has_arrest(hx461569, 18994386).
-crime_date(18994386, datime(date(2014, 10, 15, 13, 25, 0)))..
+crime_date(18994386, datime(date(2014, 10, 15, 13, 25, 0))).
 criminal_race(18994386,black).
 num_of_charges(18994386, 4).
 has_arrest(jd403502, 30065834).
-crime_date(30065834, datime(date(2021, 7, 3, 17, 15, 0)))..
+crime_date(30065834, datime(date(2021, 7, 3, 17, 15, 0))).
 criminal_race(30065834,white).
 num_of_charges(30065834, 4).
 has_arrest(je287173, 30065513).
-crime_date(30065513, datime(date(2021, 7, 2, 12, 10, 0)))..
+crime_date(30065513, datime(date(2021, 7, 2, 12, 10, 0))).
 criminal_race(30065513,black).
 num_of_charges(30065513, 4).
 has_arrest(je287753, 30065628).
-crime_date(30065628, datime(date(2021, 7, 2, 19, 55, 0)))..
+crime_date(30065628, datime(date(2021, 7, 2, 19, 55, 0))).
 criminal_race(30065628,black).
 num_of_charges(30065628, 4).
 has_arrest(hx415731, 18995416).
-crime_date(18995416, datime(date(2014, 10, 16, 23, 25, 0)))..
+crime_date(18995416, datime(date(2014, 10, 16, 23, 25, 0))).
 criminal_race(18995416,black).
 num_of_charges(18995416, 4).
 has_arrest(hx442273, 18989637).
-crime_date(18989637, datime(date(2014, 10, 7, 14, 10, 0)))..
+crime_date(18989637, datime(date(2014, 10, 7, 14, 10, 0))).
 criminal_race(18989637,black).
 num_of_charges(18989637, 4).
 has_arrest(je207109, 30046127).
-crime_date(30046127, datime(date(2021, 4, 22, 20, 28, 0)))..
+crime_date(30046127, datime(date(2021, 4, 22, 20, 28, 0))).
 criminal_race(30046127,white_hispanic).
 num_of_charges(30046127, 4).
 has_arrest(je287718, 30065575).
-crime_date(30065575, datime(date(2021, 7, 2, 19, 12, 0)))..
+crime_date(30065575, datime(date(2021, 7, 2, 19, 12, 0))).
 criminal_race(30065575,black).
 num_of_charges(30065575, 4).
 has_arrest(jd403502, 30065856).
-crime_date(30065856, datime(date(2021, 7, 3, 17, 15, 0)))..
+crime_date(30065856, datime(date(2021, 7, 3, 17, 15, 0))).
 criminal_race(30065856,black).
 num_of_charges(30065856, 4).
 has_arrest(je261650, 30065447).
-crime_date(30065447, datime(date(2021, 7, 2, 10, 56, 0)))..
+crime_date(30065447, datime(date(2021, 7, 2, 10, 56, 0))).
 criminal_race(30065447,black).
 num_of_charges(30065447, 4).
 has_arrest(jf260542, 30147824).
-crime_date(30147824, datime(date(2022, 5, 29, 22, 16, 0)))..
+crime_date(30147824, datime(date(2022, 5, 29, 22, 16, 0))).
 criminal_race(30147824,white_hispanic).
 num_of_charges(30147824, 4).
 has_arrest(hx479762, 19000604).
-crime_date(19000604, datime(date(2014, 10, 25, 5, 20, 0)))..
+crime_date(19000604, datime(date(2014, 10, 25, 5, 20, 0))).
 criminal_race(19000604,black).
 num_of_charges(19000604, 4).
 has_arrest(jd269005, 30046318).
-crime_date(30046318, datime(date(2021, 4, 23, 11, 0, 0)))..
+crime_date(30046318, datime(date(2021, 4, 23, 11, 0, 0))).
 criminal_race(30046318,black).
 num_of_charges(30046318, 4).
 has_arrest(hv546172, 19007899).
-crime_date(19007899, datime(date(2014, 11, 5, 21, 22, 0)))..
+crime_date(19007899, datime(date(2014, 11, 5, 21, 22, 0))).
 criminal_race(19007899,black).
 num_of_charges(19007899, 4).
 has_arrest(je322634, 30108847).
-crime_date(30108847, datime(date(2022, 1, 4, 17, 55, 0)))..
+crime_date(30108847, datime(date(2022, 1, 4, 17, 55, 0))).
 criminal_race(30108847,black).
 num_of_charges(30108847, 4).
 has_arrest(je484979, 30108805).
-crime_date(30108805, datime(date(2022, 1, 4, 9, 30, 0)))..
+crime_date(30108805, datime(date(2022, 1, 4, 9, 30, 0))).
 criminal_race(30108805,black).
 num_of_charges(30108805, 4).
 has_arrest(hr412072, 19007458).
-crime_date(19007458, datime(date(2014, 11, 5, 6, 15, 0)))..
+crime_date(19007458, datime(date(2014, 11, 5, 6, 15, 0))).
 criminal_race(19007458,black).
 num_of_charges(19007458, 4).
 has_arrest(je308501, 30087916).
-crime_date(30087916, datime(date(2021, 10, 4, 11, 39, 0)))..
+crime_date(30087916, datime(date(2021, 10, 4, 11, 39, 0))).
 criminal_race(30087916,black).
 num_of_charges(30087916, 4).
 has_arrest(hx503007, 19016198).
-crime_date(19016198, datime(date(2014, 11, 20, 16, 54, 0)))..
+crime_date(19016198, datime(date(2014, 11, 20, 16, 54, 0))).
 criminal_race(19016198,black).
 num_of_charges(19016198, 4).
 has_arrest(hx480966, 19000440).
-crime_date(19000440, datime(date(2014, 10, 24, 22, 7, 0)))..
+crime_date(19000440, datime(date(2014, 10, 24, 22, 7, 0))).
 criminal_race(19000440,black).
 num_of_charges(19000440, 4).
 has_arrest(hx482271, 19001114).
-crime_date(19001114, datime(date(2014, 10, 25, 22, 1, 0)))..
+crime_date(19001114, datime(date(2014, 10, 25, 22, 1, 0))).
 criminal_race(19001114,black).
 num_of_charges(19001114, 4).
 has_arrest(hx508720, 19013935).
-crime_date(19013935, datime(date(2014, 11, 16, 3, 35, 0)))..
+crime_date(19013935, datime(date(2014, 11, 16, 3, 35, 0))).
 criminal_race(19013935,black).
 num_of_charges(19013935, 4).
 has_arrest(je251462, 30087867).
-crime_date(30087867, datime(date(2021, 10, 4, 7, 30, 0)))..
+crime_date(30087867, datime(date(2021, 10, 4, 7, 30, 0))).
 criminal_race(30087867,white_hispanic).
 num_of_charges(30087867, 4).
 has_arrest(hx477503, 19016100).
-crime_date(19016100, datime(date(2014, 11, 20, 9, 0, 0)))..
+crime_date(19016100, datime(date(2014, 11, 20, 9, 0, 0))).
 criminal_race(19016100,black).
 num_of_charges(19016100, 4).
 has_arrest(hx492726, 19006182).
-crime_date(19006182, datime(date(2014, 11, 3, 4, 9, 0)))..
+crime_date(19006182, datime(date(2014, 11, 3, 4, 9, 0))).
 criminal_race(19006182,black).
 num_of_charges(19006182, 4).
 has_arrest(hv445189, 19007498).
-crime_date(19007498, datime(date(2014, 11, 5, 8, 30, 0)))..
+crime_date(19007498, datime(date(2014, 11, 5, 8, 30, 0))).
 criminal_race(19007498,black).
 num_of_charges(19007498, 4).
 has_arrest(hx517211, 19017700).
-crime_date(19017700, datime(date(2014, 11, 23, 7, 19, 0)))..
+crime_date(19017700, datime(date(2014, 11, 23, 7, 19, 0))).
 criminal_race(19017700,white_hispanic).
 num_of_charges(19017700, 4).
 has_arrest(hx499040, 19009325).
-crime_date(19009325, datime(date(2014, 11, 7, 22, 2, 0)))..
+crime_date(19009325, datime(date(2014, 11, 7, 22, 2, 0))).
 criminal_race(19009325,black).
 num_of_charges(19009325, 4).
 has_arrest(hx510639, 19014785).
-crime_date(19014785, datime(date(2014, 11, 17, 20, 48, 0)))..
+crime_date(19014785, datime(date(2014, 11, 17, 20, 48, 0))).
 criminal_race(19014785,black).
 num_of_charges(19014785, 4).
 has_arrest(hx499040, 19010783).
-crime_date(19010783, datime(date(2014, 11, 10, 17, 45, 0)))..
+crime_date(19010783, datime(date(2014, 11, 10, 17, 45, 0))).
 criminal_race(19010783,black).
 num_of_charges(19010783, 4).
 has_arrest(hx256233, 19012446).
-crime_date(19012446, datime(date(2014, 11, 13, 18, 30, 0)))..
+crime_date(19012446, datime(date(2014, 11, 13, 18, 30, 0))).
 criminal_race(19012446,black).
 num_of_charges(19012446, 4).
 has_arrest(je289175, 30065956).
-crime_date(30065956, datime(date(2021, 7, 4, 0, 12, 0)))..
+crime_date(30065956, datime(date(2021, 7, 4, 0, 12, 0))).
 criminal_race(30065956,white_hispanic).
 num_of_charges(30065956, 4).
 has_arrest(hx482578, 19001290).
-crime_date(19001290, datime(date(2014, 10, 26, 5, 15, 0)))..
+crime_date(19001290, datime(date(2014, 10, 26, 5, 15, 0))).
 criminal_race(19001290,black).
 num_of_charges(19001290, 4).
 has_arrest(hx402684, 18999370).
-crime_date(18999370, datime(date(2014, 10, 23, 14, 30, 0)))..
+crime_date(18999370, datime(date(2014, 10, 23, 14, 30, 0))).
 criminal_race(18999370,black).
 num_of_charges(18999370, 4).
 has_arrest(hx508607, 19019956).
-crime_date(19019956, datime(date(2014, 11, 28, 10, 20, 0)))..
+crime_date(19019956, datime(date(2014, 11, 28, 10, 20, 0))).
 criminal_race(19019956,black).
 num_of_charges(19019956, 4).
 has_arrest(hw289910, 19002637).
-crime_date(19002637, datime(date(2014, 10, 28, 15, 5, 0)))..
+crime_date(19002637, datime(date(2014, 10, 28, 15, 5, 0))).
 criminal_race(19002637,black).
 num_of_charges(19002637, 4).
 has_arrest(je202499, 30047010).
-crime_date(30047010, datime(date(2021, 4, 26, 13, 12, 0)))..
+crime_date(30047010, datime(date(2021, 4, 26, 13, 12, 0))).
 criminal_race(30047010,black).
 num_of_charges(30047010, 4).
 has_arrest(jd369513, 30046945).
-crime_date(30046945, datime(date(2021, 4, 26, 8, 35, 0)))..
+crime_date(30046945, datime(date(2021, 4, 26, 8, 35, 0))).
 criminal_race(30046945,white_hispanic).
 num_of_charges(30046945, 4).
 has_arrest(hx459979, 19001588).
-crime_date(19001588, datime(date(2014, 10, 26, 20, 6, 0)))..
+crime_date(19001588, datime(date(2014, 10, 26, 20, 6, 0))).
 criminal_race(19001588,black).
 num_of_charges(19001588, 4).
 has_arrest(hv315569, 19008331).
-crime_date(19008331, datime(date(2014, 11, 6, 15, 50, 0)))..
+crime_date(19008331, datime(date(2014, 11, 6, 15, 50, 0))).
 criminal_race(19008331,black).
 num_of_charges(19008331, 4).
 has_arrest(jd374011, 30046937).
-crime_date(30046937, datime(date(2021, 4, 26, 6, 55, 0)))..
+crime_date(30046937, datime(date(2021, 4, 26, 6, 55, 0))).
 criminal_race(30046937,white_hispanic).
 num_of_charges(30046937, 4).
 has_arrest(je203123, 30047128).
-crime_date(30047128, datime(date(2021, 4, 26, 19, 15, 0)))..
+crime_date(30047128, datime(date(2021, 4, 26, 19, 15, 0))).
 criminal_race(30047128,black).
 num_of_charges(30047128, 4).
 has_arrest(je210677, 30047065).
-crime_date(30047065, datime(date(2021, 4, 26, 15, 7, 0)))..
+crime_date(30047065, datime(date(2021, 4, 26, 15, 7, 0))).
 criminal_race(30047065,black).
 num_of_charges(30047065, 4).
 has_arrest(hx483324, 19001709).
-crime_date(19001709, datime(date(2014, 10, 26, 21, 45, 0)))..
+crime_date(19001709, datime(date(2014, 10, 26, 21, 45, 0))).
 criminal_race(19001709,black).
 num_of_charges(19001709, 4).
 has_arrest(hx499040, 19009809).
-crime_date(19009809, datime(date(2014, 11, 8, 6, 0, 0)))..
+crime_date(19009809, datime(date(2014, 11, 8, 6, 0, 0))).
 criminal_race(19009809,black).
 num_of_charges(19009809, 4).
 has_arrest(hx508720, 19013923).
-crime_date(19013923, datime(date(2014, 11, 16, 3, 35, 0)))..
+crime_date(19013923, datime(date(2014, 11, 16, 3, 35, 0))).
 criminal_race(19013923,black).
 num_of_charges(19013923, 4).
 has_arrest(je344822, 30088193).
-crime_date(30088193, datime(date(2021, 10, 5, 13, 22, 0)))..
+crime_date(30088193, datime(date(2021, 10, 5, 13, 22, 0))).
 criminal_race(30088193,black).
 num_of_charges(30088193, 4).
 has_arrest(jf120326, 30127883).
-crime_date(30127883, datime(date(2022, 3, 21, 12, 36, 0)))..
+crime_date(30127883, datime(date(2022, 3, 21, 12, 36, 0))).
 criminal_race(30127883,black).
 num_of_charges(30127883, 4).
 has_arrest(je211531, 30047273).
-crime_date(30047273, datime(date(2021, 4, 27, 10, 15, 0)))..
+crime_date(30047273, datime(date(2021, 4, 27, 10, 15, 0))).
 criminal_race(30047273,white_hispanic).
 num_of_charges(30047273, 4).
 has_arrest(hx199577, 18997101).
-crime_date(18997101, datime(date(2014, 10, 19, 19, 30, 0)))..
+crime_date(18997101, datime(date(2014, 10, 19, 19, 30, 0))).
 criminal_race(18997101,black).
 num_of_charges(18997101, 4).
 has_arrest(je290198, 30066270).
-crime_date(30066270, datime(date(2021, 7, 4, 22, 46, 0)))..
+crime_date(30066270, datime(date(2021, 7, 4, 22, 46, 0))).
 criminal_race(30066270,black).
 num_of_charges(30066270, 4).
 has_arrest(hx508720, 19013938).
-crime_date(19013938, datime(date(2014, 11, 16, 3, 35, 0)))..
+crime_date(19013938, datime(date(2014, 11, 16, 3, 35, 0))).
 criminal_race(19013938,black).
 num_of_charges(19013938, 4).
 has_arrest(hx480966, 19000439).
-crime_date(19000439, datime(date(2014, 10, 24, 22, 7, 0)))..
+crime_date(19000439, datime(date(2014, 10, 24, 22, 7, 0))).
 criminal_race(19000439,black).
 num_of_charges(19000439, 4).
 has_arrest(hx181370, 19011521).
-crime_date(19011521, datime(date(2014, 11, 11, 23, 14, 0)))..
+crime_date(19011521, datime(date(2014, 11, 11, 23, 14, 0))).
 criminal_race(19011521,black).
 num_of_charges(19011521, 4).
 has_arrest(hx501911, 19015438).
-crime_date(19015438, datime(date(2014, 11, 19, 9, 10, 0)))..
+crime_date(19015438, datime(date(2014, 11, 19, 9, 10, 0))).
 criminal_race(19015438,black).
 num_of_charges(19015438, 4).
 has_arrest(jd440110, 30047613).
-crime_date(30047613, datime(date(2021, 4, 28, 12, 10, 0)))..
+crime_date(30047613, datime(date(2021, 4, 28, 12, 10, 0))).
 criminal_race(30047613,black).
 num_of_charges(30047613, 4).
 has_arrest(hx336475, 19007851).
-crime_date(19007851, datime(date(2014, 11, 5, 20, 10, 0)))..
+crime_date(19007851, datime(date(2014, 11, 5, 20, 10, 0))).
 criminal_race(19007851,black).
 num_of_charges(19007851, 4).
 has_arrest(hx341618, 19010216).
-crime_date(19010216, datime(date(2014, 11, 9, 17, 40, 0)))..
+crime_date(19010216, datime(date(2014, 11, 9, 17, 40, 0))).
 criminal_race(19010216,black).
 num_of_charges(19010216, 4).
 has_arrest(hx531627, 19024886).
-crime_date(19024886, datime(date(2014, 12, 6, 22, 19, 0)))..
+crime_date(19024886, datime(date(2014, 12, 6, 22, 19, 0))).
 criminal_race(19024886,black).
 num_of_charges(19024886, 4).
 has_arrest(hx551259, 19033097).
-crime_date(19033097, datime(date(2014, 12, 22, 10, 49, 0)))..
+crime_date(19033097, datime(date(2014, 12, 22, 10, 49, 0))).
 criminal_race(19033097,black).
 num_of_charges(19033097, 4).
 has_arrest(je285912, 30066694).
-crime_date(30066694, datime(date(2021, 7, 6, 14, 54, 0)))..
+crime_date(30066694, datime(date(2021, 7, 6, 14, 54, 0))).
 criminal_race(30066694,black).
 num_of_charges(30066694, 4).
 has_arrest(hx555519, 19034703).
-crime_date(19034703, datime(date(2014, 12, 26, 15, 10, 0)))..
+crime_date(19034703, datime(date(2014, 12, 26, 15, 10, 0))).
 criminal_race(19034703,black).
 num_of_charges(19034703, 4).
 has_arrest(hx535453, 19025948).
-crime_date(19025948, datime(date(2014, 12, 9, 8, 30, 0)))..
+crime_date(19025948, datime(date(2014, 12, 9, 8, 30, 0))).
 criminal_race(19025948,black).
 num_of_charges(19025948, 4).
 has_arrest(hw579790, 19029937).
-crime_date(19029937, datime(date(2014, 12, 16, 19, 45, 0)))..
+crime_date(19029937, datime(date(2014, 12, 16, 19, 45, 0))).
 criminal_race(19029937,black).
 num_of_charges(19029937, 4).
 has_arrest(hx533166, 19024994).
-crime_date(19024994, datime(date(2014, 12, 7, 4, 45, 0)))..
+crime_date(19024994, datime(date(2014, 12, 7, 4, 45, 0))).
 criminal_race(19024994,black).
 num_of_charges(19024994, 4).
 has_arrest(hy100236, 19038165).
-crime_date(19038165, datime(date(2015, 1, 2, 15, 55, 0)))..
+crime_date(19038165, datime(date(2015, 1, 2, 15, 55, 0))).
 criminal_race(19038165,black).
 num_of_charges(19038165, 4).
 has_arrest(hx529287, 19023307).
-crime_date(19023307, datime(date(2014, 12, 3, 21, 30, 0)))..
+crime_date(19023307, datime(date(2014, 12, 3, 21, 30, 0))).
 criminal_race(19023307,black).
 num_of_charges(19023307, 4).
 has_arrest(hx549796, 19032371).
-crime_date(19032371, datime(date(2014, 12, 20, 21, 5, 0)))..
+crime_date(19032371, datime(date(2014, 12, 20, 21, 5, 0))).
 criminal_race(19032371,black).
 num_of_charges(19032371, 4).
 has_arrest(je216412, 30048465).
-crime_date(30048465, datime(date(2021, 5, 1, 20, 32, 0)))..
+crime_date(30048465, datime(date(2021, 5, 1, 20, 32, 0))).
 criminal_race(30048465,white_hispanic).
 num_of_charges(30048465, 4).
 has_arrest(je235735, 30053320).
-crime_date(30053320, datime(date(2021, 5, 19, 21, 0, 0)))..
+crime_date(30053320, datime(date(2021, 5, 19, 21, 0, 0))).
 criminal_race(30053320,black).
 num_of_charges(30053320, 4).
 has_arrest(je487363, 30109170).
-crime_date(30109170, datime(date(2022, 1, 6, 10, 5, 0)))..
+crime_date(30109170, datime(date(2022, 1, 6, 10, 5, 0))).
 criminal_race(30109170,white_hispanic).
 num_of_charges(30109170, 4).
 has_arrest(hx557764, 19035862).
-crime_date(19035862, datime(date(2014, 12, 28, 15, 47, 0)))..
+crime_date(19035862, datime(date(2014, 12, 28, 15, 47, 0))).
 criminal_race(19035862,black).
 num_of_charges(19035862, 4).
 has_arrest(je154725, 30066955).
-crime_date(30066955, datime(date(2021, 7, 7, 11, 35, 0)))..
+crime_date(30066955, datime(date(2021, 7, 7, 11, 35, 0))).
 criminal_race(30066955,black).
 num_of_charges(30066955, 4).
 has_arrest(hx554422, 19034248).
-crime_date(19034248, datime(date(2014, 12, 25, 3, 0, 0)))..
+crime_date(19034248, datime(date(2014, 12, 25, 3, 0, 0))).
 criminal_race(19034248,black).
 num_of_charges(19034248, 4).
 has_arrest(je216691, 30048576).
-crime_date(30048576, datime(date(2021, 5, 2, 2, 28, 0)))..
+crime_date(30048576, datime(date(2021, 5, 2, 2, 28, 0))).
 criminal_race(30048576,black).
 num_of_charges(30048576, 4).
 has_arrest(hx557764, 19035890).
-crime_date(19035890, datime(date(2014, 12, 28, 15, 47, 0)))..
+crime_date(19035890, datime(date(2014, 12, 28, 15, 47, 0))).
 criminal_race(19035890,black).
 num_of_charges(19035890, 4).
 has_arrest(jb401992, 19694034).
-crime_date(19694034, datime(date(2018, 8, 26, 20, 30, 0)))..
+crime_date(19694034, datime(date(2018, 8, 26, 20, 30, 0))).
 criminal_race(19694034,white_hispanic).
 num_of_charges(19694034, 4).
 has_arrest(jb377084, 30048652).
-crime_date(30048652, datime(date(2021, 5, 2, 14, 0, 0)))..
+crime_date(30048652, datime(date(2021, 5, 2, 14, 0, 0))).
 criminal_race(30048652,black).
 num_of_charges(30048652, 4).
 has_arrest(hx529287, 19023308).
-crime_date(19023308, datime(date(2014, 12, 3, 21, 37, 0)))..
+crime_date(19023308, datime(date(2014, 12, 3, 21, 37, 0))).
 criminal_race(19023308,black).
 num_of_charges(19023308, 4).
 has_arrest(hx550594, 19032747).
-crime_date(19032747, datime(date(2014, 12, 21, 16, 29, 0)))..
+crime_date(19032747, datime(date(2014, 12, 21, 16, 29, 0))).
 criminal_race(19032747,black).
 num_of_charges(19032747, 4).
 has_arrest(hx551259, 19033095).
-crime_date(19033095, datime(date(2014, 12, 22, 10, 49, 0)))..
+crime_date(19033095, datime(date(2014, 12, 22, 10, 49, 0))).
 criminal_race(19033095,black).
 num_of_charges(19033095, 4).
 has_arrest(hw280661, 19036879).
-crime_date(19036879, datime(date(2014, 12, 30, 22, 3, 0)))..
+crime_date(19036879, datime(date(2014, 12, 30, 22, 3, 0))).
 criminal_race(19036879,black).
 num_of_charges(19036879, 4).
 has_arrest(y208282, 19031163).
-crime_date(19031163, datime(date(2014, 12, 18, 18, 35, 0)))..
+crime_date(19031163, datime(date(2014, 12, 18, 18, 35, 0))).
 criminal_race(19031163,white_hispanic).
 num_of_charges(19031163, 4).
 has_arrest(je190306, 30048898).
-crime_date(30048898, datime(date(2021, 5, 3, 13, 25, 0)))..
+crime_date(30048898, datime(date(2021, 5, 3, 13, 25, 0))).
 criminal_race(30048898,black).
 num_of_charges(30048898, 4).
 has_arrest(hx531627, 19024896).
-crime_date(19024896, datime(date(2014, 12, 6, 22, 19, 0)))..
+crime_date(19024896, datime(date(2014, 12, 6, 22, 19, 0))).
 criminal_race(19024896,black).
 num_of_charges(19024896, 4).
 has_arrest(hx551259, 19033100).
-crime_date(19033100, datime(date(2014, 12, 22, 10, 49, 0)))..
+crime_date(19033100, datime(date(2014, 12, 22, 10, 49, 0))).
 criminal_race(19033100,black).
 num_of_charges(19033100, 4).
 has_arrest(je122508, 30048848).
-crime_date(30048848, datime(date(2021, 5, 3, 8, 51, 0)))..
+crime_date(30048848, datime(date(2021, 5, 3, 8, 51, 0))).
 criminal_race(30048848,black).
 num_of_charges(30048848, 4).
 has_arrest(je294250, 30088422).
-crime_date(30088422, datime(date(2021, 10, 6, 13, 25, 0)))..
+crime_date(30088422, datime(date(2021, 10, 6, 13, 25, 0))).
 criminal_race(30088422,black).
 num_of_charges(30088422, 4).
 has_arrest(jd403004, 30067250).
-crime_date(30067250, datime(date(2021, 7, 8, 11, 39, 0)))..
+crime_date(30067250, datime(date(2021, 7, 8, 11, 39, 0))).
 criminal_race(30067250,black).
 num_of_charges(30067250, 4).
 has_arrest(je182630, 30067276).
-crime_date(30067276, datime(date(2021, 7, 8, 15, 25, 0)))..
+crime_date(30067276, datime(date(2021, 7, 8, 15, 25, 0))).
 criminal_race(30067276,black).
 num_of_charges(30067276, 4).
 has_arrest(hx555519, 19034668).
-crime_date(19034668, datime(date(2014, 12, 26, 15, 0, 0)))..
+crime_date(19034668, datime(date(2014, 12, 26, 15, 0, 0))).
 criminal_race(19034668,black).
 num_of_charges(19034668, 4).
 has_arrest(hx550864, 19032939).
-crime_date(19032939, datime(date(2014, 12, 21, 22, 10, 0)))..
+crime_date(19032939, datime(date(2014, 12, 21, 22, 10, 0))).
 criminal_race(19032939,black).
 num_of_charges(19032939, 4).
 has_arrest(je399645, 30088338).
-crime_date(30088338, datime(date(2021, 10, 6, 1, 53, 0)))..
+crime_date(30088338, datime(date(2021, 10, 6, 1, 53, 0))).
 criminal_race(30088338,white_hispanic).
 num_of_charges(30088338, 4).
 has_arrest(hw579790, 19029669).
-crime_date(19029669, datime(date(2014, 12, 16, 10, 30, 0)))..
+crime_date(19029669, datime(date(2014, 12, 16, 10, 30, 0))).
 criminal_race(19029669,black).
 num_of_charges(19029669, 4).
 has_arrest(hx551259, 19033098).
-crime_date(19033098, datime(date(2014, 12, 22, 10, 49, 0)))..
+crime_date(19033098, datime(date(2014, 12, 22, 10, 49, 0))).
 criminal_race(19033098,black).
 num_of_charges(19033098, 4).
 has_arrest(jd467492, 30049207).
-crime_date(30049207, datime(date(2021, 5, 4, 16, 0, 0)))..
+crime_date(30049207, datime(date(2021, 5, 4, 16, 0, 0))).
 criminal_race(30049207,black).
 num_of_charges(30049207, 4).
 has_arrest(hx277235, 19029294).
-crime_date(19029294, datime(date(2014, 12, 15, 13, 30, 0)))..
+crime_date(19029294, datime(date(2014, 12, 15, 13, 30, 0))).
 criminal_race(19029294,black).
 num_of_charges(19029294, 4).
 has_arrest(hx554422, 19034254).
-crime_date(19034254, datime(date(2014, 12, 25, 3, 0, 0)))..
+crime_date(19034254, datime(date(2014, 12, 25, 3, 0, 0))).
 criminal_race(19034254,black).
 num_of_charges(19034254, 4).
 has_arrest(hx534334, 19026517).
-crime_date(19026517, datime(date(2014, 12, 10, 11, 45, 0)))..
+crime_date(19026517, datime(date(2014, 12, 10, 11, 45, 0))).
 criminal_race(19026517,black).
 num_of_charges(19026517, 4).
 has_arrest(je142537, 30049475).
-crime_date(30049475, datime(date(2021, 5, 5, 15, 40, 0)))..
+crime_date(30049475, datime(date(2021, 5, 5, 15, 40, 0))).
 criminal_race(30049475,black).
 num_of_charges(30049475, 4).
 has_arrest(jd222763, 30049678).
-crime_date(30049678, datime(date(2021, 5, 6, 11, 30, 0)))..
+crime_date(30049678, datime(date(2021, 5, 6, 11, 30, 0))).
 criminal_race(30049678,black).
 num_of_charges(30049678, 4).
 has_arrest(jd374979, 30049797).
-crime_date(30049797, datime(date(2021, 5, 6, 19, 45, 0)))..
+crime_date(30049797, datime(date(2021, 5, 6, 19, 45, 0))).
 criminal_race(30049797,black).
 num_of_charges(30049797, 4).
 has_arrest(je297155, 30067876).
-crime_date(30067876, datime(date(2021, 7, 10, 20, 0, 0)))..
+crime_date(30067876, datime(date(2021, 7, 10, 20, 0, 0))).
 criminal_race(30067876,black).
 num_of_charges(30067876, 4).
 has_arrest(hx410381, 19059878).
-crime_date(19059878, datime(date(2015, 2, 10, 21, 15, 0)))..
+crime_date(19059878, datime(date(2015, 2, 10, 21, 15, 0))).
 criminal_race(19059878,black).
 num_of_charges(19059878, 4).
 has_arrest(hx404404, 19059550).
-crime_date(19059550, datime(date(2015, 2, 10, 11, 10, 0)))..
+crime_date(19059550, datime(date(2015, 2, 10, 11, 10, 0))).
 criminal_race(19059550,black).
 num_of_charges(19059550, 4).
 has_arrest(hx383582, 19053226).
-crime_date(19053226, datime(date(2015, 1, 29, 9, 15, 0)))..
+crime_date(19053226, datime(date(2015, 1, 29, 9, 15, 0))).
 criminal_race(19053226,black).
 num_of_charges(19053226, 4).
 has_arrest(hw579790, 19056968).
-crime_date(19056968, datime(date(2015, 2, 5, 20, 3, 0)))..
+crime_date(19056968, datime(date(2015, 2, 5, 20, 3, 0))).
 criminal_race(19056968,black).
 num_of_charges(19056968, 4).
 has_arrest(hy114577, 19043792).
-crime_date(19043792, datime(date(2015, 1, 14, 12, 14, 0)))..
+crime_date(19043792, datime(date(2015, 1, 14, 12, 14, 0))).
 criminal_race(19043792,black).
 num_of_charges(19043792, 4).
 has_arrest(je224125, 30050385).
-crime_date(30050385, datime(date(2021, 5, 9, 7, 15, 0)))..
+crime_date(30050385, datime(date(2021, 5, 9, 7, 15, 0))).
 criminal_race(30050385,black).
 num_of_charges(30050385, 4).
 has_arrest(je224429, 30050399).
-crime_date(30050399, datime(date(2021, 5, 9, 9, 31, 0)))..
+crime_date(30050399, datime(date(2021, 5, 9, 9, 31, 0))).
 criminal_race(30050399,black).
 num_of_charges(30050399, 4).
 has_arrest(hy144738, 19060237).
-crime_date(19060237, datime(date(2015, 2, 11, 9, 40, 0)))..
+crime_date(19060237, datime(date(2015, 2, 11, 9, 40, 0))).
 criminal_race(19060237,white_hispanic).
 num_of_charges(19060237, 4).
 has_arrest(je286022, 30068160).
-crime_date(30068160, datime(date(2021, 7, 12, 16, 30, 0)))..
+crime_date(30068160, datime(date(2021, 7, 12, 16, 30, 0))).
 criminal_race(30068160,white_hispanic).
 num_of_charges(30068160, 4).
 has_arrest(je226457, 30050897).
-crime_date(30050897, datime(date(2021, 5, 11, 9, 50, 0)))..
+crime_date(30050897, datime(date(2021, 5, 11, 9, 50, 0))).
 criminal_race(30050897,black).
 num_of_charges(30050897, 4).
 has_arrest(ht598720, 30068296).
-crime_date(30068296, datime(date(2021, 7, 13, 10, 40, 0)))..
+crime_date(30068296, datime(date(2021, 7, 13, 10, 40, 0))).
 criminal_race(30068296,black).
 num_of_charges(30068296, 4).
 has_arrest(jb333435, 19692766).
-crime_date(19692766, datime(date(2018, 8, 24, 12, 40, 0)))..
+crime_date(19692766, datime(date(2018, 8, 24, 12, 40, 0))).
 criminal_race(19692766,black).
 num_of_charges(19692766, 4).
 has_arrest(je300304, 30068374).
-crime_date(30068374, datime(date(2021, 7, 13, 16, 52, 0)))..
+crime_date(30068374, datime(date(2021, 7, 13, 16, 52, 0))).
 criminal_race(30068374,black).
 num_of_charges(30068374, 4).
 has_arrest(jd298408, 30051333).
-crime_date(30051333, datime(date(2021, 5, 12, 18, 25, 0)))..
+crime_date(30051333, datime(date(2021, 5, 12, 18, 25, 0))).
 criminal_race(30051333,black).
 num_of_charges(30051333, 4).
 has_arrest(jd468564, 30051209).
-crime_date(30051209, datime(date(2021, 5, 12, 10, 19, 0)))..
+crime_date(30051209, datime(date(2021, 5, 12, 10, 19, 0))).
 criminal_race(30051209,black).
 num_of_charges(30051209, 4).
 has_arrest(je190690, 30051205).
-crime_date(30051205, datime(date(2021, 5, 12, 10, 39, 0)))..
+crime_date(30051205, datime(date(2021, 5, 12, 10, 39, 0))).
 criminal_race(30051205,black).
 num_of_charges(30051205, 4).
 has_arrest(ht598720, 30068298).
-crime_date(30068298, datime(date(2021, 7, 13, 10, 55, 0)))..
+crime_date(30068298, datime(date(2021, 7, 13, 10, 55, 0))).
 criminal_race(30068298,black).
 num_of_charges(30068298, 4).
 has_arrest(jf260542, 30147811).
-crime_date(30147811, datime(date(2022, 5, 29, 22, 12, 0)))..
+crime_date(30147811, datime(date(2022, 5, 29, 22, 12, 0))).
 criminal_race(30147811,white_hispanic).
 num_of_charges(30147811, 4).
 has_arrest(je374054, 30089174).
-crime_date(30089174, datime(date(2021, 10, 9, 13, 15, 0)))..
+crime_date(30089174, datime(date(2021, 10, 9, 13, 15, 0))).
 criminal_race(30089174,white_hispanic).
 num_of_charges(30089174, 4).
 has_arrest(hy176495, 19074262).
-crime_date(19074262, datime(date(2015, 3, 8, 16, 11, 0)))..
+crime_date(19074262, datime(date(2015, 3, 8, 16, 11, 0))).
 criminal_race(19074262,black).
 num_of_charges(19074262, 4).
 has_arrest(hy179464, 19075746).
-crime_date(19075746, datime(date(2015, 3, 10, 22, 8, 0)))..
+crime_date(19075746, datime(date(2015, 3, 10, 22, 8, 0))).
 criminal_race(19075746,white_hispanic).
 num_of_charges(19075746, 4).
 has_arrest(je214310, 30051481).
-crime_date(30051481, datime(date(2021, 5, 13, 10, 20, 0)))..
+crime_date(30051481, datime(date(2021, 5, 13, 10, 20, 0))).
 criminal_race(30051481,black).
 num_of_charges(30051481, 4).
 has_arrest(je155477, 30051584).
-crime_date(30051584, datime(date(2021, 5, 13, 15, 58, 0)))..
+crime_date(30051584, datime(date(2021, 5, 13, 15, 58, 0))).
 criminal_race(30051584,black).
 num_of_charges(30051584, 4).
 has_arrest(je301150, 30068597).
-crime_date(30068597, datime(date(2021, 7, 14, 13, 5, 0)))..
+crime_date(30068597, datime(date(2021, 7, 14, 13, 5, 0))).
 criminal_race(30068597,black).
 num_of_charges(30068597, 4).
 has_arrest(je105104, 30068633).
-crime_date(30068633, datime(date(2021, 7, 14, 16, 0, 0)))..
+crime_date(30068633, datime(date(2021, 7, 14, 16, 0, 0))).
 criminal_race(30068633,black).
 num_of_charges(30068633, 4).
 has_arrest(je114885, 30051835).
-crime_date(30051835, datime(date(2021, 5, 14, 13, 49, 0)))..
+crime_date(30051835, datime(date(2021, 5, 14, 13, 49, 0))).
 criminal_race(30051835,white_hispanic).
 num_of_charges(30051835, 4).
 has_arrest(je230500, 30052030).
-crime_date(30052030, datime(date(2021, 5, 14, 23, 51, 0)))..
+crime_date(30052030, datime(date(2021, 5, 14, 23, 51, 0))).
 criminal_race(30052030,black).
 num_of_charges(30052030, 4).
 has_arrest(jd101694, 30068892).
-crime_date(30068892, datime(date(2021, 7, 15, 18, 27, 0)))..
+crime_date(30068892, datime(date(2021, 7, 15, 18, 27, 0))).
 criminal_race(30068892,black).
 num_of_charges(30068892, 4).
 has_arrest(je231713, 30052334).
-crime_date(30052334, datime(date(2021, 5, 16, 7, 24, 0)))..
+crime_date(30052334, datime(date(2021, 5, 16, 7, 24, 0))).
 criminal_race(30052334,white_hispanic).
 num_of_charges(30052334, 4).
 has_arrest(je304077, 30069187).
-crime_date(30069187, datime(date(2021, 7, 17, 1, 54, 0)))..
+crime_date(30069187, datime(date(2021, 7, 17, 1, 54, 0))).
 criminal_race(30069187,black).
 num_of_charges(30069187, 4).
 has_arrest(je223102, 30053643).
-crime_date(30053643, datime(date(2021, 5, 20, 23, 30, 0)))..
+crime_date(30053643, datime(date(2021, 5, 20, 23, 30, 0))).
 criminal_race(30053643,black).
 num_of_charges(30053643, 4).
 has_arrest(jd322111, 30053432).
-crime_date(30053432, datime(date(2021, 5, 20, 10, 15, 0)))..
+crime_date(30053432, datime(date(2021, 5, 20, 10, 15, 0))).
 criminal_race(30053432,white_hispanic).
 num_of_charges(30053432, 4).
 has_arrest(hy126444, 19072360).
-crime_date(19072360, datime(date(2015, 3, 5, 17, 30, 0)))..
+crime_date(19072360, datime(date(2015, 3, 5, 17, 30, 0))).
 criminal_race(19072360,white_hispanic).
 num_of_charges(19072360, 4).
 has_arrest(jf107391, 30109741).
-crime_date(30109741, datime(date(2022, 1, 9, 12, 27, 0)))..
+crime_date(30109741, datime(date(2022, 1, 9, 12, 27, 0))).
 criminal_race(30109741,black).
 num_of_charges(30109741, 4).
 has_arrest(je233558, 30053828).
-crime_date(30053828, datime(date(2021, 5, 21, 15, 15, 0)))..
+crime_date(30053828, datime(date(2021, 5, 21, 15, 15, 0))).
 criminal_race(30053828,black).
 num_of_charges(30053828, 4).
 has_arrest(hy170400, 19071159).
-crime_date(19071159, datime(date(2015, 3, 3, 14, 0, 0)))..
+crime_date(19071159, datime(date(2015, 3, 3, 14, 0, 0))).
 criminal_race(19071159,black).
 num_of_charges(19071159, 4).
 has_arrest(je305600, 30069483).
-crime_date(30069483, datime(date(2021, 7, 18, 13, 19, 0)))..
+crime_date(30069483, datime(date(2021, 7, 18, 13, 19, 0))).
 criminal_race(30069483,black).
 num_of_charges(30069483, 4).
 has_arrest(je393859, 30089609).
-crime_date(30089609, datime(date(2021, 10, 11, 11, 10, 0)))..
+crime_date(30089609, datime(date(2021, 10, 11, 11, 10, 0))).
 criminal_race(30089609,black).
 num_of_charges(30089609, 4).
 has_arrest(hy256785, 19113421).
-crime_date(19113421, datime(date(2015, 5, 12, 12, 6, 0)))..
+crime_date(19113421, datime(date(2015, 5, 12, 12, 6, 0))).
 criminal_race(19113421,black).
 num_of_charges(19113421, 4).
 has_arrest(hx372443, 19091247).
-crime_date(19091247, datime(date(2015, 4, 4, 14, 37, 0)))..
+crime_date(19091247, datime(date(2015, 4, 4, 14, 37, 0))).
 criminal_race(19091247,black).
 num_of_charges(19091247, 4).
 has_arrest(je230530, 30054040).
-crime_date(30054040, datime(date(2021, 5, 22, 9, 57, 0)))..
+crime_date(30054040, datime(date(2021, 5, 22, 9, 57, 0))).
 criminal_race(30054040,black).
 num_of_charges(30054040, 4).
 has_arrest(hy256026, 19114141).
-crime_date(19114141, datime(date(2015, 5, 13, 15, 40, 0)))..
+crime_date(19114141, datime(date(2015, 5, 13, 15, 40, 0))).
 criminal_race(19114141,white_hispanic).
 num_of_charges(19114141, 4).
 has_arrest(je300498, 30069733).
-crime_date(30069733, datime(date(2021, 7, 19, 18, 25, 0)))..
+crime_date(30069733, datime(date(2021, 7, 19, 18, 25, 0))).
 criminal_race(30069733,white_hispanic).
 num_of_charges(30069733, 4).
 has_arrest(je203123, 30069752).
-crime_date(30069752, datime(date(2021, 7, 19, 19, 54, 0)))..
+crime_date(30069752, datime(date(2021, 7, 19, 19, 54, 0))).
 criminal_race(30069752,black).
 num_of_charges(30069752, 4).
 has_arrest(je260552, 30069633).
-crime_date(30069633, datime(date(2021, 7, 19, 10, 0, 0)))..
+crime_date(30069633, datime(date(2021, 7, 19, 10, 0, 0))).
 criminal_race(30069633,white_hispanic).
 num_of_charges(30069633, 4).
 has_arrest(jc346588, 30127917).
-crime_date(30127917, datime(date(2022, 3, 21, 15, 0, 0)))..
+crime_date(30127917, datime(date(2022, 3, 21, 15, 0, 0))).
 criminal_race(30127917,black).
 num_of_charges(30127917, 4).
 has_arrest(jf328031, 30169468).
-crime_date(30169468, datime(date(2022, 8, 17, 13, 9, 0)))..
+crime_date(30169468, datime(date(2022, 8, 17, 13, 9, 0))).
 criminal_race(30169468,black).
 num_of_charges(30169468, 4).
 has_arrest(hy176789, 19101270).
-crime_date(19101270, datime(date(2015, 4, 21, 15, 45, 0)))..
+crime_date(19101270, datime(date(2015, 4, 21, 15, 45, 0))).
 criminal_race(19101270,white).
 num_of_charges(19101270, 4).
 has_arrest(je239450, 30054279).
-crime_date(30054279, datime(date(2021, 5, 23, 1, 27, 0)))..
+crime_date(30054279, datime(date(2021, 5, 23, 1, 27, 0))).
 criminal_race(30054279,black).
 num_of_charges(30054279, 4).
 has_arrest(jf181234, 30127837).
-crime_date(30127837, datime(date(2022, 3, 21, 10, 2, 0)))..
+crime_date(30127837, datime(date(2022, 3, 21, 10, 2, 0))).
 criminal_race(30127837,black).
 num_of_charges(30127837, 4).
 has_arrest(je158254, 30069951).
-crime_date(30069951, datime(date(2021, 7, 20, 16, 50, 0)))..
+crime_date(30069951, datime(date(2021, 7, 20, 16, 50, 0))).
 criminal_race(30069951,white_hispanic).
 num_of_charges(30069951, 4).
 has_arrest(hy243989, 19107632).
-crime_date(19107632, datime(date(2015, 5, 2, 10, 15, 0)))..
+crime_date(19107632, datime(date(2015, 5, 2, 10, 15, 0))).
 criminal_race(19107632,black).
 num_of_charges(19107632, 4).
 has_arrest(je190465, 30070103).
-crime_date(30070103, datime(date(2021, 7, 21, 8, 56, 0)))..
+crime_date(30070103, datime(date(2021, 7, 21, 8, 56, 0))).
 criminal_race(30070103,black).
 num_of_charges(30070103, 4).
 has_arrest(je239449, 30070162).
-crime_date(30070162, datime(date(2021, 7, 21, 13, 5, 0)))..
+crime_date(30070162, datime(date(2021, 7, 21, 13, 5, 0))).
 criminal_race(30070162,black).
 num_of_charges(30070162, 4).
 has_arrest(hy256632, 19113255).
-crime_date(19113255, datime(date(2015, 5, 12, 1, 13, 0)))..
+crime_date(19113255, datime(date(2015, 5, 12, 1, 13, 0))).
 criminal_race(19113255,white_hispanic).
 num_of_charges(19113255, 4).
 has_arrest(hy240344, 19109114).
-crime_date(19109114, datime(date(2015, 5, 5, 10, 15, 0)))..
+crime_date(19109114, datime(date(2015, 5, 5, 10, 15, 0))).
 criminal_race(19109114,black).
 num_of_charges(19109114, 4).
 has_arrest(jd150261, 30055348).
-crime_date(30055348, datime(date(2021, 5, 26, 12, 53, 0)))..
+crime_date(30055348, datime(date(2021, 5, 26, 12, 53, 0))).
 criminal_race(30055348,black).
 num_of_charges(30055348, 4).
 has_arrest(je188599, 30055540).
-crime_date(30055540, datime(date(2021, 5, 26, 23, 51, 0)))..
+crime_date(30055540, datime(date(2021, 5, 26, 23, 51, 0))).
 criminal_race(30055540,black).
 num_of_charges(30055540, 4).
 has_arrest(je200739, 30055418).
-crime_date(30055418, datime(date(2021, 5, 26, 16, 30, 0)))..
+crime_date(30055418, datime(date(2021, 5, 26, 16, 30, 0))).
 criminal_race(30055418,black).
 num_of_charges(30055418, 4).
 has_arrest(je103396, 30055247).
-crime_date(30055247, datime(date(2021, 5, 26, 7, 45, 0)))..
+crime_date(30055247, datime(date(2021, 5, 26, 7, 45, 0))).
 criminal_race(30055247,black).
 num_of_charges(30055247, 4).
 has_arrest(jd469460, 30070426).
-crime_date(30070426, datime(date(2021, 7, 22, 12, 5, 0)))..
+crime_date(30070426, datime(date(2021, 7, 22, 12, 5, 0))).
 criminal_race(30070426,white_hispanic).
 num_of_charges(30070426, 4).
 has_arrest(hy321050, 19142051).
-crime_date(19142051, datime(date(2015, 6, 29, 18, 0, 0)))..
+crime_date(19142051, datime(date(2015, 6, 29, 18, 0, 0))).
 criminal_race(19142051,black).
 num_of_charges(19142051, 4).
 has_arrest(je301085, 30074889).
-crime_date(30074889, datime(date(2021, 8, 10, 11, 40, 0)))..
+crime_date(30074889, datime(date(2021, 8, 10, 11, 40, 0))).
 criminal_race(30074889,black).
 num_of_charges(30074889, 4).
 has_arrest(je244256, 30055629).
-crime_date(30055629, datime(date(2021, 5, 27, 3, 5, 0)))..
+crime_date(30055629, datime(date(2021, 5, 27, 3, 5, 0))).
 criminal_race(30055629,black).
 num_of_charges(30055629, 4).
 has_arrest(hy275006, 19123196).
-crime_date(19123196, datime(date(2015, 5, 28, 8, 10, 0)))..
+crime_date(19123196, datime(date(2015, 5, 28, 8, 10, 0))).
 criminal_race(19123196,black).
 num_of_charges(19123196, 4).
 has_arrest(je407860, 30090087).
-crime_date(30090087, datime(date(2021, 10, 13, 9, 5, 0)))..
+crime_date(30090087, datime(date(2021, 10, 13, 9, 5, 0))).
 criminal_race(30090087,black).
 num_of_charges(30090087, 4).
 has_arrest(je311442, 30070761).
-crime_date(30070761, datime(date(2021, 7, 23, 15, 25, 0)))..
+crime_date(30070761, datime(date(2021, 7, 23, 15, 25, 0))).
 criminal_race(30070761,white_hispanic).
 num_of_charges(30070761, 4).
 has_arrest(je366623, 30110109).
-crime_date(30110109, datime(date(2022, 1, 11, 12, 35, 0)))..
+crime_date(30110109, datime(date(2022, 1, 11, 12, 35, 0))).
 criminal_race(30110109,black).
 num_of_charges(30110109, 4).
 has_arrest(hy303888, 19138083).
-crime_date(19138083, datime(date(2015, 6, 22, 23, 5, 0)))..
+crime_date(19138083, datime(date(2015, 6, 22, 23, 5, 0))).
 criminal_race(19138083,black).
 num_of_charges(19138083, 4).
 has_arrest(hy269795, 19119339).
-crime_date(19119339, datime(date(2015, 5, 21, 19, 43, 0)))..
+crime_date(19119339, datime(date(2015, 5, 21, 19, 43, 0))).
 criminal_race(19119339,black).
 num_of_charges(19119339, 4).
 has_arrest(je216510, 30056550).
-crime_date(30056550, datime(date(2021, 5, 30, 18, 36, 0)))..
+crime_date(30056550, datime(date(2021, 5, 30, 18, 36, 0))).
 criminal_race(30056550,black).
 num_of_charges(30056550, 4).
 has_arrest(hy208263, 19118920).
-crime_date(19118920, datime(date(2015, 5, 21, 11, 11, 0)))..
+crime_date(19118920, datime(date(2015, 5, 21, 11, 11, 0))).
 criminal_race(19118920,black).
 num_of_charges(19118920, 4).
 has_arrest(je247878, 30056491).
-crime_date(30056491, datime(date(2021, 5, 30, 13, 30, 0)))..
+crime_date(30056491, datime(date(2021, 5, 30, 13, 30, 0))).
 criminal_race(30056491,black).
 num_of_charges(30056491, 4).
 has_arrest(hy313340, 19138747).
-crime_date(19138747, datime(date(2015, 6, 23, 23, 45, 0)))..
+crime_date(19138747, datime(date(2015, 6, 23, 23, 45, 0))).
 criminal_race(19138747,black).
 num_of_charges(19138747, 4).
 has_arrest(hy289774, 19128551).
-crime_date(19128551, datime(date(2015, 6, 6, 2, 58, 0)))..
+crime_date(19128551, datime(date(2015, 6, 6, 2, 58, 0))).
 criminal_race(19128551,black).
 num_of_charges(19128551, 4).
 has_arrest(je313919, 30071224).
-crime_date(30071224, datime(date(2021, 7, 25, 18, 2, 0)))..
+crime_date(30071224, datime(date(2021, 7, 25, 18, 2, 0))).
 criminal_race(30071224,white_hispanic).
 num_of_charges(30071224, 4).
 has_arrest(jf103620, 30169538).
-crime_date(30169538, datime(date(2022, 8, 17, 8, 45, 0)))..
+crime_date(30169538, datime(date(2022, 8, 17, 8, 45, 0))).
 criminal_race(30169538,black).
 num_of_charges(30169538, 4).
 has_arrest(je248537, 30056709).
-crime_date(30056709, datime(date(2021, 5, 31, 4, 32, 0)))..
+crime_date(30056709, datime(date(2021, 5, 31, 4, 32, 0))).
 criminal_race(30056709,white_hispanic).
 num_of_charges(30056709, 4).
 has_arrest(je248920, 30056794).
-crime_date(30056794, datime(date(2021, 5, 31, 14, 5, 0)))..
+crime_date(30056794, datime(date(2021, 5, 31, 14, 5, 0))).
 criminal_race(30056794,black).
 num_of_charges(30056794, 4).
 has_arrest(je148087, 30110311).
-crime_date(30110311, datime(date(2022, 1, 12, 13, 15, 0)))..
+crime_date(30110311, datime(date(2022, 1, 12, 13, 15, 0))).
 criminal_race(30110311,white_hispanic).
 num_of_charges(30110311, 4).
 has_arrest(je248537, 30056708).
-crime_date(30056708, datime(date(2021, 5, 31, 4, 32, 0)))..
+crime_date(30056708, datime(date(2021, 5, 31, 4, 32, 0))).
 criminal_race(30056708,white_hispanic).
 num_of_charges(30056708, 4).
 has_arrest(hy332448, 19148162).
-crime_date(19148162, datime(date(2015, 7, 9, 11, 4, 0)))..
+crime_date(19148162, datime(date(2015, 7, 9, 11, 4, 0))).
 criminal_race(19148162,black).
 num_of_charges(19148162, 4).
 has_arrest(hy329358, 19163982).
-crime_date(19163982, datime(date(2015, 8, 5, 8, 45, 0)))..
+crime_date(19163982, datime(date(2015, 8, 5, 8, 45, 0))).
 criminal_race(19163982,black).
 num_of_charges(19163982, 4).
 has_arrest(je249466, 30056939).
-crime_date(30056939, datime(date(2021, 6, 1, 1, 23, 0)))..
+crime_date(30056939, datime(date(2021, 6, 1, 1, 23, 0))).
 criminal_race(30056939,black).
 num_of_charges(30056939, 4).
 has_arrest(jd225846, 30057076).
-crime_date(30057076, datime(date(2021, 6, 1, 14, 43, 0)))..
+crime_date(30057076, datime(date(2021, 6, 1, 14, 43, 0))).
 criminal_race(30057076,black).
 num_of_charges(30057076, 4).
 has_arrest(hy328004, 19145663).
-crime_date(19145663, datime(date(2015, 7, 5, 2, 10, 0)))..
+crime_date(19145663, datime(date(2015, 7, 5, 2, 10, 0))).
 criminal_race(19145663,black).
 num_of_charges(19145663, 4).
 has_arrest(hw567559, 19142264).
-crime_date(19142264, datime(date(2015, 6, 29, 22, 15, 0)))..
+crime_date(19142264, datime(date(2015, 6, 29, 22, 15, 0))).
 criminal_race(19142264,white).
 num_of_charges(19142264, 4).
 has_arrest(hz324361, 19333413).
-crime_date(19333413, datime(date(2016, 6, 26, 15, 18, 0)))..
+crime_date(19333413, datime(date(2016, 6, 26, 15, 18, 0))).
 criminal_race(19333413,black).
 num_of_charges(19333413, 4).
 has_arrest(je250593, 30057248).
-crime_date(30057248, datime(date(2021, 6, 2, 1, 21, 0)))..
+crime_date(30057248, datime(date(2021, 6, 2, 1, 21, 0))).
 criminal_race(30057248,black).
 num_of_charges(30057248, 4).
 has_arrest(je376264, 30090612).
-crime_date(30090612, datime(date(2021, 10, 15, 15, 29, 0)))..
+crime_date(30090612, datime(date(2021, 10, 15, 15, 29, 0))).
 criminal_race(30090612,black).
 num_of_charges(30090612, 4).
 has_arrest(je272404, 30071804).
-crime_date(30071804, datime(date(2021, 7, 27, 22, 28, 0)))..
+crime_date(30071804, datime(date(2021, 7, 27, 22, 28, 0))).
 criminal_race(30071804,white_hispanic).
 num_of_charges(30071804, 4).
 has_arrest(je316488, 30071761).
-crime_date(30071761, datime(date(2021, 7, 27, 19, 20, 0)))..
+crime_date(30071761, datime(date(2021, 7, 27, 19, 20, 0))).
 criminal_race(30071761,black).
 num_of_charges(30071761, 4).
 has_arrest(hy369725, 19163986).
-crime_date(19163986, datime(date(2015, 8, 5, 9, 42, 0)))..
+crime_date(19163986, datime(date(2015, 8, 5, 9, 42, 0))).
 criminal_race(19163986,black).
 num_of_charges(19163986, 4).
 has_arrest(hy359179, 19159511).
-crime_date(19159511, datime(date(2015, 7, 28, 14, 38, 0)))..
+crime_date(19159511, datime(date(2015, 7, 28, 14, 38, 0))).
 criminal_race(19159511,white).
 num_of_charges(19159511, 4).
 has_arrest(hy272649, 19153475).
-crime_date(19153475, datime(date(2015, 7, 17, 22, 50, 0)))..
+crime_date(19153475, datime(date(2015, 7, 17, 22, 50, 0))).
 criminal_race(19153475,white_hispanic).
 num_of_charges(19153475, 4).
 has_arrest(hy351628, 19156327).
-crime_date(19156327, datime(date(2015, 7, 23, 1, 13, 0)))..
+crime_date(19156327, datime(date(2015, 7, 23, 1, 13, 0))).
 criminal_race(19156327,black).
 num_of_charges(19156327, 4).
 has_arrest(je304082, 30071619).
-crime_date(30071619, datime(date(2021, 7, 27, 11, 1, 0)))..
+crime_date(30071619, datime(date(2021, 7, 27, 11, 1, 0))).
 criminal_race(30071619,black).
 num_of_charges(30071619, 4).
 has_arrest(hy340917, 19154657).
-crime_date(19154657, datime(date(2015, 7, 20, 11, 35, 0)))..
+crime_date(19154657, datime(date(2015, 7, 20, 11, 35, 0))).
 criminal_race(19154657,white_hispanic).
 num_of_charges(19154657, 4).
 has_arrest(je481934, 30110257).
-crime_date(30110257, datime(date(2022, 1, 12, 9, 41, 0)))..
+crime_date(30110257, datime(date(2022, 1, 12, 9, 41, 0))).
 criminal_race(30110257,black).
 num_of_charges(30110257, 4).
 has_arrest(je216510, 30058010).
-crime_date(30058010, datime(date(2021, 6, 4, 19, 7, 0)))..
+crime_date(30058010, datime(date(2021, 6, 4, 19, 7, 0))).
 criminal_race(30058010,black).
 num_of_charges(30058010, 4).
 has_arrest(je254131, 30058065).
-crime_date(30058065, datime(date(2021, 6, 4, 23, 10, 0)))..
+crime_date(30058065, datime(date(2021, 6, 4, 23, 10, 0))).
 criminal_race(30058065,black).
 num_of_charges(30058065, 4).
 has_arrest(hy393620, 19174440).
-crime_date(19174440, datime(date(2015, 8, 22, 23, 0, 0)))..
+crime_date(19174440, datime(date(2015, 8, 22, 23, 0, 0))).
 criminal_race(19174440,black).
 num_of_charges(19174440, 4).
 has_arrest(hy410830, 19185935).
-crime_date(19185935, datime(date(2015, 9, 11, 14, 0, 0)))..
+crime_date(19185935, datime(date(2015, 9, 11, 14, 0, 0))).
 criminal_race(19185935,white_hispanic).
 num_of_charges(19185935, 4).
 has_arrest(jd418074, 30072001).
-crime_date(30072001, datime(date(2021, 7, 28, 17, 0, 0)))..
+crime_date(30072001, datime(date(2021, 7, 28, 17, 0, 0))).
 criminal_race(30072001,black).
 num_of_charges(30072001, 4).
 has_arrest(je253944, 30058303).
-crime_date(30058303, datime(date(2021, 6, 5, 22, 51, 0)))..
+crime_date(30058303, datime(date(2021, 6, 5, 22, 51, 0))).
 criminal_race(30058303,black).
 num_of_charges(30058303, 4).
 has_arrest(je254325, 30058129).
-crime_date(30058129, datime(date(2021, 6, 5, 7, 15, 0)))..
+crime_date(30058129, datime(date(2021, 6, 5, 7, 15, 0))).
 criminal_race(30058129,black).
 num_of_charges(30058129, 4).
 has_arrest(je216512, 30072002).
-crime_date(30072002, datime(date(2021, 7, 28, 17, 0, 0)))..
+crime_date(30072002, datime(date(2021, 7, 28, 17, 0, 0))).
 criminal_race(30072002,black).
 num_of_charges(30072002, 4).
 has_arrest(jf160262, 30196828).
-crime_date(30196828, datime(date(2022, 11, 27, 10, 53, 0)))..
+crime_date(30196828, datime(date(2022, 11, 27, 10, 53, 0))).
 criminal_race(30196828,black).
 num_of_charges(30196828, 4).
 has_arrest(je230802, 30059005).
-crime_date(30059005, datime(date(2021, 6, 8, 11, 22, 0)))..
+crime_date(30059005, datime(date(2021, 6, 8, 11, 22, 0))).
 criminal_race(30059005,black).
 num_of_charges(30059005, 4).
 has_arrest(jf111748, 30110587).
-crime_date(30110587, datime(date(2022, 1, 13, 17, 3, 0)))..
+crime_date(30110587, datime(date(2022, 1, 13, 17, 3, 0))).
 criminal_race(30110587,black).
 num_of_charges(30110587, 4).
 has_arrest(je238361, 30058912).
-crime_date(30058912, datime(date(2021, 6, 8, 8, 20, 0)))..
+crime_date(30058912, datime(date(2021, 6, 8, 8, 20, 0))).
 criminal_race(30058912,black).
 num_of_charges(30058912, 4).
 has_arrest(je258949, 30059123).
-crime_date(30059123, datime(date(2021, 6, 8, 21, 36, 0)))..
+crime_date(30059123, datime(date(2021, 6, 8, 21, 36, 0))).
 criminal_race(30059123,white_hispanic).
 num_of_charges(30059123, 4).
 has_arrest(hy403984, 19179239).
-crime_date(19179239, datime(date(2015, 8, 31, 0, 6, 0)))..
+crime_date(19179239, datime(date(2015, 8, 31, 0, 6, 0))).
 criminal_race(19179239,black).
 num_of_charges(19179239, 4).
 has_arrest(je230802, 30058986).
-crime_date(30058986, datime(date(2021, 6, 8, 11, 22, 0)))..
+crime_date(30058986, datime(date(2021, 6, 8, 11, 22, 0))).
 criminal_race(30058986,black).
 num_of_charges(30058986, 4).
 has_arrest(je284134, 30110533).
-crime_date(30110533, datime(date(2022, 1, 13, 15, 35, 0)))..
+crime_date(30110533, datime(date(2022, 1, 13, 15, 35, 0))).
 criminal_race(30110533,black).
 num_of_charges(30110533, 4).
 has_arrest(jb214537, 19682062).
-crime_date(19682062, datime(date(2018, 8, 2, 9, 25, 0)))..
+crime_date(19682062, datime(date(2018, 8, 2, 9, 25, 0))).
 criminal_race(19682062,black).
 num_of_charges(19682062, 4).
 has_arrest(je320985, 30072693).
-crime_date(30072693, datime(date(2021, 7, 31, 12, 31, 0)))..
+crime_date(30072693, datime(date(2021, 7, 31, 12, 31, 0))).
 criminal_race(30072693,black).
 num_of_charges(30072693, 4).
 has_arrest(je260552, 30059573).
-crime_date(30059573, datime(date(2021, 6, 10, 9, 30, 0)))..
+crime_date(30059573, datime(date(2021, 6, 10, 9, 30, 0))).
 criminal_race(30059573,white_hispanic).
 num_of_charges(30059573, 4).
 has_arrest(je414041, 30091289).
-crime_date(30091289, datime(date(2021, 10, 18, 15, 35, 0)))..
+crime_date(30091289, datime(date(2021, 10, 18, 15, 35, 0))).
 criminal_race(30091289,black).
 num_of_charges(30091289, 4).
 has_arrest(hy402725, 19196177).
-crime_date(19196177, datime(date(2015, 9, 29, 13, 15, 0)))..
+crime_date(19196177, datime(date(2015, 9, 29, 13, 15, 0))).
 criminal_race(19196177,black).
 num_of_charges(19196177, 4).
 has_arrest(je260552, 30059598).
-crime_date(30059598, datime(date(2021, 6, 10, 9, 25, 0)))..
+crime_date(30059598, datime(date(2021, 6, 10, 9, 25, 0))).
 criminal_race(30059598,white_hispanic).
 num_of_charges(30059598, 4).
 has_arrest(jf524512, 30204087).
-crime_date(30204087, datime(date(2022, 12, 27, 19, 28, 0)))..
+crime_date(30204087, datime(date(2022, 12, 27, 19, 28, 0))).
 criminal_race(30204087,black).
 num_of_charges(30204087, 4).
 has_arrest(je320647, 30072643).
-crime_date(30072643, datime(date(2021, 7, 31, 5, 6, 0)))..
+crime_date(30072643, datime(date(2021, 7, 31, 5, 6, 0))).
 criminal_race(30072643,white_hispanic).
 num_of_charges(30072643, 4).
 has_arrest(hy457333, 19203062).
-crime_date(19203062, datime(date(2015, 10, 10, 23, 1, 0)))..
+crime_date(19203062, datime(date(2015, 10, 10, 23, 1, 0))).
 criminal_race(19203062,black).
 num_of_charges(19203062, 4).
 has_arrest(hy439020, 19194501).
-crime_date(19194501, datime(date(2015, 9, 26, 12, 50, 0)))..
+crime_date(19194501, datime(date(2015, 9, 26, 12, 50, 0))).
 criminal_race(19194501,black).
 num_of_charges(19194501, 4).
 has_arrest(hy473565, 19210281).
-crime_date(19210281, datime(date(2015, 10, 23, 18, 30, 0)))..
+crime_date(19210281, datime(date(2015, 10, 23, 18, 30, 0))).
 criminal_race(19210281,black).
 num_of_charges(19210281, 4).
 has_arrest(je261513, 30059779).
-crime_date(30059779, datime(date(2021, 6, 11, 3, 0, 0)))..
+crime_date(30059779, datime(date(2021, 6, 11, 3, 0, 0))).
 criminal_race(30059779,black).
 num_of_charges(30059779, 4).
 has_arrest(hy440872, 19195342).
-crime_date(19195342, datime(date(2015, 9, 27, 21, 48, 0)))..
+crime_date(19195342, datime(date(2015, 9, 27, 21, 48, 0))).
 criminal_race(19195342,black).
 num_of_charges(19195342, 4).
 has_arrest(hy401444, 19212777).
-crime_date(19212777, datime(date(2015, 10, 28, 11, 30, 0)))..
+crime_date(19212777, datime(date(2015, 10, 28, 11, 30, 0))).
 criminal_race(19212777,black).
 num_of_charges(19212777, 4).
 has_arrest(hy468382, 19209562).
-crime_date(19209562, datime(date(2015, 10, 22, 15, 10, 0)))..
+crime_date(19209562, datime(date(2015, 10, 22, 15, 10, 0))).
 criminal_race(19209562,black).
 num_of_charges(19209562, 4).
 has_arrest(hy437261, 19193712).
-crime_date(19193712, datime(date(2015, 9, 25, 1, 45, 0)))..
+crime_date(19193712, datime(date(2015, 9, 25, 1, 45, 0))).
 criminal_race(19193712,black).
 num_of_charges(19193712, 4).
 has_arrest(hy479938, 19213045).
-crime_date(19213045, datime(date(2015, 10, 28, 15, 15, 0)))..
+crime_date(19213045, datime(date(2015, 10, 28, 15, 15, 0))).
 criminal_race(19213045,black).
 num_of_charges(19213045, 4).
 has_arrest(je322686, 30072993).
-crime_date(30072993, datime(date(2021, 8, 1, 21, 45, 0)))..
+crime_date(30072993, datime(date(2021, 8, 1, 21, 45, 0))).
 criminal_race(30072993,white_hispanic).
 num_of_charges(30072993, 4).
 has_arrest(hy463582, 19205871).
-crime_date(19205871, datime(date(2015, 10, 15, 21, 0, 0)))..
+crime_date(19205871, datime(date(2015, 10, 15, 21, 0, 0))).
 criminal_race(19205871,black).
 num_of_charges(19205871, 4).
 has_arrest(hy452218, 19200610).
-crime_date(19200610, datime(date(2015, 10, 6, 19, 22, 0)))..
+crime_date(19200610, datime(date(2015, 10, 6, 19, 22, 0))).
 criminal_race(19200610,black).
 num_of_charges(19200610, 4).
 has_arrest(je414977, 30091516).
-crime_date(30091516, datime(date(2021, 10, 19, 12, 20, 0)))..
+crime_date(30091516, datime(date(2021, 10, 19, 12, 20, 0))).
 criminal_race(30091516,white_hispanic).
 num_of_charges(30091516, 4).
 has_arrest(hx422932, 19195563).
-crime_date(19195563, datime(date(2015, 9, 28, 10, 45, 0)))..
+crime_date(19195563, datime(date(2015, 9, 28, 10, 45, 0))).
 criminal_race(19195563,black).
 num_of_charges(19195563, 4).
 has_arrest(je133828, 30060540).
-crime_date(30060540, datime(date(2021, 6, 14, 11, 40, 0)))..
+crime_date(30060540, datime(date(2021, 6, 14, 11, 40, 0))).
 criminal_race(30060540,white_hispanic).
 num_of_charges(30060540, 4).
 has_arrest(jd464968, 30060524).
-crime_date(30060524, datime(date(2021, 6, 14, 14, 50, 0)))..
+crime_date(30060524, datime(date(2021, 6, 14, 14, 50, 0))).
 criminal_race(30060524,black).
 num_of_charges(30060524, 4).
 has_arrest(je264958, 30060485).
-crime_date(30060485, datime(date(2021, 6, 14, 1, 30, 0)))..
+crime_date(30060485, datime(date(2021, 6, 14, 1, 30, 0))).
 criminal_race(30060485,black).
 num_of_charges(30060485, 4).
 has_arrest(jd466325, 30060558).
-crime_date(30060558, datime(date(2021, 6, 14, 13, 30, 0)))..
+crime_date(30060558, datime(date(2021, 6, 14, 13, 30, 0))).
 criminal_race(30060558,black).
 num_of_charges(30060558, 4).
 has_arrest(je265031, 30060437).
-crime_date(30060437, datime(date(2021, 6, 14, 0, 35, 0)))..
+crime_date(30060437, datime(date(2021, 6, 14, 0, 35, 0))).
 criminal_race(30060437,black).
 num_of_charges(30060437, 4).
 has_arrest(je265137, 30060516).
-crime_date(30060516, datime(date(2021, 6, 14, 9, 55, 0)))..
+crime_date(30060516, datime(date(2021, 6, 14, 9, 55, 0))).
 criminal_race(30060516,black).
 num_of_charges(30060516, 4).
 has_arrest(je414977, 30091523).
-crime_date(30091523, datime(date(2021, 10, 19, 12, 20, 0)))..
+crime_date(30091523, datime(date(2021, 10, 19, 12, 20, 0))).
 criminal_race(30091523,white_hispanic).
 num_of_charges(30091523, 4).
 has_arrest(je110271, 30060628).
-crime_date(30060628, datime(date(2021, 6, 14, 12, 50, 0)))..
+crime_date(30060628, datime(date(2021, 6, 14, 12, 50, 0))).
 criminal_race(30060628,black).
 num_of_charges(30060628, 4).
 has_arrest(hy487840, 19216282).
-crime_date(19216282, datime(date(2015, 11, 3, 17, 10, 0)))..
+crime_date(19216282, datime(date(2015, 11, 3, 17, 10, 0))).
 criminal_race(19216282,black).
 num_of_charges(19216282, 4).
 has_arrest(hy502554, 19222955).
-crime_date(19222955, datime(date(2015, 11, 15, 15, 4, 0)))..
+crime_date(19222955, datime(date(2015, 11, 15, 15, 4, 0))).
 criminal_race(19222955,black).
 num_of_charges(19222955, 4).
 has_arrest(je326205, 30073662).
-crime_date(30073662, datime(date(2021, 8, 4, 17, 59, 0)))..
+crime_date(30073662, datime(date(2021, 8, 4, 17, 59, 0))).
 criminal_race(30073662,black).
 num_of_charges(30073662, 4).
 has_arrest(je295976, 30073563).
-crime_date(30073563, datime(date(2021, 8, 4, 11, 58, 0)))..
+crime_date(30073563, datime(date(2021, 8, 4, 11, 58, 0))).
 criminal_race(30073563,black).
 num_of_charges(30073563, 4).
 has_arrest(je334069, 30075214).
-crime_date(30075214, datime(date(2021, 8, 11, 17, 0, 0)))..
+crime_date(30075214, datime(date(2021, 8, 11, 17, 0, 0))).
 criminal_race(30075214,black).
 num_of_charges(30075214, 4).
 has_arrest(je334069, 30075213).
-crime_date(30075213, datime(date(2021, 8, 11, 16, 38, 0)))..
+crime_date(30075213, datime(date(2021, 8, 11, 16, 38, 0))).
 criminal_race(30075213,black).
 num_of_charges(30075213, 4).
 has_arrest(je234211, 30061780).
-crime_date(30061780, datime(date(2021, 6, 18, 17, 55, 0)))..
+crime_date(30061780, datime(date(2021, 6, 18, 17, 55, 0))).
 criminal_race(30061780,black).
 num_of_charges(30061780, 4).
 has_arrest(hy451596, 19233338).
-crime_date(19233338, datime(date(2015, 12, 7, 12, 15, 0)))..
+crime_date(19233338, datime(date(2015, 12, 7, 12, 15, 0))).
 criminal_race(19233338,black).
 num_of_charges(19233338, 4).
 has_arrest(hy535398, 19236241).
-crime_date(19236241, datime(date(2015, 12, 13, 10, 8, 0)))..
+crime_date(19236241, datime(date(2015, 12, 13, 10, 8, 0))).
 criminal_race(19236241,black).
 num_of_charges(19236241, 4).
 has_arrest(je165982, 30073818).
-crime_date(30073818, datime(date(2021, 8, 5, 12, 5, 0)))..
+crime_date(30073818, datime(date(2021, 8, 5, 12, 5, 0))).
 criminal_race(30073818,black).
 num_of_charges(30073818, 4).
 has_arrest(je383774, 30091967).
-crime_date(30091967, datime(date(2021, 10, 21, 10, 13, 0)))..
+crime_date(30091967, datime(date(2021, 10, 21, 10, 13, 0))).
 criminal_race(30091967,black).
 num_of_charges(30091967, 4).
 has_arrest(hy483214, 19214382).
-crime_date(19214382, datime(date(2015, 10, 31, 4, 59, 0)))..
+crime_date(19214382, datime(date(2015, 10, 31, 4, 59, 0))).
 criminal_race(19214382,black).
 num_of_charges(19214382, 4).
 has_arrest(hy535251, 19236165).
-crime_date(19236165, datime(date(2015, 12, 13, 3, 15, 0)))..
+crime_date(19236165, datime(date(2015, 12, 13, 3, 15, 0))).
 criminal_race(19236165,black).
 num_of_charges(19236165, 4).
 has_arrest(je271557, 30062023).
-crime_date(30062023, datime(date(2021, 6, 19, 8, 28, 0)))..
+crime_date(30062023, datime(date(2021, 6, 19, 8, 28, 0))).
 criminal_race(30062023,black).
 num_of_charges(30062023, 4).
 has_arrest(hy436629, 19260060).
-crime_date(19260060, datime(date(2016, 2, 4, 21, 44, 0)))..
+crime_date(19260060, datime(date(2016, 2, 4, 21, 44, 0))).
 criminal_race(19260060,black).
 num_of_charges(19260060, 4).
 has_arrest(hz101275, 19258660).
-crime_date(19258660, datime(date(2016, 2, 2, 12, 0, 0)))..
+crime_date(19258660, datime(date(2016, 2, 2, 12, 0, 0))).
 criminal_race(19258660,black).
 num_of_charges(19258660, 4).
 has_arrest(jf382214, 30174552).
-crime_date(30174552, datime(date(2022, 9, 4, 12, 39, 0)))..
+crime_date(30174552, datime(date(2022, 9, 4, 12, 39, 0))).
 criminal_race(30174552,black).
 num_of_charges(30174552, 4).
 has_arrest(hz100185, 19243891).
-crime_date(19243891, datime(date(2016, 1, 1, 7, 15, 0)))..
+crime_date(19243891, datime(date(2016, 1, 1, 7, 15, 0))).
 criminal_race(19243891,black).
 num_of_charges(19243891, 4).
 has_arrest(hz125364, 19255761).
-crime_date(19255761, datime(date(2016, 1, 27, 21, 45, 0)))..
+crime_date(19255761, datime(date(2016, 1, 27, 21, 45, 0))).
 criminal_race(19255761,black).
 num_of_charges(19255761, 4).
 has_arrest(hz126124, 19253683).
-crime_date(19253683, datime(date(2016, 1, 23, 18, 59, 0)))..
+crime_date(19253683, datime(date(2016, 1, 23, 18, 59, 0))).
 criminal_race(19253683,black).
 num_of_charges(19253683, 4).
 has_arrest(hz135118, 19257676).
-crime_date(19257676, datime(date(2016, 1, 31, 10, 0, 0)))..
+crime_date(19257676, datime(date(2016, 1, 31, 10, 0, 0))).
 criminal_race(19257676,black).
 num_of_charges(19257676, 4).
 has_arrest(hz154151, 19265851).
-crime_date(19265851, datime(date(2016, 2, 17, 0, 47, 0)))..
+crime_date(19265851, datime(date(2016, 2, 17, 0, 47, 0))).
 criminal_race(19265851,white).
 num_of_charges(19265851, 4).
 has_arrest(hx160329, 19262215).
-crime_date(19262215, datime(date(2016, 2, 9, 14, 30, 0)))..
+crime_date(19262215, datime(date(2016, 2, 9, 14, 30, 0))).
 criminal_race(19262215,black).
 num_of_charges(19262215, 4).
 has_arrest(hz126483, 19253953).
-crime_date(19253953, datime(date(2016, 1, 24, 0, 5, 0)))..
+crime_date(19253953, datime(date(2016, 1, 24, 0, 5, 0))).
 criminal_race(19253953,black).
 num_of_charges(19253953, 4).
 has_arrest(hy240475, 19247068).
-crime_date(19247068, datime(date(2016, 1, 8, 16, 12, 0)))..
+crime_date(19247068, datime(date(2016, 1, 8, 16, 12, 0))).
 criminal_race(19247068,white_hispanic).
 num_of_charges(19247068, 4).
 has_arrest(hz145832, 19262386).
-crime_date(19262386, datime(date(2016, 2, 9, 16, 0, 0)))..
+crime_date(19262386, datime(date(2016, 2, 9, 16, 0, 0))).
 criminal_race(19262386,black).
 num_of_charges(19262386, 4).
 has_arrest(hz119077, 19251046).
-crime_date(19251046, datime(date(2016, 1, 17, 19, 30, 0)))..
+crime_date(19251046, datime(date(2016, 1, 17, 19, 30, 0))).
 criminal_race(19251046,black).
 num_of_charges(19251046, 4).
 has_arrest(je329873, 30074437).
-crime_date(30074437, datime(date(2021, 8, 7, 20, 53, 0)))..
+crime_date(30074437, datime(date(2021, 8, 7, 20, 53, 0))).
 criminal_race(30074437,black).
 num_of_charges(30074437, 4).
 has_arrest(hz126759, 19254032).
-crime_date(19254032, datime(date(2016, 1, 24, 9, 59, 0)))..
+crime_date(19254032, datime(date(2016, 1, 24, 9, 59, 0))).
 criminal_race(19254032,black).
 num_of_charges(19254032, 4).
 has_arrest(jf409645, 30182655).
-crime_date(30182655, datime(date(2022, 10, 3, 18, 19, 0)))..
+crime_date(30182655, datime(date(2022, 10, 3, 18, 19, 0))).
 criminal_race(30182655,black).
 num_of_charges(30182655, 4).
 has_arrest(hz126483, 19258979).
-crime_date(19258979, datime(date(2016, 2, 3, 9, 0, 0)))..
+crime_date(19258979, datime(date(2016, 2, 3, 9, 0, 0))).
 criminal_race(19258979,black).
 num_of_charges(19258979, 4).
 has_arrest(je329814, 30074373).
-crime_date(30074373, datime(date(2021, 8, 7, 20, 40, 0)))..
+crime_date(30074373, datime(date(2021, 8, 7, 20, 40, 0))).
 criminal_race(30074373,black).
 num_of_charges(30074373, 4).
 has_arrest(hy432752, 19255208).
-crime_date(19255208, datime(date(2016, 1, 26, 16, 40, 0)))..
+crime_date(19255208, datime(date(2016, 1, 26, 16, 40, 0))).
 criminal_race(19255208,black).
 num_of_charges(19255208, 4).
 has_arrest(hy481538, 19258851).
-crime_date(19258851, datime(date(2016, 2, 2, 21, 10, 0)))..
+crime_date(19258851, datime(date(2016, 2, 2, 21, 10, 0))).
 criminal_race(19258851,black).
 num_of_charges(19258851, 4).
 has_arrest(hy456343, 19266117).
-crime_date(19266117, datime(date(2016, 2, 17, 13, 0, 0)))..
+crime_date(19266117, datime(date(2016, 2, 17, 13, 0, 0))).
 criminal_race(19266117,black).
 num_of_charges(19266117, 4).
 has_arrest(hz125402, 19262332).
-crime_date(19262332, datime(date(2016, 2, 9, 11, 0, 0)))..
+crime_date(19262332, datime(date(2016, 2, 9, 11, 0, 0))).
 criminal_race(19262332,black).
 num_of_charges(19262332, 4).
 has_arrest(hz131232, 19255821).
-crime_date(19255821, datime(date(2016, 1, 28, 0, 10, 0)))..
+crime_date(19255821, datime(date(2016, 1, 28, 0, 10, 0))).
 criminal_race(19255821,black).
 num_of_charges(19255821, 4).
 has_arrest(hz127959, 19254636).
-crime_date(19254636, datime(date(2016, 1, 25, 11, 30, 0)))..
+crime_date(19254636, datime(date(2016, 1, 25, 11, 30, 0))).
 criminal_race(19254636,black).
 num_of_charges(19254636, 4).
 has_arrest(hx417291, 19259422).
-crime_date(19259422, datime(date(2016, 2, 3, 22, 50, 0)))..
+crime_date(19259422, datime(date(2016, 2, 3, 22, 50, 0))).
 criminal_race(19259422,white_hispanic).
 num_of_charges(19259422, 4).
 has_arrest(jf517494, 30202829).
-crime_date(30202829, datime(date(2022, 12, 20, 14, 0, 0)))..
+crime_date(30202829, datime(date(2022, 12, 20, 14, 0, 0))).
 criminal_race(30202829,black).
 num_of_charges(30202829, 4).
 has_arrest(hy229848, 19262107).
-crime_date(19262107, datime(date(2016, 2, 9, 10, 45, 0)))..
+crime_date(19262107, datime(date(2016, 2, 9, 10, 45, 0))).
 criminal_race(19262107,black).
 num_of_charges(19262107, 4).
 has_arrest(je329873, 30074436).
-crime_date(30074436, datime(date(2021, 8, 7, 20, 55, 0)))..
+crime_date(30074436, datime(date(2021, 8, 7, 20, 55, 0))).
 criminal_race(30074436,black).
 num_of_charges(30074436, 4).
 has_arrest(hz148668, 19265039).
-crime_date(19265039, datime(date(2016, 2, 15, 14, 18, 0)))..
+crime_date(19265039, datime(date(2016, 2, 15, 14, 18, 0))).
 criminal_race(19265039,black).
 num_of_charges(19265039, 4).
 has_arrest(hz127959, 19254608).
-crime_date(19254608, datime(date(2016, 1, 25, 11, 30, 0)))..
+crime_date(19254608, datime(date(2016, 1, 25, 11, 30, 0))).
 criminal_race(19254608,black).
 num_of_charges(19254608, 4).
 has_arrest(hy550751, 19259404).
-crime_date(19259404, datime(date(2016, 2, 3, 20, 58, 0)))..
+crime_date(19259404, datime(date(2016, 2, 3, 20, 58, 0))).
 criminal_race(19259404,black).
 num_of_charges(19259404, 4).
 has_arrest(hy515339, 19251791).
-crime_date(19251791, datime(date(2016, 1, 19, 21, 55, 0)))..
+crime_date(19251791, datime(date(2016, 1, 19, 21, 55, 0))).
 criminal_race(19251791,black).
 num_of_charges(19251791, 4).
 has_arrest(hz131333, 19255913).
-crime_date(19255913, datime(date(2016, 1, 28, 5, 20, 0)))..
+crime_date(19255913, datime(date(2016, 1, 28, 5, 20, 0))).
 criminal_race(19255913,black).
 num_of_charges(19255913, 4).
 has_arrest(hz126153, 19253852).
-crime_date(19253852, datime(date(2016, 1, 23, 23, 34, 0)))..
+crime_date(19253852, datime(date(2016, 1, 23, 23, 34, 0))).
 criminal_race(19253852,black).
 num_of_charges(19253852, 4).
 has_arrest(hz131332, 19256298).
-crime_date(19256298, datime(date(2016, 1, 28, 20, 35, 0)))..
+crime_date(19256298, datime(date(2016, 1, 28, 20, 35, 0))).
 criminal_race(19256298,black).
 num_of_charges(19256298, 4).
 has_arrest(hz129852, 19255722).
-crime_date(19255722, datime(date(2016, 1, 27, 20, 20, 0)))..
+crime_date(19255722, datime(date(2016, 1, 27, 20, 20, 0))).
 criminal_race(19255722,black).
 num_of_charges(19255722, 4).
 has_arrest(hz131332, 19256291).
-crime_date(19256291, datime(date(2016, 1, 28, 20, 35, 0)))..
+crime_date(19256291, datime(date(2016, 1, 28, 20, 35, 0))).
 criminal_race(19256291,black).
 num_of_charges(19256291, 4).
 has_arrest(hy510964, 19252582).
-crime_date(19252582, datime(date(2016, 1, 21, 15, 45, 0)))..
+crime_date(19252582, datime(date(2016, 1, 21, 15, 45, 0))).
 criminal_race(19252582,black).
 num_of_charges(19252582, 4).
 has_arrest(hz109311, 19255426).
-crime_date(19255426, datime(date(2016, 1, 27, 12, 55, 0)))..
+crime_date(19255426, datime(date(2016, 1, 27, 12, 55, 0))).
 criminal_race(19255426,black).
 num_of_charges(19255426, 4).
 has_arrest(je213471, 30062653).
-crime_date(30062653, datime(date(2021, 6, 21, 13, 7, 0)))..
+crime_date(30062653, datime(date(2021, 6, 21, 13, 7, 0))).
 criminal_race(30062653,black).
 num_of_charges(30062653, 4).
 has_arrest(jd382095, 30062571).
-crime_date(30062571, datime(date(2021, 6, 21, 7, 55, 0)))..
+crime_date(30062571, datime(date(2021, 6, 21, 7, 55, 0))).
 criminal_race(30062571,black).
 num_of_charges(30062571, 4).
 has_arrest(je418752, 30092246).
-crime_date(30092246, datime(date(2021, 10, 22, 13, 38, 0)))..
+crime_date(30092246, datime(date(2021, 10, 22, 13, 38, 0))).
 criminal_race(30092246,black).
 num_of_charges(30092246, 4).
 has_arrest(je272404, 30062781).
-crime_date(30062781, datime(date(2021, 6, 21, 22, 55, 0)))..
+crime_date(30062781, datime(date(2021, 6, 21, 22, 55, 0))).
 criminal_race(30062781,white_hispanic).
 num_of_charges(30062781, 4).
 has_arrest(jd382095, 30062573).
-crime_date(30062573, datime(date(2021, 6, 21, 7, 51, 0)))..
+crime_date(30062573, datime(date(2021, 6, 21, 7, 51, 0))).
 criminal_race(30062573,black).
 num_of_charges(30062573, 4).
 has_arrest(jf401101, 30178547).
-crime_date(30178547, datime(date(2022, 9, 18, 16, 40, 0)))..
+crime_date(30178547, datime(date(2022, 9, 18, 16, 40, 0))).
 criminal_race(30178547,black).
 num_of_charges(30178547, 4).
 has_arrest(hz117728, 19252982).
-crime_date(19252982, datime(date(2016, 1, 22, 13, 40, 0)))..
+crime_date(19252982, datime(date(2016, 1, 22, 13, 40, 0))).
 criminal_race(19252982,black).
 num_of_charges(19252982, 4).
 has_arrest(hz154151, 19265842).
-crime_date(19265842, datime(date(2016, 2, 17, 1, 2, 0)))..
+crime_date(19265842, datime(date(2016, 2, 17, 1, 2, 0))).
 criminal_race(19265842,white_hispanic).
 num_of_charges(19265842, 4).
 has_arrest(hz148668, 19265035).
-crime_date(19265035, datime(date(2016, 2, 15, 15, 0, 0)))..
+crime_date(19265035, datime(date(2016, 2, 15, 15, 0, 0))).
 criminal_race(19265035,black).
 num_of_charges(19265035, 4).
 has_arrest(jf487831, 30196522).
-crime_date(30196522, datime(date(2022, 11, 26, 3, 46, 0)))..
+crime_date(30196522, datime(date(2022, 11, 26, 3, 46, 0))).
 criminal_race(30196522,black).
 num_of_charges(30196522, 4).
 has_arrest(hz108458, 19247183).
-crime_date(19247183, datime(date(2016, 1, 8, 15, 5, 0)))..
+crime_date(19247183, datime(date(2016, 1, 8, 15, 5, 0))).
 criminal_race(19247183,black).
 num_of_charges(19247183, 4).
 has_arrest(hy549933, 19241698).
-crime_date(19241698, datime(date(2015, 12, 26, 14, 20, 0)))..
+crime_date(19241698, datime(date(2015, 12, 26, 14, 20, 0))).
 criminal_race(19241698,white_hispanic).
 num_of_charges(19241698, 4).
 has_arrest(je418728, 30092250).
-crime_date(30092250, datime(date(2021, 10, 22, 15, 8, 0)))..
+crime_date(30092250, datime(date(2021, 10, 22, 15, 8, 0))).
 criminal_race(30092250,black).
 num_of_charges(30092250, 4).
 has_arrest(hz144041, 19261578).
-crime_date(19261578, datime(date(2016, 2, 8, 0, 30, 0)))..
+crime_date(19261578, datime(date(2016, 2, 8, 0, 30, 0))).
 criminal_race(19261578,white_hispanic).
 num_of_charges(19261578, 4).
 has_arrest(jf114675, 30111226).
-crime_date(30111226, datime(date(2022, 1, 16, 15, 30, 0)))..
+crime_date(30111226, datime(date(2022, 1, 16, 15, 30, 0))).
 criminal_race(30111226,white_hispanic).
 num_of_charges(30111226, 4).
 has_arrest(hz125364, 19259020).
-crime_date(19259020, datime(date(2016, 2, 3, 10, 30, 0)))..
+crime_date(19259020, datime(date(2016, 2, 3, 10, 30, 0))).
 criminal_race(19259020,black).
 num_of_charges(19259020, 4).
 has_arrest(hz117624, 19250472).
-crime_date(19250472, datime(date(2016, 1, 16, 10, 44, 0)))..
+crime_date(19250472, datime(date(2016, 1, 16, 10, 44, 0))).
 criminal_race(19250472,black).
 num_of_charges(19250472, 4).
 has_arrest(hy404385, 19255528).
-crime_date(19255528, datime(date(2016, 1, 27, 15, 18, 0)))..
+crime_date(19255528, datime(date(2016, 1, 27, 15, 18, 0))).
 criminal_race(19255528,black).
 num_of_charges(19255528, 4).
 has_arrest(je158739, 30062934).
-crime_date(30062934, datime(date(2021, 6, 22, 11, 20, 0)))..
+crime_date(30062934, datime(date(2021, 6, 22, 11, 20, 0))).
 criminal_race(30062934,black).
 num_of_charges(30062934, 4).
 has_arrest(hy491924, 19251364).
-crime_date(19251364, datime(date(2016, 1, 18, 19, 2, 0)))..
+crime_date(19251364, datime(date(2016, 1, 18, 19, 2, 0))).
 criminal_race(19251364,black).
 num_of_charges(19251364, 4).
 has_arrest(jd355518, 30062993).
-crime_date(30062993, datime(date(2021, 6, 22, 19, 5, 0)))..
+crime_date(30062993, datime(date(2021, 6, 22, 19, 5, 0))).
 criminal_race(30062993,black).
 num_of_charges(30062993, 4).
 has_arrest(hz159040, 19267727).
-crime_date(19267727, datime(date(2016, 2, 20, 18, 7, 0)))..
+crime_date(19267727, datime(date(2016, 2, 20, 18, 7, 0))).
 criminal_race(19267727,white_hispanic).
 num_of_charges(19267727, 4).
 has_arrest(hz159836, 19279330).
-crime_date(19279330, datime(date(2016, 3, 14, 13, 20, 0)))..
+crime_date(19279330, datime(date(2016, 3, 14, 13, 20, 0))).
 criminal_race(19279330,white_hispanic).
 num_of_charges(19279330, 4).
 has_arrest(jd348693, 30074661).
-crime_date(30074661, datime(date(2021, 8, 9, 9, 42, 0)))..
+crime_date(30074661, datime(date(2021, 8, 9, 9, 42, 0))).
 criminal_race(30074661,black).
 num_of_charges(30074661, 4).
 has_arrest(hx410692, 19287584).
-crime_date(19287584, datime(date(2016, 3, 30, 14, 0, 0)))..
+crime_date(19287584, datime(date(2016, 3, 30, 14, 0, 0))).
 criminal_race(19287584,white_hispanic).
 num_of_charges(19287584, 4).
 has_arrest(hz130665, 19267708).
-crime_date(19267708, datime(date(2016, 2, 20, 10, 0, 0)))..
+crime_date(19267708, datime(date(2016, 2, 20, 10, 0, 0))).
 criminal_race(19267708,white).
 num_of_charges(19267708, 4).
 has_arrest(hy362660, 19267000).
-crime_date(19267000, datime(date(2016, 2, 19, 11, 0, 0)))..
+crime_date(19267000, datime(date(2016, 2, 19, 11, 0, 0))).
 criminal_race(19267000,black).
 num_of_charges(19267000, 4).
 has_arrest(hz148668, 19269719).
-crime_date(19269719, datime(date(2016, 2, 24, 15, 15, 0)))..
+crime_date(19269719, datime(date(2016, 2, 24, 15, 15, 0))).
 criminal_race(19269719,black).
 num_of_charges(19269719, 4).
 has_arrest(hz191174, 19281103).
-crime_date(19281103, datime(date(2016, 3, 17, 19, 35, 0)))..
+crime_date(19281103, datime(date(2016, 3, 17, 19, 35, 0))).
 criminal_race(19281103,black).
 num_of_charges(19281103, 4).
 has_arrest(hy254768, 19279833).
-crime_date(19279833, datime(date(2016, 3, 15, 14, 10, 0)))..
+crime_date(19279833, datime(date(2016, 3, 15, 14, 10, 0))).
 criminal_race(19279833,black).
 num_of_charges(19279833, 4).
 has_arrest(hw459133, 19290646).
-crime_date(19290646, datime(date(2016, 4, 5, 12, 5, 0)))..
+crime_date(19290646, datime(date(2016, 4, 5, 12, 5, 0))).
 criminal_race(19290646,black).
 num_of_charges(19290646, 4).
 has_arrest(hz172370, 19273395).
-crime_date(19273395, datime(date(2016, 3, 3, 2, 55, 0)))..
+crime_date(19273395, datime(date(2016, 3, 3, 2, 55, 0))).
 criminal_race(19273395,black).
 num_of_charges(19273395, 4).
 has_arrest(hz195073, 19282948).
-crime_date(19282948, datime(date(2016, 3, 21, 4, 30, 0)))..
+crime_date(19282948, datime(date(2016, 3, 21, 4, 30, 0))).
 criminal_race(19282948,black).
 num_of_charges(19282948, 4).
 has_arrest(hz172144, 19290682).
-crime_date(19290682, datime(date(2016, 4, 5, 16, 5, 0)))..
+crime_date(19290682, datime(date(2016, 4, 5, 16, 5, 0))).
 criminal_race(19290682,black).
 num_of_charges(19290682, 4).
 has_arrest(jf261508, 30148053).
-crime_date(30148053, datime(date(2022, 5, 30, 20, 22, 0)))..
+crime_date(30148053, datime(date(2022, 5, 30, 20, 22, 0))).
 criminal_race(30148053,black).
 num_of_charges(30148053, 4).
 has_arrest(hy486445, 19275780).
-crime_date(19275780, datime(date(2016, 3, 7, 10, 30, 0)))..
+crime_date(19275780, datime(date(2016, 3, 7, 10, 30, 0))).
 criminal_race(19275780,black).
 num_of_charges(19275780, 4).
 has_arrest(hz197275, 19287461).
-crime_date(19287461, datime(date(2016, 3, 30, 11, 28, 0)))..
+crime_date(19287461, datime(date(2016, 3, 30, 11, 28, 0))).
 criminal_race(19287461,white_hispanic).
 num_of_charges(19287461, 4).
 has_arrest(hz173882, 19280041).
-crime_date(19280041, datime(date(2016, 3, 15, 19, 30, 0)))..
+crime_date(19280041, datime(date(2016, 3, 15, 19, 30, 0))).
 criminal_race(19280041,black).
 num_of_charges(19280041, 4).
 has_arrest(hz177819, 19279914).
-crime_date(19279914, datime(date(2016, 3, 15, 14, 34, 0)))..
+crime_date(19279914, datime(date(2016, 3, 15, 14, 34, 0))).
 criminal_race(19279914,black).
 num_of_charges(19279914, 4).
 has_arrest(hy251159, 19284477).
-crime_date(19284477, datime(date(2016, 3, 24, 11, 19, 0)))..
+crime_date(19284477, datime(date(2016, 3, 24, 11, 19, 0))).
 criminal_race(19284477,black).
 num_of_charges(19284477, 4).
 has_arrest(je241847, 30075333).
-crime_date(30075333, datime(date(2021, 8, 12, 9, 30, 0)))..
+crime_date(30075333, datime(date(2021, 8, 12, 9, 30, 0))).
 criminal_race(30075333,black).
 num_of_charges(30075333, 4).
 has_arrest(hx410692, 19287742).
-crime_date(19287742, datime(date(2016, 3, 30, 20, 45, 0)))..
+crime_date(19287742, datime(date(2016, 3, 30, 20, 45, 0))).
 criminal_race(19287742,white_hispanic).
 num_of_charges(19287742, 4).
 has_arrest(hz213479, 19290437).
-crime_date(19290437, datime(date(2016, 4, 5, 13, 55, 0)))..
+crime_date(19290437, datime(date(2016, 4, 5, 13, 55, 0))).
 criminal_race(19290437,black).
 num_of_charges(19290437, 4).
 has_arrest(hz217559, 19291922).
-crime_date(19291922, datime(date(2016, 4, 8, 0, 0, 0)))..
+crime_date(19291922, datime(date(2016, 4, 8, 0, 0, 0))).
 criminal_race(19291922,black).
 num_of_charges(19291922, 4).
 has_arrest(je420274, 30092622).
-crime_date(30092622, datime(date(2021, 10, 24, 2, 0, 0)))..
+crime_date(30092622, datime(date(2021, 10, 24, 2, 0, 0))).
 criminal_race(30092622,white_hispanic).
 num_of_charges(30092622, 4).
 has_arrest(hz192432, 19290906).
-crime_date(19290906, datime(date(2016, 4, 6, 10, 3, 0)))..
+crime_date(19290906, datime(date(2016, 4, 6, 10, 3, 0))).
 criminal_race(19290906,white_hispanic).
 num_of_charges(19290906, 4).
 has_arrest(je322863, 30092768).
-crime_date(30092768, datime(date(2021, 10, 24, 19, 20, 0)))..
+crime_date(30092768, datime(date(2021, 10, 24, 19, 20, 0))).
 criminal_race(30092768,black).
 num_of_charges(30092768, 4).
 has_arrest(hz166439, 19277580).
-crime_date(19277580, datime(date(2016, 3, 10, 19, 25, 0)))..
+crime_date(19277580, datime(date(2016, 3, 10, 19, 25, 0))).
 criminal_race(19277580,black).
 num_of_charges(19277580, 4).
 has_arrest(hz215032, 19290824).
-crime_date(19290824, datime(date(2016, 4, 6, 1, 32, 0)))..
+crime_date(19290824, datime(date(2016, 4, 6, 1, 32, 0))).
 criminal_race(19290824,black).
 num_of_charges(19290824, 4).
 has_arrest(hw445591, 19276220).
-crime_date(19276220, datime(date(2016, 3, 8, 11, 40, 0)))..
+crime_date(19276220, datime(date(2016, 3, 8, 11, 40, 0))).
 criminal_race(19276220,black).
 num_of_charges(19276220, 4).
 has_arrest(hz217559, 19291906).
-crime_date(19291906, datime(date(2016, 4, 8, 0, 0, 0)))..
+crime_date(19291906, datime(date(2016, 4, 8, 0, 0, 0))).
 criminal_race(19291906,black).
 num_of_charges(19291906, 4).
 has_arrest(hz197275, 19287462).
-crime_date(19287462, datime(date(2016, 3, 30, 11, 25, 0)))..
+crime_date(19287462, datime(date(2016, 3, 30, 11, 25, 0))).
 criminal_race(19287462,white_hispanic).
 num_of_charges(19287462, 4).
 has_arrest(je362091, 30111440).
-crime_date(30111440, datime(date(2022, 1, 17, 16, 6, 0)))..
+crime_date(30111440, datime(date(2022, 1, 17, 16, 6, 0))).
 criminal_race(30111440,black).
 num_of_charges(30111440, 4).
 has_arrest(hz160570, 19269710).
-crime_date(19269710, datime(date(2016, 2, 24, 13, 10, 0)))..
+crime_date(19269710, datime(date(2016, 2, 24, 13, 10, 0))).
 criminal_race(19269710,black).
 num_of_charges(19269710, 4).
 has_arrest(hz202308, 19285853).
-crime_date(19285853, datime(date(2016, 3, 26, 19, 57, 0)))..
+crime_date(19285853, datime(date(2016, 3, 26, 19, 57, 0))).
 criminal_race(19285853,black).
 num_of_charges(19285853, 4).
 has_arrest(hz192189, 19281632).
-crime_date(19281632, datime(date(2016, 3, 18, 16, 48, 0)))..
+crime_date(19281632, datime(date(2016, 3, 18, 16, 48, 0))).
 criminal_race(19281632,black).
 num_of_charges(19281632, 4).
 has_arrest(hz157916, 19283310).
-crime_date(19283310, datime(date(2016, 3, 21, 22, 10, 0)))..
+crime_date(19283310, datime(date(2016, 3, 21, 22, 10, 0))).
 criminal_race(19283310,black).
 num_of_charges(19283310, 4).
 has_arrest(hy345202, 19283549).
-crime_date(19283549, datime(date(2016, 3, 22, 11, 20, 0)))..
+crime_date(19283549, datime(date(2016, 3, 22, 11, 20, 0))).
 criminal_race(19283549,black).
 num_of_charges(19283549, 4).
 has_arrest(hz197275, 19287266).
-crime_date(19287266, datime(date(2016, 3, 29, 22, 50, 0)))..
+crime_date(19287266, datime(date(2016, 3, 29, 22, 50, 0))).
 criminal_race(19287266,white_hispanic).
 num_of_charges(19287266, 4).
 has_arrest(hx256233, 19292323).
-crime_date(19292323, datime(date(2016, 4, 8, 22, 48, 0)))..
+crime_date(19292323, datime(date(2016, 4, 8, 22, 48, 0))).
 criminal_race(19292323,black).
 num_of_charges(19292323, 4).
 has_arrest(hz181389, 19277182).
-crime_date(19277182, datime(date(2016, 3, 10, 0, 26, 0)))..
+crime_date(19277182, datime(date(2016, 3, 10, 0, 26, 0))).
 criminal_race(19277182,black).
 num_of_charges(19277182, 4).
 has_arrest(hx486894, 19277657).
-crime_date(19277657, datime(date(2016, 3, 10, 21, 41, 0)))..
+crime_date(19277657, datime(date(2016, 3, 10, 21, 41, 0))).
 criminal_race(19277657,black).
 num_of_charges(19277657, 4).
 has_arrest(hz178661, 19275996).
-crime_date(19275996, datime(date(2016, 3, 7, 21, 41, 0)))..
+crime_date(19275996, datime(date(2016, 3, 7, 21, 41, 0))).
 criminal_race(19275996,white_hispanic).
 num_of_charges(19275996, 4).
 has_arrest(hz129852, 19269524).
-crime_date(19269524, datime(date(2016, 2, 23, 20, 25, 0)))..
+crime_date(19269524, datime(date(2016, 2, 23, 20, 25, 0))).
 criminal_race(19269524,black).
 num_of_charges(19269524, 4).
 has_arrest(hz196115, 19283279).
-crime_date(19283279, datime(date(2016, 3, 21, 20, 35, 0)))..
+crime_date(19283279, datime(date(2016, 3, 21, 20, 35, 0))).
 criminal_race(19283279,black).
 num_of_charges(19283279, 4).
 has_arrest(hz179710, 19278060).
-crime_date(19278060, datime(date(2016, 3, 11, 17, 43, 0)))..
+crime_date(19278060, datime(date(2016, 3, 11, 17, 43, 0))).
 criminal_race(19278060,black).
 num_of_charges(19278060, 4).
 has_arrest(hz130665, 19267760).
-crime_date(19267760, datime(date(2016, 2, 20, 10, 50, 0)))..
+crime_date(19267760, datime(date(2016, 2, 20, 10, 50, 0))).
 criminal_race(19267760,white).
 num_of_charges(19267760, 4).
 has_arrest(hz201305, 19285506).
-crime_date(19285506, datime(date(2016, 3, 26, 7, 23, 0)))..
+crime_date(19285506, datime(date(2016, 3, 26, 7, 23, 0))).
 criminal_race(19285506,black).
 num_of_charges(19285506, 4).
 has_arrest(hy408120, 19287046).
-crime_date(19287046, datime(date(2016, 3, 29, 15, 8, 0)))..
+crime_date(19287046, datime(date(2016, 3, 29, 15, 8, 0))).
 criminal_race(19287046,black).
 num_of_charges(19287046, 4).
 has_arrest(hz172144, 19273245).
-crime_date(19273245, datime(date(2016, 3, 2, 18, 8, 0)))..
+crime_date(19273245, datime(date(2016, 3, 2, 18, 8, 0))).
 criminal_race(19273245,black).
 num_of_charges(19273245, 4).
 has_arrest(hz158229, 19267508).
-crime_date(19267508, datime(date(2016, 2, 20, 5, 0, 0)))..
+crime_date(19267508, datime(date(2016, 2, 20, 5, 0, 0))).
 criminal_race(19267508,white_hispanic).
 num_of_charges(19267508, 4).
 has_arrest(hy479938, 19267060).
-crime_date(19267060, datime(date(2016, 2, 19, 13, 20, 0)))..
+crime_date(19267060, datime(date(2016, 2, 19, 13, 20, 0))).
 criminal_race(19267060,black).
 num_of_charges(19267060, 4).
 has_arrest(hx212376, 19290484).
-crime_date(19290484, datime(date(2016, 4, 5, 15, 0, 0)))..
+crime_date(19290484, datime(date(2016, 4, 5, 15, 0, 0))).
 criminal_race(19290484,black).
 num_of_charges(19290484, 4).
 has_arrest(hz197275, 19287457).
-crime_date(19287457, datime(date(2016, 3, 30, 11, 25, 0)))..
+crime_date(19287457, datime(date(2016, 3, 30, 11, 25, 0))).
 criminal_race(19287457,white_hispanic).
 num_of_charges(19287457, 4).
 has_arrest(hz101042, 19290863).
-crime_date(19290863, datime(date(2016, 4, 6, 9, 10, 0)))..
+crime_date(19290863, datime(date(2016, 4, 6, 9, 10, 0))).
 criminal_race(19290863,black).
 num_of_charges(19290863, 4).
 has_arrest(hz207165, 19291463).
-crime_date(19291463, datime(date(2016, 4, 7, 11, 30, 0)))..
+crime_date(19291463, datime(date(2016, 4, 7, 11, 30, 0))).
 criminal_race(19291463,black).
 num_of_charges(19291463, 4).
 has_arrest(hz197571, 19286860).
-crime_date(19286860, datime(date(2016, 3, 29, 10, 20, 0)))..
+crime_date(19286860, datime(date(2016, 3, 29, 10, 20, 0))).
 criminal_race(19286860,white_hispanic).
 num_of_charges(19286860, 4).
 has_arrest(je376637, 30093054).
-crime_date(30093054, datime(date(2021, 10, 26, 10, 30, 0)))..
+crime_date(30093054, datime(date(2021, 10, 26, 10, 30, 0))).
 criminal_race(30093054,white_hispanic).
 num_of_charges(30093054, 4).
 has_arrest(hz205403, 19286934).
-crime_date(19286934, datime(date(2016, 3, 29, 11, 48, 0)))..
+crime_date(19286934, datime(date(2016, 3, 29, 11, 48, 0))).
 criminal_race(19286934,black).
 num_of_charges(19286934, 4).
 has_arrest(hz172634, 19273404).
-crime_date(19273404, datime(date(2016, 3, 3, 3, 20, 0)))..
+crime_date(19273404, datime(date(2016, 3, 3, 3, 20, 0))).
 criminal_race(19273404,white_hispanic).
 num_of_charges(19273404, 4).
 has_arrest(je303782, 30093055).
-crime_date(30093055, datime(date(2021, 10, 26, 11, 0, 0)))..
+crime_date(30093055, datime(date(2021, 10, 26, 11, 0, 0))).
 criminal_race(30093055,black).
 num_of_charges(30093055, 4).
 has_arrest(hy454404, 19311559).
-crime_date(19311559, datime(date(2016, 5, 16, 14, 40, 0)))..
+crime_date(19311559, datime(date(2016, 5, 16, 14, 40, 0))).
 criminal_race(19311559,white_hispanic).
 num_of_charges(19311559, 4).
 has_arrest(hz153051, 19307085).
-crime_date(19307085, datime(date(2016, 5, 7, 11, 30, 0)))..
+crime_date(19307085, datime(date(2016, 5, 7, 11, 30, 0))).
 criminal_race(19307085,black).
 num_of_charges(19307085, 4).
 has_arrest(hz140230, 19313121).
-crime_date(19313121, datime(date(2016, 5, 19, 2, 40, 0)))..
+crime_date(19313121, datime(date(2016, 5, 19, 2, 40, 0))).
 criminal_race(19313121,white_hispanic).
 num_of_charges(19313121, 4).
 has_arrest(hz271793, 19313799).
-crime_date(19313799, datime(date(2016, 5, 20, 7, 50, 0)))..
+crime_date(19313799, datime(date(2016, 5, 20, 7, 50, 0))).
 criminal_race(19313799,black).
 num_of_charges(19313799, 4).
 has_arrest(f218264, 19304875).
-crime_date(19304875, datime(date(2016, 5, 3, 15, 15, 0)))..
+crime_date(19304875, datime(date(2016, 5, 3, 15, 15, 0))).
 criminal_race(19304875,black).
 num_of_charges(19304875, 4).
 has_arrest(je340021, 30076439).
-crime_date(30076439, datime(date(2021, 8, 17, 3, 28, 0)))..
+crime_date(30076439, datime(date(2021, 8, 17, 3, 28, 0))).
 criminal_race(30076439,black).
 num_of_charges(30076439, 4).
 has_arrest(hz221111, 19293244).
-crime_date(19293244, datime(date(2016, 4, 10, 22, 6, 0)))..
+crime_date(19293244, datime(date(2016, 4, 10, 22, 6, 0))).
 criminal_race(19293244,white_hispanic).
 num_of_charges(19293244, 4).
 has_arrest(hw222058, 19299176).
-crime_date(19299176, datime(date(2016, 4, 21, 20, 0, 0)))..
+crime_date(19299176, datime(date(2016, 4, 21, 20, 0, 0))).
 criminal_race(19299176,black).
 num_of_charges(19299176, 4).
 has_arrest(hy291065, 19295775).
-crime_date(19295775, datime(date(2016, 4, 15, 11, 40, 0)))..
+crime_date(19295775, datime(date(2016, 4, 15, 11, 40, 0))).
 criminal_race(19295775,white_hispanic).
 num_of_charges(19295775, 4).
 has_arrest(hz174921, 19297914).
-crime_date(19297914, datime(date(2016, 4, 19, 16, 0, 0)))..
+crime_date(19297914, datime(date(2016, 4, 19, 16, 0, 0))).
 criminal_race(19297914,black).
 num_of_charges(19297914, 4).
 has_arrest(hz264691, 19311888).
-crime_date(19311888, datime(date(2016, 5, 17, 0, 40, 0)))..
+crime_date(19311888, datime(date(2016, 5, 17, 0, 40, 0))).
 criminal_race(19311888,black).
 num_of_charges(19311888, 4).
 has_arrest(hz241176, 19304307).
-crime_date(19304307, datime(date(2016, 5, 2, 13, 30, 0)))..
+crime_date(19304307, datime(date(2016, 5, 2, 13, 30, 0))).
 criminal_race(19304307,black).
 num_of_charges(19304307, 4).
 has_arrest(hz178590, 19304915).
-crime_date(19304915, datime(date(2016, 5, 3, 16, 50, 0)))..
+crime_date(19304915, datime(date(2016, 5, 3, 16, 50, 0))).
 criminal_race(19304915,black).
 num_of_charges(19304915, 4).
 has_arrest(hy254277, 19307709).
-crime_date(19307709, datime(date(2016, 5, 9, 8, 55, 0)))..
+crime_date(19307709, datime(date(2016, 5, 9, 8, 55, 0))).
 criminal_race(19307709,black).
 num_of_charges(19307709, 4).
 has_arrest(je328831, 30076756).
-crime_date(30076756, datime(date(2021, 8, 18, 11, 32, 0)))..
+crime_date(30076756, datime(date(2021, 8, 18, 11, 32, 0))).
 criminal_race(30076756,black_hispanic).
 num_of_charges(30076756, 4).
 has_arrest(je312931, 30093300).
-crime_date(30093300, datime(date(2021, 10, 27, 11, 5, 0)))..
+crime_date(30093300, datime(date(2021, 10, 27, 11, 5, 0))).
 criminal_race(30093300,black).
 num_of_charges(30093300, 4).
 has_arrest(hz228751, 19312138).
-crime_date(19312138, datime(date(2016, 5, 17, 14, 33, 0)))..
+crime_date(19312138, datime(date(2016, 5, 17, 14, 33, 0))).
 criminal_race(19312138,white_hispanic).
 num_of_charges(19312138, 4).
 has_arrest(hz180118, 19295194).
-crime_date(19295194, datime(date(2016, 4, 14, 13, 45, 0)))..
+crime_date(19295194, datime(date(2016, 4, 14, 13, 45, 0))).
 criminal_race(19295194,black).
 num_of_charges(19295194, 4).
 has_arrest(hz246022, 19303483).
-crime_date(19303483, datime(date(2016, 4, 30, 14, 16, 0)))..
+crime_date(19303483, datime(date(2016, 4, 30, 14, 16, 0))).
 criminal_race(19303483,black).
 num_of_charges(19303483, 4).
 has_arrest(hz218525, 19298842).
-crime_date(19298842, datime(date(2016, 4, 21, 10, 45, 0)))..
+crime_date(19298842, datime(date(2016, 4, 21, 10, 45, 0))).
 criminal_race(19298842,white_hispanic).
 num_of_charges(19298842, 4).
 has_arrest(hz264704, 19310697).
-crime_date(19310697, datime(date(2016, 5, 14, 21, 50, 0)))..
+crime_date(19310697, datime(date(2016, 5, 14, 21, 50, 0))).
 criminal_race(19310697,white_hispanic).
 num_of_charges(19310697, 4).
 has_arrest(hz209753, 19297939).
-crime_date(19297939, datime(date(2016, 4, 19, 17, 5, 0)))..
+crime_date(19297939, datime(date(2016, 4, 19, 17, 5, 0))).
 criminal_race(19297939,white_hispanic).
 num_of_charges(19297939, 4).
 has_arrest(hw445591, 19308989).
-crime_date(19308989, datime(date(2016, 5, 11, 18, 40, 0)))..
+crime_date(19308989, datime(date(2016, 5, 11, 18, 40, 0))).
 criminal_race(19308989,black).
 num_of_charges(19308989, 4).
 has_arrest(hy327794, 19301913).
-crime_date(19301913, datime(date(2016, 4, 27, 11, 27, 0)))..
+crime_date(19301913, datime(date(2016, 4, 27, 11, 27, 0))).
 criminal_race(19301913,black).
 num_of_charges(19301913, 4).
 has_arrest(hz226169, 19295390).
-crime_date(19295390, datime(date(2016, 4, 14, 20, 0, 0)))..
+crime_date(19295390, datime(date(2016, 4, 14, 20, 0, 0))).
 criminal_race(19295390,black).
 num_of_charges(19295390, 4).
 has_arrest(hz241439, 19303857).
-crime_date(19303857, datime(date(2016, 5, 1, 15, 47, 0)))..
+crime_date(19303857, datime(date(2016, 5, 1, 15, 47, 0))).
 criminal_race(19303857,black).
 num_of_charges(19303857, 4).
 has_arrest(je341996, 30077437).
-crime_date(30077437, datime(date(2021, 8, 21, 18, 56, 0)))..
+crime_date(30077437, datime(date(2021, 8, 21, 18, 56, 0))).
 criminal_race(30077437,white_hispanic).
 num_of_charges(30077437, 4).
 has_arrest(hz233837, 19309320).
-crime_date(19309320, datime(date(2016, 5, 12, 10, 14, 0)))..
+crime_date(19309320, datime(date(2016, 5, 12, 10, 14, 0))).
 criminal_race(19309320,black).
 num_of_charges(19309320, 4).
 has_arrest(hz211260, 19295255).
-crime_date(19295255, datime(date(2016, 4, 13, 22, 0, 0)))..
+crime_date(19295255, datime(date(2016, 4, 13, 22, 0, 0))).
 criminal_race(19295255,white_hispanic).
 num_of_charges(19295255, 4).
 has_arrest(hy295320, 19293015).
-crime_date(19293015, datime(date(2016, 4, 10, 11, 50, 0)))..
+crime_date(19293015, datime(date(2016, 4, 10, 11, 50, 0))).
 criminal_race(19293015,black).
 num_of_charges(19293015, 4).
 has_arrest(hz224453, 19299556).
-crime_date(19299556, datime(date(2016, 4, 22, 14, 37, 0)))..
+crime_date(19299556, datime(date(2016, 4, 22, 14, 37, 0))).
 criminal_race(19299556,black).
 num_of_charges(19299556, 4).
 has_arrest(hy551683, 19297887).
-crime_date(19297887, datime(date(2016, 4, 19, 14, 20, 0)))..
+crime_date(19297887, datime(date(2016, 4, 19, 14, 20, 0))).
 criminal_race(19297887,black).
 num_of_charges(19297887, 4).
 has_arrest(hz267495, 19311902).
-crime_date(19311902, datime(date(2016, 5, 16, 22, 58, 0)))..
+crime_date(19311902, datime(date(2016, 5, 16, 22, 58, 0))).
 criminal_race(19311902,black).
 num_of_charges(19311902, 4).
 has_arrest(hz230219, 19297103).
-crime_date(19297103, datime(date(2016, 4, 17, 22, 17, 0)))..
+crime_date(19297103, datime(date(2016, 4, 17, 22, 17, 0))).
 criminal_race(19297103,black).
 num_of_charges(19297103, 4).
 has_arrest(hz249040, 19304589).
-crime_date(19304589, datime(date(2016, 5, 2, 22, 32, 0)))..
+crime_date(19304589, datime(date(2016, 5, 2, 22, 32, 0))).
 criminal_race(19304589,white_hispanic).
 num_of_charges(19304589, 4).
 has_arrest(hz256874, 19307686).
-crime_date(19307686, datime(date(2016, 5, 9, 5, 14, 0)))..
+crime_date(19307686, datime(date(2016, 5, 9, 5, 14, 0))).
 criminal_race(19307686,black).
 num_of_charges(19307686, 4).
 has_arrest(hz235434, 19316117).
-crime_date(19316117, datime(date(2016, 5, 24, 14, 15, 0)))..
+crime_date(19316117, datime(date(2016, 5, 24, 14, 15, 0))).
 criminal_race(19316117,black).
 num_of_charges(19316117, 4).
 has_arrest(jf118218, 30112020).
-crime_date(30112020, datime(date(2022, 1, 19, 20, 53, 0)))..
+crime_date(30112020, datime(date(2022, 1, 19, 20, 53, 0))).
 criminal_race(30112020,black).
 num_of_charges(30112020, 4).
 has_arrest(hz153144, 19308957).
-crime_date(19308957, datime(date(2016, 5, 11, 15, 15, 0)))..
+crime_date(19308957, datime(date(2016, 5, 11, 15, 15, 0))).
 criminal_race(19308957,black).
 num_of_charges(19308957, 4).
 has_arrest(je190673, 30077843).
-crime_date(30077843, datime(date(2021, 8, 23, 14, 35, 0)))..
+crime_date(30077843, datime(date(2021, 8, 23, 14, 35, 0))).
 criminal_race(30077843,black).
 num_of_charges(30077843, 4).
 has_arrest(hz320044, 19331867).
-crime_date(19331867, datime(date(2016, 6, 23, 12, 38, 0)))..
+crime_date(19331867, datime(date(2016, 6, 23, 12, 38, 0))).
 criminal_race(19331867,black).
 num_of_charges(19331867, 4).
 has_arrest(hz152264, 19337195).
-crime_date(19337195, datime(date(2016, 7, 3, 19, 45, 0)))..
+crime_date(19337195, datime(date(2016, 7, 3, 19, 45, 0))).
 criminal_race(19337195,white_hispanic).
 num_of_charges(19337195, 4).
 has_arrest(je346521, 30077807).
-crime_date(30077807, datime(date(2021, 8, 23, 12, 5, 0)))..
+crime_date(30077807, datime(date(2021, 8, 23, 12, 5, 0))).
 criminal_race(30077807,black).
 num_of_charges(30077807, 4).
 has_arrest(hz274059, 19327140).
-crime_date(19327140, datime(date(2016, 6, 14, 10, 6, 0)))..
+crime_date(19327140, datime(date(2016, 6, 14, 10, 6, 0))).
 criminal_race(19327140,black).
 num_of_charges(19327140, 4).
 has_arrest(hz326421, 19334178).
-crime_date(19334178, datime(date(2016, 6, 28, 3, 54, 0)))..
+crime_date(19334178, datime(date(2016, 6, 28, 3, 54, 0))).
 criminal_race(19334178,white_hispanic).
 num_of_charges(19334178, 4).
 has_arrest(je346953, 30077832).
-crime_date(30077832, datime(date(2021, 8, 23, 9, 53, 0)))..
+crime_date(30077832, datime(date(2021, 8, 23, 9, 53, 0))).
 criminal_race(30077832,black).
 num_of_charges(30077832, 4).
 has_arrest(hz170956, 19334491).
-crime_date(19334491, datime(date(2016, 6, 28, 19, 30, 0)))..
+crime_date(19334491, datime(date(2016, 6, 28, 19, 30, 0))).
 criminal_race(19334491,black).
 num_of_charges(19334491, 4).
 has_arrest(hz214781, 19320583).
-crime_date(19320583, datime(date(2016, 6, 1, 13, 0, 0)))..
+crime_date(19320583, datime(date(2016, 6, 1, 13, 0, 0))).
 criminal_race(19320583,black).
 num_of_charges(19320583, 4).
 has_arrest(hz314632, 19330768).
-crime_date(19330768, datime(date(2016, 6, 21, 12, 40, 0)))..
+crime_date(19330768, datime(date(2016, 6, 21, 12, 40, 0))).
 criminal_race(19330768,black).
 num_of_charges(19330768, 4).
 has_arrest(hz260769, 19334811).
-crime_date(19334811, datime(date(2016, 6, 29, 9, 50, 0)))..
+crime_date(19334811, datime(date(2016, 6, 29, 9, 50, 0))).
 criminal_race(19334811,black).
 num_of_charges(19334811, 4).
 has_arrest(hy435847, 19332619).
-crime_date(19332619, datime(date(2016, 6, 24, 21, 20, 0)))..
+crime_date(19332619, datime(date(2016, 6, 24, 21, 20, 0))).
 criminal_race(19332619,black).
 num_of_charges(19332619, 4).
 has_arrest(hz335773, 19341136).
-crime_date(19341136, datime(date(2016, 7, 12, 7, 55, 0)))..
+crime_date(19341136, datime(date(2016, 7, 12, 7, 55, 0))).
 criminal_race(19341136,black).
 num_of_charges(19341136, 4).
 has_arrest(hz207177, 19323621).
-crime_date(19323621, datime(date(2016, 6, 7, 13, 45, 0)))..
+crime_date(19323621, datime(date(2016, 6, 7, 13, 45, 0))).
 criminal_race(19323621,black).
 num_of_charges(19323621, 4).
 has_arrest(hz293199, 19322101).
-crime_date(19322101, datime(date(2016, 6, 4, 12, 20, 0)))..
+crime_date(19322101, datime(date(2016, 6, 4, 12, 20, 0))).
 criminal_race(19322101,black).
 num_of_charges(19322101, 4).
 has_arrest(hz337352, 19338347).
-crime_date(19338347, datime(date(2016, 7, 6, 3, 23, 0)))..
+crime_date(19338347, datime(date(2016, 7, 6, 3, 23, 0))).
 criminal_race(19338347,white_hispanic).
 num_of_charges(19338347, 4).
 has_arrest(je348373, 30078102).
-crime_date(30078102, datime(date(2021, 8, 24, 14, 9, 0)))..
+crime_date(30078102, datime(date(2021, 8, 24, 14, 9, 0))).
 criminal_race(30078102,white).
 num_of_charges(30078102, 4).
 has_arrest(hz345216, 19340954).
-crime_date(19340954, datime(date(2016, 7, 11, 20, 11, 0)))..
+crime_date(19340954, datime(date(2016, 7, 11, 20, 11, 0))).
 criminal_race(19340954,black).
 num_of_charges(19340954, 4).
 has_arrest(hz324361, 19340307).
-crime_date(19340307, datime(date(2016, 7, 10, 10, 10, 0)))..
+crime_date(19340307, datime(date(2016, 7, 10, 10, 10, 0))).
 criminal_race(19340307,black).
 num_of_charges(19340307, 4).
 has_arrest(je285670, 30078012).
-crime_date(30078012, datime(date(2021, 8, 24, 9, 0, 0)))..
+crime_date(30078012, datime(date(2021, 8, 24, 9, 0, 0))).
 criminal_race(30078012,black).
 num_of_charges(30078012, 4).
 has_arrest(hz318177, 19331185).
-crime_date(19331185, datime(date(2016, 6, 22, 4, 8, 0)))..
+crime_date(19331185, datime(date(2016, 6, 22, 4, 8, 0))).
 criminal_race(19331185,black).
 num_of_charges(19331185, 4).
 has_arrest(hy263502, 19323614).
-crime_date(19323614, datime(date(2016, 6, 7, 16, 0, 0)))..
+crime_date(19323614, datime(date(2016, 6, 7, 16, 0, 0))).
 criminal_race(19323614,black).
 num_of_charges(19323614, 4).
 has_arrest(hz325633, 19333941).
-crime_date(19333941, datime(date(2016, 6, 27, 14, 56, 0)))..
+crime_date(19333941, datime(date(2016, 6, 27, 14, 56, 0))).
 criminal_race(19333941,black).
 num_of_charges(19333941, 4).
 has_arrest(jd398407, 30078296).
-crime_date(30078296, datime(date(2021, 8, 25, 12, 55, 0)))..
+crime_date(30078296, datime(date(2021, 8, 25, 12, 55, 0))).
 criminal_race(30078296,black).
 num_of_charges(30078296, 4).
 has_arrest(hz329181, 19335256).
-crime_date(19335256, datime(date(2016, 6, 29, 23, 42, 0)))..
+crime_date(19335256, datime(date(2016, 6, 29, 23, 42, 0))).
 criminal_race(19335256,black).
 num_of_charges(19335256, 4).
 has_arrest(hz308364, 19327891).
-crime_date(19327891, datime(date(2016, 6, 15, 10, 48, 0)))..
+crime_date(19327891, datime(date(2016, 6, 15, 10, 48, 0))).
 criminal_race(19327891,white_hispanic).
 num_of_charges(19327891, 4).
 has_arrest(hz344119, 19340661).
-crime_date(19340661, datime(date(2016, 7, 11, 6, 35, 0)))..
+crime_date(19340661, datime(date(2016, 7, 11, 6, 35, 0))).
 criminal_race(19340661,black).
 num_of_charges(19340661, 4).
 has_arrest(hz345216, 19340963).
-crime_date(19340963, datime(date(2016, 7, 11, 19, 55, 0)))..
+crime_date(19340963, datime(date(2016, 7, 11, 19, 55, 0))).
 criminal_race(19340963,black).
 num_of_charges(19340963, 4).
 has_arrest(hn463816, 19341202).
-crime_date(19341202, datime(date(2016, 7, 12, 12, 25, 0)))..
+crime_date(19341202, datime(date(2016, 7, 12, 12, 25, 0))).
 criminal_race(19341202,black).
 num_of_charges(19341202, 4).
 has_arrest(hy549247, 19321676).
-crime_date(19321676, datime(date(2016, 6, 3, 17, 0, 0)))..
+crime_date(19321676, datime(date(2016, 6, 3, 17, 0, 0))).
 criminal_race(19321676,black).
 num_of_charges(19321676, 4).
 has_arrest(hz314673, 19330086).
-crime_date(19330086, datime(date(2016, 6, 19, 20, 40, 0)))..
+crime_date(19330086, datime(date(2016, 6, 19, 20, 40, 0))).
 criminal_race(19330086,black).
 num_of_charges(19330086, 4).
 has_arrest(hz318908, 19332316).
-crime_date(19332316, datime(date(2016, 6, 24, 11, 2, 0)))..
+crime_date(19332316, datime(date(2016, 6, 24, 11, 2, 0))).
 criminal_race(19332316,black).
 num_of_charges(19332316, 4).
 has_arrest(hz327810, 19334674).
-crime_date(19334674, datime(date(2016, 6, 29, 0, 46, 0)))..
+crime_date(19334674, datime(date(2016, 6, 29, 0, 46, 0))).
 criminal_race(19334674,black).
 num_of_charges(19334674, 4).
 has_arrest(hz308364, 19327921).
-crime_date(19327921, datime(date(2016, 6, 15, 22, 30, 0)))..
+crime_date(19327921, datime(date(2016, 6, 15, 22, 30, 0))).
 criminal_race(19327921,white_hispanic).
 num_of_charges(19327921, 4).
 has_arrest(hz309344, 19328144).
-crime_date(19328144, datime(date(2016, 6, 15, 22, 2, 0)))..
+crime_date(19328144, datime(date(2016, 6, 15, 22, 2, 0))).
 criminal_race(19328144,black).
 num_of_charges(19328144, 4).
 has_arrest(hz279606, 19319983).
-crime_date(19319983, datime(date(2016, 5, 31, 18, 20, 0)))..
+crime_date(19319983, datime(date(2016, 5, 31, 18, 20, 0))).
 criminal_race(19319983,black).
 num_of_charges(19319983, 4).
 has_arrest(hz338757, 19339942).
-crime_date(19339942, datime(date(2016, 7, 9, 11, 45, 0)))..
+crime_date(19339942, datime(date(2016, 7, 9, 11, 45, 0))).
 criminal_race(19339942,black).
 num_of_charges(19339942, 4).
 has_arrest(hz292547, 19322389).
-crime_date(19322389, datime(date(2016, 6, 4, 23, 57, 0)))..
+crime_date(19322389, datime(date(2016, 6, 4, 23, 57, 0))).
 criminal_race(19322389,black).
 num_of_charges(19322389, 4).
 has_arrest(hz274059, 19318768).
-crime_date(19318768, datime(date(2016, 5, 29, 10, 26, 0)))..
+crime_date(19318768, datime(date(2016, 5, 29, 10, 26, 0))).
 criminal_race(19318768,black).
 num_of_charges(19318768, 4).
 has_arrest(hz320830, 19332105).
-crime_date(19332105, datime(date(2016, 6, 23, 22, 27, 0)))..
+crime_date(19332105, datime(date(2016, 6, 23, 22, 27, 0))).
 criminal_race(19332105,black).
 num_of_charges(19332105, 4).
 has_arrest(hz228751, 19338884).
-crime_date(19338884, datime(date(2016, 7, 7, 6, 16, 0)))..
+crime_date(19338884, datime(date(2016, 7, 7, 6, 16, 0))).
 criminal_race(19338884,white_hispanic).
 num_of_charges(19338884, 4).
 has_arrest(hz283676, 19318506).
-crime_date(19318506, datime(date(2016, 5, 28, 17, 46, 0)))..
+crime_date(19318506, datime(date(2016, 5, 28, 17, 46, 0))).
 criminal_race(19318506,black).
 num_of_charges(19318506, 4).
 has_arrest(hz281572, 19324058).
-crime_date(19324058, datime(date(2016, 6, 8, 11, 20, 0)))..
+crime_date(19324058, datime(date(2016, 6, 8, 11, 20, 0))).
 criminal_race(19324058,black).
 num_of_charges(19324058, 4).
 has_arrest(jb310642, 19669553).
-crime_date(19669553, datime(date(2018, 7, 6, 15, 35, 0)))..
+crime_date(19669553, datime(date(2018, 7, 6, 15, 35, 0))).
 criminal_race(19669553,black).
 num_of_charges(19669553, 4).
 has_arrest(hz329945, 19335523).
-crime_date(19335523, datime(date(2016, 6, 30, 14, 31, 0)))..
+crime_date(19335523, datime(date(2016, 6, 30, 14, 31, 0))).
 criminal_race(19335523,black).
 num_of_charges(19335523, 4).
 has_arrest(hz283010, 19321011).
-crime_date(19321011, datime(date(2016, 6, 2, 11, 15, 0)))..
+crime_date(19321011, datime(date(2016, 6, 2, 11, 15, 0))).
 criminal_race(19321011,white).
 num_of_charges(19321011, 4).
 has_arrest(hx529287, 19340752).
-crime_date(19340752, datime(date(2016, 7, 11, 13, 10, 0)))..
+crime_date(19340752, datime(date(2016, 7, 11, 13, 10, 0))).
 criminal_race(19340752,black).
 num_of_charges(19340752, 4).
 has_arrest(hw426623, 19319814).
-crime_date(19319814, datime(date(2016, 5, 31, 11, 45, 0)))..
+crime_date(19319814, datime(date(2016, 5, 31, 11, 45, 0))).
 criminal_race(19319814,black).
 num_of_charges(19319814, 4).
 has_arrest(hz188784, 19331888).
-crime_date(19331888, datime(date(2016, 6, 23, 15, 15, 0)))..
+crime_date(19331888, datime(date(2016, 6, 23, 15, 15, 0))).
 criminal_race(19331888,black).
 num_of_charges(19331888, 4).
 has_arrest(hz136077, 19330866).
-crime_date(19330866, datime(date(2016, 6, 21, 16, 30, 0)))..
+crime_date(19330866, datime(date(2016, 6, 21, 16, 30, 0))).
 criminal_race(19330866,black).
 num_of_charges(19330866, 4).
 has_arrest(hz290485, 19321122).
-crime_date(19321122, datime(date(2016, 6, 2, 15, 8, 0)))..
+crime_date(19321122, datime(date(2016, 6, 2, 15, 8, 0))).
 criminal_race(19321122,black).
 num_of_charges(19321122, 4).
 has_arrest(hz284221, 19327756).
-crime_date(19327756, datime(date(2016, 6, 15, 11, 45, 0)))..
+crime_date(19327756, datime(date(2016, 6, 15, 11, 45, 0))).
 criminal_race(19327756,black).
 num_of_charges(19327756, 4).
 has_arrest(ht202574, 19331442).
-crime_date(19331442, datime(date(2016, 6, 22, 12, 45, 0)))..
+crime_date(19331442, datime(date(2016, 6, 22, 12, 45, 0))).
 criminal_race(19331442,black).
 num_of_charges(19331442, 4).
 has_arrest(jf383126, 30174653).
-crime_date(30174653, datime(date(2022, 9, 4, 18, 10, 0)))..
+crime_date(30174653, datime(date(2022, 9, 4, 18, 10, 0))).
 criminal_race(30174653,black).
 num_of_charges(30174653, 4).
 has_arrest(hz316318, 19330491).
-crime_date(19330491, datime(date(2016, 6, 20, 20, 40, 0)))..
+crime_date(19330491, datime(date(2016, 6, 20, 20, 40, 0))).
 criminal_race(19330491,black).
 num_of_charges(19330491, 4).
 has_arrest(hz313665, 19337147).
-crime_date(19337147, datime(date(2016, 7, 3, 16, 57, 0)))..
+crime_date(19337147, datime(date(2016, 7, 3, 16, 57, 0))).
 criminal_race(19337147,black).
 num_of_charges(19337147, 4).
 has_arrest(hz329181, 19335275).
-crime_date(19335275, datime(date(2016, 6, 29, 23, 42, 0)))..
+crime_date(19335275, datime(date(2016, 6, 29, 23, 42, 0))).
 criminal_race(19335275,black).
 num_of_charges(19335275, 4).
 has_arrest(hz325633, 19333905).
-crime_date(19333905, datime(date(2016, 6, 27, 14, 56, 0)))..
+crime_date(19333905, datime(date(2016, 6, 27, 14, 56, 0))).
 criminal_race(19333905,black).
 num_of_charges(19333905, 4).
 has_arrest(jf234291, 30191190).
-crime_date(30191190, datime(date(2022, 11, 4, 9, 10, 0)))..
+crime_date(30191190, datime(date(2022, 11, 4, 9, 10, 0))).
 criminal_race(30191190,black).
 num_of_charges(30191190, 4).
 has_arrest(hz281370, 19318207).
-crime_date(19318207, datime(date(2016, 5, 28, 9, 45, 0)))..
+crime_date(19318207, datime(date(2016, 5, 28, 9, 45, 0))).
 criminal_race(19318207,black).
 num_of_charges(19318207, 4).
 has_arrest(hz228751, 19338888).
-crime_date(19338888, datime(date(2016, 7, 7, 6, 16, 0)))..
+crime_date(19338888, datime(date(2016, 7, 7, 6, 16, 0))).
 criminal_race(19338888,white_hispanic).
 num_of_charges(19338888, 4).
 has_arrest(hz303596, 19326012).
-crime_date(19326012, datime(date(2016, 6, 11, 23, 5, 0)))..
+crime_date(19326012, datime(date(2016, 6, 11, 23, 5, 0))).
 criminal_race(19326012,black).
 num_of_charges(19326012, 4).
 has_arrest(hz333099, 19336741).
-crime_date(19336741, datime(date(2016, 7, 2, 19, 56, 0)))..
+crime_date(19336741, datime(date(2016, 7, 2, 19, 56, 0))).
 criminal_race(19336741,black).
 num_of_charges(19336741, 4).
 has_arrest(hz325633, 19345299).
-crime_date(19345299, datime(date(2016, 7, 21, 10, 15, 0)))..
+crime_date(19345299, datime(date(2016, 7, 21, 10, 15, 0))).
 criminal_race(19345299,black).
 num_of_charges(19345299, 4).
 has_arrest(hz357503, 19345185).
-crime_date(19345185, datime(date(2016, 7, 20, 22, 23, 0)))..
+crime_date(19345185, datime(date(2016, 7, 20, 22, 23, 0))).
 criminal_race(19345185,black).
 num_of_charges(19345185, 4).
 has_arrest(hz400689, 19360879).
-crime_date(19360879, datime(date(2016, 8, 24, 11, 35, 0)))..
+crime_date(19360879, datime(date(2016, 8, 24, 11, 35, 0))).
 criminal_race(19360879,black).
 num_of_charges(19360879, 4).
 has_arrest(hz421541, 19366888).
-crime_date(19366888, datime(date(2016, 9, 5, 16, 18, 0)))..
+crime_date(19366888, datime(date(2016, 9, 5, 16, 18, 0))).
 criminal_race(19366888,white).
 num_of_charges(19366888, 4).
 has_arrest(hz421030, 19366690).
-crime_date(19366690, datime(date(2016, 9, 5, 13, 5, 0)))..
+crime_date(19366690, datime(date(2016, 9, 5, 13, 5, 0))).
 criminal_race(19366690,black).
 num_of_charges(19366690, 4).
 has_arrest(hz388948, 19355485).
-crime_date(19355485, datime(date(2016, 8, 12, 12, 58, 0)))..
+crime_date(19355485, datime(date(2016, 8, 12, 12, 58, 0))).
 criminal_race(19355485,white_hispanic).
 num_of_charges(19355485, 4).
 has_arrest(hz364397, 19347385).
-crime_date(19347385, datime(date(2016, 7, 25, 20, 51, 0)))..
+crime_date(19347385, datime(date(2016, 7, 25, 20, 51, 0))).
 criminal_race(19347385,black).
 num_of_charges(19347385, 4).
 has_arrest(hy223326, 19360164).
-crime_date(19360164, datime(date(2016, 8, 21, 0, 12, 0)))..
+crime_date(19360164, datime(date(2016, 8, 21, 0, 12, 0))).
 criminal_race(19360164,amer_indian___alaskan_native).
 num_of_charges(19360164, 4).
 has_arrest(hz324361, 19350848).
-crime_date(19350848, datime(date(2016, 8, 2, 10, 45, 0)))..
+crime_date(19350848, datime(date(2016, 8, 2, 10, 45, 0))).
 criminal_race(19350848,black).
 num_of_charges(19350848, 4).
 has_arrest(hz212987, 19354047).
-crime_date(19354047, datime(date(2016, 8, 9, 11, 0, 0)))..
+crime_date(19354047, datime(date(2016, 8, 9, 11, 0, 0))).
 criminal_race(19354047,black).
 num_of_charges(19354047, 4).
 has_arrest(hz318908, 19349546).
-crime_date(19349546, datime(date(2016, 7, 30, 7, 30, 0)))..
+crime_date(19349546, datime(date(2016, 7, 30, 7, 30, 0))).
 criminal_race(19349546,black).
 num_of_charges(19349546, 4).
 has_arrest(hz356220, 19344782).
-crime_date(19344782, datime(date(2016, 7, 20, 0, 41, 0)))..
+crime_date(19344782, datime(date(2016, 7, 20, 0, 41, 0))).
 criminal_race(19344782,black).
 num_of_charges(19344782, 4).
 has_arrest(hz303359, 19351394).
-crime_date(19351394, datime(date(2016, 8, 3, 14, 10, 0)))..
+crime_date(19351394, datime(date(2016, 8, 3, 14, 10, 0))).
 criminal_race(19351394,black).
 num_of_charges(19351394, 4).
 has_arrest(hy438692, 19351836).
-crime_date(19351836, datime(date(2016, 8, 4, 10, 25, 0)))..
+crime_date(19351836, datime(date(2016, 8, 4, 10, 25, 0))).
 criminal_race(19351836,black).
 num_of_charges(19351836, 4).
 has_arrest(jf261023, 30148163).
-crime_date(30148163, datime(date(2022, 5, 31, 6, 1, 0)))..
+crime_date(30148163, datime(date(2022, 5, 31, 6, 1, 0))).
 criminal_race(30148163,black).
 num_of_charges(30148163, 4).
 has_arrest(hz393886, 19357008).
-crime_date(19357008, datime(date(2016, 8, 16, 4, 7, 0)))..
+crime_date(19357008, datime(date(2016, 8, 16, 4, 7, 0))).
 criminal_race(19357008,white_hispanic).
 num_of_charges(19357008, 4).
 has_arrest(hz235434, 19348380).
-crime_date(19348380, datime(date(2016, 7, 27, 22, 40, 0)))..
+crime_date(19348380, datime(date(2016, 7, 27, 22, 40, 0))).
 criminal_race(19348380,black).
 num_of_charges(19348380, 4).
 has_arrest(hz318908, 19348025).
-crime_date(19348025, datime(date(2016, 7, 27, 9, 55, 0)))..
+crime_date(19348025, datime(date(2016, 7, 27, 9, 55, 0))).
 criminal_race(19348025,black).
 num_of_charges(19348025, 4).
 has_arrest(hz370505, 19349477).
-crime_date(19349477, datime(date(2016, 7, 30, 2, 48, 0)))..
+crime_date(19349477, datime(date(2016, 7, 30, 2, 48, 0))).
 criminal_race(19349477,white_hispanic).
 num_of_charges(19349477, 4).
 has_arrest(hz376037, 19351333).
-crime_date(19351333, datime(date(2016, 8, 3, 5, 18, 0)))..
+crime_date(19351333, datime(date(2016, 8, 3, 5, 18, 0))).
 criminal_race(19351333,black).
 num_of_charges(19351333, 4).
 has_arrest(hz410391, 19362967).
-crime_date(19362967, datime(date(2016, 8, 28, 22, 19, 0)))..
+crime_date(19362967, datime(date(2016, 8, 28, 22, 19, 0))).
 criminal_race(19362967,black).
 num_of_charges(19362967, 4).
 has_arrest(hz360647, 19346274).
-crime_date(19346274, datime(date(2016, 7, 23, 4, 42, 0)))..
+crime_date(19346274, datime(date(2016, 7, 23, 4, 42, 0))).
 criminal_race(19346274,black).
 num_of_charges(19346274, 4).
 has_arrest(hy438692, 19346920).
-crime_date(19346920, datime(date(2016, 7, 25, 0, 4, 0)))..
+crime_date(19346920, datime(date(2016, 7, 25, 0, 4, 0))).
 criminal_race(19346920,black).
 num_of_charges(19346920, 4).
 has_arrest(hz295346, 19353650).
-crime_date(19353650, datime(date(2016, 8, 8, 14, 30, 0)))..
+crime_date(19353650, datime(date(2016, 8, 8, 14, 30, 0))).
 criminal_race(19353650,black).
 num_of_charges(19353650, 4).
 has_arrest(hz371500, 19349848).
-crime_date(19349848, datime(date(2016, 7, 30, 19, 17, 0)))..
+crime_date(19349848, datime(date(2016, 7, 30, 19, 17, 0))).
 criminal_race(19349848,black).
 num_of_charges(19349848, 4).
 has_arrest(hz421109, 19366969).
-crime_date(19366969, datime(date(2016, 9, 5, 22, 0, 0)))..
+crime_date(19366969, datime(date(2016, 9, 5, 22, 0, 0))).
 criminal_race(19366969,black).
 num_of_charges(19366969, 4).
 has_arrest(je420449, 30094419).
-crime_date(30094419, datime(date(2021, 11, 1, 5, 0, 0)))..
+crime_date(30094419, datime(date(2021, 11, 1, 5, 0, 0))).
 criminal_race(30094419,black).
 num_of_charges(30094419, 4).
 has_arrest(jf303839, 30197267).
-crime_date(30197267, datime(date(2022, 11, 29, 8, 34, 0)))..
+crime_date(30197267, datime(date(2022, 11, 29, 8, 34, 0))).
 criminal_race(30197267,black).
 num_of_charges(30197267, 4).
 has_arrest(hz158181, 19360175).
-crime_date(19360175, datime(date(2016, 8, 22, 13, 52, 0)))..
+crime_date(19360175, datime(date(2016, 8, 22, 13, 52, 0))).
 criminal_race(19360175,black).
 num_of_charges(19360175, 4).
 has_arrest(hz269688, 19343218).
-crime_date(19343218, datime(date(2016, 7, 16, 16, 43, 0)))..
+crime_date(19343218, datime(date(2016, 7, 16, 16, 43, 0))).
 criminal_race(19343218,black).
 num_of_charges(19343218, 4).
 has_arrest(hz378630, 19355497).
-crime_date(19355497, datime(date(2016, 8, 12, 14, 29, 0)))..
+crime_date(19355497, datime(date(2016, 8, 12, 14, 29, 0))).
 criminal_race(19355497,black).
 num_of_charges(19355497, 4).
 has_arrest(hz395736, 19358694).
-crime_date(19358694, datime(date(2016, 8, 19, 13, 10, 0)))..
+crime_date(19358694, datime(date(2016, 8, 19, 13, 10, 0))).
 criminal_race(19358694,black).
 num_of_charges(19358694, 4).
 has_arrest(hz365164, 19355596).
-crime_date(19355596, datime(date(2016, 8, 12, 19, 32, 0)))..
+crime_date(19355596, datime(date(2016, 8, 12, 19, 32, 0))).
 criminal_race(19355596,black).
 num_of_charges(19355596, 4).
 has_arrest(hz371861, 19350449).
-crime_date(19350449, datime(date(2016, 8, 1, 12, 55, 0)))..
+crime_date(19350449, datime(date(2016, 8, 1, 12, 55, 0))).
 criminal_race(19350449,white_hispanic).
 num_of_charges(19350449, 4).
 has_arrest(je354705, 30079353).
-crime_date(30079353, datime(date(2021, 8, 29, 22, 29, 0)))..
+crime_date(30079353, datime(date(2021, 8, 29, 22, 29, 0))).
 criminal_race(30079353,white_hispanic).
 num_of_charges(30079353, 4).
 has_arrest(hz235434, 19358871).
-crime_date(19358871, datime(date(2016, 8, 19, 20, 32, 0)))..
+crime_date(19358871, datime(date(2016, 8, 19, 20, 32, 0))).
 criminal_race(19358871,black).
 num_of_charges(19358871, 4).
 has_arrest(hz370505, 19349476).
-crime_date(19349476, datime(date(2016, 7, 30, 2, 48, 0)))..
+crime_date(19349476, datime(date(2016, 7, 30, 2, 48, 0))).
 criminal_race(19349476,white_hispanic).
 num_of_charges(19349476, 4).
 has_arrest(hz330865, 19356288).
-crime_date(19356288, datime(date(2016, 8, 14, 12, 31, 0)))..
+crime_date(19356288, datime(date(2016, 8, 14, 12, 31, 0))).
 criminal_race(19356288,black).
 num_of_charges(19356288, 4).
 has_arrest(hz409724, 19366840).
-crime_date(19366840, datime(date(2016, 9, 5, 18, 47, 0)))..
+crime_date(19366840, datime(date(2016, 9, 5, 18, 47, 0))).
 criminal_race(19366840,black).
 num_of_charges(19366840, 4).
 has_arrest(hz342785, 19353555).
-crime_date(19353555, datime(date(2016, 8, 8, 7, 20, 0)))..
+crime_date(19353555, datime(date(2016, 8, 8, 7, 20, 0))).
 criminal_race(19353555,black).
 num_of_charges(19353555, 4).
 has_arrest(hz370217, 19354056).
-crime_date(19354056, datime(date(2016, 8, 9, 11, 40, 0)))..
+crime_date(19354056, datime(date(2016, 8, 9, 11, 40, 0))).
 criminal_race(19354056,black).
 num_of_charges(19354056, 4).
 has_arrest(hz150892, 19360472).
-crime_date(19360472, datime(date(2016, 8, 23, 13, 45, 0)))..
+crime_date(19360472, datime(date(2016, 8, 23, 13, 45, 0))).
 criminal_race(19360472,black).
 num_of_charges(19360472, 4).
 has_arrest(hz402318, 19360028).
-crime_date(19360028, datime(date(2016, 8, 22, 10, 15, 0)))..
+crime_date(19360028, datime(date(2016, 8, 22, 10, 15, 0))).
 criminal_race(19360028,black).
 num_of_charges(19360028, 4).
 has_arrest(hz378630, 19355490).
-crime_date(19355490, datime(date(2016, 8, 12, 14, 0, 0)))..
+crime_date(19355490, datime(date(2016, 8, 12, 14, 0, 0))).
 criminal_race(19355490,black).
 num_of_charges(19355490, 4).
 has_arrest(hz391550, 19357269).
-crime_date(19357269, datime(date(2016, 8, 16, 18, 50, 0)))..
+crime_date(19357269, datime(date(2016, 8, 16, 18, 50, 0))).
 criminal_race(19357269,black).
 num_of_charges(19357269, 4).
 has_arrest(hz385494, 19354303).
-crime_date(19354303, datime(date(2016, 8, 9, 20, 30, 0)))..
+crime_date(19354303, datime(date(2016, 8, 9, 20, 30, 0))).
 criminal_race(19354303,black).
 num_of_charges(19354303, 4).
 has_arrest(hz378630, 19355487).
-crime_date(19355487, datime(date(2016, 8, 12, 14, 29, 0)))..
+crime_date(19355487, datime(date(2016, 8, 12, 14, 29, 0))).
 criminal_race(19355487,black).
 num_of_charges(19355487, 4).
 has_arrest(hz338406, 19348112).
-crime_date(19348112, datime(date(2016, 7, 27, 12, 30, 0)))..
+crime_date(19348112, datime(date(2016, 7, 27, 12, 30, 0))).
 criminal_race(19348112,black).
 num_of_charges(19348112, 4).
 has_arrest(hz324361, 19342512).
-crime_date(19342512, datime(date(2016, 7, 15, 7, 45, 0)))..
+crime_date(19342512, datime(date(2016, 7, 15, 7, 45, 0))).
 criminal_race(19342512,black).
 num_of_charges(19342512, 4).
 has_arrest(je430596, 30094614).
-crime_date(30094614, datime(date(2021, 11, 1, 23, 25, 0)))..
+crime_date(30094614, datime(date(2021, 11, 1, 23, 25, 0))).
 criminal_race(30094614,black).
 num_of_charges(30094614, 4).
 has_arrest(hz384930, 19354206).
-crime_date(19354206, datime(date(2016, 8, 9, 16, 10, 0)))..
+crime_date(19354206, datime(date(2016, 8, 9, 16, 10, 0))).
 criminal_race(19354206,black).
 num_of_charges(19354206, 4).
 has_arrest(je420449, 30094418).
-crime_date(30094418, datime(date(2021, 11, 1, 5, 0, 0)))..
+crime_date(30094418, datime(date(2021, 11, 1, 5, 0, 0))).
 criminal_race(30094418,black).
 num_of_charges(30094418, 4).
 has_arrest(hz365164, 19355503).
-crime_date(19355503, datime(date(2016, 8, 12, 15, 45, 0)))..
+crime_date(19355503, datime(date(2016, 8, 12, 15, 45, 0))).
 criminal_race(19355503,black).
 num_of_charges(19355503, 4).
 has_arrest(hz366724, 19348343).
-crime_date(19348343, datime(date(2016, 7, 27, 20, 0, 0)))..
+crime_date(19348343, datime(date(2016, 7, 27, 20, 0, 0))).
 criminal_race(19348343,black).
 num_of_charges(19348343, 4).
 has_arrest(hz404812, 19360747).
-crime_date(19360747, datime(date(2016, 8, 24, 0, 53, 0)))..
+crime_date(19360747, datime(date(2016, 8, 24, 0, 53, 0))).
 criminal_race(19360747,black).
 num_of_charges(19360747, 4).
 has_arrest(hz325633, 19354885).
-crime_date(19354885, datime(date(2016, 8, 11, 10, 0, 0)))..
+crime_date(19354885, datime(date(2016, 8, 11, 10, 0, 0))).
 criminal_race(19354885,black).
 num_of_charges(19354885, 4).
 has_arrest(hy515241, 19360449).
-crime_date(19360449, datime(date(2016, 8, 23, 12, 49, 0)))..
+crime_date(19360449, datime(date(2016, 8, 23, 12, 49, 0))).
 criminal_race(19360449,black).
 num_of_charges(19360449, 4).
 has_arrest(hz371500, 19349847).
-crime_date(19349847, datime(date(2016, 7, 30, 19, 17, 0)))..
+crime_date(19349847, datime(date(2016, 7, 30, 19, 17, 0))).
 criminal_race(19349847,black).
 num_of_charges(19349847, 4).
 has_arrest(hz408132, 19362073).
-crime_date(19362073, datime(date(2016, 8, 26, 17, 30, 0)))..
+crime_date(19362073, datime(date(2016, 8, 26, 17, 30, 0))).
 criminal_race(19362073,black).
 num_of_charges(19362073, 4).
 has_arrest(hz355873, 19344595).
-crime_date(19344595, datime(date(2016, 7, 19, 18, 51, 0)))..
+crime_date(19344595, datime(date(2016, 7, 19, 18, 51, 0))).
 criminal_race(19344595,black).
 num_of_charges(19344595, 4).
 has_arrest(hm489058, 19350834).
-crime_date(19350834, datime(date(2016, 8, 2, 10, 0, 0)))..
+crime_date(19350834, datime(date(2016, 8, 2, 10, 0, 0))).
 criminal_race(19350834,black).
 num_of_charges(19350834, 4).
 has_arrest(hz358117, 19348674).
-crime_date(19348674, datime(date(2016, 7, 28, 13, 40, 0)))..
+crime_date(19348674, datime(date(2016, 7, 28, 13, 40, 0))).
 criminal_race(19348674,black).
 num_of_charges(19348674, 4).
 has_arrest(hz345903, 19343779).
-crime_date(19343779, datime(date(2016, 7, 17, 20, 27, 0)))..
+crime_date(19343779, datime(date(2016, 7, 17, 20, 27, 0))).
 criminal_race(19343779,black).
 num_of_charges(19343779, 4).
 has_arrest(hz363696, 19348853).
-crime_date(19348853, datime(date(2016, 7, 28, 20, 7, 0)))..
+crime_date(19348853, datime(date(2016, 7, 28, 20, 7, 0))).
 criminal_race(19348853,black).
 num_of_charges(19348853, 4).
 has_arrest(hz395227, 19357417).
-crime_date(19357417, datime(date(2016, 8, 16, 22, 7, 0)))..
+crime_date(19357417, datime(date(2016, 8, 16, 22, 7, 0))).
 criminal_race(19357417,black).
 num_of_charges(19357417, 4).
 has_arrest(hz327811, 19348726).
-crime_date(19348726, datime(date(2016, 7, 28, 15, 0, 0)))..
+crime_date(19348726, datime(date(2016, 7, 28, 15, 0, 0))).
 criminal_race(19348726,white_hispanic).
 num_of_charges(19348726, 4).
 has_arrest(hz411320, 19363029).
-crime_date(19363029, datime(date(2016, 8, 29, 1, 5, 0)))..
+crime_date(19363029, datime(date(2016, 8, 29, 1, 5, 0))).
 criminal_race(19363029,black).
 num_of_charges(19363029, 4).
 has_arrest(hz375866, 19351151).
-crime_date(19351151, datime(date(2016, 8, 2, 21, 28, 0)))..
+crime_date(19351151, datime(date(2016, 8, 2, 21, 28, 0))).
 criminal_race(19351151,white_hispanic).
 num_of_charges(19351151, 4).
 has_arrest(hz368971, 19348919).
-crime_date(19348919, datime(date(2016, 7, 28, 23, 23, 0)))..
+crime_date(19348919, datime(date(2016, 7, 28, 23, 23, 0))).
 criminal_race(19348919,black).
 num_of_charges(19348919, 4).
 has_arrest(hz337569, 19344984).
-crime_date(19344984, datime(date(2016, 7, 20, 17, 55, 0)))..
+crime_date(19344984, datime(date(2016, 7, 20, 17, 55, 0))).
 criminal_race(19344984,white_hispanic).
 num_of_charges(19344984, 4).
 has_arrest(hz246022, 19363868).
-crime_date(19363868, datime(date(2016, 8, 30, 20, 50, 0)))..
+crime_date(19363868, datime(date(2016, 8, 30, 20, 50, 0))).
 criminal_race(19363868,black).
 num_of_charges(19363868, 4).
 has_arrest(hz415486, 19364458).
-crime_date(19364458, datime(date(2016, 9, 1, 1, 4, 0)))..
+crime_date(19364458, datime(date(2016, 9, 1, 1, 4, 0))).
 criminal_race(19364458,black).
 num_of_charges(19364458, 4).
 has_arrest(hz358117, 19345431).
-crime_date(19345431, datime(date(2016, 7, 21, 11, 42, 0)))..
+crime_date(19345431, datime(date(2016, 7, 21, 11, 42, 0))).
 criminal_race(19345431,black).
 num_of_charges(19345431, 4).
 has_arrest(hl541246, 19342043).
-crime_date(19342043, datime(date(2016, 7, 14, 9, 0, 0)))..
+crime_date(19342043, datime(date(2016, 7, 14, 9, 0, 0))).
 criminal_race(19342043,black).
 num_of_charges(19342043, 4).
 has_arrest(hz295259, 19341803).
-crime_date(19341803, datime(date(2016, 7, 13, 17, 50, 0)))..
+crime_date(19341803, datime(date(2016, 7, 13, 17, 50, 0))).
 criminal_race(19341803,white_hispanic).
 num_of_charges(19341803, 4).
 has_arrest(hz408132, 19362229).
-crime_date(19362229, datime(date(2016, 8, 27, 2, 15, 0)))..
+crime_date(19362229, datime(date(2016, 8, 27, 2, 15, 0))).
 criminal_race(19362229,black).
 num_of_charges(19362229, 4).
 has_arrest(hz357503, 19345165).
-crime_date(19345165, datime(date(2016, 7, 20, 22, 23, 0)))..
+crime_date(19345165, datime(date(2016, 7, 20, 22, 23, 0))).
 criminal_race(19345165,black).
 num_of_charges(19345165, 4).
 has_arrest(hz351065, 19364083).
-crime_date(19364083, datime(date(2016, 8, 31, 8, 30, 0)))..
+crime_date(19364083, datime(date(2016, 8, 31, 8, 30, 0))).
 criminal_race(19364083,black).
 num_of_charges(19364083, 4).
 has_arrest(hz408269, 19362071).
-crime_date(19362071, datime(date(2016, 8, 26, 17, 4, 0)))..
+crime_date(19362071, datime(date(2016, 8, 26, 17, 4, 0))).
 criminal_race(19362071,black).
 num_of_charges(19362071, 4).
 has_arrest(hz442712, 19373905).
-crime_date(19373905, datime(date(2016, 9, 20, 20, 35, 0)))..
+crime_date(19373905, datime(date(2016, 9, 20, 20, 35, 0))).
 criminal_race(19373905,black).
 num_of_charges(19373905, 4).
 has_arrest(hz448213, 19375753).
-crime_date(19375753, datime(date(2016, 9, 24, 19, 40, 0)))..
+crime_date(19375753, datime(date(2016, 9, 24, 19, 40, 0))).
 criminal_race(19375753,white_hispanic).
 num_of_charges(19375753, 4).
 has_arrest(hz454488, 19377917).
-crime_date(19377917, datime(date(2016, 9, 29, 14, 41, 0)))..
+crime_date(19377917, datime(date(2016, 9, 29, 14, 41, 0))).
 criminal_race(19377917,black).
 num_of_charges(19377917, 4).
 has_arrest(hz441256, 19373380).
-crime_date(19373380, datime(date(2016, 9, 19, 20, 45, 0)))..
+crime_date(19373380, datime(date(2016, 9, 19, 20, 45, 0))).
 criminal_race(19373380,black).
 num_of_charges(19373380, 4).
 has_arrest(hz399559, 19385683).
-crime_date(19385683, datime(date(2016, 10, 17, 9, 30, 0)))..
+crime_date(19385683, datime(date(2016, 10, 17, 9, 30, 0))).
 criminal_race(19385683,white_hispanic).
 num_of_charges(19385683, 4).
 has_arrest(hz451757, 19377017).
-crime_date(19377017, datime(date(2016, 9, 27, 13, 33, 0)))..
+crime_date(19377017, datime(date(2016, 9, 27, 13, 33, 0))).
 criminal_race(19377017,black).
 num_of_charges(19377017, 4).
 has_arrest(hz267576, 19371920).
-crime_date(19371920, datime(date(2016, 9, 16, 18, 33, 0)))..
+crime_date(19371920, datime(date(2016, 9, 16, 18, 33, 0))).
 criminal_race(19371920,white_hispanic).
 num_of_charges(19371920, 4).
 has_arrest(hy547060, 19375060).
-crime_date(19375060, datime(date(2016, 9, 23, 11, 28, 0)))..
+crime_date(19375060, datime(date(2016, 9, 23, 11, 28, 0))).
 criminal_race(19375060,black).
 num_of_charges(19375060, 4).
 has_arrest(hz492467, 19391512).
-crime_date(19391512, datime(date(2016, 10, 30, 11, 23, 0)))..
+crime_date(19391512, datime(date(2016, 10, 30, 11, 23, 0))).
 criminal_race(19391512,black).
 num_of_charges(19391512, 4).
 has_arrest(hz450909, 19377359).
-crime_date(19377359, datime(date(2016, 9, 28, 9, 49, 0)))..
+crime_date(19377359, datime(date(2016, 9, 28, 9, 49, 0))).
 criminal_race(19377359,white).
 num_of_charges(19377359, 4).
 has_arrest(hy529418, 19373596).
-crime_date(19373596, datime(date(2016, 9, 20, 10, 30, 0)))..
+crime_date(19373596, datime(date(2016, 9, 20, 10, 30, 0))).
 criminal_race(19373596,black).
 num_of_charges(19373596, 4).
 has_arrest(hz437275, 19380494).
-crime_date(19380494, datime(date(2016, 10, 5, 9, 40, 0)))..
+crime_date(19380494, datime(date(2016, 10, 5, 9, 40, 0))).
 criminal_race(19380494,black).
 num_of_charges(19380494, 4).
 has_arrest(hz494869, 19391501).
-crime_date(19391501, datime(date(2016, 10, 30, 4, 45, 0)))..
+crime_date(19391501, datime(date(2016, 10, 30, 4, 45, 0))).
 criminal_race(19391501,white_hispanic).
 num_of_charges(19391501, 4).
 has_arrest(hz437275, 19381036).
-crime_date(19381036, datime(date(2016, 10, 6, 12, 45, 0)))..
+crime_date(19381036, datime(date(2016, 10, 6, 12, 45, 0))).
 criminal_race(19381036,black).
 num_of_charges(19381036, 4).
 has_arrest(hx212376, 19370429).
-crime_date(19370429, datime(date(2016, 9, 13, 16, 42, 0)))..
+crime_date(19370429, datime(date(2016, 9, 13, 16, 42, 0))).
 criminal_race(19370429,black).
 num_of_charges(19370429, 4).
 has_arrest(je245666, 30079789).
-crime_date(30079789, datime(date(2021, 8, 31, 16, 26, 0)))..
+crime_date(30079789, datime(date(2021, 8, 31, 16, 26, 0))).
 criminal_race(30079789,black).
 num_of_charges(30079789, 4).
 has_arrest(hz451639, 19377037).
-crime_date(19377037, datime(date(2016, 9, 27, 12, 10, 0)))..
+crime_date(19377037, datime(date(2016, 9, 27, 12, 10, 0))).
 criminal_race(19377037,black).
 num_of_charges(19377037, 4).
 has_arrest(hz457641, 19379005).
-crime_date(19379005, datime(date(2016, 10, 1, 23, 30, 0)))..
+crime_date(19379005, datime(date(2016, 10, 1, 23, 30, 0))).
 criminal_race(19379005,black).
 num_of_charges(19379005, 4).
 has_arrest(hz435592, 19371561).
-crime_date(19371561, datime(date(2016, 9, 15, 19, 11, 0)))..
+crime_date(19371561, datime(date(2016, 9, 15, 19, 11, 0))).
 criminal_race(19371561,black).
 num_of_charges(19371561, 4).
 has_arrest(f399268, 19382112).
-crime_date(19382112, datime(date(2016, 10, 8, 20, 0, 0)))..
+crime_date(19382112, datime(date(2016, 10, 8, 20, 0, 0))).
 criminal_race(19382112,white_hispanic).
 num_of_charges(19382112, 4).
 has_arrest(hz427702, 19368975).
-crime_date(19368975, datime(date(2016, 9, 9, 23, 40, 0)))..
+crime_date(19368975, datime(date(2016, 9, 9, 23, 40, 0))).
 criminal_race(19368975,white_hispanic).
 num_of_charges(19368975, 4).
 has_arrest(hz385336, 19370301).
-crime_date(19370301, datime(date(2016, 9, 13, 11, 5, 0)))..
+crime_date(19370301, datime(date(2016, 9, 13, 11, 5, 0))).
 criminal_race(19370301,black).
 num_of_charges(19370301, 4).
 has_arrest(hz196115, 19379986).
-crime_date(19379986, datime(date(2016, 10, 4, 9, 30, 0)))..
+crime_date(19379986, datime(date(2016, 10, 4, 9, 30, 0))).
 criminal_race(19379986,black).
 num_of_charges(19379986, 4).
 has_arrest(hz451757, 19377044).
-crime_date(19377044, datime(date(2016, 9, 27, 13, 33, 0)))..
+crime_date(19377044, datime(date(2016, 9, 27, 13, 33, 0))).
 criminal_race(19377044,black).
 num_of_charges(19377044, 4).
 has_arrest(hz485486, 19388474).
-crime_date(19388474, datime(date(2016, 10, 23, 8, 45, 0)))..
+crime_date(19388474, datime(date(2016, 10, 23, 8, 45, 0))).
 criminal_race(19388474,black).
 num_of_charges(19388474, 4).
 has_arrest(hz442949, 19373986).
-crime_date(19373986, datime(date(2016, 9, 21, 1, 41, 0)))..
+crime_date(19373986, datime(date(2016, 9, 21, 1, 41, 0))).
 criminal_race(19373986,black).
 num_of_charges(19373986, 4).
 has_arrest(hz459799, 19379765).
-crime_date(19379765, datime(date(2016, 10, 3, 18, 26, 0)))..
+crime_date(19379765, datime(date(2016, 10, 3, 18, 26, 0))).
 criminal_race(19379765,black).
 num_of_charges(19379765, 4).
 has_arrest(hz422595, 19371871).
-crime_date(19371871, datime(date(2016, 9, 16, 16, 15, 0)))..
+crime_date(19371871, datime(date(2016, 9, 16, 16, 15, 0))).
 criminal_race(19371871,black).
 num_of_charges(19371871, 4).
 has_arrest(hz479826, 19386482).
-crime_date(19386482, datime(date(2016, 10, 18, 19, 35, 0)))..
+crime_date(19386482, datime(date(2016, 10, 18, 19, 35, 0))).
 criminal_race(19386482,black).
 num_of_charges(19386482, 4).
 has_arrest(hy460909, 19377356).
-crime_date(19377356, datime(date(2016, 9, 28, 9, 30, 0)))..
+crime_date(19377356, datime(date(2016, 9, 28, 9, 30, 0))).
 criminal_race(19377356,black).
 num_of_charges(19377356, 4).
 has_arrest(ja166574, 19442977).
-crime_date(19442977, datime(date(2017, 2, 25, 8, 18, 0)))..
+crime_date(19442977, datime(date(2017, 2, 25, 8, 18, 0))).
 criminal_race(19442977,black).
 num_of_charges(19442977, 4).
 has_arrest(hz485272, 19388441).
-crime_date(19388441, datime(date(2016, 10, 23, 2, 11, 0)))..
+crime_date(19388441, datime(date(2016, 10, 23, 2, 11, 0))).
 criminal_race(19388441,black).
 num_of_charges(19388441, 4).
 has_arrest(hz381315, 19368747).
-crime_date(19368747, datime(date(2016, 9, 9, 18, 0, 0)))..
+crime_date(19368747, datime(date(2016, 9, 9, 18, 0, 0))).
 criminal_race(19368747,white_hispanic).
 num_of_charges(19368747, 4).
 has_arrest(hz442931, 19386401).
-crime_date(19386401, datime(date(2016, 10, 18, 17, 39, 0)))..
+crime_date(19386401, datime(date(2016, 10, 18, 17, 39, 0))).
 criminal_race(19386401,black).
 num_of_charges(19386401, 4).
 has_arrest(hz283010, 19369630).
-crime_date(19369630, datime(date(2016, 9, 11, 20, 30, 0)))..
+crime_date(19369630, datime(date(2016, 9, 11, 20, 30, 0))).
 criminal_race(19369630,white).
 num_of_charges(19369630, 4).
 has_arrest(hz432824, 19373527).
-crime_date(19373527, datime(date(2016, 9, 20, 7, 50, 0)))..
+crime_date(19373527, datime(date(2016, 9, 20, 7, 50, 0))).
 criminal_race(19373527,white_hispanic).
 num_of_charges(19373527, 4).
 has_arrest(hz466758, 19384225).
-crime_date(19384225, datime(date(2016, 10, 13, 19, 12, 0)))..
+crime_date(19384225, datime(date(2016, 10, 13, 19, 12, 0))).
 criminal_race(19384225,black).
 num_of_charges(19384225, 4).
 has_arrest(je358450, 30080120).
-crime_date(30080120, datime(date(2021, 9, 1, 22, 11, 0)))..
+crime_date(30080120, datime(date(2021, 9, 1, 22, 11, 0))).
 criminal_race(30080120,black).
 num_of_charges(30080120, 4).
 has_arrest(je356509, 30095036).
-crime_date(30095036, datime(date(2021, 11, 3, 17, 45, 0)))..
+crime_date(30095036, datime(date(2021, 11, 3, 17, 45, 0))).
 criminal_race(30095036,black).
 num_of_charges(30095036, 4).
 has_arrest(hz401759, 19378975).
-crime_date(19378975, datime(date(2016, 10, 1, 19, 25, 0)))..
+crime_date(19378975, datime(date(2016, 10, 1, 19, 25, 0))).
 criminal_race(19378975,black).
 num_of_charges(19378975, 4).
 has_arrest(hz437275, 19385737).
-crime_date(19385737, datime(date(2016, 10, 17, 10, 50, 0)))..
+crime_date(19385737, datime(date(2016, 10, 17, 10, 50, 0))).
 criminal_race(19385737,black).
 num_of_charges(19385737, 4).
 has_arrest(hz379020, 19381231).
-crime_date(19381231, datime(date(2016, 10, 6, 19, 25, 0)))..
+crime_date(19381231, datime(date(2016, 10, 6, 19, 25, 0))).
 criminal_race(19381231,black).
 num_of_charges(19381231, 4).
 has_arrest(hz449829, 19376357).
-crime_date(19376357, datime(date(2016, 9, 26, 3, 50, 0)))..
+crime_date(19376357, datime(date(2016, 9, 26, 3, 50, 0))).
 criminal_race(19376357,white_hispanic).
 num_of_charges(19376357, 4).
 has_arrest(hz427779, 19368968).
-crime_date(19368968, datime(date(2016, 9, 9, 23, 33, 0)))..
+crime_date(19368968, datime(date(2016, 9, 9, 23, 33, 0))).
 criminal_race(19368968,white_hispanic).
 num_of_charges(19368968, 4).
 has_arrest(hz476561, 19385391).
-crime_date(19385391, datime(date(2016, 10, 16, 13, 17, 0)))..
+crime_date(19385391, datime(date(2016, 10, 16, 13, 17, 0))).
 criminal_race(19385391,black).
 num_of_charges(19385391, 4).
 has_arrest(hz369470, 19367506).
-crime_date(19367506, datime(date(2016, 9, 7, 0, 20, 0)))..
+crime_date(19367506, datime(date(2016, 9, 7, 0, 20, 0))).
 criminal_race(19367506,asian___pacific_islander).
 num_of_charges(19367506, 4).
 has_arrest(hz418497, 19373370).
-crime_date(19373370, datime(date(2016, 9, 19, 19, 50, 0)))..
+crime_date(19373370, datime(date(2016, 9, 19, 19, 50, 0))).
 criminal_race(19373370,black).
 num_of_charges(19373370, 4).
 has_arrest(ja217563, 19463121).
-crime_date(19463121, datime(date(2017, 4, 9, 15, 54, 0)))..
+crime_date(19463121, datime(date(2017, 4, 9, 15, 54, 0))).
 criminal_race(19463121,black).
 num_of_charges(19463121, 4).
 has_arrest(hz400709, 19374235).
-crime_date(19374235, datime(date(2016, 9, 21, 15, 5, 0)))..
+crime_date(19374235, datime(date(2016, 9, 21, 15, 5, 0))).
 criminal_race(19374235,white_hispanic).
 num_of_charges(19374235, 4).
 has_arrest(hz494931, 19414290).
-crime_date(19414290, datime(date(2016, 12, 24, 13, 47, 0)))..
+crime_date(19414290, datime(date(2016, 12, 24, 13, 47, 0))).
 criminal_race(19414290,black).
 num_of_charges(19414290, 4).
 has_arrest(hz502115, 19393600).
-crime_date(19393600, datime(date(2016, 11, 4, 12, 57, 0)))..
+crime_date(19393600, datime(date(2016, 11, 4, 12, 57, 0))).
 criminal_race(19393600,black).
 num_of_charges(19393600, 4).
 has_arrest(hz522475, 19407444).
-crime_date(19407444, datime(date(2016, 12, 6, 15, 50, 0)))..
+crime_date(19407444, datime(date(2016, 12, 6, 15, 50, 0))).
 criminal_race(19407444,white_hispanic).
 num_of_charges(19407444, 4).
 has_arrest(hz520698, 19400135).
-crime_date(19400135, datime(date(2016, 11, 18, 18, 24, 0)))..
+crime_date(19400135, datime(date(2016, 11, 18, 18, 24, 0))).
 criminal_race(19400135,black).
 num_of_charges(19400135, 4).
 has_arrest(hz496623, 19392592).
-crime_date(19392592, datime(date(2016, 11, 1, 21, 0, 0)))..
+crime_date(19392592, datime(date(2016, 11, 1, 21, 0, 0))).
 criminal_race(19392592,black).
 num_of_charges(19392592, 4).
 has_arrest(hz362044, 19401380).
-crime_date(19401380, datime(date(2016, 11, 21, 19, 45, 0)))..
+crime_date(19401380, datime(date(2016, 11, 21, 19, 45, 0))).
 criminal_race(19401380,black).
 num_of_charges(19401380, 4).
 has_arrest(hv272275, 19405071).
-crime_date(19405071, datime(date(2016, 11, 30, 15, 30, 0)))..
+crime_date(19405071, datime(date(2016, 11, 30, 15, 30, 0))).
 criminal_race(19405071,black).
 num_of_charges(19405071, 4).
 has_arrest(hy524769, 19404812).
-crime_date(19404812, datime(date(2016, 11, 30, 9, 31, 0)))..
+crime_date(19404812, datime(date(2016, 11, 30, 9, 31, 0))).
 criminal_race(19404812,black).
 num_of_charges(19404812, 4).
 has_arrest(hz514280, 19406847).
-crime_date(19406847, datime(date(2016, 12, 5, 0, 21, 0)))..
+crime_date(19406847, datime(date(2016, 12, 5, 0, 21, 0))).
 criminal_race(19406847,black).
 num_of_charges(19406847, 4).
 has_arrest(hz293628, 19392838).
-crime_date(19392838, datime(date(2016, 11, 2, 13, 0, 0)))..
+crime_date(19392838, datime(date(2016, 11, 2, 13, 0, 0))).
 criminal_race(19392838,black).
 num_of_charges(19392838, 4).
 has_arrest(hz422091, 19407011).
-crime_date(19407011, datime(date(2016, 12, 5, 15, 0, 0)))..
+crime_date(19407011, datime(date(2016, 12, 5, 15, 0, 0))).
 criminal_race(19407011,black).
 num_of_charges(19407011, 4).
 has_arrest(hz527500, 19402483).
-crime_date(19402483, datime(date(2016, 11, 24, 3, 27, 0)))..
+crime_date(19402483, datime(date(2016, 11, 24, 3, 27, 0))).
 criminal_race(19402483,black).
 num_of_charges(19402483, 4).
 has_arrest(hz484300, 19394547).
-crime_date(19394547, datime(date(2016, 11, 6, 18, 20, 0)))..
+crime_date(19394547, datime(date(2016, 11, 6, 18, 20, 0))).
 criminal_race(19394547,white_hispanic).
 num_of_charges(19394547, 4).
 has_arrest(hz526528, 19407556).
-crime_date(19407556, datime(date(2016, 12, 6, 15, 0, 0)))..
+crime_date(19407556, datime(date(2016, 12, 6, 15, 0, 0))).
 criminal_race(19407556,black).
 num_of_charges(19407556, 4).
 has_arrest(hz494596, 19395611).
-crime_date(19395611, datime(date(2016, 11, 9, 7, 20, 0)))..
+crime_date(19395611, datime(date(2016, 11, 9, 7, 20, 0))).
 criminal_race(19395611,black).
 num_of_charges(19395611, 4).
 has_arrest(hn329056, 19404795).
-crime_date(19404795, datime(date(2016, 11, 30, 7, 0, 0)))..
+crime_date(19404795, datime(date(2016, 11, 30, 7, 0, 0))).
 criminal_race(19404795,black).
 num_of_charges(19404795, 4).
 has_arrest(hz473291, 19412926).
-crime_date(19412926, datime(date(2016, 12, 21, 9, 50, 0)))..
+crime_date(19412926, datime(date(2016, 12, 21, 9, 50, 0))).
 criminal_race(19412926,black).
 num_of_charges(19412926, 4).
 has_arrest(hz543434, 19410463).
-crime_date(19410463, datime(date(2016, 12, 14, 9, 25, 0)))..
+crime_date(19410463, datime(date(2016, 12, 14, 9, 25, 0))).
 criminal_race(19410463,black).
 num_of_charges(19410463, 4).
 has_arrest(hz238593, 19407528).
-crime_date(19407528, datime(date(2016, 12, 6, 19, 14, 0)))..
+crime_date(19407528, datime(date(2016, 12, 6, 19, 14, 0))).
 criminal_race(19407528,white_hispanic).
 num_of_charges(19407528, 4).
 has_arrest(hz336440, 19398448).
-crime_date(19398448, datime(date(2016, 11, 15, 13, 20, 0)))..
+crime_date(19398448, datime(date(2016, 11, 15, 13, 20, 0))).
 criminal_race(19398448,black).
 num_of_charges(19398448, 4).
 has_arrest(hz342252, 19410057).
-crime_date(19410057, datime(date(2016, 12, 13, 9, 25, 0)))..
+crime_date(19410057, datime(date(2016, 12, 13, 9, 25, 0))).
 criminal_race(19410057,black).
 num_of_charges(19410057, 4).
 has_arrest(hz542254, 19407431).
-crime_date(19407431, datime(date(2016, 12, 6, 15, 18, 0)))..
+crime_date(19407431, datime(date(2016, 12, 6, 15, 18, 0))).
 criminal_race(19407431,black).
 num_of_charges(19407431, 4).
 has_arrest(hz527500, 19413897).
-crime_date(19413897, datime(date(2016, 12, 23, 12, 50, 0)))..
+crime_date(19413897, datime(date(2016, 12, 23, 12, 50, 0))).
 criminal_race(19413897,black).
 num_of_charges(19413897, 4).
 has_arrest(je428818, 30094797).
-crime_date(30094797, datime(date(2021, 11, 2, 19, 45, 0)))..
+crime_date(30094797, datime(date(2021, 11, 2, 19, 45, 0))).
 criminal_race(30094797,black).
 num_of_charges(30094797, 4).
 has_arrest(hz507464, 19395348).
-crime_date(19395348, datime(date(2016, 11, 8, 13, 0, 0)))..
+crime_date(19395348, datime(date(2016, 11, 8, 13, 0, 0))).
 criminal_race(19395348,black).
 num_of_charges(19395348, 4).
 has_arrest(hz383992, 19395238).
-crime_date(19395238, datime(date(2016, 11, 8, 10, 20, 0)))..
+crime_date(19395238, datime(date(2016, 11, 8, 10, 20, 0))).
 criminal_race(19395238,black).
 num_of_charges(19395238, 4).
 has_arrest(hz363985, 19410430).
-crime_date(19410430, datime(date(2016, 12, 14, 10, 5, 0)))..
+crime_date(19410430, datime(date(2016, 12, 14, 10, 5, 0))).
 criminal_race(19410430,black).
 num_of_charges(19410430, 4).
 has_arrest(je325241, 30095023).
-crime_date(30095023, datime(date(2021, 11, 3, 17, 0, 0)))..
+crime_date(30095023, datime(date(2021, 11, 3, 17, 0, 0))).
 criminal_race(30095023,white_hispanic).
 num_of_charges(30095023, 4).
 has_arrest(hz538453, 19410531).
-crime_date(19410531, datime(date(2016, 12, 14, 13, 25, 0)))..
+crime_date(19410531, datime(date(2016, 12, 14, 13, 25, 0))).
 criminal_race(19410531,black).
 num_of_charges(19410531, 4).
 has_arrest(hz391017, 19415078).
-crime_date(19415078, datime(date(2016, 12, 27, 10, 50, 0)))..
+crime_date(19415078, datime(date(2016, 12, 27, 10, 50, 0))).
 criminal_race(19415078,black).
 num_of_charges(19415078, 4).
 has_arrest(hz555658, 19411804).
-crime_date(19411804, datime(date(2016, 12, 18, 2, 17, 0)))..
+crime_date(19411804, datime(date(2016, 12, 18, 2, 17, 0))).
 criminal_race(19411804,black).
 num_of_charges(19411804, 4).
 has_arrest(hz391953, 19396162).
-crime_date(19396162, datime(date(2016, 11, 10, 12, 57, 0)))..
+crime_date(19396162, datime(date(2016, 11, 10, 12, 57, 0))).
 criminal_race(19396162,black).
 num_of_charges(19396162, 4).
 has_arrest(jf186555, 30129311).
-crime_date(30129311, datime(date(2022, 3, 26, 11, 15, 0)))..
+crime_date(30129311, datime(date(2022, 3, 26, 11, 15, 0))).
 criminal_race(30129311,black).
 num_of_charges(30129311, 4).
 has_arrest(hz507487, 19395334).
-crime_date(19395334, datime(date(2016, 11, 8, 12, 20, 0)))..
+crime_date(19395334, datime(date(2016, 11, 8, 12, 20, 0))).
 criminal_race(19395334,white_hispanic).
 num_of_charges(19395334, 4).
 has_arrest(hz524465, 19401527).
-crime_date(19401527, datime(date(2016, 11, 22, 4, 0, 0)))..
+crime_date(19401527, datime(date(2016, 11, 22, 4, 0, 0))).
 criminal_race(19401527,white_hispanic).
 num_of_charges(19401527, 4).
 has_arrest(hz473291, 19398104).
-crime_date(19398104, datime(date(2016, 11, 14, 16, 40, 0)))..
+crime_date(19398104, datime(date(2016, 11, 14, 16, 40, 0))).
 criminal_race(19398104,black).
 num_of_charges(19398104, 4).
 has_arrest(hz562268, 19413816).
-crime_date(19413816, datime(date(2016, 12, 23, 8, 55, 0)))..
+crime_date(19413816, datime(date(2016, 12, 23, 8, 55, 0))).
 criminal_race(19413816,black).
 num_of_charges(19413816, 4).
 has_arrest(hz529243, 19411884).
-crime_date(19411884, datime(date(2016, 12, 18, 11, 45, 0)))..
+crime_date(19411884, datime(date(2016, 12, 18, 11, 45, 0))).
 criminal_race(19411884,white_hispanic).
 num_of_charges(19411884, 4).
 has_arrest(hx361779, 19393527).
-crime_date(19393527, datime(date(2016, 11, 4, 6, 30, 0)))..
+crime_date(19393527, datime(date(2016, 11, 4, 6, 30, 0))).
 criminal_race(19393527,black).
 num_of_charges(19393527, 4).
 has_arrest(hz561637, 19413650).
-crime_date(19413650, datime(date(2016, 12, 22, 19, 35, 0)))..
+crime_date(19413650, datime(date(2016, 12, 22, 19, 35, 0))).
 criminal_race(19413650,black).
 num_of_charges(19413650, 4).
 has_arrest(hz458845, 19412179).
-crime_date(19412179, datime(date(2016, 12, 19, 12, 30, 0)))..
+crime_date(19412179, datime(date(2016, 12, 19, 12, 30, 0))).
 criminal_race(19412179,black).
 num_of_charges(19412179, 4).
 has_arrest(hz528346, 19402725).
-crime_date(19402725, datime(date(2016, 11, 25, 7, 50, 0)))..
+crime_date(19402725, datime(date(2016, 11, 25, 7, 50, 0))).
 criminal_race(19402725,black).
 num_of_charges(19402725, 4).
 has_arrest(hz555341, 19414799).
-crime_date(19414799, datime(date(2016, 12, 26, 14, 45, 0)))..
+crime_date(19414799, datime(date(2016, 12, 26, 14, 45, 0))).
 criminal_race(19414799,black).
 num_of_charges(19414799, 4).
 has_arrest(hz522447, 19413020).
-crime_date(19413020, datime(date(2016, 12, 21, 12, 0, 0)))..
+crime_date(19413020, datime(date(2016, 12, 21, 12, 0, 0))).
 criminal_race(19413020,black).
 num_of_charges(19413020, 4).
 has_arrest(hz136386, 19393293).
-crime_date(19393293, datime(date(2016, 11, 3, 13, 35, 0)))..
+crime_date(19393293, datime(date(2016, 11, 3, 13, 35, 0))).
 criminal_race(19393293,black).
 num_of_charges(19393293, 4).
 has_arrest(hz564127, 19414380).
-crime_date(19414380, datime(date(2016, 12, 24, 19, 17, 0)))..
+crime_date(19414380, datime(date(2016, 12, 24, 19, 17, 0))).
 criminal_race(19414380,black).
 num_of_charges(19414380, 4).
 has_arrest(hz528180, 19410310).
-crime_date(19410310, datime(date(2016, 12, 13, 22, 45, 0)))..
+crime_date(19410310, datime(date(2016, 12, 13, 22, 45, 0))).
 criminal_race(19410310,black).
 num_of_charges(19410310, 4).
 has_arrest(hy271219, 19413342).
-crime_date(19413342, datime(date(2016, 12, 22, 9, 0, 0)))..
+crime_date(19413342, datime(date(2016, 12, 22, 9, 0, 0))).
 criminal_race(19413342,black).
 num_of_charges(19413342, 4).
 has_arrest(hj572458, 19393245).
-crime_date(19393245, datime(date(2016, 11, 2, 10, 30, 0)))..
+crime_date(19393245, datime(date(2016, 11, 2, 10, 30, 0))).
 criminal_race(19393245,black).
 num_of_charges(19393245, 4).
 has_arrest(hz529243, 19403068).
-crime_date(19403068, datime(date(2016, 11, 26, 0, 44, 0)))..
+crime_date(19403068, datime(date(2016, 11, 26, 0, 44, 0))).
 criminal_race(19403068,white_hispanic).
 num_of_charges(19403068, 4).
 has_arrest(hz542408, 19407590).
-crime_date(19407590, datime(date(2016, 12, 6, 17, 0, 0)))..
+crime_date(19407590, datime(date(2016, 12, 6, 17, 0, 0))).
 criminal_race(19407590,black).
 num_of_charges(19407590, 4).
 has_arrest(jf187644, 30129429).
-crime_date(30129429, datime(date(2022, 3, 26, 20, 57, 0)))..
+crime_date(30129429, datime(date(2022, 3, 26, 20, 57, 0))).
 criminal_race(30129429,black).
 num_of_charges(30129429, 4).
 has_arrest(ja146490, 19434802).
-crime_date(19434802, datime(date(2017, 2, 8, 17, 25, 0)))..
+crime_date(19434802, datime(date(2017, 2, 8, 17, 25, 0))).
 criminal_race(19434802,black).
 num_of_charges(19434802, 4).
 has_arrest(ja125217, 19426368).
-crime_date(19426368, datime(date(2017, 1, 22, 14, 0, 0)))..
+crime_date(19426368, datime(date(2017, 1, 22, 14, 0, 0))).
 criminal_race(19426368,black).
 num_of_charges(19426368, 4).
 has_arrest(hz561637, 19421317).
-crime_date(19421317, datime(date(2017, 1, 11, 15, 0, 0)))..
+crime_date(19421317, datime(date(2017, 1, 11, 15, 0, 0))).
 criminal_race(19421317,black).
 num_of_charges(19421317, 4).
 has_arrest(ja151431, 19436825).
-crime_date(19436825, datime(date(2017, 2, 12, 22, 29, 0)))..
+crime_date(19436825, datime(date(2017, 2, 12, 22, 29, 0))).
 criminal_race(19436825,black).
 num_of_charges(19436825, 4).
 has_arrest(ja132150, 19433199).
-crime_date(19433199, datime(date(2017, 2, 5, 11, 51, 0)))..
+crime_date(19433199, datime(date(2017, 2, 5, 11, 51, 0))).
 criminal_race(19433199,black).
 num_of_charges(19433199, 4).
 has_arrest(hz436123, 19438391).
-crime_date(19438391, datime(date(2017, 2, 16, 9, 40, 0)))..
+crime_date(19438391, datime(date(2017, 2, 16, 9, 40, 0))).
 criminal_race(19438391,white).
 num_of_charges(19438391, 4).
 has_arrest(ja107924, 19420574).
-crime_date(19420574, datime(date(2017, 1, 9, 19, 35, 0)))..
+crime_date(19420574, datime(date(2017, 1, 9, 19, 35, 0))).
 criminal_race(19420574,white_hispanic).
 num_of_charges(19420574, 4).
 has_arrest(jb385534, 19685408).
-crime_date(19685408, datime(date(2018, 8, 8, 23, 39, 0)))..
+crime_date(19685408, datime(date(2018, 8, 8, 23, 39, 0))).
 criminal_race(19685408,black).
 num_of_charges(19685408, 4).
 has_arrest(hz504521, 19418037).
-crime_date(19418037, datime(date(2017, 1, 3, 17, 15, 0)))..
+crime_date(19418037, datime(date(2017, 1, 3, 17, 15, 0))).
 criminal_race(19418037,white_hispanic).
 num_of_charges(19418037, 4).
 has_arrest(ja146899, 19438657).
-crime_date(19438657, datime(date(2017, 2, 16, 20, 32, 0)))..
+crime_date(19438657, datime(date(2017, 2, 16, 20, 32, 0))).
 criminal_race(19438657,black).
 num_of_charges(19438657, 4).
 has_arrest(hx495849, 19438936).
-crime_date(19438936, datime(date(2017, 2, 17, 10, 35, 0)))..
+crime_date(19438936, datime(date(2017, 2, 17, 10, 35, 0))).
 criminal_race(19438936,black).
 num_of_charges(19438936, 4).
 has_arrest(hr478800, 19438461).
-crime_date(19438461, datime(date(2017, 2, 16, 11, 20, 0)))..
+crime_date(19438461, datime(date(2017, 2, 16, 11, 20, 0))).
 criminal_race(19438461,black).
 num_of_charges(19438461, 4).
 has_arrest(hz425569, 19434960).
-crime_date(19434960, datime(date(2017, 2, 9, 9, 38, 0)))..
+crime_date(19434960, datime(date(2017, 2, 9, 9, 38, 0))).
 criminal_race(19434960,black).
 num_of_charges(19434960, 4).
 has_arrest(hz306529, 19424016).
-crime_date(19424016, datime(date(2017, 1, 17, 13, 30, 0)))..
+crime_date(19424016, datime(date(2017, 1, 17, 13, 30, 0))).
 criminal_race(19424016,black).
 num_of_charges(19424016, 4).
 has_arrest(hz565679, 19418056).
-crime_date(19418056, datime(date(2017, 1, 3, 17, 40, 0)))..
+crime_date(19418056, datime(date(2017, 1, 3, 17, 40, 0))).
 criminal_race(19418056,black).
 num_of_charges(19418056, 4).
 has_arrest(hz537737, 19434502).
-crime_date(19434502, datime(date(2017, 2, 8, 11, 25, 0)))..
+crime_date(19434502, datime(date(2017, 2, 8, 11, 25, 0))).
 criminal_race(19434502,black).
 num_of_charges(19434502, 4).
 has_arrest(ja124626, 19425939).
-crime_date(19425939, datime(date(2017, 1, 21, 17, 17, 0)))..
+crime_date(19425939, datime(date(2017, 1, 21, 17, 17, 0))).
 criminal_race(19425939,black).
 num_of_charges(19425939, 4).
 has_arrest(hz438933, 19432430).
-crime_date(19432430, datime(date(2017, 2, 3, 19, 0, 0)))..
+crime_date(19432430, datime(date(2017, 2, 3, 19, 0, 0))).
 criminal_race(19432430,black).
 num_of_charges(19432430, 4).
 has_arrest(hz528062, 19417864).
-crime_date(19417864, datime(date(2017, 1, 3, 9, 40, 0)))..
+crime_date(19417864, datime(date(2017, 1, 3, 9, 40, 0))).
 criminal_race(19417864,white).
 num_of_charges(19417864, 4).
 has_arrest(ja124638, 19425969).
-crime_date(19425969, datime(date(2017, 1, 21, 18, 33, 0)))..
+crime_date(19425969, datime(date(2017, 1, 21, 18, 33, 0))).
 criminal_race(19425969,black).
 num_of_charges(19425969, 4).
 has_arrest(ja136324, 19439038).
-crime_date(19439038, datime(date(2017, 2, 17, 14, 43, 0)))..
+crime_date(19439038, datime(date(2017, 2, 17, 14, 43, 0))).
 criminal_race(19439038,black).
 num_of_charges(19439038, 4).
 has_arrest(hz307947, 19440876).
-crime_date(19440876, datime(date(2017, 2, 21, 8, 10, 0)))..
+crime_date(19440876, datime(date(2017, 2, 21, 8, 10, 0))).
 criminal_race(19440876,black).
 num_of_charges(19440876, 4).
 has_arrest(ja119294, 19424002).
-crime_date(19424002, datime(date(2017, 1, 17, 18, 54, 0)))..
+crime_date(19424002, datime(date(2017, 1, 17, 18, 54, 0))).
 criminal_race(19424002,white).
 num_of_charges(19424002, 4).
 has_arrest(hz467795, 19441006).
-crime_date(19441006, datime(date(2017, 2, 21, 14, 0, 0)))..
+crime_date(19441006, datime(date(2017, 2, 21, 14, 0, 0))).
 criminal_race(19441006,black).
 num_of_charges(19441006, 4).
 has_arrest(hz474617, 19437918).
-crime_date(19437918, datime(date(2017, 2, 15, 11, 5, 0)))..
+crime_date(19437918, datime(date(2017, 2, 15, 11, 5, 0))).
 criminal_race(19437918,black).
 num_of_charges(19437918, 4).
 has_arrest(hz429679, 19420643).
-crime_date(19420643, datime(date(2017, 1, 9, 22, 10, 0)))..
+crime_date(19420643, datime(date(2017, 1, 9, 22, 10, 0))).
 criminal_race(19420643,black_hispanic).
 num_of_charges(19420643, 4).
 has_arrest(hy395938, 19421196).
-crime_date(19421196, datime(date(2017, 1, 11, 12, 25, 0)))..
+crime_date(19421196, datime(date(2017, 1, 11, 12, 25, 0))).
 criminal_race(19421196,black).
 num_of_charges(19421196, 4).
 has_arrest(hz569207, 19424807).
-crime_date(19424807, datime(date(2017, 1, 19, 11, 55, 0)))..
+crime_date(19424807, datime(date(2017, 1, 19, 11, 55, 0))).
 criminal_race(19424807,black).
 num_of_charges(19424807, 4).
 has_arrest(je359713, 30080429).
-crime_date(30080429, datime(date(2021, 9, 3, 0, 52, 0)))..
+crime_date(30080429, datime(date(2021, 9, 3, 0, 52, 0))).
 criminal_race(30080429,black).
 num_of_charges(30080429, 4).
 has_arrest(ja149479, 19435878).
-crime_date(19435878, datime(date(2017, 2, 11, 1, 55, 0)))..
+crime_date(19435878, datime(date(2017, 2, 11, 1, 55, 0))).
 criminal_race(19435878,black).
 num_of_charges(19435878, 4).
 has_arrest(ja150323, 19437659).
-crime_date(19437659, datime(date(2017, 2, 14, 21, 5, 0)))..
+crime_date(19437659, datime(date(2017, 2, 14, 21, 5, 0))).
 criminal_race(19437659,black).
 num_of_charges(19437659, 4).
 has_arrest(ja123636, 19425622).
-crime_date(19425622, datime(date(2017, 1, 20, 22, 0, 0)))..
+crime_date(19425622, datime(date(2017, 1, 20, 22, 0, 0))).
 criminal_race(19425622,black).
 num_of_charges(19425622, 4).
 has_arrest(ja153462, 19438684).
-crime_date(19438684, datime(date(2017, 2, 16, 21, 12, 0)))..
+crime_date(19438684, datime(date(2017, 2, 16, 21, 12, 0))).
 criminal_race(19438684,black).
 num_of_charges(19438684, 4).
 has_arrest(hz300630, 19418345).
-crime_date(19418345, datime(date(2017, 1, 4, 9, 47, 0)))..
+crime_date(19418345, datime(date(2017, 1, 4, 9, 47, 0))).
 criminal_race(19418345,black).
 num_of_charges(19418345, 4).
 has_arrest(jb385534, 19698663).
-crime_date(19698663, datime(date(2018, 9, 5, 10, 7, 0)))..
+crime_date(19698663, datime(date(2018, 9, 5, 10, 7, 0))).
 criminal_race(19698663,black).
 num_of_charges(19698663, 4).
 has_arrest(ja132683, 19429172).
-crime_date(19429172, datime(date(2017, 1, 28, 1, 4, 0)))..
+crime_date(19429172, datime(date(2017, 1, 28, 1, 4, 0))).
 criminal_race(19429172,black).
 num_of_charges(19429172, 4).
 has_arrest(hz493319, 19418133).
-crime_date(19418133, datime(date(2017, 1, 3, 14, 0, 0)))..
+crime_date(19418133, datime(date(2017, 1, 3, 14, 0, 0))).
 criminal_race(19418133,black).
 num_of_charges(19418133, 4).
 has_arrest(hz554581, 19418954).
-crime_date(19418954, datime(date(2017, 1, 5, 18, 15, 0)))..
+crime_date(19418954, datime(date(2017, 1, 5, 18, 15, 0))).
 criminal_race(19418954,black).
 num_of_charges(19418954, 4).
 has_arrest(ja137727, 19431161).
-crime_date(19431161, datime(date(2017, 2, 1, 12, 4, 0)))..
+crime_date(19431161, datime(date(2017, 2, 1, 12, 4, 0))).
 criminal_race(19431161,black).
 num_of_charges(19431161, 4).
 has_arrest(ja127088, 19431146).
-crime_date(19431146, datime(date(2017, 2, 1, 12, 37, 0)))..
+crime_date(19431146, datime(date(2017, 2, 1, 12, 37, 0))).
 criminal_race(19431146,black).
 num_of_charges(19431146, 4).
 has_arrest(ja132765, 19429351).
-crime_date(19429351, datime(date(2017, 1, 28, 3, 28, 0)))..
+crime_date(19429351, datime(date(2017, 1, 28, 3, 28, 0))).
 criminal_race(19429351,black).
 num_of_charges(19429351, 4).
 has_arrest(ja124626, 19425987).
-crime_date(19425987, datime(date(2017, 1, 21, 17, 17, 0)))..
+crime_date(19425987, datime(date(2017, 1, 21, 17, 17, 0))).
 criminal_race(19425987,asian___pacific_islander).
 num_of_charges(19425987, 4).
 has_arrest(hy395938, 19421254).
-crime_date(19421254, datime(date(2017, 1, 11, 14, 5, 0)))..
+crime_date(19421254, datime(date(2017, 1, 11, 14, 5, 0))).
 criminal_race(19421254,black).
 num_of_charges(19421254, 4).
 has_arrest(ja153462, 19441627).
-crime_date(19441627, datime(date(2017, 2, 22, 17, 50, 0)))..
+crime_date(19441627, datime(date(2017, 2, 22, 17, 50, 0))).
 criminal_race(19441627,black).
 num_of_charges(19441627, 4).
 has_arrest(ja124814, 19426020).
-crime_date(19426020, datime(date(2017, 1, 21, 20, 38, 0)))..
+crime_date(19426020, datime(date(2017, 1, 21, 20, 38, 0))).
 criminal_race(19426020,black).
 num_of_charges(19426020, 4).
 has_arrest(ja139826, 19438879).
-crime_date(19438879, datime(date(2017, 2, 17, 10, 0, 0)))..
+crime_date(19438879, datime(date(2017, 2, 17, 10, 0, 0))).
 criminal_race(19438879,black).
 num_of_charges(19438879, 4).
 has_arrest(ja115398, 19434471).
-crime_date(19434471, datime(date(2017, 2, 8, 9, 45, 0)))..
+crime_date(19434471, datime(date(2017, 2, 8, 9, 45, 0))).
 criminal_race(19434471,black).
 num_of_charges(19434471, 4).
 has_arrest(ja111925, 19432096).
-crime_date(19432096, datime(date(2017, 2, 3, 9, 15, 0)))..
+crime_date(19432096, datime(date(2017, 2, 3, 9, 15, 0))).
 criminal_race(19432096,black).
 num_of_charges(19432096, 4).
 has_arrest(ja120028, 19436969).
-crime_date(19436969, datime(date(2017, 2, 13, 11, 50, 0)))..
+crime_date(19436969, datime(date(2017, 2, 13, 11, 50, 0))).
 criminal_race(19436969,white_hispanic).
 num_of_charges(19436969, 4).
 has_arrest(hz571363, 19420428).
-crime_date(19420428, datime(date(2017, 1, 9, 12, 50, 0)))..
+crime_date(19420428, datime(date(2017, 1, 9, 12, 50, 0))).
 criminal_race(19420428,black).
 num_of_charges(19420428, 4).
 has_arrest(ja127259, 19427369).
-crime_date(19427369, datime(date(2017, 1, 24, 14, 45, 0)))..
+crime_date(19427369, datime(date(2017, 1, 24, 14, 45, 0))).
 criminal_race(19427369,black).
 num_of_charges(19427369, 4).
 has_arrest(ja153686, 19437726).
-crime_date(19437726, datime(date(2017, 2, 14, 19, 40, 0)))..
+crime_date(19437726, datime(date(2017, 2, 14, 19, 40, 0))).
 criminal_race(19437726,black).
 num_of_charges(19437726, 4).
 has_arrest(ja150627, 19438457).
-crime_date(19438457, datime(date(2017, 2, 16, 12, 15, 0)))..
+crime_date(19438457, datime(date(2017, 2, 16, 12, 15, 0))).
 criminal_race(19438457,black).
 num_of_charges(19438457, 4).
 has_arrest(jf186855, 30129248).
-crime_date(30129248, datime(date(2022, 3, 26, 2, 13, 0)))..
+crime_date(30129248, datime(date(2022, 3, 26, 2, 13, 0))).
 criminal_race(30129248,black).
 num_of_charges(30129248, 4).
 has_arrest(g137655, 19463785).
-crime_date(19463785, datime(date(2017, 4, 11, 1, 47, 0)))..
+crime_date(19463785, datime(date(2017, 4, 11, 1, 47, 0))).
 criminal_race(19463785,white_hispanic).
 num_of_charges(19463785, 4).
 has_arrest(hx289940, 19450503).
-crime_date(19450503, datime(date(2017, 3, 13, 14, 20, 0)))..
+crime_date(19450503, datime(date(2017, 3, 13, 14, 20, 0))).
 criminal_race(19450503,black).
 num_of_charges(19450503, 4).
 has_arrest(je361812, 30080885).
-crime_date(30080885, datime(date(2021, 9, 4, 20, 58, 0)))..
+crime_date(30080885, datime(date(2021, 9, 4, 20, 58, 0))).
 criminal_race(30080885,black).
 num_of_charges(30080885, 4).
 has_arrest(ja183408, 19449708).
-crime_date(19449708, datime(date(2017, 3, 11, 14, 26, 0)))..
+crime_date(19449708, datime(date(2017, 3, 11, 14, 26, 0))).
 criminal_race(19449708,black).
 num_of_charges(19449708, 4).
 has_arrest(ja192098, 19453009).
-crime_date(19453009, datime(date(2017, 3, 18, 22, 47, 0)))..
+crime_date(19453009, datime(date(2017, 3, 18, 22, 47, 0))).
 criminal_race(19453009,black).
 num_of_charges(19453009, 4).
 has_arrest(je240575, 30080793).
-crime_date(30080793, datime(date(2021, 9, 4, 12, 54, 0)))..
+crime_date(30080793, datime(date(2021, 9, 4, 12, 54, 0))).
 criminal_race(30080793,black).
 num_of_charges(30080793, 4).
 has_arrest(hz306328, 19448063).
-crime_date(19448063, datime(date(2017, 3, 8, 10, 9, 0)))..
+crime_date(19448063, datime(date(2017, 3, 8, 10, 9, 0))).
 criminal_race(19448063,white_hispanic).
 num_of_charges(19448063, 4).
 has_arrest(hz554339, 19452350).
-crime_date(19452350, datime(date(2017, 3, 17, 19, 25, 0)))..
+crime_date(19452350, datime(date(2017, 3, 17, 19, 25, 0))).
 criminal_race(19452350,white_hispanic).
 num_of_charges(19452350, 4).
 has_arrest(ja211599, 19460584).
-crime_date(19460584, datime(date(2017, 4, 3, 23, 5, 0)))..
+crime_date(19460584, datime(date(2017, 4, 3, 23, 5, 0))).
 criminal_race(19460584,black).
 num_of_charges(19460584, 4).
 has_arrest(ja127541, 19453721).
-crime_date(19453721, datime(date(2017, 3, 20, 15, 22, 0)))..
+crime_date(19453721, datime(date(2017, 3, 20, 15, 22, 0))).
 criminal_race(19453721,black).
 num_of_charges(19453721, 4).
 has_arrest(ja153462, 19442132).
-crime_date(19442132, datime(date(2017, 2, 23, 14, 22, 0)))..
+crime_date(19442132, datime(date(2017, 2, 23, 14, 22, 0))).
 criminal_race(19442132,black).
 num_of_charges(19442132, 4).
 has_arrest(jb331167, 19667457).
-crime_date(19667457, datime(date(2018, 7, 2, 14, 59, 0)))..
+crime_date(19667457, datime(date(2018, 7, 2, 14, 59, 0))).
 criminal_race(19667457,white_hispanic).
 num_of_charges(19667457, 4).
 has_arrest(jf181723, 30129396).
-crime_date(30129396, datime(date(2022, 3, 26, 18, 31, 0)))..
+crime_date(30129396, datime(date(2022, 3, 26, 18, 31, 0))).
 criminal_race(30129396,white_hispanic).
 num_of_charges(30129396, 4).
 has_arrest(hs586272, 19445463).
-crime_date(19445463, datime(date(2017, 3, 2, 20, 17, 0)))..
+crime_date(19445463, datime(date(2017, 3, 2, 20, 17, 0))).
 criminal_race(19445463,white).
 num_of_charges(19445463, 4).
 has_arrest(ja453526, 19667490).
-crime_date(19667490, datime(date(2018, 7, 2, 17, 10, 0)))..
+crime_date(19667490, datime(date(2018, 7, 2, 17, 10, 0))).
 criminal_race(19667490,white_hispanic).
 num_of_charges(19667490, 4).
 has_arrest(hz473207, 19463266).
-crime_date(19463266, datime(date(2017, 4, 9, 22, 5, 0)))..
+crime_date(19463266, datime(date(2017, 4, 9, 22, 5, 0))).
 criminal_race(19463266,black).
 num_of_charges(19463266, 4).
 has_arrest(jf120476, 30112792).
-crime_date(30112792, datime(date(2022, 1, 23, 11, 48, 0)))..
+crime_date(30112792, datime(date(2022, 1, 23, 11, 48, 0))).
 criminal_race(30112792,black).
 num_of_charges(30112792, 4).
 has_arrest(hz383773, 19449101).
-crime_date(19449101, datime(date(2017, 3, 10, 9, 20, 0)))..
+crime_date(19449101, datime(date(2017, 3, 10, 9, 20, 0))).
 criminal_race(19449101,black).
 num_of_charges(19449101, 4).
 has_arrest(hz297062, 19451326).
-crime_date(19451326, datime(date(2017, 3, 15, 17, 33, 0)))..
+crime_date(19451326, datime(date(2017, 3, 15, 17, 33, 0))).
 criminal_race(19451326,black).
 num_of_charges(19451326, 4).
 has_arrest(ja176457, 19447365).
-crime_date(19447365, datime(date(2017, 3, 6, 17, 30, 0)))..
+crime_date(19447365, datime(date(2017, 3, 6, 17, 30, 0))).
 criminal_race(19447365,black).
 num_of_charges(19447365, 4).
 has_arrest(ja166574, 19443011).
-crime_date(19443011, datime(date(2017, 2, 25, 8, 10, 0)))..
+crime_date(19443011, datime(date(2017, 2, 25, 8, 10, 0))).
 criminal_race(19443011,black).
 num_of_charges(19443011, 4).
 has_arrest(hz370217, 19456738).
-crime_date(19456738, datime(date(2017, 3, 26, 21, 38, 0)))..
+crime_date(19456738, datime(date(2017, 3, 26, 21, 38, 0))).
 criminal_race(19456738,black).
 num_of_charges(19456738, 4).
 has_arrest(ja206252, 19460767).
-crime_date(19460767, datime(date(2017, 4, 4, 14, 52, 0)))..
+crime_date(19460767, datime(date(2017, 4, 4, 14, 52, 0))).
 criminal_race(19460767,black).
 num_of_charges(19460767, 4).
 has_arrest(hz235188, 19451136).
-crime_date(19451136, datime(date(2017, 3, 15, 7, 45, 0)))..
+crime_date(19451136, datime(date(2017, 3, 15, 7, 45, 0))).
 criminal_race(19451136,black).
 num_of_charges(19451136, 4).
 has_arrest(hz477075, 19442257).
-crime_date(19442257, datime(date(2017, 2, 23, 20, 0, 0)))..
+crime_date(19442257, datime(date(2017, 2, 23, 20, 0, 0))).
 criminal_race(19442257,black).
 num_of_charges(19442257, 4).
 has_arrest(ja219211, 19463759).
-crime_date(19463759, datime(date(2017, 4, 10, 16, 30, 0)))..
+crime_date(19463759, datime(date(2017, 4, 10, 16, 30, 0))).
 criminal_race(19463759,black).
 num_of_charges(19463759, 4).
 has_arrest(hz554433, 19448201).
-crime_date(19448201, datime(date(2017, 3, 8, 14, 40, 0)))..
+crime_date(19448201, datime(date(2017, 3, 8, 14, 40, 0))).
 criminal_race(19448201,white_hispanic).
 num_of_charges(19448201, 4).
 has_arrest(je435432, 30095621).
-crime_date(30095621, datime(date(2021, 11, 5, 22, 40, 0)))..
+crime_date(30095621, datime(date(2021, 11, 5, 22, 40, 0))).
 criminal_race(30095621,black).
 num_of_charges(30095621, 4).
 has_arrest(hz554936, 19457392).
-crime_date(19457392, datime(date(2017, 3, 28, 8, 20, 0)))..
+crime_date(19457392, datime(date(2017, 3, 28, 8, 20, 0))).
 criminal_race(19457392,black).
 num_of_charges(19457392, 4).
 has_arrest(ja201123, 19460198).
-crime_date(19460198, datime(date(2017, 4, 3, 7, 9, 0)))..
+crime_date(19460198, datime(date(2017, 4, 3, 7, 9, 0))).
 criminal_race(19460198,white_hispanic).
 num_of_charges(19460198, 4).
 has_arrest(ja166574, 19443027).
-crime_date(19443027, datime(date(2017, 2, 25, 8, 10, 0)))..
+crime_date(19443027, datime(date(2017, 2, 25, 8, 10, 0))).
 criminal_race(19443027,black).
 num_of_charges(19443027, 4).
 has_arrest(hz496623, 19453622).
-crime_date(19453622, datime(date(2017, 3, 20, 11, 5, 0)))..
+crime_date(19453622, datime(date(2017, 3, 20, 11, 5, 0))).
 criminal_race(19453622,black).
 num_of_charges(19453622, 4).
 has_arrest(ja192459, 19453172).
-crime_date(19453172, datime(date(2017, 3, 19, 11, 15, 0)))..
+crime_date(19453172, datime(date(2017, 3, 19, 11, 15, 0))).
 criminal_race(19453172,asian___pacific_islander).
 num_of_charges(19453172, 4).
 has_arrest(hz526528, 19442216).
-crime_date(19442216, datime(date(2017, 2, 23, 19, 5, 0)))..
+crime_date(19442216, datime(date(2017, 2, 23, 19, 5, 0))).
 criminal_race(19442216,black).
 num_of_charges(19442216, 4).
 has_arrest(ja193474, 19464881).
-crime_date(19464881, datime(date(2017, 4, 13, 13, 0, 0)))..
+crime_date(19464881, datime(date(2017, 4, 13, 13, 0, 0))).
 criminal_race(19464881,black).
 num_of_charges(19464881, 4).
 has_arrest(ja218968, 19463278).
-crime_date(19463278, datime(date(2017, 4, 9, 21, 37, 0)))..
+crime_date(19463278, datime(date(2017, 4, 9, 21, 37, 0))).
 criminal_race(19463278,black).
 num_of_charges(19463278, 4).
 has_arrest(ja189051, 19456921).
-crime_date(19456921, datime(date(2017, 3, 27, 7, 43, 0)))..
+crime_date(19456921, datime(date(2017, 3, 27, 7, 43, 0))).
 criminal_race(19456921,black).
 num_of_charges(19456921, 4).
 has_arrest(ja143217, 19448275).
-crime_date(19448275, datime(date(2017, 3, 8, 18, 50, 0)))..
+crime_date(19448275, datime(date(2017, 3, 8, 18, 50, 0))).
 criminal_race(19448275,black).
 num_of_charges(19448275, 4).
 has_arrest(ja221634, 19464321).
-crime_date(19464321, datime(date(2017, 4, 12, 2, 19, 0)))..
+crime_date(19464321, datime(date(2017, 4, 12, 2, 19, 0))).
 criminal_race(19464321,white_hispanic).
 num_of_charges(19464321, 4).
 has_arrest(ja193474, 19453575).
-crime_date(19453575, datime(date(2017, 3, 20, 9, 30, 0)))..
+crime_date(19453575, datime(date(2017, 3, 20, 9, 30, 0))).
 criminal_race(19453575,black).
 num_of_charges(19453575, 4).
 has_arrest(ja201123, 19460197).
-crime_date(19460197, datime(date(2017, 4, 3, 7, 9, 0)))..
+crime_date(19460197, datime(date(2017, 4, 3, 7, 9, 0))).
 criminal_race(19460197,white_hispanic).
 num_of_charges(19460197, 4).
 has_arrest(ja165630, 19455507).
-crime_date(19455507, datime(date(2017, 3, 24, 6, 35, 0)))..
+crime_date(19455507, datime(date(2017, 3, 24, 6, 35, 0))).
 criminal_race(19455507,white_hispanic).
 num_of_charges(19455507, 4).
 has_arrest(ja221634, 19464315).
-crime_date(19464315, datime(date(2017, 4, 12, 2, 19, 0)))..
+crime_date(19464315, datime(date(2017, 4, 12, 2, 19, 0))).
 criminal_race(19464315,white).
 num_of_charges(19464315, 4).
 has_arrest(ja166574, 19442971).
-crime_date(19442971, datime(date(2017, 2, 25, 8, 10, 0)))..
+crime_date(19442971, datime(date(2017, 2, 25, 8, 10, 0))).
 criminal_race(19442971,black).
 num_of_charges(19442971, 4).
 has_arrest(hy515665, 19443264).
-crime_date(19443264, datime(date(2017, 2, 25, 23, 10, 0)))..
+crime_date(19443264, datime(date(2017, 2, 25, 23, 10, 0))).
 criminal_race(19443264,black).
 num_of_charges(19443264, 4).
 has_arrest(ja226597, 19466177).
-crime_date(19466177, datime(date(2017, 4, 16, 1, 20, 0)))..
+crime_date(19466177, datime(date(2017, 4, 16, 1, 20, 0))).
 criminal_race(19466177,black).
 num_of_charges(19466177, 4).
 has_arrest(je216669, 30177106).
-crime_date(30177106, datime(date(2022, 9, 13, 11, 40, 0)))..
+crime_date(30177106, datime(date(2022, 9, 13, 11, 40, 0))).
 criminal_race(30177106,black).
 num_of_charges(30177106, 4).
 has_arrest(ja105544, 19454617).
-crime_date(19454617, datime(date(2017, 3, 22, 13, 58, 0)))..
+crime_date(19454617, datime(date(2017, 3, 22, 13, 58, 0))).
 criminal_race(19454617,black).
 num_of_charges(19454617, 4).
 has_arrest(hz100171, 19455588).
-crime_date(19455588, datime(date(2017, 3, 24, 11, 55, 0)))..
+crime_date(19455588, datime(date(2017, 3, 24, 11, 55, 0))).
 criminal_race(19455588,black).
 num_of_charges(19455588, 4).
 has_arrest(ja218918, 19463261).
-crime_date(19463261, datime(date(2017, 4, 9, 20, 36, 0)))..
+crime_date(19463261, datime(date(2017, 4, 9, 20, 36, 0))).
 criminal_race(19463261,black).
 num_of_charges(19463261, 4).
 has_arrest(je316119, 30084849).
-crime_date(30084849, datime(date(2021, 9, 21, 15, 52, 0)))..
+crime_date(30084849, datime(date(2021, 9, 21, 15, 52, 0))).
 criminal_race(30084849,black).
 num_of_charges(30084849, 4).
 has_arrest(hz554433, 19448209).
-crime_date(19448209, datime(date(2017, 3, 8, 14, 45, 0)))..
+crime_date(19448209, datime(date(2017, 3, 8, 14, 45, 0))).
 criminal_race(19448209,white_hispanic).
 num_of_charges(19448209, 4).
 has_arrest(jf384362, 30174958).
-crime_date(30174958, datime(date(2022, 9, 5, 19, 20, 0)))..
+crime_date(30174958, datime(date(2022, 9, 5, 19, 20, 0))).
 criminal_race(30174958,white_hispanic).
 num_of_charges(30174958, 4).
 has_arrest(ja278538, 19484718).
-crime_date(19484718, datime(date(2017, 5, 25, 12, 3, 0)))..
+crime_date(19484718, datime(date(2017, 5, 25, 12, 3, 0))).
 criminal_race(19484718,black).
 num_of_charges(19484718, 4).
 has_arrest(ja229804, 19467360).
-crime_date(19467360, datime(date(2017, 4, 18, 17, 3, 0)))..
+crime_date(19467360, datime(date(2017, 4, 18, 17, 3, 0))).
 criminal_race(19467360,black).
 num_of_charges(19467360, 4).
 has_arrest(hz391108, 19474719).
-crime_date(19474719, datime(date(2017, 5, 4, 10, 30, 0)))..
+crime_date(19474719, datime(date(2017, 5, 4, 10, 30, 0))).
 criminal_race(19474719,black).
 num_of_charges(19474719, 4).
 has_arrest(ja233953, 19470909).
-crime_date(19470909, datime(date(2017, 4, 26, 0, 15, 0)))..
+crime_date(19470909, datime(date(2017, 4, 26, 0, 15, 0))).
 criminal_race(19470909,black).
 num_of_charges(19470909, 4).
 has_arrest(ja277226, 19484239).
-crime_date(19484239, datime(date(2017, 5, 24, 12, 58, 0)))..
+crime_date(19484239, datime(date(2017, 5, 24, 12, 58, 0))).
 criminal_race(19484239,black).
 num_of_charges(19484239, 4).
 has_arrest(ja282107, 19486457).
-crime_date(19486457, datime(date(2017, 5, 28, 3, 44, 0)))..
+crime_date(19486457, datime(date(2017, 5, 28, 3, 44, 0))).
 criminal_race(19486457,white).
 num_of_charges(19486457, 4).
 has_arrest(ja225234, 19474843).
-crime_date(19474843, datime(date(2017, 5, 4, 15, 39, 0)))..
+crime_date(19474843, datime(date(2017, 5, 4, 15, 39, 0))).
 criminal_race(19474843,white_hispanic).
 num_of_charges(19474843, 4).
 has_arrest(je362606, 30081500).
-crime_date(30081500, datime(date(2021, 9, 7, 9, 30, 0)))..
+crime_date(30081500, datime(date(2021, 9, 7, 9, 30, 0))).
 criminal_race(30081500,black).
 num_of_charges(30081500, 4).
 has_arrest(ja219211, 19470735).
-crime_date(19470735, datime(date(2017, 4, 25, 17, 8, 0)))..
+crime_date(19470735, datime(date(2017, 4, 25, 17, 8, 0))).
 criminal_race(19470735,black).
 num_of_charges(19470735, 4).
 has_arrest(hj268455, 19480871).
-crime_date(19480871, datime(date(2017, 5, 17, 11, 30, 0)))..
+crime_date(19480871, datime(date(2017, 5, 17, 11, 30, 0))).
 criminal_race(19480871,black).
 num_of_charges(19480871, 4).
 has_arrest(hj268455, 19484160).
-crime_date(19484160, datime(date(2017, 5, 24, 11, 20, 0)))..
+crime_date(19484160, datime(date(2017, 5, 24, 11, 20, 0))).
 criminal_race(19484160,black).
 num_of_charges(19484160, 4).
 has_arrest(ja288842, 19488630).
-crime_date(19488630, datime(date(2017, 6, 2, 0, 56, 0)))..
+crime_date(19488630, datime(date(2017, 6, 2, 0, 56, 0))).
 criminal_race(19488630,black).
 num_of_charges(19488630, 4).
 has_arrest(ja290782, 19489300).
-crime_date(19489300, datime(date(2017, 6, 3, 12, 0, 0)))..
+crime_date(19489300, datime(date(2017, 6, 3, 12, 0, 0))).
 criminal_race(19489300,black).
 num_of_charges(19489300, 4).
 has_arrest(ja237710, 19478001).
-crime_date(19478001, datime(date(2017, 5, 11, 13, 51, 0)))..
+crime_date(19478001, datime(date(2017, 5, 11, 13, 51, 0))).
 criminal_race(19478001,black).
 num_of_charges(19478001, 4).
 has_arrest(ja251205, 19475118).
-crime_date(19475118, datime(date(2017, 5, 5, 3, 36, 0)))..
+crime_date(19475118, datime(date(2017, 5, 5, 3, 36, 0))).
 criminal_race(19475118,black).
 num_of_charges(19475118, 4).
 has_arrest(ja283661, 19486960).
-crime_date(19486960, datime(date(2017, 5, 29, 19, 17, 0)))..
+crime_date(19486960, datime(date(2017, 5, 29, 19, 17, 0))).
 criminal_race(19486960,black).
 num_of_charges(19486960, 4).
 has_arrest(hz193207, 19473850).
-crime_date(19473850, datime(date(2017, 5, 2, 16, 19, 0)))..
+crime_date(19473850, datime(date(2017, 5, 2, 16, 19, 0))).
 criminal_race(19473850,black).
 num_of_charges(19473850, 4).
 has_arrest(ja272258, 19482467).
-crime_date(19482467, datime(date(2017, 5, 20, 18, 7, 0)))..
+crime_date(19482467, datime(date(2017, 5, 20, 18, 7, 0))).
 criminal_race(19482467,black).
 num_of_charges(19482467, 4).
 has_arrest(hz297062, 19475164).
-crime_date(19475164, datime(date(2017, 5, 5, 9, 40, 0)))..
+crime_date(19475164, datime(date(2017, 5, 5, 9, 40, 0))).
 criminal_race(19475164,black).
 num_of_charges(19475164, 4).
 has_arrest(hr325934, 19483655).
-crime_date(19483655, datime(date(2017, 5, 23, 12, 0, 0)))..
+crime_date(19483655, datime(date(2017, 5, 23, 12, 0, 0))).
 criminal_race(19483655,black).
 num_of_charges(19483655, 4).
 has_arrest(hz532460, 19480512).
-crime_date(19480512, datime(date(2017, 5, 16, 18, 53, 0)))..
+crime_date(19480512, datime(date(2017, 5, 16, 18, 53, 0))).
 criminal_race(19480512,black).
 num_of_charges(19480512, 4).
 has_arrest(ja292510, 19489906).
-crime_date(19489906, datime(date(2017, 6, 4, 20, 5, 0)))..
+crime_date(19489906, datime(date(2017, 6, 4, 20, 5, 0))).
 criminal_race(19489906,black).
 num_of_charges(19489906, 4).
 has_arrest(ja271726, 19487455).
-crime_date(19487455, datime(date(2017, 5, 30, 17, 50, 0)))..
+crime_date(19487455, datime(date(2017, 5, 30, 17, 50, 0))).
 criminal_race(19487455,black).
 num_of_charges(19487455, 4).
 has_arrest(ja227655, 19466600).
-crime_date(19466600, datime(date(2017, 4, 17, 2, 58, 0)))..
+crime_date(19466600, datime(date(2017, 4, 17, 2, 58, 0))).
 criminal_race(19466600,black).
 num_of_charges(19466600, 4).
 has_arrest(hz404462, 19487732).
-crime_date(19487732, datime(date(2017, 5, 31, 10, 0, 0)))..
+crime_date(19487732, datime(date(2017, 5, 31, 10, 0, 0))).
 criminal_race(19487732,black).
 num_of_charges(19487732, 4).
 has_arrest(ja131205, 19467956).
-crime_date(19467956, datime(date(2017, 4, 19, 21, 30, 0)))..
+crime_date(19467956, datime(date(2017, 4, 19, 21, 30, 0))).
 criminal_race(19467956,black).
 num_of_charges(19467956, 4).
 has_arrest(ja217563, 19467682).
-crime_date(19467682, datime(date(2017, 4, 19, 11, 20, 0)))..
+crime_date(19467682, datime(date(2017, 4, 19, 11, 20, 0))).
 criminal_race(19467682,black).
 num_of_charges(19467682, 4).
 has_arrest(ja251205, 19475117).
-crime_date(19475117, datime(date(2017, 5, 5, 3, 36, 0)))..
+crime_date(19475117, datime(date(2017, 5, 5, 3, 36, 0))).
 criminal_race(19475117,black).
 num_of_charges(19475117, 4).
 has_arrest(ja283244, 19486685).
-crime_date(19486685, datime(date(2017, 5, 29, 2, 3, 0)))..
+crime_date(19486685, datime(date(2017, 5, 29, 2, 3, 0))).
 criminal_race(19486685,white_hispanic).
 num_of_charges(19486685, 4).
 has_arrest(ja201043, 19474308).
-crime_date(19474308, datime(date(2017, 5, 3, 13, 25, 0)))..
+crime_date(19474308, datime(date(2017, 5, 3, 13, 25, 0))).
 criminal_race(19474308,black).
 num_of_charges(19474308, 4).
 has_arrest(je304017, 30084536).
-crime_date(30084536, datime(date(2021, 9, 20, 11, 0, 0)))..
+crime_date(30084536, datime(date(2021, 9, 20, 11, 0, 0))).
 criminal_race(30084536,black).
 num_of_charges(30084536, 4).
 has_arrest(ja291578, 19489675).
-crime_date(19489675, datime(date(2017, 6, 3, 23, 8, 0)))..
+crime_date(19489675, datime(date(2017, 6, 3, 23, 8, 0))).
 criminal_race(19489675,black).
 num_of_charges(19489675, 4).
 has_arrest(ja261596, 19478749).
-crime_date(19478749, datime(date(2017, 5, 12, 23, 38, 0)))..
+crime_date(19478749, datime(date(2017, 5, 12, 23, 38, 0))).
 criminal_race(19478749,black).
 num_of_charges(19478749, 4).
 has_arrest(ja217243, 19487735).
-crime_date(19487735, datime(date(2017, 5, 31, 10, 40, 0)))..
+crime_date(19487735, datime(date(2017, 5, 31, 10, 40, 0))).
 criminal_race(19487735,black).
 num_of_charges(19487735, 4).
 has_arrest(ja292510, 19489937).
-crime_date(19489937, datime(date(2017, 6, 4, 22, 15, 0)))..
+crime_date(19489937, datime(date(2017, 6, 4, 22, 15, 0))).
 criminal_race(19489937,black).
 num_of_charges(19489937, 4).
 has_arrest(ja291583, 19489607).
-crime_date(19489607, datime(date(2017, 6, 3, 23, 59, 0)))..
+crime_date(19489607, datime(date(2017, 6, 3, 23, 59, 0))).
 criminal_race(19489607,black).
 num_of_charges(19489607, 4).
 has_arrest(ja181526, 19468587).
-crime_date(19468587, datime(date(2017, 4, 21, 8, 43, 0)))..
+crime_date(19468587, datime(date(2017, 4, 21, 8, 43, 0))).
 criminal_race(19468587,black).
 num_of_charges(19468587, 4).
 has_arrest(ja272737, 19482693).
-crime_date(19482693, datime(date(2017, 5, 21, 3, 17, 0)))..
+crime_date(19482693, datime(date(2017, 5, 21, 3, 17, 0))).
 criminal_race(19482693,white_hispanic).
 num_of_charges(19482693, 4).
 has_arrest(ja254462, 19477168).
-crime_date(19477168, datime(date(2017, 5, 9, 19, 5, 0)))..
+crime_date(19477168, datime(date(2017, 5, 9, 19, 5, 0))).
 criminal_race(19477168,black).
 num_of_charges(19477168, 4).
 has_arrest(ja283244, 19486686).
-crime_date(19486686, datime(date(2017, 5, 29, 2, 3, 0)))..
+crime_date(19486686, datime(date(2017, 5, 29, 2, 3, 0))).
 criminal_race(19486686,white_hispanic).
 num_of_charges(19486686, 4).
 has_arrest(je436615, 30095857).
-crime_date(30095857, datime(date(2021, 11, 7, 1, 58, 0)))..
+crime_date(30095857, datime(date(2021, 11, 7, 1, 58, 0))).
 criminal_race(30095857,black).
 num_of_charges(30095857, 4).
 has_arrest(hx457560, 19500615).
-crime_date(19500615, datime(date(2017, 6, 28, 10, 30, 0)))..
+crime_date(19500615, datime(date(2017, 6, 28, 10, 30, 0))).
 criminal_race(19500615,black).
 num_of_charges(19500615, 4).
 has_arrest(ja348138, 19508469).
-crime_date(19508469, datime(date(2017, 7, 15, 0, 1, 0)))..
+crime_date(19508469, datime(date(2017, 7, 15, 0, 1, 0))).
 criminal_race(19508469,black).
 num_of_charges(19508469, 4).
 has_arrest(ja305948, 19504824).
-crime_date(19504824, datime(date(2017, 7, 7, 10, 53, 0)))..
+crime_date(19504824, datime(date(2017, 7, 7, 10, 53, 0))).
 criminal_race(19504824,black).
 num_of_charges(19504824, 4).
 has_arrest(ja311726, 19496084).
-crime_date(19496084, datime(date(2017, 6, 18, 0, 20, 0)))..
+crime_date(19496084, datime(date(2017, 6, 18, 0, 20, 0))).
 criminal_race(19496084,black).
 num_of_charges(19496084, 4).
 has_arrest(ja345518, 19507376).
-crime_date(19507376, datime(date(2017, 7, 12, 21, 30, 0)))..
+crime_date(19507376, datime(date(2017, 7, 12, 21, 30, 0))).
 criminal_race(19507376,white_hispanic).
 num_of_charges(19507376, 4).
 has_arrest(ja340426, 19508810).
-crime_date(19508810, datime(date(2017, 7, 15, 18, 0, 0)))..
+crime_date(19508810, datime(date(2017, 7, 15, 18, 0, 0))).
 criminal_race(19508810,white).
 num_of_charges(19508810, 4).
 has_arrest(ja308844, 19495107).
-crime_date(19495107, datime(date(2017, 6, 15, 23, 30, 0)))..
+crime_date(19495107, datime(date(2017, 6, 15, 23, 30, 0))).
 criminal_race(19495107,black).
 num_of_charges(19495107, 4).
 has_arrest(ja305313, 19494125).
-crime_date(19494125, datime(date(2017, 6, 13, 17, 0, 0)))..
+crime_date(19494125, datime(date(2017, 6, 13, 17, 0, 0))).
 criminal_race(19494125,black).
 num_of_charges(19494125, 4).
 has_arrest(ja365085, 19513867).
-crime_date(19513867, datime(date(2017, 7, 27, 2, 3, 0)))..
+crime_date(19513867, datime(date(2017, 7, 27, 2, 3, 0))).
 criminal_race(19513867,black).
 num_of_charges(19513867, 4).
 has_arrest(ja320296, 19507595).
-crime_date(19507595, datime(date(2017, 7, 13, 10, 25, 0)))..
+crime_date(19507595, datime(date(2017, 7, 13, 10, 25, 0))).
 criminal_race(19507595,black).
 num_of_charges(19507595, 4).
 has_arrest(ja282893, 19494928).
-crime_date(19494928, datime(date(2017, 6, 15, 16, 59, 0)))..
+crime_date(19494928, datime(date(2017, 6, 15, 16, 59, 0))).
 criminal_race(19494928,black).
 num_of_charges(19494928, 4).
 has_arrest(hz448897, 19513503).
-crime_date(19513503, datime(date(2017, 7, 26, 12, 30, 0)))..
+crime_date(19513503, datime(date(2017, 7, 26, 12, 30, 0))).
 criminal_race(19513503,black).
 num_of_charges(19513503, 4).
 has_arrest(hz342788, 19513917).
-crime_date(19513917, datime(date(2017, 7, 27, 10, 10, 0)))..
+crime_date(19513917, datime(date(2017, 7, 27, 10, 10, 0))).
 criminal_race(19513917,black).
 num_of_charges(19513917, 4).
 has_arrest(hz128452, 19496647).
-crime_date(19496647, datime(date(2017, 6, 19, 13, 55, 0)))..
+crime_date(19496647, datime(date(2017, 6, 19, 13, 55, 0))).
 criminal_race(19496647,black_hispanic).
 num_of_charges(19496647, 4).
 has_arrest(hy282612, 19509960).
-crime_date(19509960, datime(date(2017, 7, 17, 12, 30, 0)))..
+crime_date(19509960, datime(date(2017, 7, 17, 12, 30, 0))).
 criminal_race(19509960,black).
 num_of_charges(19509960, 4).
 has_arrest(ja334412, 19504397).
-crime_date(19504397, datime(date(2017, 7, 6, 12, 27, 0)))..
+crime_date(19504397, datime(date(2017, 7, 6, 12, 27, 0))).
 criminal_race(19504397,black).
 num_of_charges(19504397, 4).
 has_arrest(ja329731, 19501985).
-crime_date(19501985, datime(date(2017, 7, 1, 2, 54, 0)))..
+crime_date(19501985, datime(date(2017, 7, 1, 2, 54, 0))).
 criminal_race(19501985,black).
 num_of_charges(19501985, 4).
 has_arrest(ja192062, 19496847).
-crime_date(19496847, datime(date(2017, 6, 19, 21, 56, 0)))..
+crime_date(19496847, datime(date(2017, 6, 19, 21, 56, 0))).
 criminal_race(19496847,black).
 num_of_charges(19496847, 4).
 has_arrest(ja335500, 19504000).
-crime_date(19504000, datime(date(2017, 7, 5, 13, 40, 0)))..
+crime_date(19504000, datime(date(2017, 7, 5, 13, 40, 0))).
 criminal_race(19504000,black).
 num_of_charges(19504000, 4).
 has_arrest(ja333157, 19503104).
-crime_date(19503104, datime(date(2017, 7, 3, 17, 50, 0)))..
+crime_date(19503104, datime(date(2017, 7, 3, 17, 50, 0))).
 criminal_race(19503104,white_hispanic).
 num_of_charges(19503104, 4).
 has_arrest(ja297747, 19491622).
-crime_date(19491622, datime(date(2017, 6, 8, 11, 14, 0)))..
+crime_date(19491622, datime(date(2017, 6, 8, 11, 14, 0))).
 criminal_race(19491622,black).
 num_of_charges(19491622, 4).
 has_arrest(jb266545, 19680733).
-crime_date(19680733, datime(date(2018, 7, 30, 16, 21, 0)))..
+crime_date(19680733, datime(date(2018, 7, 30, 16, 21, 0))).
 criminal_race(19680733,black).
 num_of_charges(19680733, 4).
 has_arrest(ja302864, 19493344).
-crime_date(19493344, datime(date(2017, 6, 12, 3, 14, 0)))..
+crime_date(19493344, datime(date(2017, 6, 12, 3, 14, 0))).
 criminal_race(19493344,black).
 num_of_charges(19493344, 4).
 has_arrest(ja356519, 19511128).
-crime_date(19511128, datime(date(2017, 7, 20, 19, 50, 0)))..
+crime_date(19511128, datime(date(2017, 7, 20, 19, 50, 0))).
 criminal_race(19511128,black).
 num_of_charges(19511128, 4).
 has_arrest(ja311796, 19496158).
-crime_date(19496158, datime(date(2017, 6, 18, 1, 11, 0)))..
+crime_date(19496158, datime(date(2017, 6, 18, 1, 11, 0))).
 criminal_race(19496158,white_hispanic).
 num_of_charges(19496158, 4).
 has_arrest(jf263703, 30148576).
-crime_date(30148576, datime(date(2022, 6, 1, 14, 30, 0)))..
+crime_date(30148576, datime(date(2022, 6, 1, 14, 30, 0))).
 criminal_race(30148576,white_hispanic).
 num_of_charges(30148576, 4).
 has_arrest(ja337388, 19504648).
-crime_date(19504648, datime(date(2017, 7, 6, 19, 45, 0)))..
+crime_date(19504648, datime(date(2017, 7, 6, 19, 45, 0))).
 criminal_race(19504648,black).
 num_of_charges(19504648, 4).
 has_arrest(ja357454, 19511524).
-crime_date(19511524, datime(date(2017, 7, 21, 13, 54, 0)))..
+crime_date(19511524, datime(date(2017, 7, 21, 13, 54, 0))).
 criminal_race(19511524,black).
 num_of_charges(19511524, 4).
 has_arrest(ja334738, 19510896).
-crime_date(19510896, datime(date(2017, 7, 20, 11, 13, 0)))..
+crime_date(19510896, datime(date(2017, 7, 20, 11, 13, 0))).
 criminal_race(19510896,black).
 num_of_charges(19510896, 4).
 has_arrest(ja329470, 19501796).
-crime_date(19501796, datime(date(2017, 6, 30, 20, 58, 0)))..
+crime_date(19501796, datime(date(2017, 6, 30, 20, 58, 0))).
 criminal_race(19501796,black).
 num_of_charges(19501796, 4).
 has_arrest(ja333157, 19503108).
-crime_date(19503108, datime(date(2017, 7, 3, 17, 50, 0)))..
+crime_date(19503108, datime(date(2017, 7, 3, 17, 50, 0))).
 criminal_race(19503108,white_hispanic).
 num_of_charges(19503108, 4).
 has_arrest(ja316650, 19497654).
-crime_date(19497654, datime(date(2017, 6, 21, 14, 44, 0)))..
+crime_date(19497654, datime(date(2017, 6, 21, 14, 44, 0))).
 criminal_race(19497654,black).
 num_of_charges(19497654, 4).
 has_arrest(ja309050, 19495207).
-crime_date(19495207, datime(date(2017, 6, 16, 4, 35, 0)))..
+crime_date(19495207, datime(date(2017, 6, 16, 4, 35, 0))).
 criminal_race(19495207,black).
 num_of_charges(19495207, 4).
 has_arrest(ja323771, 19499947).
-crime_date(19499947, datime(date(2017, 6, 26, 18, 32, 0)))..
+crime_date(19499947, datime(date(2017, 6, 26, 18, 32, 0))).
 criminal_race(19499947,black).
 num_of_charges(19499947, 4).
 has_arrest(f034834, 19506638).
-crime_date(19506638, datime(date(2017, 7, 11, 10, 10, 0)))..
+crime_date(19506638, datime(date(2017, 7, 11, 10, 10, 0))).
 criminal_race(19506638,black).
 num_of_charges(19506638, 4).
 has_arrest(ja323969, 19500034).
-crime_date(19500034, datime(date(2017, 6, 26, 20, 30, 0)))..
+crime_date(19500034, datime(date(2017, 6, 26, 20, 30, 0))).
 criminal_race(19500034,black).
 num_of_charges(19500034, 4).
 has_arrest(ja219528, 19498034).
-crime_date(19498034, datime(date(2017, 6, 22, 11, 50, 0)))..
+crime_date(19498034, datime(date(2017, 6, 22, 11, 50, 0))).
 criminal_race(19498034,black).
 num_of_charges(19498034, 4).
 has_arrest(ja289267, 19491628).
-crime_date(19491628, datime(date(2017, 6, 8, 12, 29, 0)))..
+crime_date(19491628, datime(date(2017, 6, 8, 12, 29, 0))).
 criminal_race(19491628,black).
 num_of_charges(19491628, 4).
 has_arrest(hz423775, 19497204).
-crime_date(19497204, datime(date(2017, 6, 20, 17, 20, 0)))..
+crime_date(19497204, datime(date(2017, 6, 20, 17, 20, 0))).
 criminal_race(19497204,white_hispanic).
 num_of_charges(19497204, 4).
 has_arrest(je367342, 30082120).
-crime_date(30082120, datime(date(2021, 9, 9, 14, 49, 0)))..
+crime_date(30082120, datime(date(2021, 9, 9, 14, 49, 0))).
 criminal_race(30082120,black).
 num_of_charges(30082120, 4).
 has_arrest(ja322578, 19499635).
-crime_date(19499635, datime(date(2017, 6, 25, 23, 38, 0)))..
+crime_date(19499635, datime(date(2017, 6, 25, 23, 38, 0))).
 criminal_race(19499635,black).
 num_of_charges(19499635, 4).
 has_arrest(ja173249, 19494801).
-crime_date(19494801, datime(date(2017, 6, 15, 11, 52, 0)))..
+crime_date(19494801, datime(date(2017, 6, 15, 11, 52, 0))).
 criminal_race(19494801,black).
 num_of_charges(19494801, 4).
 has_arrest(ja326713, 19500893).
-crime_date(19500893, datime(date(2017, 6, 28, 20, 21, 0)))..
+crime_date(19500893, datime(date(2017, 6, 28, 20, 21, 0))).
 criminal_race(19500893,black).
 num_of_charges(19500893, 4).
 has_arrest(je489548, 30113004).
-crime_date(30113004, datime(date(2022, 1, 24, 12, 23, 0)))..
+crime_date(30113004, datime(date(2022, 1, 24, 12, 23, 0))).
 criminal_race(30113004,black).
 num_of_charges(30113004, 4).
 has_arrest(ja309050, 19495206).
-crime_date(19495206, datime(date(2017, 6, 16, 4, 35, 0)))..
+crime_date(19495206, datime(date(2017, 6, 16, 4, 35, 0))).
 criminal_race(19495206,black).
 num_of_charges(19495206, 4).
 has_arrest(ja329470, 19501800).
-crime_date(19501800, datime(date(2017, 6, 30, 20, 58, 0)))..
+crime_date(19501800, datime(date(2017, 6, 30, 20, 58, 0))).
 criminal_race(19501800,black).
 num_of_charges(19501800, 4).
 has_arrest(ja276477, 19491359).
-crime_date(19491359, datime(date(2017, 6, 7, 19, 47, 0)))..
+crime_date(19491359, datime(date(2017, 6, 7, 19, 47, 0))).
 criminal_race(19491359,black).
 num_of_charges(19491359, 4).
 has_arrest(hz568268, 19496612).
-crime_date(19496612, datime(date(2017, 6, 19, 12, 22, 0)))..
+crime_date(19496612, datime(date(2017, 6, 19, 12, 22, 0))).
 criminal_race(19496612,black).
 num_of_charges(19496612, 4).
 has_arrest(ja297445, 19491522).
-crime_date(19491522, datime(date(2017, 6, 8, 3, 49, 0)))..
+crime_date(19491522, datime(date(2017, 6, 8, 3, 49, 0))).
 criminal_race(19491522,black).
 num_of_charges(19491522, 4).
 has_arrest(je321736, 30082081).
-crime_date(30082081, datime(date(2021, 9, 9, 14, 55, 0)))..
+crime_date(30082081, datime(date(2021, 9, 9, 14, 55, 0))).
 criminal_race(30082081,black).
 num_of_charges(30082081, 4).
 has_arrest(ja271504, 19491847).
-crime_date(19491847, datime(date(2017, 6, 8, 21, 0, 0)))..
+crime_date(19491847, datime(date(2017, 6, 8, 21, 0, 0))).
 criminal_race(19491847,black).
 num_of_charges(19491847, 4).
 has_arrest(ja331404, 19502610).
-crime_date(19502610, datime(date(2017, 7, 2, 11, 50, 0)))..
+crime_date(19502610, datime(date(2017, 7, 2, 11, 50, 0))).
 criminal_race(19502610,black).
 num_of_charges(19502610, 4).
 has_arrest(ja309050, 19495208).
-crime_date(19495208, datime(date(2017, 6, 16, 4, 45, 0)))..
+crime_date(19495208, datime(date(2017, 6, 16, 4, 45, 0))).
 criminal_race(19495208,black).
 num_of_charges(19495208, 4).
 has_arrest(ja311797, 19496162).
-crime_date(19496162, datime(date(2017, 6, 18, 2, 30, 0)))..
+crime_date(19496162, datime(date(2017, 6, 18, 2, 30, 0))).
 criminal_race(19496162,black).
 num_of_charges(19496162, 4).
 has_arrest(jd466325, 30082147).
-crime_date(30082147, datime(date(2021, 9, 9, 21, 6, 0)))..
+crime_date(30082147, datime(date(2021, 9, 9, 21, 6, 0))).
 criminal_race(30082147,black).
 num_of_charges(30082147, 4).
 has_arrest(ja291724, 19506648).
-crime_date(19506648, datime(date(2017, 7, 11, 11, 25, 0)))..
+crime_date(19506648, datime(date(2017, 7, 11, 11, 25, 0))).
 criminal_race(19506648,black).
 num_of_charges(19506648, 4).
 has_arrest(ja240832, 19504519).
-crime_date(19504519, datime(date(2017, 7, 6, 18, 11, 0)))..
+crime_date(19504519, datime(date(2017, 7, 6, 18, 11, 0))).
 criminal_race(19504519,black).
 num_of_charges(19504519, 4).
 has_arrest(ja320179, 19498822).
-crime_date(19498822, datime(date(2017, 6, 24, 4, 0, 0)))..
+crime_date(19498822, datime(date(2017, 6, 24, 4, 0, 0))).
 criminal_race(19498822,black).
 num_of_charges(19498822, 4).
 has_arrest(ja290782, 19493588).
-crime_date(19493588, datime(date(2017, 6, 12, 18, 42, 0)))..
+crime_date(19493588, datime(date(2017, 6, 12, 18, 42, 0))).
 criminal_race(19493588,black).
 num_of_charges(19493588, 4).
 has_arrest(ja219986, 19501533).
-crime_date(19501533, datime(date(2017, 6, 30, 10, 50, 0)))..
+crime_date(19501533, datime(date(2017, 6, 30, 10, 50, 0))).
 criminal_race(19501533,black).
 num_of_charges(19501533, 4).
 has_arrest(ja120028, 19491093).
-crime_date(19491093, datime(date(2017, 6, 7, 10, 5, 0)))..
+crime_date(19491093, datime(date(2017, 6, 7, 10, 5, 0))).
 criminal_race(19491093,white_hispanic).
 num_of_charges(19491093, 4).
 has_arrest(je304017, 30082097).
-crime_date(30082097, datime(date(2021, 9, 9, 15, 45, 0)))..
+crime_date(30082097, datime(date(2021, 9, 9, 15, 45, 0))).
 criminal_race(30082097,black).
 num_of_charges(30082097, 4).
 has_arrest(je323744, 30096156).
-crime_date(30096156, datime(date(2021, 11, 8, 12, 16, 0)))..
+crime_date(30096156, datime(date(2021, 11, 8, 12, 16, 0))).
 criminal_race(30096156,black).
 num_of_charges(30096156, 4).
 has_arrest(hz371861, 19512559).
-crime_date(19512559, datime(date(2017, 7, 24, 9, 20, 0)))..
+crime_date(19512559, datime(date(2017, 7, 24, 9, 20, 0))).
 criminal_race(19512559,white_hispanic).
 num_of_charges(19512559, 4).
 has_arrest(hz493050, 19512679).
-crime_date(19512679, datime(date(2017, 7, 24, 13, 55, 0)))..
+crime_date(19512679, datime(date(2017, 7, 24, 13, 55, 0))).
 criminal_race(19512679,black).
 num_of_charges(19512679, 4).
 has_arrest(je438349, 30096250).
-crime_date(30096250, datime(date(2021, 11, 8, 16, 7, 0)))..
+crime_date(30096250, datime(date(2021, 11, 8, 16, 7, 0))).
 criminal_race(30096250,black).
 num_of_charges(30096250, 4).
 has_arrest(ja330849, 19502347).
-crime_date(19502347, datime(date(2017, 7, 1, 22, 40, 0)))..
+crime_date(19502347, datime(date(2017, 7, 1, 22, 40, 0))).
 criminal_race(19502347,black).
 num_of_charges(19502347, 4).
 has_arrest(ja302565, 19506632).
-crime_date(19506632, datime(date(2017, 7, 11, 10, 35, 0)))..
+crime_date(19506632, datime(date(2017, 7, 11, 10, 35, 0))).
 criminal_race(19506632,black).
 num_of_charges(19506632, 4).
 has_arrest(ja357454, 19511493).
-crime_date(19511493, datime(date(2017, 7, 21, 13, 37, 0)))..
+crime_date(19511493, datime(date(2017, 7, 21, 13, 37, 0))).
 criminal_race(19511493,black).
 num_of_charges(19511493, 4).
 has_arrest(ja408832, 19532968).
-crime_date(19532968, datime(date(2017, 9, 5, 11, 0, 0)))..
+crime_date(19532968, datime(date(2017, 9, 5, 11, 0, 0))).
 criminal_race(19532968,black).
 num_of_charges(19532968, 4).
 has_arrest(ja407648, 19534577).
-crime_date(19534577, datime(date(2017, 9, 8, 17, 55, 0)))..
+crime_date(19534577, datime(date(2017, 9, 8, 17, 55, 0))).
 criminal_race(19534577,white_hispanic).
 num_of_charges(19534577, 4).
 has_arrest(ja367390, 19526076).
-crime_date(19526076, datime(date(2017, 8, 22, 12, 0, 0)))..
+crime_date(19526076, datime(date(2017, 8, 22, 12, 0, 0))).
 criminal_race(19526076,black).
 num_of_charges(19526076, 4).
 has_arrest(hm501824, 30082296).
-crime_date(30082296, datime(date(2021, 9, 10, 15, 21, 0)))..
+crime_date(30082296, datime(date(2021, 9, 10, 15, 21, 0))).
 criminal_race(30082296,black).
 num_of_charges(30082296, 4).
 has_arrest(ja366269, 19524591).
-crime_date(19524591, datime(date(2017, 8, 19, 0, 49, 0)))..
+crime_date(19524591, datime(date(2017, 8, 19, 0, 49, 0))).
 criminal_race(19524591,white).
 num_of_charges(19524591, 4).
 has_arrest(ja430288, 19536852).
-crime_date(19536852, datime(date(2017, 9, 13, 19, 55, 0)))..
+crime_date(19536852, datime(date(2017, 9, 13, 19, 55, 0))).
 criminal_race(19536852,black).
 num_of_charges(19536852, 4).
 has_arrest(ja404072, 19527378).
-crime_date(19527378, datime(date(2017, 8, 24, 18, 6, 0)))..
+crime_date(19527378, datime(date(2017, 8, 24, 18, 6, 0))).
 criminal_race(19527378,white_hispanic).
 num_of_charges(19527378, 4).
 has_arrest(ja433522, 19537929).
-crime_date(19537929, datime(date(2017, 9, 16, 15, 21, 0)))..
+crime_date(19537929, datime(date(2017, 9, 16, 15, 21, 0))).
 criminal_race(19537929,black).
 num_of_charges(19537929, 4).
 has_arrest(hz371861, 19523265).
-crime_date(19523265, datime(date(2017, 8, 16, 12, 40, 0)))..
+crime_date(19523265, datime(date(2017, 8, 16, 12, 40, 0))).
 criminal_race(19523265,white_hispanic).
 num_of_charges(19523265, 4).
 has_arrest(ja411505, 19529845).
-crime_date(19529845, datime(date(2017, 8, 30, 1, 6, 0)))..
+crime_date(19529845, datime(date(2017, 8, 30, 1, 6, 0))).
 criminal_race(19529845,white).
 num_of_charges(19529845, 4).
 has_arrest(ja403624, 19526819).
-crime_date(19526819, datime(date(2017, 8, 23, 20, 30, 0)))..
+crime_date(19526819, datime(date(2017, 8, 23, 20, 30, 0))).
 criminal_race(19526819,black).
 num_of_charges(19526819, 4).
 has_arrest(je359713, 30082290).
-crime_date(30082290, datime(date(2021, 9, 10, 14, 37, 0)))..
+crime_date(30082290, datime(date(2021, 9, 10, 14, 37, 0))).
 criminal_race(30082290,black).
 num_of_charges(30082290, 4).
 has_arrest(ja377188, 19517931).
-crime_date(19517931, datime(date(2017, 8, 4, 17, 10, 0)))..
+crime_date(19517931, datime(date(2017, 8, 4, 17, 10, 0))).
 criminal_race(19517931,black).
 num_of_charges(19517931, 4).
 has_arrest(ja395903, 19524168).
-crime_date(19524168, datime(date(2017, 8, 18, 6, 45, 0)))..
+crime_date(19524168, datime(date(2017, 8, 18, 6, 45, 0))).
 criminal_race(19524168,black).
 num_of_charges(19524168, 4).
 has_arrest(ja397004, 19533854).
-crime_date(19533854, datime(date(2017, 9, 7, 8, 45, 0)))..
+crime_date(19533854, datime(date(2017, 9, 7, 8, 45, 0))).
 criminal_race(19533854,black).
 num_of_charges(19533854, 4).
 has_arrest(ja434291, 19538050).
-crime_date(19538050, datime(date(2017, 9, 16, 20, 57, 0)))..
+crime_date(19538050, datime(date(2017, 9, 16, 20, 57, 0))).
 criminal_race(19538050,black).
 num_of_charges(19538050, 4).
 has_arrest(ja340303, 19521185).
-crime_date(19521185, datime(date(2017, 8, 11, 17, 7, 0)))..
+crime_date(19521185, datime(date(2017, 8, 11, 17, 7, 0))).
 criminal_race(19521185,black).
 num_of_charges(19521185, 4).
 has_arrest(ja412396, 19530100).
-crime_date(19530100, datime(date(2017, 8, 30, 19, 10, 0)))..
+crime_date(19530100, datime(date(2017, 8, 30, 19, 10, 0))).
 criminal_race(19530100,black).
 num_of_charges(19530100, 4).
 has_arrest(hr299284, 19528723).
-crime_date(19528723, datime(date(2017, 8, 27, 20, 45, 0)))..
+crime_date(19528723, datime(date(2017, 8, 27, 20, 45, 0))).
 criminal_race(19528723,white_hispanic).
 num_of_charges(19528723, 4).
 has_arrest(ja412723, 19530272).
-crime_date(19530272, datime(date(2017, 8, 31, 2, 8, 0)))..
+crime_date(19530272, datime(date(2017, 8, 31, 2, 8, 0))).
 criminal_race(19530272,black).
 num_of_charges(19530272, 4).
 has_arrest(je269018, 30112986).
-crime_date(30112986, datime(date(2022, 1, 24, 10, 15, 0)))..
+crime_date(30112986, datime(date(2022, 1, 24, 10, 15, 0))).
 criminal_race(30112986,black).
 num_of_charges(30112986, 4).
 has_arrest(ja423983, 19534584).
-crime_date(19534584, datime(date(2017, 9, 8, 19, 36, 0)))..
+crime_date(19534584, datime(date(2017, 9, 8, 19, 36, 0))).
 criminal_race(19534584,black).
 num_of_charges(19534584, 4).
 has_arrest(je369507, 30082520).
-crime_date(30082520, datime(date(2021, 9, 11, 10, 47, 0)))..
+crime_date(30082520, datime(date(2021, 9, 11, 10, 47, 0))).
 criminal_race(30082520,black).
 num_of_charges(30082520, 4).
 has_arrest(ja391304, 19529260).
-crime_date(19529260, datime(date(2017, 8, 29, 2, 5, 0)))..
+crime_date(19529260, datime(date(2017, 8, 29, 2, 5, 0))).
 criminal_race(19529260,black).
 num_of_charges(19529260, 4).
 has_arrest(ja408858, 19532943).
-crime_date(19532943, datime(date(2017, 9, 5, 10, 0, 0)))..
+crime_date(19532943, datime(date(2017, 9, 5, 10, 0, 0))).
 criminal_race(19532943,black).
 num_of_charges(19532943, 4).
 has_arrest(je269018, 30113010).
-crime_date(30113010, datime(date(2022, 1, 24, 9, 20, 0)))..
+crime_date(30113010, datime(date(2022, 1, 24, 9, 20, 0))).
 criminal_race(30113010,black).
 num_of_charges(30113010, 4).
 has_arrest(ja384094, 19520169).
-crime_date(19520169, datime(date(2017, 8, 9, 14, 31, 0)))..
+crime_date(19520169, datime(date(2017, 8, 9, 14, 31, 0))).
 criminal_race(19520169,black).
 num_of_charges(19520169, 4).
 has_arrest(ja387046, 19521993).
-crime_date(19521993, datime(date(2017, 8, 13, 11, 50, 0)))..
+crime_date(19521993, datime(date(2017, 8, 13, 11, 50, 0))).
 criminal_race(19521993,white_hispanic).
 num_of_charges(19521993, 4).
 has_arrest(ja385764, 19522483).
-crime_date(19522483, datime(date(2017, 8, 14, 12, 25, 0)))..
+crime_date(19522483, datime(date(2017, 8, 14, 12, 25, 0))).
 criminal_race(19522483,white).
 num_of_charges(19522483, 4).
 has_arrest(ja416724, 19532090).
-crime_date(19532090, datime(date(2017, 9, 3, 15, 55, 0)))..
+crime_date(19532090, datime(date(2017, 9, 3, 15, 55, 0))).
 criminal_race(19532090,white_hispanic).
 num_of_charges(19532090, 4).
 has_arrest(ja430288, 19536837).
-crime_date(19536837, datime(date(2017, 9, 13, 19, 55, 0)))..
+crime_date(19536837, datime(date(2017, 9, 13, 19, 55, 0))).
 criminal_race(19536837,black).
 num_of_charges(19536837, 4).
 has_arrest(ja420221, 19533334).
-crime_date(19533334, datime(date(2017, 9, 5, 20, 0, 0)))..
+crime_date(19533334, datime(date(2017, 9, 5, 20, 0, 0))).
 criminal_race(19533334,black).
 num_of_charges(19533334, 4).
 has_arrest(ja424004, 19534590).
-crime_date(19534590, datime(date(2017, 9, 8, 19, 49, 0)))..
+crime_date(19534590, datime(date(2017, 9, 8, 19, 49, 0))).
 criminal_race(19534590,black).
 num_of_charges(19534590, 4).
 has_arrest(ja372130, 19516323).
-crime_date(19516323, datime(date(2017, 8, 1, 2, 55, 0)))..
+crime_date(19516323, datime(date(2017, 8, 1, 2, 55, 0))).
 criminal_race(19516323,black).
 num_of_charges(19516323, 4).
 has_arrest(hz315026, 19523949).
-crime_date(19523949, datime(date(2017, 8, 17, 20, 15, 0)))..
+crime_date(19523949, datime(date(2017, 8, 17, 20, 15, 0))).
 criminal_race(19523949,black).
 num_of_charges(19523949, 4).
 has_arrest(ja334240, 19529998).
-crime_date(19529998, datime(date(2017, 8, 30, 15, 5, 0)))..
+crime_date(19529998, datime(date(2017, 8, 30, 15, 5, 0))).
 criminal_race(19529998,black).
 num_of_charges(19529998, 4).
 has_arrest(ja403624, 19526818).
-crime_date(19526818, datime(date(2017, 8, 23, 20, 30, 0)))..
+crime_date(19526818, datime(date(2017, 8, 23, 20, 30, 0))).
 criminal_race(19526818,black).
 num_of_charges(19526818, 4).
 has_arrest(ja423983, 19534684).
-crime_date(19534684, datime(date(2017, 9, 8, 23, 0, 0)))..
+crime_date(19534684, datime(date(2017, 9, 8, 23, 0, 0))).
 criminal_race(19534684,black).
 num_of_charges(19534684, 4).
 has_arrest(ja393783, 19529973).
-crime_date(19529973, datime(date(2017, 8, 30, 15, 15, 0)))..
+crime_date(19529973, datime(date(2017, 8, 30, 15, 15, 0))).
 criminal_race(19529973,black).
 num_of_charges(19529973, 4).
 has_arrest(ja424501, 19534806).
-crime_date(19534806, datime(date(2017, 9, 9, 9, 50, 0)))..
+crime_date(19534806, datime(date(2017, 9, 9, 9, 50, 0))).
 criminal_race(19534806,black).
 num_of_charges(19534806, 4).
 has_arrest(hz315026, 19530551).
-crime_date(19530551, datime(date(2017, 8, 31, 15, 45, 0)))..
+crime_date(19530551, datime(date(2017, 8, 31, 15, 45, 0))).
 criminal_race(19530551,black).
 num_of_charges(19530551, 4).
 has_arrest(ja395490, 19529422).
-crime_date(19529422, datime(date(2017, 8, 29, 13, 21, 0)))..
+crime_date(19529422, datime(date(2017, 8, 29, 13, 21, 0))).
 criminal_race(19529422,black).
 num_of_charges(19529422, 4).
 has_arrest(ja433264, 19537766).
-crime_date(19537766, datime(date(2017, 9, 16, 2, 27, 0)))..
+crime_date(19537766, datime(date(2017, 9, 16, 2, 27, 0))).
 criminal_race(19537766,black).
 num_of_charges(19537766, 4).
 has_arrest(ja390991, 19522606).
-crime_date(19522606, datime(date(2017, 8, 14, 15, 8, 0)))..
+crime_date(19522606, datime(date(2017, 8, 14, 15, 8, 0))).
 criminal_race(19522606,white_hispanic).
 num_of_charges(19522606, 4).
 has_arrest(je369774, 30082558).
-crime_date(30082558, datime(date(2021, 9, 11, 15, 10, 0)))..
+crime_date(30082558, datime(date(2021, 9, 11, 15, 10, 0))).
 criminal_race(30082558,black).
 num_of_charges(30082558, 4).
 has_arrest(je358482, 30096528).
-crime_date(30096528, datime(date(2021, 11, 9, 22, 45, 0)))..
+crime_date(30096528, datime(date(2021, 11, 9, 22, 45, 0))).
 criminal_race(30096528,black).
 num_of_charges(30096528, 4).
 has_arrest(ja366269, 19524581).
-crime_date(19524581, datime(date(2017, 8, 18, 23, 55, 0)))..
+crime_date(19524581, datime(date(2017, 8, 18, 23, 55, 0))).
 criminal_race(19524581,white).
 num_of_charges(19524581, 4).
 has_arrest(ja373613, 19516759).
-crime_date(19516759, datime(date(2017, 8, 2, 3, 35, 0)))..
+crime_date(19516759, datime(date(2017, 8, 2, 3, 35, 0))).
 criminal_race(19516759,black).
 num_of_charges(19516759, 4).
 has_arrest(ja389181, 19522001).
-crime_date(19522001, datime(date(2017, 8, 13, 9, 45, 0)))..
+crime_date(19522001, datime(date(2017, 8, 13, 9, 45, 0))).
 criminal_race(19522001,black).
 num_of_charges(19522001, 4).
 has_arrest(ja369030, 19522102).
-crime_date(19522102, datime(date(2017, 8, 13, 18, 20, 0)))..
+crime_date(19522102, datime(date(2017, 8, 13, 18, 20, 0))).
 criminal_race(19522102,black).
 num_of_charges(19522102, 4).
 has_arrest(jf384362, 30174961).
-crime_date(30174961, datime(date(2022, 9, 5, 19, 20, 0)))..
+crime_date(30174961, datime(date(2022, 9, 5, 19, 20, 0))).
 criminal_race(30174961,white_hispanic).
 num_of_charges(30174961, 4).
 has_arrest(ja404072, 19527481).
-crime_date(19527481, datime(date(2017, 8, 24, 17, 0, 0)))..
+crime_date(19527481, datime(date(2017, 8, 24, 17, 0, 0))).
 criminal_race(19527481,white_hispanic).
 num_of_charges(19527481, 4).
 has_arrest(hr127771, 19518051).
-crime_date(19518051, datime(date(2017, 8, 4, 21, 2, 0)))..
+crime_date(19518051, datime(date(2017, 8, 4, 21, 2, 0))).
 criminal_race(19518051,white_hispanic).
 num_of_charges(19518051, 4).
 has_arrest(ja412396, 19530121).
-crime_date(19530121, datime(date(2017, 8, 30, 18, 17, 0)))..
+crime_date(19530121, datime(date(2017, 8, 30, 18, 17, 0))).
 criminal_race(19530121,black).
 num_of_charges(19530121, 4).
 has_arrest(ja387051, 19527634).
-crime_date(19527634, datime(date(2017, 8, 25, 10, 55, 0)))..
+crime_date(19527634, datime(date(2017, 8, 25, 10, 55, 0))).
 criminal_race(19527634,black).
 num_of_charges(19527634, 4).
 has_arrest(ja291724, 19536521).
-crime_date(19536521, datime(date(2017, 9, 13, 12, 45, 0)))..
+crime_date(19536521, datime(date(2017, 9, 13, 12, 45, 0))).
 criminal_race(19536521,black).
 num_of_charges(19536521, 4).
 has_arrest(ja311863, 19526511).
-crime_date(19526511, datime(date(2017, 8, 23, 9, 54, 0)))..
+crime_date(19526511, datime(date(2017, 8, 23, 9, 54, 0))).
 criminal_race(19526511,black).
 num_of_charges(19526511, 4).
 has_arrest(ja423983, 19534582).
-crime_date(19534582, datime(date(2017, 9, 8, 19, 36, 0)))..
+crime_date(19534582, datime(date(2017, 9, 8, 19, 36, 0))).
 criminal_race(19534582,black).
 num_of_charges(19534582, 4).
 has_arrest(hz302181, 19523911).
-crime_date(19523911, datime(date(2017, 8, 17, 21, 0, 0)))..
+crime_date(19523911, datime(date(2017, 8, 17, 21, 0, 0))).
 criminal_race(19523911,black).
 num_of_charges(19523911, 4).
 has_arrest(ja479675, 19553172).
-crime_date(19553172, datime(date(2017, 10, 21, 4, 26, 0)))..
+crime_date(19553172, datime(date(2017, 10, 21, 4, 26, 0))).
 criminal_race(19553172,black).
 num_of_charges(19553172, 4).
 has_arrest(ja251972, 19553949).
-crime_date(19553949, datime(date(2017, 10, 23, 12, 40, 0)))..
+crime_date(19553949, datime(date(2017, 10, 23, 12, 40, 0))).
 criminal_race(19553949,black).
 num_of_charges(19553949, 4).
 has_arrest(hz303310, 19554327).
-crime_date(19554327, datime(date(2017, 10, 24, 11, 15, 0)))..
+crime_date(19554327, datime(date(2017, 10, 24, 11, 15, 0))).
 criminal_race(19554327,black).
 num_of_charges(19554327, 4).
 has_arrest(ja464584, 19551148).
-crime_date(19551148, datime(date(2017, 10, 17, 9, 25, 0)))..
+crime_date(19551148, datime(date(2017, 10, 17, 9, 25, 0))).
 criminal_race(19551148,black_hispanic).
 num_of_charges(19551148, 4).
 has_arrest(ja317851, 19553180).
-crime_date(19553180, datime(date(2017, 10, 21, 12, 55, 0)))..
+crime_date(19553180, datime(date(2017, 10, 21, 12, 55, 0))).
 criminal_race(19553180,black).
 num_of_charges(19553180, 4).
 has_arrest(ja441263, 19540294).
-crime_date(19540294, datime(date(2017, 9, 21, 20, 38, 0)))..
+crime_date(19540294, datime(date(2017, 9, 21, 20, 38, 0))).
 criminal_race(19540294,white).
 num_of_charges(19540294, 4).
 has_arrest(ja450965, 19543442).
-crime_date(19543442, datime(date(2017, 9, 29, 4, 0, 0)))..
+crime_date(19543442, datime(date(2017, 9, 29, 4, 0, 0))).
 criminal_race(19543442,black).
 num_of_charges(19543442, 4).
 has_arrest(hz443570, 19542681).
-crime_date(19542681, datime(date(2017, 9, 27, 11, 20, 0)))..
+crime_date(19542681, datime(date(2017, 9, 27, 11, 20, 0))).
 criminal_race(19542681,black).
 num_of_charges(19542681, 4).
 has_arrest(ja452105, 19544984).
-crime_date(19544984, datime(date(2017, 10, 2, 17, 55, 0)))..
+crime_date(19544984, datime(date(2017, 10, 2, 17, 55, 0))).
 criminal_race(19544984,black).
 num_of_charges(19544984, 4).
 has_arrest(ja490080, 19557107).
-crime_date(19557107, datime(date(2017, 10, 30, 21, 15, 0)))..
+crime_date(19557107, datime(date(2017, 10, 30, 21, 15, 0))).
 criminal_race(19557107,white_hispanic).
 num_of_charges(19557107, 4).
 has_arrest(ja479675, 19553100).
-crime_date(19553100, datime(date(2017, 10, 21, 4, 54, 0)))..
+crime_date(19553100, datime(date(2017, 10, 21, 4, 54, 0))).
 criminal_race(19553100,black).
 num_of_charges(19553100, 4).
 has_arrest(ja480392, 19553329).
-crime_date(19553329, datime(date(2017, 10, 21, 18, 25, 0)))..
+crime_date(19553329, datime(date(2017, 10, 21, 18, 25, 0))).
 criminal_race(19553329,black).
 num_of_charges(19553329, 4).
 has_arrest(ja309805, 19544423).
-crime_date(19544423, datime(date(2017, 10, 1, 11, 30, 0)))..
+crime_date(19544423, datime(date(2017, 10, 1, 11, 30, 0))).
 criminal_race(19544423,black).
 num_of_charges(19544423, 4).
 has_arrest(ja486910, 19555769).
-crime_date(19555769, datime(date(2017, 10, 27, 8, 40, 0)))..
+crime_date(19555769, datime(date(2017, 10, 27, 8, 40, 0))).
 criminal_race(19555769,white_hispanic).
 num_of_charges(19555769, 4).
 has_arrest(ja321035, 19555607).
-crime_date(19555607, datime(date(2017, 10, 27, 7, 10, 0)))..
+crime_date(19555607, datime(date(2017, 10, 27, 7, 10, 0))).
 criminal_race(19555607,black).
 num_of_charges(19555607, 4).
 has_arrest(ja311863, 19557354).
-crime_date(19557354, datime(date(2017, 10, 31, 13, 45, 0)))..
+crime_date(19557354, datime(date(2017, 10, 31, 13, 45, 0))).
 criminal_race(19557354,black).
 num_of_charges(19557354, 4).
 has_arrest(ja479675, 19553173).
-crime_date(19553173, datime(date(2017, 10, 21, 4, 26, 0)))..
+crime_date(19553173, datime(date(2017, 10, 21, 4, 26, 0))).
 criminal_race(19553173,black).
 num_of_charges(19553173, 4).
 has_arrest(ja490080, 19557102).
-crime_date(19557102, datime(date(2017, 10, 30, 21, 17, 0)))..
+crime_date(19557102, datime(date(2017, 10, 30, 21, 17, 0))).
 criminal_race(19557102,white_hispanic).
 num_of_charges(19557102, 4).
 has_arrest(hz210314, 19542736).
-crime_date(19542736, datime(date(2017, 9, 27, 11, 27, 0)))..
+crime_date(19542736, datime(date(2017, 9, 27, 11, 27, 0))).
 criminal_race(19542736,black).
 num_of_charges(19542736, 4).
 has_arrest(ja418253, 19557410).
-crime_date(19557410, datime(date(2017, 10, 31, 18, 10, 0)))..
+crime_date(19557410, datime(date(2017, 10, 31, 18, 10, 0))).
 criminal_race(19557410,black).
 num_of_charges(19557410, 4).
 has_arrest(ja479675, 19553222).
-crime_date(19553222, datime(date(2017, 10, 21, 4, 26, 0)))..
+crime_date(19553222, datime(date(2017, 10, 21, 4, 26, 0))).
 criminal_race(19553222,black).
 num_of_charges(19553222, 4).
 has_arrest(ja363273, 19552270).
-crime_date(19552270, datime(date(2017, 10, 19, 15, 57, 0)))..
+crime_date(19552270, datime(date(2017, 10, 19, 15, 57, 0))).
 criminal_race(19552270,white_hispanic).
 num_of_charges(19552270, 4).
 has_arrest(hw332417, 19539741).
-crime_date(19539741, datime(date(2017, 9, 20, 20, 0, 0)))..
+crime_date(19539741, datime(date(2017, 9, 20, 20, 0, 0))).
 criminal_race(19539741,white_hispanic).
 num_of_charges(19539741, 4).
 has_arrest(ja486531, 19555273).
-crime_date(19555273, datime(date(2017, 10, 26, 11, 20, 0)))..
+crime_date(19555273, datime(date(2017, 10, 26, 11, 20, 0))).
 criminal_race(19555273,black).
 num_of_charges(19555273, 4).
 has_arrest(hz420540, 19548558).
-crime_date(19548558, datime(date(2017, 10, 10, 11, 26, 0)))..
+crime_date(19548558, datime(date(2017, 10, 10, 11, 26, 0))).
 criminal_race(19548558,black).
 num_of_charges(19548558, 4).
 has_arrest(ja464584, 19552073).
-crime_date(19552073, datime(date(2017, 10, 19, 5, 50, 0)))..
+crime_date(19552073, datime(date(2017, 10, 19, 5, 50, 0))).
 criminal_race(19552073,white_hispanic).
 num_of_charges(19552073, 4).
 has_arrest(ja490080, 19557124).
-crime_date(19557124, datime(date(2017, 10, 30, 21, 15, 0)))..
+crime_date(19557124, datime(date(2017, 10, 30, 21, 15, 0))).
 criminal_race(19557124,white_hispanic).
 num_of_charges(19557124, 4).
 has_arrest(hz356251, 19544822).
-crime_date(19544822, datime(date(2017, 10, 2, 10, 11, 0)))..
+crime_date(19544822, datime(date(2017, 10, 2, 10, 11, 0))).
 criminal_race(19544822,white_hispanic).
 num_of_charges(19544822, 4).
 has_arrest(ja442997, 19540936).
-crime_date(19540936, datime(date(2017, 9, 23, 4, 43, 0)))..
+crime_date(19540936, datime(date(2017, 9, 23, 4, 43, 0))).
 criminal_race(19540936,black).
 num_of_charges(19540936, 4).
 has_arrest(ja493918, 19557603).
-crime_date(19557603, datime(date(2017, 11, 1, 1, 7, 0)))..
+crime_date(19557603, datime(date(2017, 11, 1, 1, 7, 0))).
 criminal_race(19557603,black).
 num_of_charges(19557603, 4).
 has_arrest(ja427849, 19540115).
-crime_date(19540115, datime(date(2017, 9, 21, 16, 26, 0)))..
+crime_date(19540115, datime(date(2017, 9, 21, 16, 26, 0))).
 criminal_race(19540115,black).
 num_of_charges(19540115, 4).
 has_arrest(ja460718, 19546926).
-crime_date(19546926, datime(date(2017, 10, 6, 13, 21, 0)))..
+crime_date(19546926, datime(date(2017, 10, 6, 13, 21, 0))).
 criminal_race(19546926,black).
 num_of_charges(19546926, 4).
 has_arrest(je381609, 30084780).
-crime_date(30084780, datime(date(2021, 9, 21, 9, 30, 0)))..
+crime_date(30084780, datime(date(2021, 9, 21, 9, 30, 0))).
 criminal_race(30084780,black).
 num_of_charges(30084780, 4).
 has_arrest(ja351991, 19561040).
-crime_date(19561040, datime(date(2017, 11, 8, 9, 15, 0)))..
+crime_date(19561040, datime(date(2017, 11, 8, 9, 15, 0))).
 criminal_race(19561040,black).
 num_of_charges(19561040, 4).
 has_arrest(ja464584, 19552614).
-crime_date(19552614, datime(date(2017, 10, 20, 8, 17, 0)))..
+crime_date(19552614, datime(date(2017, 10, 20, 8, 17, 0))).
 criminal_race(19552614,black).
 num_of_charges(19552614, 4).
 has_arrest(ja479675, 19553102).
-crime_date(19553102, datime(date(2017, 10, 21, 4, 24, 0)))..
+crime_date(19553102, datime(date(2017, 10, 21, 4, 24, 0))).
 criminal_race(19553102,black).
 num_of_charges(19553102, 4).
 has_arrest(ja468208, 19549297).
-crime_date(19549297, datime(date(2017, 10, 12, 10, 35, 0)))..
+crime_date(19549297, datime(date(2017, 10, 12, 10, 35, 0))).
 criminal_race(19549297,white_hispanic).
 num_of_charges(19549297, 4).
 has_arrest(ja481807, 19553793).
-crime_date(19553793, datime(date(2017, 10, 22, 21, 50, 0)))..
+crime_date(19553793, datime(date(2017, 10, 22, 21, 50, 0))).
 criminal_race(19553793,black).
 num_of_charges(19553793, 4).
 has_arrest(ja427414, 19551238).
-crime_date(19551238, datime(date(2017, 10, 17, 13, 38, 0)))..
+crime_date(19551238, datime(date(2017, 10, 17, 13, 38, 0))).
 criminal_race(19551238,black).
 num_of_charges(19551238, 4).
 has_arrest(ja445468, 19541702).
-crime_date(19541702, datime(date(2017, 9, 25, 3, 5, 0)))..
+crime_date(19541702, datime(date(2017, 9, 25, 3, 5, 0))).
 criminal_race(19541702,black).
 num_of_charges(19541702, 4).
 has_arrest(ja468109, 19557746).
-crime_date(19557746, datime(date(2017, 11, 1, 12, 3, 0)))..
+crime_date(19557746, datime(date(2017, 11, 1, 12, 3, 0))).
 criminal_race(19557746,black).
 num_of_charges(19557746, 4).
 has_arrest(ja349101, 19544890).
-crime_date(19544890, datime(date(2017, 10, 2, 11, 53, 0)))..
+crime_date(19544890, datime(date(2017, 10, 2, 11, 53, 0))).
 criminal_race(19544890,white_hispanic).
 num_of_charges(19544890, 4).
 has_arrest(hz506884, 19555829).
-crime_date(19555829, datime(date(2017, 10, 27, 18, 8, 0)))..
+crime_date(19555829, datime(date(2017, 10, 27, 18, 8, 0))).
 criminal_race(19555829,black).
 num_of_charges(19555829, 4).
 has_arrest(ja432189, 19554866).
-crime_date(19554866, datime(date(2017, 10, 25, 14, 50, 0)))..
+crime_date(19554866, datime(date(2017, 10, 25, 14, 50, 0))).
 criminal_race(19554866,black).
 num_of_charges(19554866, 4).
 has_arrest(ja479675, 19553213).
-crime_date(19553213, datime(date(2017, 10, 21, 13, 55, 0)))..
+crime_date(19553213, datime(date(2017, 10, 21, 13, 55, 0))).
 criminal_race(19553213,black).
 num_of_charges(19553213, 4).
 has_arrest(hz446923, 19545496).
-crime_date(19545496, datime(date(2017, 10, 3, 18, 30, 0)))..
+crime_date(19545496, datime(date(2017, 10, 3, 18, 30, 0))).
 criminal_race(19545496,black).
 num_of_charges(19545496, 4).
 has_arrest(ja487658, 19555603).
-crime_date(19555603, datime(date(2017, 10, 27, 5, 40, 0)))..
+crime_date(19555603, datime(date(2017, 10, 27, 5, 40, 0))).
 criminal_race(19555603,black).
 num_of_charges(19555603, 4).
 has_arrest(ja468109, 19549291).
-crime_date(19549291, datime(date(2017, 10, 12, 9, 50, 0)))..
+crime_date(19549291, datime(date(2017, 10, 12, 9, 50, 0))).
 criminal_race(19549291,black).
 num_of_charges(19549291, 4).
 has_arrest(ja461603, 19554856).
-crime_date(19554856, datime(date(2017, 10, 25, 13, 54, 0)))..
+crime_date(19554856, datime(date(2017, 10, 25, 13, 54, 0))).
 criminal_race(19554856,white_hispanic).
 num_of_charges(19554856, 4).
 has_arrest(hy392566, 19544844).
-crime_date(19544844, datime(date(2017, 10, 2, 11, 25, 0)))..
+crime_date(19544844, datime(date(2017, 10, 2, 11, 25, 0))).
 criminal_race(19544844,white_hispanic).
 num_of_charges(19544844, 4).
 has_arrest(ja543618, 19583793).
-crime_date(19583793, datime(date(2018, 1, 3, 15, 0, 0)))..
+crime_date(19583793, datime(date(2018, 1, 3, 15, 0, 0))).
 criminal_race(19583793,black).
 num_of_charges(19583793, 4).
 has_arrest(jf362058, 30169953).
-crime_date(30169953, datime(date(2022, 8, 19, 3, 45, 0)))..
+crime_date(30169953, datime(date(2022, 8, 19, 3, 45, 0))).
 criminal_race(30169953,black).
 num_of_charges(30169953, 4).
 has_arrest(je348427, 30113432).
-crime_date(30113432, datime(date(2022, 1, 26, 9, 41, 0)))..
+crime_date(30113432, datime(date(2022, 1, 26, 9, 41, 0))).
 criminal_race(30113432,black).
 num_of_charges(30113432, 4).
 has_arrest(ja219528, 19578032).
-crime_date(19578032, datime(date(2017, 12, 18, 10, 0, 0)))..
+crime_date(19578032, datime(date(2017, 12, 18, 10, 0, 0))).
 criminal_race(19578032,black).
 num_of_charges(19578032, 4).
 has_arrest(ja544258, 19578922).
-crime_date(19578922, datime(date(2017, 12, 20, 10, 51, 0)))..
+crime_date(19578922, datime(date(2017, 12, 20, 10, 51, 0))).
 criminal_race(19578922,black).
 num_of_charges(19578922, 4).
 has_arrest(je441653, 30096963).
-crime_date(30096963, datime(date(2021, 11, 11, 21, 53, 0)))..
+crime_date(30096963, datime(date(2021, 11, 11, 21, 53, 0))).
 criminal_race(30096963,black).
 num_of_charges(30096963, 4).
 has_arrest(hy458268, 19583913).
-crime_date(19583913, datime(date(2018, 1, 3, 19, 20, 0)))..
+crime_date(19583913, datime(date(2018, 1, 3, 19, 20, 0))).
 criminal_race(19583913,black).
 num_of_charges(19583913, 4).
 has_arrest(ja486910, 19567918).
-crime_date(19567918, datime(date(2017, 11, 24, 10, 11, 0)))..
+crime_date(19567918, datime(date(2017, 11, 24, 10, 11, 0))).
 criminal_race(19567918,white_hispanic).
 num_of_charges(19567918, 4).
 has_arrest(je362834, 30083165).
-crime_date(30083165, datime(date(2021, 9, 14, 8, 39, 0)))..
+crime_date(30083165, datime(date(2021, 9, 14, 8, 39, 0))).
 criminal_race(30083165,black).
 num_of_charges(30083165, 4).
 has_arrest(ja561061, 19582120).
-crime_date(19582120, datime(date(2017, 12, 29, 15, 35, 0)))..
+crime_date(19582120, datime(date(2017, 12, 29, 15, 35, 0))).
 criminal_race(19582120,black).
 num_of_charges(19582120, 4).
 has_arrest(jb105842, 19584702).
-crime_date(19584702, datime(date(2018, 1, 5, 19, 13, 0)))..
+crime_date(19584702, datime(date(2018, 1, 5, 19, 13, 0))).
 criminal_race(19584702,white_hispanic).
 num_of_charges(19584702, 4).
 has_arrest(jb106545, 19585158).
-crime_date(19585158, datime(date(2018, 1, 6, 16, 48, 0)))..
+crime_date(19585158, datime(date(2018, 1, 6, 16, 48, 0))).
 criminal_race(19585158,black).
 num_of_charges(19585158, 4).
 has_arrest(ja170048, 19570212).
-crime_date(19570212, datime(date(2017, 11, 29, 12, 40, 0)))..
+crime_date(19570212, datime(date(2017, 11, 29, 12, 40, 0))).
 criminal_race(19570212,black).
 num_of_charges(19570212, 4).
 has_arrest(jb105335, 19584582).
-crime_date(19584582, datime(date(2018, 1, 5, 14, 10, 0)))..
+crime_date(19584582, datime(date(2018, 1, 5, 14, 10, 0))).
 criminal_race(19584582,white_hispanic).
 num_of_charges(19584582, 4).
 has_arrest(jb101767, 19583815).
-crime_date(19583815, datime(date(2018, 1, 3, 16, 45, 0)))..
+crime_date(19583815, datime(date(2018, 1, 3, 16, 45, 0))).
 criminal_race(19583815,black).
 num_of_charges(19583815, 4).
 has_arrest(ja440584, 19571280).
-crime_date(19571280, datime(date(2017, 12, 1, 21, 6, 0)))..
+crime_date(19571280, datime(date(2017, 12, 1, 21, 6, 0))).
 criminal_race(19571280,black).
 num_of_charges(19571280, 4).
 has_arrest(hv583667, 19578925).
-crime_date(19578925, datime(date(2017, 12, 20, 10, 52, 0)))..
+crime_date(19578925, datime(date(2017, 12, 20, 10, 52, 0))).
 criminal_race(19578925,black).
 num_of_charges(19578925, 4).
 has_arrest(je322721, 30083217).
-crime_date(30083217, datime(date(2021, 9, 14, 13, 35, 0)))..
+crime_date(30083217, datime(date(2021, 9, 14, 13, 35, 0))).
 criminal_race(30083217,black).
 num_of_charges(30083217, 4).
 has_arrest(ja539707, 19573543).
-crime_date(19573543, datime(date(2017, 12, 6, 23, 37, 0)))..
+crime_date(19573543, datime(date(2017, 12, 6, 23, 37, 0))).
 criminal_race(19573543,black).
 num_of_charges(19573543, 4).
 has_arrest(jb100003, 19583034).
-crime_date(19583034, datime(date(2018, 1, 1, 0, 45, 0)))..
+crime_date(19583034, datime(date(2018, 1, 1, 0, 45, 0))).
 criminal_race(19583034,black).
 num_of_charges(19583034, 4).
 has_arrest(ja517926, 19567894).
-crime_date(19567894, datime(date(2017, 11, 24, 8, 10, 0)))..
+crime_date(19567894, datime(date(2017, 11, 24, 8, 10, 0))).
 criminal_race(19567894,black).
 num_of_charges(19567894, 4).
 has_arrest(jb110632, 19588079).
-crime_date(19588079, datime(date(2018, 1, 13, 19, 10, 0)))..
+crime_date(19588079, datime(date(2018, 1, 13, 19, 10, 0))).
 criminal_race(19588079,black).
 num_of_charges(19588079, 4).
 has_arrest(ja517286, 19565716).
-crime_date(19565716, datime(date(2017, 11, 18, 22, 49, 0)))..
+crime_date(19565716, datime(date(2017, 11, 18, 22, 49, 0))).
 criminal_race(19565716,black).
 num_of_charges(19565716, 4).
 has_arrest(je322721, 30083209).
-crime_date(30083209, datime(date(2021, 9, 14, 13, 5, 0)))..
+crime_date(30083209, datime(date(2021, 9, 14, 13, 5, 0))).
 criminal_race(30083209,black).
 num_of_charges(30083209, 4).
 has_arrest(jf264943, 30148841).
-crime_date(30148841, datime(date(2022, 6, 2, 13, 27, 0)))..
+crime_date(30148841, datime(date(2022, 6, 2, 13, 27, 0))).
 criminal_race(30148841,black).
 num_of_charges(30148841, 4).
 has_arrest(je416647, 30096846).
-crime_date(30096846, datime(date(2021, 11, 11, 10, 52, 0)))..
+crime_date(30096846, datime(date(2021, 11, 11, 10, 52, 0))).
 criminal_race(30096846,black).
 num_of_charges(30096846, 4).
 has_arrest(jb105842, 19584715).
-crime_date(19584715, datime(date(2018, 1, 5, 19, 18, 0)))..
+crime_date(19584715, datime(date(2018, 1, 5, 19, 18, 0))).
 criminal_race(19584715,white_hispanic).
 num_of_charges(19584715, 4).
 has_arrest(ja453862, 19581068).
-crime_date(19581068, datime(date(2017, 12, 26, 14, 32, 0)))..
+crime_date(19581068, datime(date(2017, 12, 26, 14, 32, 0))).
 criminal_race(19581068,black).
 num_of_charges(19581068, 4).
 has_arrest(ja523362, 19571321).
-crime_date(19571321, datime(date(2017, 12, 1, 22, 10, 0)))..
+crime_date(19571321, datime(date(2017, 12, 1, 22, 10, 0))).
 criminal_race(19571321,black).
 num_of_charges(19571321, 4).
 has_arrest(je326540, 30096831).
-crime_date(30096831, datime(date(2021, 11, 11, 8, 47, 0)))..
+crime_date(30096831, datime(date(2021, 11, 11, 8, 47, 0))).
 criminal_race(30096831,black).
 num_of_charges(30096831, 4).
 has_arrest(ja351991, 19582535).
-crime_date(19582535, datime(date(2017, 12, 30, 20, 4, 0)))..
+crime_date(19582535, datime(date(2017, 12, 30, 20, 4, 0))).
 criminal_race(19582535,black).
 num_of_charges(19582535, 4).
 has_arrest(hv583667, 19578924).
-crime_date(19578924, datime(date(2017, 12, 20, 10, 52, 0)))..
+crime_date(19578924, datime(date(2017, 12, 20, 10, 52, 0))).
 criminal_race(19578924,black).
 num_of_charges(19578924, 4).
 has_arrest(ja517286, 19565740).
-crime_date(19565740, datime(date(2017, 11, 18, 22, 49, 0)))..
+crime_date(19565740, datime(date(2017, 11, 18, 22, 49, 0))).
 criminal_race(19565740,black).
 num_of_charges(19565740, 4).
 has_arrest(jf265232, 30170073).
-crime_date(30170073, datime(date(2022, 8, 19, 16, 56, 0)))..
+crime_date(30170073, datime(date(2022, 8, 19, 16, 56, 0))).
 criminal_race(30170073,black).
 num_of_charges(30170073, 4).
 has_arrest(ja526314, 19581719).
-crime_date(19581719, datime(date(2017, 12, 28, 12, 20, 0)))..
+crime_date(19581719, datime(date(2017, 12, 28, 12, 20, 0))).
 criminal_race(19581719,black).
 num_of_charges(19581719, 4).
 has_arrest(hy422267, 19575334).
-crime_date(19575334, datime(date(2017, 12, 11, 18, 40, 0)))..
+crime_date(19575334, datime(date(2017, 12, 11, 18, 40, 0))).
 criminal_race(19575334,black).
 num_of_charges(19575334, 4).
 has_arrest(jb115417, 19588118).
-crime_date(19588118, datime(date(2018, 1, 13, 21, 25, 0)))..
+crime_date(19588118, datime(date(2018, 1, 13, 21, 25, 0))).
 criminal_race(19588118,black).
 num_of_charges(19588118, 4).
 has_arrest(hz500144, 19586550).
-crime_date(19586550, datime(date(2018, 1, 10, 12, 36, 0)))..
+crime_date(19586550, datime(date(2018, 1, 10, 12, 36, 0))).
 criminal_race(19586550,black).
 num_of_charges(19586550, 4).
 has_arrest(ja523362, 19570789).
-crime_date(19570789, datime(date(2017, 11, 30, 15, 0, 0)))..
+crime_date(19570789, datime(date(2017, 11, 30, 15, 0, 0))).
 criminal_race(19570789,white_hispanic).
 num_of_charges(19570789, 4).
 has_arrest(ja495378, 19579354).
-crime_date(19579354, datime(date(2017, 12, 21, 10, 25, 0)))..
+crime_date(19579354, datime(date(2017, 12, 21, 10, 25, 0))).
 criminal_race(19579354,black).
 num_of_charges(19579354, 4).
 has_arrest(ja502965, 19569056).
-crime_date(19569056, datime(date(2017, 11, 26, 20, 52, 0)))..
+crime_date(19569056, datime(date(2017, 11, 26, 20, 52, 0))).
 criminal_race(19569056,white_hispanic).
 num_of_charges(19569056, 4).
 has_arrest(ja531800, 19570948).
-crime_date(19570948, datime(date(2017, 12, 1, 1, 18, 0)))..
+crime_date(19570948, datime(date(2017, 12, 1, 1, 18, 0))).
 criminal_race(19570948,black).
 num_of_charges(19570948, 4).
 has_arrest(ja111211, 19586563).
-crime_date(19586563, datime(date(2018, 1, 10, 15, 40, 0)))..
+crime_date(19586563, datime(date(2018, 1, 10, 15, 40, 0))).
 criminal_race(19586563,black).
 num_of_charges(19586563, 4).
 has_arrest(ja326821, 19585921).
-crime_date(19585921, datime(date(2018, 1, 9, 10, 30, 0)))..
+crime_date(19585921, datime(date(2018, 1, 9, 10, 30, 0))).
 criminal_race(19585921,black).
 num_of_charges(19585921, 4).
 has_arrest(jb106581, 19584894).
-crime_date(19584894, datime(date(2018, 1, 6, 9, 24, 0)))..
+crime_date(19584894, datime(date(2018, 1, 6, 9, 24, 0))).
 criminal_race(19584894,black).
 num_of_charges(19584894, 4).
 has_arrest(ja399038, 19573628).
-crime_date(19573628, datime(date(2017, 12, 7, 9, 45, 0)))..
+crime_date(19573628, datime(date(2017, 12, 7, 9, 45, 0))).
 criminal_race(19573628,white_hispanic).
 num_of_charges(19573628, 4).
 has_arrest(jd443566, 30012327).
-crime_date(30012327, datime(date(2020, 12, 9, 22, 6, 0)))..
+crime_date(30012327, datime(date(2020, 12, 9, 22, 6, 0))).
 criminal_race(30012327,black).
 num_of_charges(30012327, 4).
 has_arrest(hx560876, 19579375).
-crime_date(19579375, datime(date(2017, 12, 21, 10, 49, 0)))..
+crime_date(19579375, datime(date(2017, 12, 21, 10, 49, 0))).
 criminal_race(19579375,black).
 num_of_charges(19579375, 4).
 has_arrest(jb105842, 19584707).
-crime_date(19584707, datime(date(2018, 1, 5, 19, 15, 0)))..
+crime_date(19584707, datime(date(2018, 1, 5, 19, 15, 0))).
 criminal_race(19584707,white_hispanic).
 num_of_charges(19584707, 4).
 has_arrest(jb106414, 19585067).
-crime_date(19585067, datime(date(2018, 1, 6, 17, 43, 0)))..
+crime_date(19585067, datime(date(2018, 1, 6, 17, 43, 0))).
 criminal_race(19585067,black).
 num_of_charges(19585067, 4).
 has_arrest(hz427269, 19570163).
-crime_date(19570163, datime(date(2017, 11, 29, 11, 4, 0)))..
+crime_date(19570163, datime(date(2017, 11, 29, 11, 4, 0))).
 criminal_race(19570163,black).
 num_of_charges(19570163, 4).
 has_arrest(ja545811, 19575512).
-crime_date(19575512, datime(date(2017, 12, 12, 2, 43, 0)))..
+crime_date(19575512, datime(date(2017, 12, 12, 2, 43, 0))).
 criminal_race(19575512,white).
 num_of_charges(19575512, 4).
 has_arrest(je262633, 30083586).
-crime_date(30083586, datime(date(2021, 9, 15, 20, 9, 0)))..
+crime_date(30083586, datime(date(2021, 9, 15, 20, 9, 0))).
 criminal_race(30083586,white_hispanic).
 num_of_charges(30083586, 4).
 has_arrest(jb111912, 19587539).
-crime_date(19587539, datime(date(2018, 1, 12, 15, 37, 0)))..
+crime_date(19587539, datime(date(2018, 1, 12, 15, 37, 0))).
 criminal_race(19587539,white_hispanic).
 num_of_charges(19587539, 4).
 has_arrest(hz303359, 19569891).
-crime_date(19569891, datime(date(2017, 11, 28, 13, 20, 0)))..
+crime_date(19569891, datime(date(2017, 11, 28, 13, 20, 0))).
 criminal_race(19569891,black).
 num_of_charges(19569891, 4).
 has_arrest(ja568833, 19588289).
-crime_date(19588289, datime(date(2018, 1, 14, 8, 56, 0)))..
+crime_date(19588289, datime(date(2018, 1, 14, 8, 56, 0))).
 criminal_race(19588289,white).
 num_of_charges(19588289, 4).
 has_arrest(jf125169, 30113597).
-crime_date(30113597, datime(date(2022, 1, 26, 20, 51, 0)))..
+crime_date(30113597, datime(date(2022, 1, 26, 20, 51, 0))).
 criminal_race(30113597,white_hispanic).
 num_of_charges(30113597, 4).
 has_arrest(ja547732, 19585553).
-crime_date(19585553, datime(date(2018, 1, 8, 11, 20, 0)))..
+crime_date(19585553, datime(date(2018, 1, 8, 11, 20, 0))).
 criminal_race(19585553,black).
 num_of_charges(19585553, 4).
 has_arrest(jb110632, 19587572).
-crime_date(19587572, datime(date(2018, 1, 12, 18, 18, 0)))..
+crime_date(19587572, datime(date(2018, 1, 12, 18, 18, 0))).
 criminal_race(19587572,black).
 num_of_charges(19587572, 4).
 has_arrest(ja525209, 19568675).
-crime_date(19568675, datime(date(2017, 11, 25, 21, 13, 0)))..
+crime_date(19568675, datime(date(2017, 11, 25, 21, 13, 0))).
 criminal_race(19568675,black).
 num_of_charges(19568675, 4).
 has_arrest(jb110156, 19589071).
-crime_date(19589071, datime(date(2018, 1, 16, 16, 30, 0)))..
+crime_date(19589071, datime(date(2018, 1, 16, 16, 30, 0))).
 criminal_race(19589071,black).
 num_of_charges(19589071, 4).
 has_arrest(jb101973, 19607802).
-crime_date(19607802, datime(date(2018, 2, 27, 12, 50, 0)))..
+crime_date(19607802, datime(date(2018, 2, 27, 12, 50, 0))).
 criminal_race(19607802,white_hispanic).
 num_of_charges(19607802, 4).
 has_arrest(jf125169, 30113598).
-crime_date(30113598, datime(date(2022, 1, 26, 20, 52, 0)))..
+crime_date(30113598, datime(date(2022, 1, 26, 20, 52, 0))).
 criminal_race(30113598,white_hispanic).
 num_of_charges(30113598, 4).
 has_arrest(jb161360, 19606550).
-crime_date(19606550, datime(date(2018, 2, 24, 20, 53, 0)))..
+crime_date(19606550, datime(date(2018, 2, 24, 20, 53, 0))).
 criminal_race(19606550,black).
 num_of_charges(19606550, 4).
 has_arrest(je322721, 30083697).
-crime_date(30083697, datime(date(2021, 9, 16, 15, 0, 0)))..
+crime_date(30083697, datime(date(2021, 9, 16, 15, 0, 0))).
 criminal_race(30083697,black).
 num_of_charges(30083697, 4).
 has_arrest(ja552929, 19595395).
-crime_date(19595395, datime(date(2018, 1, 29, 11, 33, 0)))..
+crime_date(19595395, datime(date(2018, 1, 29, 11, 33, 0))).
 criminal_race(19595395,white_hispanic).
 num_of_charges(19595395, 4).
 has_arrest(je466599, 30113442).
-crime_date(30113442, datime(date(2022, 1, 26, 10, 34, 0)))..
+crime_date(30113442, datime(date(2022, 1, 26, 10, 34, 0))).
 criminal_race(30113442,white_hispanic).
 num_of_charges(30113442, 4).
 has_arrest(je262633, 30113516).
-crime_date(30113516, datime(date(2022, 1, 26, 15, 31, 0)))..
+crime_date(30113516, datime(date(2022, 1, 26, 15, 31, 0))).
 criminal_race(30113516,white_hispanic).
 num_of_charges(30113516, 4).
 has_arrest(ja483029, 19597251).
-crime_date(19597251, datime(date(2018, 2, 2, 15, 45, 0)))..
+crime_date(19597251, datime(date(2018, 2, 2, 15, 45, 0))).
 criminal_race(19597251,black).
 num_of_charges(19597251, 4).
 has_arrest(jb122506, 19590793).
-crime_date(19590793, datime(date(2018, 1, 19, 22, 2, 0)))..
+crime_date(19590793, datime(date(2018, 1, 19, 22, 2, 0))).
 criminal_race(19590793,black).
 num_of_charges(19590793, 4).
 has_arrest(jb131208, 19594179).
-crime_date(19594179, datime(date(2018, 1, 27, 1, 10, 0)))..
+crime_date(19594179, datime(date(2018, 1, 27, 1, 10, 0))).
 criminal_race(19594179,white_hispanic).
 num_of_charges(19594179, 4).
 has_arrest(jb163735, 19606406).
-crime_date(19606406, datime(date(2018, 2, 24, 13, 9, 0)))..
+crime_date(19606406, datime(date(2018, 2, 24, 13, 9, 0))).
 criminal_race(19606406,black).
 num_of_charges(19606406, 4).
 has_arrest(jb135745, 19598766).
-crime_date(19598766, datime(date(2018, 2, 6, 19, 25, 0)))..
+crime_date(19598766, datime(date(2018, 2, 6, 19, 25, 0))).
 criminal_race(19598766,white).
 num_of_charges(19598766, 4).
 has_arrest(jb161360, 19605874).
-crime_date(19605874, datime(date(2018, 2, 23, 14, 42, 0)))..
+crime_date(19605874, datime(date(2018, 2, 23, 14, 42, 0))).
 criminal_race(19605874,black).
 num_of_charges(19605874, 4).
 has_arrest(ja120732, 19588997).
-crime_date(19588997, datime(date(2018, 1, 16, 11, 59, 0)))..
+crime_date(19588997, datime(date(2018, 1, 16, 11, 59, 0))).
 criminal_race(19588997,black).
 num_of_charges(19588997, 4).
 has_arrest(ja524357, 19593197).
-crime_date(19593197, datime(date(2018, 1, 25, 9, 55, 0)))..
+crime_date(19593197, datime(date(2018, 1, 25, 9, 55, 0))).
 criminal_race(19593197,black).
 num_of_charges(19593197, 4).
 has_arrest(ja456924, 19603492).
-crime_date(19603492, datime(date(2018, 2, 18, 11, 57, 0)))..
+crime_date(19603492, datime(date(2018, 2, 18, 11, 57, 0))).
 criminal_race(19603492,black).
 num_of_charges(19603492, 4).
 has_arrest(jf125169, 30113592).
-crime_date(30113592, datime(date(2022, 1, 26, 20, 52, 0)))..
+crime_date(30113592, datime(date(2022, 1, 26, 20, 52, 0))).
 criminal_race(30113592,white_hispanic).
 num_of_charges(30113592, 4).
 has_arrest(hz569794, 19599222).
-crime_date(19599222, datime(date(2018, 2, 7, 14, 50, 0)))..
+crime_date(19599222, datime(date(2018, 2, 7, 14, 50, 0))).
 criminal_race(19599222,black).
 num_of_charges(19599222, 4).
 has_arrest(jb171794, 19611258).
-crime_date(19611258, datime(date(2018, 3, 6, 12, 0, 0)))..
+crime_date(19611258, datime(date(2018, 3, 6, 12, 0, 0))).
 criminal_race(19611258,black).
 num_of_charges(19611258, 4).
 has_arrest(ja353895, 19605092).
-crime_date(19605092, datime(date(2018, 2, 21, 23, 36, 0)))..
+crime_date(19605092, datime(date(2018, 2, 21, 23, 36, 0))).
 criminal_race(19605092,white_hispanic).
 num_of_charges(19605092, 4).
 has_arrest(jb150650, 19601369).
-crime_date(19601369, datime(date(2018, 2, 13, 13, 56, 0)))..
+crime_date(19601369, datime(date(2018, 2, 13, 13, 56, 0))).
 criminal_race(19601369,black).
 num_of_charges(19601369, 4).
 has_arrest(je103396, 30097117).
-crime_date(30097117, datime(date(2021, 11, 12, 14, 0, 0)))..
+crime_date(30097117, datime(date(2021, 11, 12, 14, 0, 0))).
 criminal_race(30097117,black).
 num_of_charges(30097117, 4).
 has_arrest(ja514439, 19607248).
-crime_date(19607248, datime(date(2018, 2, 26, 11, 35, 0)))..
+crime_date(19607248, datime(date(2018, 2, 26, 11, 35, 0))).
 criminal_race(19607248,black).
 num_of_charges(19607248, 4).
 has_arrest(ja559794, 19588973).
-crime_date(19588973, datime(date(2018, 1, 16, 11, 30, 0)))..
+crime_date(19588973, datime(date(2018, 1, 16, 11, 30, 0))).
 criminal_race(19588973,white_hispanic).
 num_of_charges(19588973, 4).
 has_arrest(jb163448, 19606339).
-crime_date(19606339, datime(date(2018, 2, 24, 8, 15, 0)))..
+crime_date(19606339, datime(date(2018, 2, 24, 8, 15, 0))).
 criminal_race(19606339,black).
 num_of_charges(19606339, 4).
 has_arrest(jb163735, 19606405).
-crime_date(19606405, datime(date(2018, 2, 24, 12, 14, 0)))..
+crime_date(19606405, datime(date(2018, 2, 24, 12, 14, 0))).
 criminal_race(19606405,black).
 num_of_charges(19606405, 4).
 has_arrest(jb161360, 19605346).
-crime_date(19605346, datime(date(2018, 2, 22, 15, 4, 0)))..
+crime_date(19605346, datime(date(2018, 2, 22, 15, 4, 0))).
 criminal_race(19605346,black).
 num_of_charges(19605346, 4).
 has_arrest(je377840, 30084031).
-crime_date(30084031, datime(date(2021, 9, 17, 23, 52, 0)))..
+crime_date(30084031, datime(date(2021, 9, 17, 23, 52, 0))).
 criminal_race(30084031,black).
 num_of_charges(30084031, 4).
 has_arrest(jb128067, 19593822).
-crime_date(19593822, datime(date(2018, 1, 26, 12, 36, 0)))..
+crime_date(19593822, datime(date(2018, 1, 26, 12, 36, 0))).
 criminal_race(19593822,white_hispanic).
 num_of_charges(19593822, 4).
 has_arrest(jb121157, 19597144).
-crime_date(19597144, datime(date(2018, 2, 2, 15, 50, 0)))..
+crime_date(19597144, datime(date(2018, 2, 2, 15, 50, 0))).
 criminal_race(19597144,black).
 num_of_charges(19597144, 4).
 has_arrest(jb160133, 19604912).
-crime_date(19604912, datime(date(2018, 2, 21, 17, 26, 0)))..
+crime_date(19604912, datime(date(2018, 2, 21, 17, 26, 0))).
 criminal_race(19604912,white_hispanic).
 num_of_charges(19604912, 4).
 has_arrest(ja538881, 19597740).
-crime_date(19597740, datime(date(2018, 2, 3, 20, 25, 0)))..
+crime_date(19597740, datime(date(2018, 2, 3, 20, 25, 0))).
 criminal_race(19597740,black).
 num_of_charges(19597740, 4).
 has_arrest(jf189765, 30130032).
-crime_date(30130032, datime(date(2022, 3, 28, 21, 15, 0)))..
+crime_date(30130032, datime(date(2022, 3, 28, 21, 15, 0))).
 criminal_race(30130032,black).
 num_of_charges(30130032, 4).
 has_arrest(jb177909, 19617651).
-crime_date(19617651, datime(date(2018, 3, 19, 12, 11, 0)))..
+crime_date(19617651, datime(date(2018, 3, 19, 12, 11, 0))).
 criminal_race(19617651,black).
 num_of_charges(19617651, 4).
 has_arrest(hz205205, 19592763).
-crime_date(19592763, datime(date(2018, 1, 24, 12, 15, 0)))..
+crime_date(19592763, datime(date(2018, 1, 24, 12, 15, 0))).
 criminal_race(19592763,black).
 num_of_charges(19592763, 4).
 has_arrest(jb161360, 19605459).
-crime_date(19605459, datime(date(2018, 2, 22, 15, 4, 0)))..
+crime_date(19605459, datime(date(2018, 2, 22, 15, 4, 0))).
 criminal_race(19605459,black).
 num_of_charges(19605459, 4).
 has_arrest(jb130379, 19593860).
-crime_date(19593860, datime(date(2018, 1, 26, 12, 46, 0)))..
+crime_date(19593860, datime(date(2018, 1, 26, 12, 46, 0))).
 criminal_race(19593860,black).
 num_of_charges(19593860, 4).
 has_arrest(jb155159, 19603097).
-crime_date(19603097, datime(date(2018, 2, 17, 5, 1, 0)))..
+crime_date(19603097, datime(date(2018, 2, 17, 5, 1, 0))).
 criminal_race(19603097,black).
 num_of_charges(19603097, 4).
 has_arrest(jb129780, 19593535).
-crime_date(19593535, datime(date(2018, 1, 26, 0, 25, 0)))..
+crime_date(19593535, datime(date(2018, 1, 26, 0, 25, 0))).
 criminal_race(19593535,white_hispanic).
 num_of_charges(19593535, 4).
 has_arrest(jb139300, 19597305).
-crime_date(19597305, datime(date(2018, 2, 2, 22, 0, 0)))..
+crime_date(19597305, datime(date(2018, 2, 2, 22, 0, 0))).
 criminal_race(19597305,black).
 num_of_charges(19597305, 4).
 has_arrest(ja513866, 19604757).
-crime_date(19604757, datime(date(2018, 2, 21, 12, 35, 0)))..
+crime_date(19604757, datime(date(2018, 2, 21, 12, 35, 0))).
 criminal_race(19604757,black).
 num_of_charges(19604757, 4).
 has_arrest(jb140367, 19597848).
-crime_date(19597848, datime(date(2018, 2, 3, 23, 35, 0)))..
+crime_date(19597848, datime(date(2018, 2, 3, 23, 35, 0))).
 criminal_race(19597848,black).
 num_of_charges(19597848, 4).
 has_arrest(ja568833, 19588971).
-crime_date(19588971, datime(date(2018, 1, 16, 11, 54, 0)))..
+crime_date(19588971, datime(date(2018, 1, 16, 11, 54, 0))).
 criminal_race(19588971,white).
 num_of_charges(19588971, 4).
 has_arrest(jb123351, 19591235).
-crime_date(19591235, datime(date(2018, 1, 20, 17, 40, 0)))..
+crime_date(19591235, datime(date(2018, 1, 20, 17, 40, 0))).
 criminal_race(19591235,white_hispanic).
 num_of_charges(19591235, 4).
 has_arrest(ja356172, 19589008).
-crime_date(19589008, datime(date(2018, 1, 16, 11, 40, 0)))..
+crime_date(19589008, datime(date(2018, 1, 16, 11, 40, 0))).
 criminal_race(19589008,white).
 num_of_charges(19589008, 4).
 has_arrest(jb160414, 19605239).
-crime_date(19605239, datime(date(2018, 2, 22, 11, 40, 0)))..
+crime_date(19605239, datime(date(2018, 2, 22, 11, 40, 0))).
 criminal_race(19605239,black).
 num_of_charges(19605239, 4).
 has_arrest(jb142932, 19598612).
-crime_date(19598612, datime(date(2018, 2, 6, 12, 11, 0)))..
+crime_date(19598612, datime(date(2018, 2, 6, 12, 11, 0))).
 criminal_race(19598612,white_hispanic).
 num_of_charges(19598612, 4).
 has_arrest(jb239188, 19635376).
-crime_date(19635376, datime(date(2018, 4, 26, 18, 45, 0)))..
+crime_date(19635376, datime(date(2018, 4, 26, 18, 45, 0))).
 criminal_race(19635376,white_hispanic).
 num_of_charges(19635376, 4).
 has_arrest(jb227774, 19630954).
-crime_date(19630954, datime(date(2018, 4, 17, 19, 35, 0)))..
+crime_date(19630954, datime(date(2018, 4, 17, 19, 35, 0))).
 criminal_race(19630954,black).
 num_of_charges(19630954, 4).
 has_arrest(ja490016, 19615102).
-crime_date(19615102, datime(date(2018, 3, 14, 13, 35, 0)))..
+crime_date(19615102, datime(date(2018, 3, 14, 13, 35, 0))).
 criminal_race(19615102,black).
 num_of_charges(19615102, 4).
 has_arrest(jb120039, 19634282).
-crime_date(19634282, datime(date(2018, 4, 24, 15, 56, 0)))..
+crime_date(19634282, datime(date(2018, 4, 24, 15, 56, 0))).
 criminal_race(19634282,black).
 num_of_charges(19634282, 4).
 has_arrest(jd454034, 30012257).
-crime_date(30012257, datime(date(2020, 12, 9, 14, 3, 0)))..
+crime_date(30012257, datime(date(2020, 12, 9, 14, 3, 0))).
 criminal_race(30012257,black).
 num_of_charges(30012257, 4).
 has_arrest(jd208946, 30012175).
-crime_date(30012175, datime(date(2020, 12, 9, 12, 35, 0)))..
+crime_date(30012175, datime(date(2020, 12, 9, 12, 35, 0))).
 criminal_race(30012175,black).
 num_of_charges(30012175, 4).
 has_arrest(jb208993, 19624194).
-crime_date(19624194, datime(date(2018, 4, 2, 18, 0, 0)))..
+crime_date(19624194, datime(date(2018, 4, 2, 18, 0, 0))).
 criminal_race(19624194,white_hispanic).
 num_of_charges(19624194, 4).
 has_arrest(ja471943, 19631792).
-crime_date(19631792, datime(date(2018, 4, 19, 13, 40, 0)))..
+crime_date(19631792, datime(date(2018, 4, 19, 13, 40, 0))).
 criminal_race(19631792,black).
 num_of_charges(19631792, 4).
 has_arrest(ja510638, 19634127).
-crime_date(19634127, datime(date(2018, 4, 24, 10, 20, 0)))..
+crime_date(19634127, datime(date(2018, 4, 24, 10, 20, 0))).
 criminal_race(19634127,black).
 num_of_charges(19634127, 4).
 has_arrest(jb196683, 19619596).
-crime_date(19619596, datime(date(2018, 3, 23, 11, 49, 0)))..
+crime_date(19619596, datime(date(2018, 3, 23, 11, 49, 0))).
 criminal_race(19619596,black).
 num_of_charges(19619596, 4).
 has_arrest(jb193144, 19618360).
-crime_date(19618360, datime(date(2018, 3, 20, 20, 50, 0)))..
+crime_date(19618360, datime(date(2018, 3, 20, 20, 50, 0))).
 criminal_race(19618360,black).
 num_of_charges(19618360, 4).
 has_arrest(jb214232, 19631376).
-crime_date(19631376, datime(date(2018, 4, 18, 19, 2, 0)))..
+crime_date(19631376, datime(date(2018, 4, 18, 19, 2, 0))).
 criminal_race(19631376,black).
 num_of_charges(19631376, 4).
 has_arrest(jb212915, 19625663).
-crime_date(19625663, datime(date(2018, 4, 5, 19, 7, 0)))..
+crime_date(19625663, datime(date(2018, 4, 5, 19, 7, 0))).
 criminal_race(19625663,white_hispanic).
 num_of_charges(19625663, 4).
 has_arrest(jb177657, 19627197).
-crime_date(19627197, datime(date(2018, 4, 9, 7, 50, 0)))..
+crime_date(19627197, datime(date(2018, 4, 9, 7, 50, 0))).
 criminal_race(19627197,black).
 num_of_charges(19627197, 4).
 has_arrest(jd157682, 19950035).
-crime_date(19950035, datime(date(2020, 3, 12, 8, 40, 0)))..
+crime_date(19950035, datime(date(2020, 3, 12, 8, 40, 0))).
 criminal_race(19950035,black).
 num_of_charges(19950035, 4).
 has_arrest(jb193425, 19627765).
-crime_date(19627765, datime(date(2018, 4, 10, 13, 29, 0)))..
+crime_date(19627765, datime(date(2018, 4, 10, 13, 29, 0))).
 criminal_race(19627765,black).
 num_of_charges(19627765, 4).
 has_arrest(hy342488, 19632409).
-crime_date(19632409, datime(date(2018, 4, 20, 16, 0, 0)))..
+crime_date(19632409, datime(date(2018, 4, 20, 16, 0, 0))).
 criminal_race(19632409,black).
 num_of_charges(19632409, 4).
 has_arrest(ja331112, 19630366).
-crime_date(19630366, datime(date(2018, 4, 16, 13, 45, 0)))..
+crime_date(19630366, datime(date(2018, 4, 16, 13, 45, 0))).
 criminal_race(19630366,black).
 num_of_charges(19630366, 4).
 has_arrest(jb202761, 19626338).
-crime_date(19626338, datime(date(2018, 4, 7, 8, 0, 0)))..
+crime_date(19626338, datime(date(2018, 4, 7, 8, 0, 0))).
 criminal_race(19626338,black).
 num_of_charges(19626338, 4).
 has_arrest(jb114289, 19614663).
-crime_date(19614663, datime(date(2018, 3, 13, 13, 20, 0)))..
+crime_date(19614663, datime(date(2018, 3, 13, 13, 20, 0))).
 criminal_race(19614663,black).
 num_of_charges(19614663, 4).
 has_arrest(ja568583, 19634687).
-crime_date(19634687, datime(date(2018, 4, 25, 11, 20, 0)))..
+crime_date(19634687, datime(date(2018, 4, 25, 11, 20, 0))).
 criminal_race(19634687,black).
 num_of_charges(19634687, 4).
 has_arrest(hz478467, 19618333).
-crime_date(19618333, datime(date(2018, 3, 20, 21, 0, 0)))..
+crime_date(19618333, datime(date(2018, 3, 20, 21, 0, 0))).
 criminal_race(19618333,black).
 num_of_charges(19618333, 4).
 has_arrest(jb184667, 19614830).
-crime_date(19614830, datime(date(2018, 3, 13, 17, 35, 0)))..
+crime_date(19614830, datime(date(2018, 3, 13, 17, 35, 0))).
 criminal_race(19614830,black).
 num_of_charges(19614830, 4).
 has_arrest(jb182924, 19634168).
-crime_date(19634168, datime(date(2018, 4, 24, 12, 12, 0)))..
+crime_date(19634168, datime(date(2018, 4, 24, 12, 12, 0))).
 criminal_race(19634168,black_hispanic).
 num_of_charges(19634168, 4).
 has_arrest(jb209073, 19624271).
-crime_date(19624271, datime(date(2018, 4, 2, 20, 43, 0)))..
+crime_date(19624271, datime(date(2018, 4, 2, 20, 43, 0))).
 criminal_race(19624271,white_hispanic).
 num_of_charges(19624271, 4).
 has_arrest(jb219988, 19630734).
-crime_date(19630734, datime(date(2018, 4, 17, 10, 47, 0)))..
+crime_date(19630734, datime(date(2018, 4, 17, 10, 47, 0))).
 criminal_race(19630734,black).
 num_of_charges(19630734, 4).
 has_arrest(hz513356, 19624547).
-crime_date(19624547, datime(date(2018, 4, 3, 13, 43, 0)))..
+crime_date(19624547, datime(date(2018, 4, 3, 13, 43, 0))).
 criminal_race(19624547,black).
 num_of_charges(19624547, 4).
 has_arrest(jb220407, 19631928).
-crime_date(19631928, datime(date(2018, 4, 19, 21, 0, 0)))..
+crime_date(19631928, datime(date(2018, 4, 19, 21, 0, 0))).
 criminal_race(19631928,white).
 num_of_charges(19631928, 4).
 has_arrest(jb225247, 19631746).
-crime_date(19631746, datime(date(2018, 4, 19, 14, 40, 0)))..
+crime_date(19631746, datime(date(2018, 4, 19, 14, 40, 0))).
 criminal_race(19631746,white_hispanic).
 num_of_charges(19631746, 4).
 has_arrest(jb228872, 19631429).
-crime_date(19631429, datime(date(2018, 4, 18, 17, 25, 0)))..
+crime_date(19631429, datime(date(2018, 4, 18, 17, 25, 0))).
 criminal_race(19631429,black).
 num_of_charges(19631429, 4).
 has_arrest(jb215386, 19626661).
-crime_date(19626661, datime(date(2018, 4, 7, 21, 0, 0)))..
+crime_date(19626661, datime(date(2018, 4, 7, 21, 0, 0))).
 criminal_race(19626661,white_hispanic).
 num_of_charges(19626661, 4).
 has_arrest(jb227774, 19630985).
-crime_date(19630985, datime(date(2018, 4, 17, 19, 15, 0)))..
+crime_date(19630985, datime(date(2018, 4, 17, 19, 15, 0))).
 criminal_race(19630985,black).
 num_of_charges(19630985, 4).
 has_arrest(ja469034, 19612210).
-crime_date(19612210, datime(date(2018, 3, 8, 10, 0, 0)))..
+crime_date(19612210, datime(date(2018, 3, 8, 10, 0, 0))).
 criminal_race(19612210,black).
 num_of_charges(19612210, 4).
 has_arrest(jc108358, 19752678).
-crime_date(19752678, datime(date(2019, 1, 7, 15, 14, 0)))..
+crime_date(19752678, datime(date(2019, 1, 7, 15, 14, 0))).
 criminal_race(19752678,black).
 num_of_charges(19752678, 4).
 has_arrest(ja461918, 19621808).
-crime_date(19621808, datime(date(2018, 3, 28, 11, 51, 0)))..
+crime_date(19621808, datime(date(2018, 3, 28, 11, 51, 0))).
 criminal_race(19621808,black).
 num_of_charges(19621808, 4).
 has_arrest(f731010, 19630383).
-crime_date(19630383, datime(date(2018, 4, 16, 12, 35, 0)))..
+crime_date(19630383, datime(date(2018, 4, 16, 12, 35, 0))).
 criminal_race(19630383,black).
 num_of_charges(19630383, 4).
 has_arrest(jb220614, 19628741).
-crime_date(19628741, datime(date(2018, 4, 12, 7, 17, 0)))..
+crime_date(19628741, datime(date(2018, 4, 12, 7, 17, 0))).
 criminal_race(19628741,black).
 num_of_charges(19628741, 4).
 has_arrest(jb215386, 19626695).
-crime_date(19626695, datime(date(2018, 4, 7, 21, 0, 0)))..
+crime_date(19626695, datime(date(2018, 4, 7, 21, 0, 0))).
 criminal_race(19626695,white_hispanic).
 num_of_charges(19626695, 4).
 has_arrest(jb238695, 19641275).
-crime_date(19641275, datime(date(2018, 5, 8, 17, 49, 0)))..
+crime_date(19641275, datime(date(2018, 5, 8, 17, 49, 0))).
 criminal_race(19641275,black).
 num_of_charges(19641275, 4).
 has_arrest(jb258496, 19642547).
-crime_date(19642547, datime(date(2018, 5, 10, 18, 9, 0)))..
+crime_date(19642547, datime(date(2018, 5, 10, 18, 9, 0))).
 criminal_race(19642547,black).
 num_of_charges(19642547, 4).
 has_arrest(jb146910, 19647641).
-crime_date(19647641, datime(date(2018, 5, 22, 10, 53, 0)))..
+crime_date(19647641, datime(date(2018, 5, 22, 10, 53, 0))).
 criminal_race(19647641,black).
 num_of_charges(19647641, 4).
 has_arrest(jb268985, 19645971).
-crime_date(19645971, datime(date(2018, 5, 18, 17, 16, 0)))..
+crime_date(19645971, datime(date(2018, 5, 18, 17, 16, 0))).
 criminal_race(19645971,black).
 num_of_charges(19645971, 4).
 has_arrest(jb279170, 19659982).
-crime_date(19659982, datime(date(2018, 6, 16, 13, 50, 0)))..
+crime_date(19659982, datime(date(2018, 6, 16, 13, 50, 0))).
 criminal_race(19659982,white_hispanic).
 num_of_charges(19659982, 4).
 has_arrest(jb285952, 19652251).
-crime_date(19652251, datime(date(2018, 5, 30, 23, 30, 0)))..
+crime_date(19652251, datime(date(2018, 5, 30, 23, 30, 0))).
 criminal_race(19652251,black).
 num_of_charges(19652251, 4).
 has_arrest(hx229324, 19658302).
-crime_date(19658302, datime(date(2018, 6, 13, 0, 17, 0)))..
+crime_date(19658302, datime(date(2018, 6, 13, 0, 17, 0))).
 criminal_race(19658302,white_hispanic).
 num_of_charges(19658302, 4).
 has_arrest(jb251712, 19640069).
-crime_date(19640069, datime(date(2018, 5, 6, 0, 30, 0)))..
+crime_date(19640069, datime(date(2018, 5, 6, 0, 30, 0))).
 criminal_race(19640069,black).
 num_of_charges(19640069, 4).
 has_arrest(jb246307, 19637962).
-crime_date(19637962, datime(date(2018, 5, 2, 3, 16, 0)))..
+crime_date(19637962, datime(date(2018, 5, 2, 3, 16, 0))).
 criminal_race(19637962,white).
 num_of_charges(19637962, 4).
 has_arrest(jb286595, 19652754).
-crime_date(19652754, datime(date(2018, 6, 1, 1, 55, 0)))..
+crime_date(19652754, datime(date(2018, 6, 1, 1, 55, 0))).
 criminal_race(19652754,white_hispanic).
 num_of_charges(19652754, 4).
 has_arrest(jb284232, 19651668).
-crime_date(19651668, datime(date(2018, 5, 29, 19, 23, 0)))..
+crime_date(19651668, datime(date(2018, 5, 29, 19, 23, 0))).
 criminal_race(19651668,black).
 num_of_charges(19651668, 4).
 has_arrest(jb309418, 19659998).
-crime_date(19659998, datime(date(2018, 6, 16, 16, 23, 0)))..
+crime_date(19659998, datime(date(2018, 6, 16, 16, 23, 0))).
 criminal_race(19659998,black).
 num_of_charges(19659998, 4).
 has_arrest(jb286595, 19652515).
-crime_date(19652515, datime(date(2018, 5, 31, 14, 29, 0)))..
+crime_date(19652515, datime(date(2018, 5, 31, 14, 29, 0))).
 criminal_race(19652515,white_hispanic).
 num_of_charges(19652515, 4).
 has_arrest(jb203434, 19644917).
-crime_date(19644917, datime(date(2018, 5, 16, 15, 18, 0)))..
+crime_date(19644917, datime(date(2018, 5, 16, 15, 18, 0))).
 criminal_race(19644917,white_hispanic).
 num_of_charges(19644917, 4).
 has_arrest(jb270276, 19652555).
-crime_date(19652555, datime(date(2018, 5, 31, 18, 19, 0)))..
+crime_date(19652555, datime(date(2018, 5, 31, 18, 19, 0))).
 criminal_race(19652555,black).
 num_of_charges(19652555, 4).
 has_arrest(jb278224, 19649528).
-crime_date(19649528, datime(date(2018, 5, 25, 14, 49, 0)))..
+crime_date(19649528, datime(date(2018, 5, 25, 14, 49, 0))).
 criminal_race(19649528,black).
 num_of_charges(19649528, 4).
 has_arrest(jb268985, 19651331).
-crime_date(19651331, datime(date(2018, 5, 29, 1, 59, 0)))..
+crime_date(19651331, datime(date(2018, 5, 29, 1, 59, 0))).
 criminal_race(19651331,black).
 num_of_charges(19651331, 4).
 has_arrest(ja346211, 19649259).
-crime_date(19649259, datime(date(2018, 5, 25, 9, 20, 0)))..
+crime_date(19649259, datime(date(2018, 5, 25, 9, 20, 0))).
 criminal_race(19649259,black).
 num_of_charges(19649259, 4).
 has_arrest(jb279170, 19649837).
-crime_date(19649837, datime(date(2018, 5, 26, 7, 39, 0)))..
+crime_date(19649837, datime(date(2018, 5, 26, 7, 39, 0))).
 criminal_race(19649837,white_hispanic).
 num_of_charges(19649837, 4).
 has_arrest(jb246855, 19652941).
-crime_date(19652941, datime(date(2018, 6, 1, 11, 0, 0)))..
+crime_date(19652941, datime(date(2018, 6, 1, 11, 0, 0))).
 criminal_race(19652941,white_hispanic).
 num_of_charges(19652941, 4).
 has_arrest(je392397, 30113735).
-crime_date(30113735, datime(date(2022, 1, 27, 14, 10, 0)))..
+crime_date(30113735, datime(date(2022, 1, 27, 14, 10, 0))).
 criminal_race(30113735,black).
 num_of_charges(30113735, 4).
 has_arrest(jb239602, 19651612).
-crime_date(19651612, datime(date(2018, 5, 29, 15, 20, 0)))..
+crime_date(19651612, datime(date(2018, 5, 29, 15, 20, 0))).
 criminal_race(19651612,black).
 num_of_charges(19651612, 4).
 has_arrest(jb307723, 19659570).
-crime_date(19659570, datime(date(2018, 6, 15, 17, 45, 0)))..
+crime_date(19659570, datime(date(2018, 6, 15, 17, 45, 0))).
 criminal_race(19659570,white).
 num_of_charges(19659570, 4).
 has_arrest(jb298179, 19657557).
-crime_date(19657557, datime(date(2018, 6, 11, 13, 0, 0)))..
+crime_date(19657557, datime(date(2018, 6, 11, 13, 0, 0))).
 criminal_race(19657557,black).
 num_of_charges(19657557, 4).
 has_arrest(jb291397, 19654026).
-crime_date(19654026, datime(date(2018, 6, 3, 17, 20, 0)))..
+crime_date(19654026, datime(date(2018, 6, 3, 17, 20, 0))).
 criminal_race(19654026,white_hispanic).
 num_of_charges(19654026, 4).
 has_arrest(ja388904, 19642753).
-crime_date(19642753, datime(date(2018, 5, 11, 13, 35, 0)))..
+crime_date(19642753, datime(date(2018, 5, 11, 13, 35, 0))).
 criminal_race(19642753,black).
 num_of_charges(19642753, 4).
 has_arrest(jb247606, 19655831).
-crime_date(19655831, datime(date(2018, 6, 7, 14, 0, 0)))..
+crime_date(19655831, datime(date(2018, 6, 7, 14, 0, 0))).
 criminal_race(19655831,black).
 num_of_charges(19655831, 4).
 has_arrest(jb243194, 19636841).
-crime_date(19636841, datime(date(2018, 4, 29, 23, 50, 0)))..
+crime_date(19636841, datime(date(2018, 4, 29, 23, 50, 0))).
 criminal_race(19636841,black).
 num_of_charges(19636841, 4).
 has_arrest(jb253920, 19640839).
-crime_date(19640839, datime(date(2018, 5, 7, 16, 9, 0)))..
+crime_date(19640839, datime(date(2018, 5, 7, 16, 9, 0))).
 criminal_race(19640839,black).
 num_of_charges(19640839, 4).
 has_arrest(jb278224, 19649631).
-crime_date(19649631, datime(date(2018, 5, 25, 14, 53, 0)))..
+crime_date(19649631, datime(date(2018, 5, 25, 14, 53, 0))).
 criminal_race(19649631,black).
 num_of_charges(19649631, 4).
 has_arrest(jb273286, 19648755).
-crime_date(19648755, datime(date(2018, 5, 24, 12, 23, 0)))..
+crime_date(19648755, datime(date(2018, 5, 24, 12, 23, 0))).
 criminal_race(19648755,white_hispanic).
 num_of_charges(19648755, 4).
 has_arrest(jb264263, 19651484).
-crime_date(19651484, datime(date(2018, 5, 29, 12, 46, 0)))..
+crime_date(19651484, datime(date(2018, 5, 29, 12, 46, 0))).
 criminal_race(19651484,black).
 num_of_charges(19651484, 4).
 has_arrest(jb300203, 19656995).
-crime_date(19656995, datime(date(2018, 6, 9, 20, 27, 0)))..
+crime_date(19656995, datime(date(2018, 6, 9, 20, 27, 0))).
 criminal_race(19656995,white_hispanic).
 num_of_charges(19656995, 4).
 has_arrest(je445793, 30097923).
-crime_date(30097923, datime(date(2021, 11, 15, 15, 50, 0)))..
+crime_date(30097923, datime(date(2021, 11, 15, 15, 50, 0))).
 criminal_race(30097923,black).
 num_of_charges(30097923, 4).
 has_arrest(jb243194, 19637146).
-crime_date(19637146, datime(date(2018, 4, 30, 16, 20, 0)))..
+crime_date(19637146, datime(date(2018, 4, 30, 16, 20, 0))).
 criminal_race(19637146,black).
 num_of_charges(19637146, 4).
 has_arrest(jb291397, 19654029).
-crime_date(19654029, datime(date(2018, 6, 3, 17, 20, 0)))..
+crime_date(19654029, datime(date(2018, 6, 3, 17, 20, 0))).
 criminal_race(19654029,white_hispanic).
 num_of_charges(19654029, 4).
 has_arrest(jb291397, 19658189).
-crime_date(19658189, datime(date(2018, 6, 12, 20, 41, 0)))..
+crime_date(19658189, datime(date(2018, 6, 12, 20, 41, 0))).
 criminal_race(19658189,white_hispanic).
 num_of_charges(19658189, 4).
 has_arrest(je383961, 30085235).
-crime_date(30085235, datime(date(2021, 9, 23, 7, 21, 0)))..
+crime_date(30085235, datime(date(2021, 9, 23, 7, 21, 0))).
 criminal_race(30085235,black).
 num_of_charges(30085235, 4).
 has_arrest(je328724, 30085299).
-crime_date(30085299, datime(date(2021, 9, 23, 16, 14, 0)))..
+crime_date(30085299, datime(date(2021, 9, 23, 16, 14, 0))).
 criminal_race(30085299,black).
 num_of_charges(30085299, 4).
 has_arrest(jb259975, 19642904).
-crime_date(19642904, datime(date(2018, 5, 11, 20, 0, 0)))..
+crime_date(19642904, datime(date(2018, 5, 11, 20, 0, 0))).
 criminal_race(19642904,black).
 num_of_charges(19642904, 4).
 has_arrest(jb278224, 19649524).
-crime_date(19649524, datime(date(2018, 5, 25, 14, 53, 0)))..
+crime_date(19649524, datime(date(2018, 5, 25, 14, 53, 0))).
 criminal_race(19649524,black).
 num_of_charges(19649524, 4).
 has_arrest(jb258496, 19642536).
-crime_date(19642536, datime(date(2018, 5, 10, 18, 3, 0)))..
+crime_date(19642536, datime(date(2018, 5, 10, 18, 3, 0))).
 criminal_race(19642536,black).
 num_of_charges(19642536, 4).
 has_arrest(jb239602, 19651615).
-crime_date(19651615, datime(date(2018, 5, 29, 15, 48, 0)))..
+crime_date(19651615, datime(date(2018, 5, 29, 15, 48, 0))).
 criminal_race(19651615,black).
 num_of_charges(19651615, 4).
 has_arrest(jb301642, 19657439).
-crime_date(19657439, datime(date(2018, 6, 11, 4, 34, 0)))..
+crime_date(19657439, datime(date(2018, 6, 11, 4, 34, 0))).
 criminal_race(19657439,black).
 num_of_charges(19657439, 4).
 has_arrest(je383961, 30085223).
-crime_date(30085223, datime(date(2021, 9, 23, 7, 30, 0)))..
+crime_date(30085223, datime(date(2021, 9, 23, 7, 30, 0))).
 criminal_race(30085223,black).
 num_of_charges(30085223, 4).
 has_arrest(je445793, 30097927).
-crime_date(30097927, datime(date(2021, 11, 15, 15, 50, 0)))..
+crime_date(30097927, datime(date(2021, 11, 15, 15, 50, 0))).
 criminal_race(30097927,black).
 num_of_charges(30097927, 4).
 has_arrest(jb285952, 19654511).
-crime_date(19654511, datime(date(2018, 6, 4, 20, 31, 0)))..
+crime_date(19654511, datime(date(2018, 6, 4, 20, 31, 0))).
 criminal_race(19654511,black).
 num_of_charges(19654511, 4).
 has_arrest(ja417264, 19659021).
-crime_date(19659021, datime(date(2018, 6, 14, 14, 45, 0)))..
+crime_date(19659021, datime(date(2018, 6, 14, 14, 45, 0))).
 criminal_race(19659021,black).
 num_of_charges(19659021, 4).
 has_arrest(jb226161, 19647238).
-crime_date(19647238, datime(date(2018, 5, 21, 12, 45, 0)))..
+crime_date(19647238, datime(date(2018, 5, 21, 12, 45, 0))).
 criminal_race(19647238,white_hispanic).
 num_of_charges(19647238, 4).
 has_arrest(jd265264, 19969668).
-crime_date(19969668, datime(date(2020, 6, 15, 18, 33, 0)))..
+crime_date(19969668, datime(date(2020, 6, 15, 18, 33, 0))).
 criminal_race(19969668,black).
 num_of_charges(19969668, 4).
 has_arrest(jd262632, 19969129).
-crime_date(19969129, datime(date(2020, 6, 13, 4, 23, 0)))..
+crime_date(19969129, datime(date(2020, 6, 13, 4, 23, 0))).
 criminal_race(19969129,black).
 num_of_charges(19969129, 4).
 has_arrest(jd263221, 19969213).
-crime_date(19969213, datime(date(2020, 6, 13, 18, 8, 0)))..
+crime_date(19969213, datime(date(2020, 6, 13, 18, 8, 0))).
 criminal_race(19969213,white_hispanic).
 num_of_charges(19969213, 4).
 has_arrest(hx279114, 18989347).
-crime_date(18989347, datime(date(2014, 10, 6, 9, 5, 0)))..
+crime_date(18989347, datime(date(2014, 10, 6, 9, 5, 0))).
 criminal_race(18989347,black).
 num_of_charges(18989347, 4).
 has_arrest(jd269849, 19970588).
-crime_date(19970588, datime(date(2020, 6, 20, 1, 44, 0)))..
+crime_date(19970588, datime(date(2020, 6, 20, 1, 44, 0))).
 criminal_race(19970588,black).
 num_of_charges(19970588, 4).
 has_arrest(hx126764, 18852000).
-crime_date(18852000, datime(date(2014, 3, 11, 11, 30, 0)))..
+crime_date(18852000, datime(date(2014, 3, 11, 11, 30, 0))).
 criminal_race(18852000,black).
 num_of_charges(18852000, 4).
 has_arrest(hx372443, 18958395).
-crime_date(18958395, datime(date(2014, 8, 19, 12, 20, 0)))..
+crime_date(18958395, datime(date(2014, 8, 19, 12, 20, 0))).
 criminal_race(18958395,black).
 num_of_charges(18958395, 4).
 has_arrest(jd222695, 19971256).
-crime_date(19971256, datime(date(2020, 6, 23, 13, 40, 0)))..
+crime_date(19971256, datime(date(2020, 6, 23, 13, 40, 0))).
 criminal_race(19971256,black).
 num_of_charges(19971256, 4).
 has_arrest(hx177692, 18850802).
-crime_date(18850802, datime(date(2014, 3, 9, 10, 31, 0)))..
+crime_date(18850802, datime(date(2014, 3, 9, 10, 31, 0))).
 criminal_race(18850802,black).
 num_of_charges(18850802, 4).
 has_arrest(jd269869, 19972828).
-crime_date(19972828, datime(date(2020, 6, 30, 11, 45, 0)))..
+crime_date(19972828, datime(date(2020, 6, 30, 11, 45, 0))).
 criminal_race(19972828,black).
 num_of_charges(19972828, 4).
 has_arrest(hx479762, 19000572).
-crime_date(19000572, datime(date(2014, 10, 25, 4, 10, 0)))..
+crime_date(19000572, datime(date(2014, 10, 25, 4, 10, 0))).
 criminal_race(19000572,black).
 num_of_charges(19000572, 4).
 has_arrest(hy491924, 19251372).
-crime_date(19251372, datime(date(2016, 1, 18, 19, 2, 0)))..
+crime_date(19251372, datime(date(2016, 1, 18, 19, 2, 0))).
 criminal_race(19251372,black).
 num_of_charges(19251372, 4).
 has_arrest(jc501365, 19970306).
-crime_date(19970306, datime(date(2020, 6, 18, 16, 40, 0)))..
+crime_date(19970306, datime(date(2020, 6, 18, 16, 40, 0))).
 criminal_race(19970306,black).
 num_of_charges(19970306, 4).
 has_arrest(jb314372, 19661439).
-crime_date(19661439, datime(date(2018, 6, 19, 22, 13, 0)))..
+crime_date(19661439, datime(date(2018, 6, 19, 22, 13, 0))).
 criminal_race(19661439,black).
 num_of_charges(19661439, 4).
 has_arrest(jd264737, 19969557).
-crime_date(19969557, datime(date(2020, 6, 15, 12, 37, 0)))..
+crime_date(19969557, datime(date(2020, 6, 15, 12, 37, 0))).
 criminal_race(19969557,black).
 num_of_charges(19969557, 4).
 has_arrest(jd270705, 19971756).
-crime_date(19971756, datime(date(2020, 6, 25, 14, 11, 0)))..
+crime_date(19971756, datime(date(2020, 6, 25, 14, 11, 0))).
 criminal_race(19971756,black).
 num_of_charges(19971756, 4).
 has_arrest(hx266139, 18925692).
-crime_date(18925692, datime(date(2014, 7, 1, 16, 30, 0)))..
+crime_date(18925692, datime(date(2014, 7, 1, 16, 30, 0))).
 criminal_race(18925692,white_hispanic).
 num_of_charges(18925692, 4).
 has_arrest(jd278792, 19972415).
-crime_date(19972415, datime(date(2020, 6, 28, 11, 23, 0)))..
+crime_date(19972415, datime(date(2020, 6, 28, 11, 23, 0))).
 criminal_race(19972415,black).
 num_of_charges(19972415, 4).
 has_arrest(hz140230, 19313064).
-crime_date(19313064, datime(date(2016, 5, 18, 20, 15, 0)))..
+crime_date(19313064, datime(date(2016, 5, 18, 20, 15, 0))).
 criminal_race(19313064,white_hispanic).
 num_of_charges(19313064, 4).
 has_arrest(jc517082, 19969601).
-crime_date(19969601, datime(date(2020, 6, 15, 17, 25, 0)))..
+crime_date(19969601, datime(date(2020, 6, 15, 17, 25, 0))).
 criminal_race(19969601,black).
 num_of_charges(19969601, 4).
 has_arrest(hz375866, 19661600).
-crime_date(19661600, datime(date(2018, 6, 20, 9, 20, 0)))..
+crime_date(19661600, datime(date(2018, 6, 20, 9, 20, 0))).
 criminal_race(19661600,white_hispanic).
 num_of_charges(19661600, 4).
 has_arrest(hx341290, 18959723).
-crime_date(18959723, datime(date(2014, 8, 21, 16, 45, 0)))..
+crime_date(18959723, datime(date(2014, 8, 21, 16, 45, 0))).
 criminal_race(18959723,black).
 num_of_charges(18959723, 4).
 has_arrest(jd282582, 19973187).
-crime_date(19973187, datime(date(2020, 7, 1, 18, 48, 0)))..
+crime_date(19973187, datime(date(2020, 7, 1, 18, 48, 0))).
 criminal_race(19973187,white_hispanic).
 num_of_charges(19973187, 4).
 has_arrest(hy441068, 19195474).
-crime_date(19195474, datime(date(2015, 9, 28, 3, 5, 0)))..
+crime_date(19195474, datime(date(2015, 9, 28, 3, 5, 0))).
 criminal_race(19195474,white_hispanic).
 num_of_charges(19195474, 4).
 has_arrest(ja346211, 19661639).
-crime_date(19661639, datime(date(2018, 6, 19, 10, 40, 0)))..
+crime_date(19661639, datime(date(2018, 6, 19, 10, 40, 0))).
 criminal_race(19661639,black).
 num_of_charges(19661639, 4).
 has_arrest(hy397947, 19331080).
-crime_date(19331080, datime(date(2016, 6, 21, 21, 30, 0)))..
+crime_date(19331080, datime(date(2016, 6, 21, 21, 30, 0))).
 criminal_race(19331080,black).
 num_of_charges(19331080, 4).
 has_arrest(je447740, 30098234).
-crime_date(30098234, datime(date(2021, 11, 16, 23, 53, 0)))..
+crime_date(30098234, datime(date(2021, 11, 16, 23, 53, 0))).
 criminal_race(30098234,black).
 num_of_charges(30098234, 4).
 has_arrest(hz234563, 19298920).
-crime_date(19298920, datime(date(2016, 4, 21, 12, 9, 0)))..
+crime_date(19298920, datime(date(2016, 4, 21, 12, 9, 0))).
 criminal_race(19298920,black_hispanic).
 num_of_charges(19298920, 4).
 has_arrest(hz273076, 19973337).
-crime_date(19973337, datime(date(2020, 7, 2, 9, 35, 0)))..
+crime_date(19973337, datime(date(2020, 7, 2, 9, 35, 0))).
 criminal_race(19973337,black).
 num_of_charges(19973337, 4).
 has_arrest(hx144647, 18837435).
-crime_date(18837435, datime(date(2014, 2, 16, 8, 30, 0)))..
+crime_date(18837435, datime(date(2014, 2, 16, 8, 30, 0))).
 criminal_race(18837435,black).
 num_of_charges(18837435, 4).
 has_arrest(jd277941, 19972844).
-crime_date(19972844, datime(date(2020, 6, 30, 15, 3, 0)))..
+crime_date(19972844, datime(date(2020, 6, 30, 15, 3, 0))).
 criminal_race(19972844,black).
 num_of_charges(19972844, 4).
 has_arrest(hx130069, 18869960).
-crime_date(18869960, datime(date(2014, 4, 8, 8, 30, 0)))..
+crime_date(18869960, datime(date(2014, 4, 8, 8, 30, 0))).
 criminal_race(18869960,black).
 num_of_charges(18869960, 4).
 has_arrest(jd263221, 19973134).
-crime_date(19973134, datime(date(2020, 7, 1, 17, 30, 0)))..
+crime_date(19973134, datime(date(2020, 7, 1, 17, 30, 0))).
 criminal_race(19973134,white_hispanic).
 num_of_charges(19973134, 4).
 has_arrest(hx553378, 19033939).
-crime_date(19033939, datime(date(2014, 12, 23, 22, 46, 0)))..
+crime_date(19033939, datime(date(2014, 12, 23, 22, 46, 0))).
 criminal_race(19033939,white_hispanic).
 num_of_charges(19033939, 4).
 has_arrest(jd234177, 19971081).
-crime_date(19971081, datime(date(2020, 6, 22, 14, 22, 0)))..
+crime_date(19971081, datime(date(2020, 6, 22, 14, 22, 0))).
 criminal_race(19971081,black).
 num_of_charges(19971081, 4).
 has_arrest(jd285233, 19973822).
-crime_date(19973822, datime(date(2020, 7, 4, 2, 21, 0)))..
+crime_date(19973822, datime(date(2020, 7, 4, 2, 21, 0))).
 criminal_race(19973822,black).
 num_of_charges(19973822, 4).
 has_arrest(jb322250, 19663967).
-crime_date(19663967, datime(date(2018, 6, 25, 16, 34, 0)))..
+crime_date(19663967, datime(date(2018, 6, 25, 16, 34, 0))).
 criminal_race(19663967,black).
 num_of_charges(19663967, 4).
 has_arrest(jb320525, 19664073).
-crime_date(19664073, datime(date(2018, 6, 25, 22, 0, 0)))..
+crime_date(19664073, datime(date(2018, 6, 25, 22, 0, 0))).
 criminal_race(19664073,white_hispanic).
 num_of_charges(19664073, 4).
 has_arrest(hx503786, 19011562).
-crime_date(19011562, datime(date(2014, 11, 12, 0, 39, 0)))..
+crime_date(19011562, datime(date(2014, 11, 12, 0, 39, 0))).
 criminal_race(19011562,black).
 num_of_charges(19011562, 4).
 has_arrest(hz158181, 19283406).
-crime_date(19283406, datime(date(2016, 3, 22, 0, 16, 0)))..
+crime_date(19283406, datime(date(2016, 3, 22, 0, 16, 0))).
 criminal_race(19283406,black).
 num_of_charges(19283406, 4).
 has_arrest(jd249088, 19973339).
-crime_date(19973339, datime(date(2020, 7, 2, 13, 40, 0)))..
+crime_date(19973339, datime(date(2020, 7, 2, 13, 40, 0))).
 criminal_race(19973339,black).
 num_of_charges(19973339, 4).
 has_arrest(jb315183, 19661750).
-crime_date(19661750, datime(date(2018, 6, 20, 14, 19, 0)))..
+crime_date(19661750, datime(date(2018, 6, 20, 14, 19, 0))).
 criminal_race(19661750,white_hispanic).
 num_of_charges(19661750, 4).
 has_arrest(jd243890, 19969537).
-crime_date(19969537, datime(date(2020, 6, 15, 11, 40, 0)))..
+crime_date(19969537, datime(date(2020, 6, 15, 11, 40, 0))).
 criminal_race(19969537,black).
 num_of_charges(19969537, 4).
 has_arrest(jf356096, 30170680).
-crime_date(30170680, datime(date(2022, 8, 22, 7, 50, 0)))..
+crime_date(30170680, datime(date(2022, 8, 22, 7, 50, 0))).
 criminal_race(30170680,black).
 num_of_charges(30170680, 4).
 has_arrest(jd259358, 19968392).
-crime_date(19968392, datime(date(2020, 6, 10, 2, 26, 0)))..
+crime_date(19968392, datime(date(2020, 6, 10, 2, 26, 0))).
 criminal_race(19968392,black).
 num_of_charges(19968392, 4).
 has_arrest(je386308, 30085718).
-crime_date(30085718, datime(date(2021, 9, 25, 8, 9, 0)))..
+crime_date(30085718, datime(date(2021, 9, 25, 8, 9, 0))).
 criminal_race(30085718,black).
 num_of_charges(30085718, 4).
 has_arrest(hw434870, 19661717).
-crime_date(19661717, datime(date(2018, 6, 20, 15, 31, 0)))..
+crime_date(19661717, datime(date(2018, 6, 20, 15, 31, 0))).
 criminal_race(19661717,black).
 num_of_charges(19661717, 4).
 has_arrest(jd281835, 19973001).
-crime_date(19973001, datime(date(2020, 7, 1, 2, 48, 0)))..
+crime_date(19973001, datime(date(2020, 7, 1, 2, 48, 0))).
 criminal_race(19973001,black).
 num_of_charges(19973001, 4).
 has_arrest(jb308673, 19660129).
-crime_date(19660129, datime(date(2018, 6, 16, 21, 8, 0)))..
+crime_date(19660129, datime(date(2018, 6, 16, 21, 8, 0))).
 criminal_race(19660129,black).
 num_of_charges(19660129, 4).
 has_arrest(jd269510, 19970523).
-crime_date(19970523, datime(date(2020, 6, 19, 19, 40, 0)))..
+crime_date(19970523, datime(date(2020, 6, 19, 19, 40, 0))).
 criminal_race(19970523,black).
 num_of_charges(19970523, 4).
 has_arrest(jd265264, 19969651).
-crime_date(19969651, datime(date(2020, 6, 15, 20, 54, 0)))..
+crime_date(19969651, datime(date(2020, 6, 15, 20, 54, 0))).
 criminal_race(19969651,black).
 num_of_charges(19969651, 4).
 has_arrest(jd248674, 19973050).
-crime_date(19973050, datime(date(2020, 7, 1, 11, 29, 0)))..
+crime_date(19973050, datime(date(2020, 7, 1, 11, 29, 0))).
 criminal_race(19973050,black).
 num_of_charges(19973050, 4).
 has_arrest(hz239755, 19301217).
-crime_date(19301217, datime(date(2016, 4, 25, 16, 18, 0)))..
+crime_date(19301217, datime(date(2016, 4, 25, 16, 18, 0))).
 criminal_race(19301217,white_hispanic).
 num_of_charges(19301217, 4).
 has_arrest(je415510, 30113923).
-crime_date(30113923, datime(date(2022, 1, 28, 9, 42, 0)))..
+crime_date(30113923, datime(date(2022, 1, 28, 9, 42, 0))).
 criminal_race(30113923,black).
 num_of_charges(30113923, 4).
 has_arrest(jd271074, 19970835).
-crime_date(19970835, datime(date(2020, 6, 21, 3, 45, 0)))..
+crime_date(19970835, datime(date(2020, 6, 21, 3, 45, 0))).
 criminal_race(19970835,white_hispanic).
 num_of_charges(19970835, 4).
 has_arrest(jd248484, 19969387).
-crime_date(19969387, datime(date(2020, 6, 14, 15, 17, 0)))..
+crime_date(19969387, datime(date(2020, 6, 14, 15, 17, 0))).
 criminal_race(19969387,white_hispanic).
 num_of_charges(19969387, 4).
 has_arrest(jd285927, 19974003).
-crime_date(19974003, datime(date(2020, 7, 4, 21, 15, 0)))..
+crime_date(19974003, datime(date(2020, 7, 4, 21, 15, 0))).
 criminal_race(19974003,black).
 num_of_charges(19974003, 4).
 has_arrest(jd268199, 19970304).
-crime_date(19970304, datime(date(2020, 6, 18, 16, 7, 0)))..
+crime_date(19970304, datime(date(2020, 6, 18, 16, 7, 0))).
 criminal_race(19970304,black).
 num_of_charges(19970304, 4).
 has_arrest(hx281461, 18911793).
-crime_date(18911793, datime(date(2014, 6, 10, 14, 49, 0)))..
+crime_date(18911793, datime(date(2014, 6, 10, 14, 49, 0))).
 criminal_race(18911793,black).
 num_of_charges(18911793, 4).
 has_arrest(jd265084, 19969614).
-crime_date(19969614, datime(date(2020, 6, 15, 18, 20, 0)))..
+crime_date(19969614, datime(date(2020, 6, 15, 18, 20, 0))).
 criminal_race(19969614,white_hispanic).
 num_of_charges(19969614, 4).
 has_arrest(jb298179, 19662118).
-crime_date(19662118, datime(date(2018, 6, 21, 12, 15, 0)))..
+crime_date(19662118, datime(date(2018, 6, 21, 12, 15, 0))).
 criminal_race(19662118,black).
 num_of_charges(19662118, 4).
 has_arrest(ht575599, 18889167).
-crime_date(18889167, datime(date(2014, 5, 7, 10, 0, 0)))..
+crime_date(18889167, datime(date(2014, 5, 7, 10, 0, 0))).
 criminal_race(18889167,white_hispanic).
 num_of_charges(18889167, 4).
 has_arrest(jb310408, 19664253).
-crime_date(19664253, datime(date(2018, 6, 26, 9, 10, 0)))..
+crime_date(19664253, datime(date(2018, 6, 26, 9, 10, 0))).
 criminal_race(19664253,black).
 num_of_charges(19664253, 4).
 has_arrest(hz158181, 19270890).
-crime_date(19270890, datime(date(2016, 2, 26, 16, 52, 0)))..
+crime_date(19270890, datime(date(2016, 2, 26, 16, 52, 0))).
 criminal_race(19270890,black).
 num_of_charges(19270890, 4).
 has_arrest(jd278497, 19972319).
-crime_date(19972319, datime(date(2020, 6, 27, 22, 11, 0)))..
+crime_date(19972319, datime(date(2020, 6, 27, 22, 11, 0))).
 criminal_race(19972319,black).
 num_of_charges(19972319, 4).
 has_arrest(jd283381, 19973413).
-crime_date(19973413, datime(date(2020, 7, 2, 16, 6, 0)))..
+crime_date(19973413, datime(date(2020, 7, 2, 16, 6, 0))).
 criminal_race(19973413,black).
 num_of_charges(19973413, 4).
 has_arrest(hx293212, 18909736).
-crime_date(18909736, datime(date(2014, 6, 6, 23, 25, 0)))..
+crime_date(18909736, datime(date(2014, 6, 6, 23, 25, 0))).
 criminal_race(18909736,black).
 num_of_charges(18909736, 4).
 has_arrest(jf340568, 30175273).
-crime_date(30175273, datime(date(2022, 9, 6, 19, 30, 0)))..
+crime_date(30175273, datime(date(2022, 9, 6, 19, 30, 0))).
 criminal_race(30175273,white_hispanic).
 num_of_charges(30175273, 4).
 has_arrest(jb311508, 19660651).
-crime_date(19660651, datime(date(2018, 6, 18, 1, 10, 0)))..
+crime_date(19660651, datime(date(2018, 6, 18, 1, 10, 0))).
 criminal_race(19660651,white_hispanic).
 num_of_charges(19660651, 4).
 has_arrest(jd262397, 19969068).
-crime_date(19969068, datime(date(2020, 6, 12, 20, 55, 0)))..
+crime_date(19969068, datime(date(2020, 6, 12, 20, 55, 0))).
 criminal_race(19969068,white_hispanic).
 num_of_charges(19969068, 4).
 has_arrest(jd237809, 19970625).
-crime_date(19970625, datime(date(2020, 6, 20, 9, 45, 0)))..
+crime_date(19970625, datime(date(2020, 6, 20, 9, 45, 0))).
 criminal_race(19970625,black).
 num_of_charges(19970625, 4).
 has_arrest(jd243890, 19973019).
-crime_date(19973019, datime(date(2020, 7, 1, 6, 45, 0)))..
+crime_date(19973019, datime(date(2020, 7, 1, 6, 45, 0))).
 criminal_race(19973019,black).
 num_of_charges(19973019, 4).
 has_arrest(hy397947, 19335673).
-crime_date(19335673, datime(date(2016, 6, 30, 20, 20, 0)))..
+crime_date(19335673, datime(date(2016, 6, 30, 20, 20, 0))).
 criminal_race(19335673,black).
 num_of_charges(19335673, 4).
 has_arrest(jd270626, 19971465).
-crime_date(19971465, datime(date(2020, 6, 24, 11, 45, 0)))..
+crime_date(19971465, datime(date(2020, 6, 24, 11, 45, 0))).
 criminal_race(19971465,black).
 num_of_charges(19971465, 4).
 has_arrest(hy327669, 19145507).
-crime_date(19145507, datime(date(2015, 7, 4, 22, 9, 0)))..
+crime_date(19145507, datime(date(2015, 7, 4, 22, 9, 0))).
 criminal_race(19145507,black).
 num_of_charges(19145507, 4).
 has_arrest(jb265786, 19723811).
-crime_date(19723811, datime(date(2018, 10, 31, 17, 49, 0)))..
+crime_date(19723811, datime(date(2018, 10, 31, 17, 49, 0))).
 criminal_race(19723811,black).
 num_of_charges(19723811, 4).
 has_arrest(jd281835, 19973002).
-crime_date(19973002, datime(date(2020, 7, 1, 2, 50, 0)))..
+crime_date(19973002, datime(date(2020, 7, 1, 2, 50, 0))).
 criminal_race(19973002,black).
 num_of_charges(19973002, 4).
 has_arrest(jd222695, 19971260).
-crime_date(19971260, datime(date(2020, 6, 23, 13, 40, 0)))..
+crime_date(19971260, datime(date(2020, 6, 23, 13, 40, 0))).
 criminal_race(19971260,black).
 num_of_charges(19971260, 4).
 has_arrest(jd264558, 19973056).
-crime_date(19973056, datime(date(2020, 7, 1, 11, 25, 0)))..
+crime_date(19973056, datime(date(2020, 7, 1, 11, 25, 0))).
 criminal_race(19973056,black).
 num_of_charges(19973056, 4).
 has_arrest(ja248393, 19475207).
-crime_date(19475207, datime(date(2017, 5, 5, 11, 0, 0)))..
+crime_date(19475207, datime(date(2017, 5, 5, 11, 0, 0))).
 criminal_race(19475207,white_hispanic).
 num_of_charges(19475207, 4).
 has_arrest(hz353327, 19343797).
-crime_date(19343797, datime(date(2016, 7, 17, 23, 57, 0)))..
+crime_date(19343797, datime(date(2016, 7, 17, 23, 57, 0))).
 criminal_race(19343797,black).
 num_of_charges(19343797, 4).
 has_arrest(jb264619, 19644504).
-crime_date(19644504, datime(date(2018, 5, 15, 15, 44, 0)))..
+crime_date(19644504, datime(date(2018, 5, 15, 15, 44, 0))).
 criminal_race(19644504,black).
 num_of_charges(19644504, 4).
 has_arrest(hz212987, 19354042).
-crime_date(19354042, datime(date(2016, 8, 9, 11, 48, 0)))..
+crime_date(19354042, datime(date(2016, 8, 9, 11, 48, 0))).
 criminal_race(19354042,black).
 num_of_charges(19354042, 4).
 has_arrest(jb151275, 19601569).
-crime_date(19601569, datime(date(2018, 2, 13, 23, 6, 0)))..
+crime_date(19601569, datime(date(2018, 2, 13, 23, 6, 0))).
 criminal_race(19601569,white).
 num_of_charges(19601569, 4).
 has_arrest(jb263673, 19786614).
-crime_date(19786614, datime(date(2019, 3, 25, 10, 11, 0)))..
+crime_date(19786614, datime(date(2019, 3, 25, 10, 11, 0))).
 criminal_race(19786614,white_hispanic).
 num_of_charges(19786614, 4).
 has_arrest(ja162307, 19441258).
-crime_date(19441258, datime(date(2017, 2, 21, 20, 12, 0)))..
+crime_date(19441258, datime(date(2017, 2, 21, 20, 12, 0))).
 criminal_race(19441258,white_hispanic).
 num_of_charges(19441258, 4).
 has_arrest(hz493522, 19390968).
-crime_date(19390968, datime(date(2016, 10, 29, 2, 49, 0)))..
+crime_date(19390968, datime(date(2016, 10, 29, 2, 49, 0))).
 criminal_race(19390968,black).
 num_of_charges(19390968, 4).
 has_arrest(jb220197, 19628411).
-crime_date(19628411, datime(date(2018, 4, 11, 18, 43, 0)))..
+crime_date(19628411, datime(date(2018, 4, 11, 18, 43, 0))).
 criminal_race(19628411,white_hispanic).
 num_of_charges(19628411, 4).
 has_arrest(hz267818, 19672979).
-crime_date(19672979, datime(date(2018, 7, 13, 21, 38, 0)))..
+crime_date(19672979, datime(date(2018, 7, 13, 21, 38, 0))).
 criminal_race(19672979,black).
 num_of_charges(19672979, 4).
 has_arrest(jd235841, 19961328).
-crime_date(19961328, datime(date(2020, 5, 18, 15, 25, 0)))..
+crime_date(19961328, datime(date(2020, 5, 18, 15, 25, 0))).
 criminal_race(19961328,black).
 num_of_charges(19961328, 4).
 has_arrest(ja373332, 19516700).
-crime_date(19516700, datime(date(2017, 8, 2, 0, 53, 0)))..
+crime_date(19516700, datime(date(2017, 8, 2, 0, 53, 0))).
 criminal_race(19516700,black).
 num_of_charges(19516700, 4).
 has_arrest(ja507110, 19562173).
-crime_date(19562173, datime(date(2017, 11, 10, 21, 10, 0)))..
+crime_date(19562173, datime(date(2017, 11, 10, 21, 10, 0))).
 criminal_race(19562173,black).
 num_of_charges(19562173, 4).
 has_arrest(jc446934, 19960479).
-crime_date(19960479, datime(date(2020, 5, 14, 9, 15, 0)))..
+crime_date(19960479, datime(date(2020, 5, 14, 9, 15, 0))).
 criminal_race(19960479,black).
 num_of_charges(19960479, 4).
 has_arrest(hy407689, 19363715).
-crime_date(19363715, datime(date(2016, 8, 30, 14, 15, 0)))..
+crime_date(19363715, datime(date(2016, 8, 30, 14, 15, 0))).
 criminal_race(19363715,white_hispanic).
 num_of_charges(19363715, 4).
 has_arrest(jc506067, 19963955).
-crime_date(19963955, datime(date(2020, 5, 28, 12, 35, 0)))..
+crime_date(19963955, datime(date(2020, 5, 28, 12, 35, 0))).
 criminal_race(19963955,white_hispanic).
 num_of_charges(19963955, 4).
 has_arrest(jc228192, 19797557).
-crime_date(19797557, datime(date(2019, 4, 17, 18, 29, 0)))..
+crime_date(19797557, datime(date(2019, 4, 17, 18, 29, 0))).
 criminal_race(19797557,black).
 num_of_charges(19797557, 4).
 has_arrest(jb457568, 19710424).
-crime_date(19710424, datime(date(2018, 10, 1, 5, 3, 0)))..
+crime_date(19710424, datime(date(2018, 10, 1, 5, 3, 0))).
 criminal_race(19710424,black).
 num_of_charges(19710424, 4).
 has_arrest(jd105251, 19919389).
-crime_date(19919389, datime(date(2020, 1, 5, 17, 5, 0)))..
+crime_date(19919389, datime(date(2020, 1, 5, 17, 5, 0))).
 criminal_race(19919389,black).
 num_of_charges(19919389, 4).
 has_arrest(ja568833, 19671360).
-crime_date(19671360, datime(date(2018, 7, 10, 10, 50, 0)))..
+crime_date(19671360, datime(date(2018, 7, 10, 10, 50, 0))).
 criminal_race(19671360,white).
 num_of_charges(19671360, 4).
 has_arrest(hz374342, 19374085).
-crime_date(19374085, datime(date(2016, 9, 21, 10, 33, 0)))..
+crime_date(19374085, datime(date(2016, 9, 21, 10, 33, 0))).
 criminal_race(19374085,black).
 num_of_charges(19374085, 4).
 has_arrest(hz432824, 19371282).
-crime_date(19371282, datime(date(2016, 9, 15, 8, 45, 0)))..
+crime_date(19371282, datime(date(2016, 9, 15, 8, 45, 0))).
 criminal_race(19371282,white_hispanic).
 num_of_charges(19371282, 4).
 has_arrest(hz323487, 19371378).
-crime_date(19371378, datime(date(2016, 9, 15, 13, 34, 0)))..
+crime_date(19371378, datime(date(2016, 9, 15, 13, 34, 0))).
 criminal_race(19371378,black).
 num_of_charges(19371378, 4).
 has_arrest(jc179638, 19779149).
-crime_date(19779149, datime(date(2019, 3, 9, 19, 25, 0)))..
+crime_date(19779149, datime(date(2019, 3, 9, 19, 25, 0))).
 criminal_race(19779149,white).
 num_of_charges(19779149, 4).
 has_arrest(jb344497, 19671701).
-crime_date(19671701, datime(date(2018, 7, 10, 23, 10, 0)))..
+crime_date(19671701, datime(date(2018, 7, 10, 23, 10, 0))).
 criminal_race(19671701,black).
 num_of_charges(19671701, 4).
 has_arrest(hz128200, 19514443).
-crime_date(19514443, datime(date(2017, 7, 28, 12, 22, 0)))..
+crime_date(19514443, datime(date(2017, 7, 28, 12, 22, 0))).
 criminal_race(19514443,white_hispanic).
 num_of_charges(19514443, 4).
 has_arrest(jf257239, 30175201).
-crime_date(30175201, datime(date(2022, 9, 6, 15, 26, 0)))..
+crime_date(30175201, datime(date(2022, 9, 6, 15, 26, 0))).
 criminal_race(30175201,black).
 num_of_charges(30175201, 4).
 has_arrest(jb219084, 19669030).
-crime_date(19669030, datime(date(2018, 7, 5, 14, 20, 0)))..
+crime_date(19669030, datime(date(2018, 7, 5, 14, 20, 0))).
 criminal_race(19669030,white_hispanic).
 num_of_charges(19669030, 4).
 has_arrest(ja568833, 19671882).
-crime_date(19671882, datime(date(2018, 7, 11, 12, 40, 0)))..
+crime_date(19671882, datime(date(2018, 7, 11, 12, 40, 0))).
 criminal_race(19671882,white).
 num_of_charges(19671882, 4).
 has_arrest(jb270645, 19957076).
-crime_date(19957076, datime(date(2020, 4, 22, 13, 56, 0)))..
+crime_date(19957076, datime(date(2020, 4, 22, 13, 56, 0))).
 criminal_race(19957076,black).
 num_of_charges(19957076, 4).
 has_arrest(ja413637, 19530588).
-crime_date(19530588, datime(date(2017, 8, 31, 16, 58, 0)))..
+crime_date(19530588, datime(date(2017, 8, 31, 16, 58, 0))).
 criminal_race(19530588,black).
 num_of_charges(19530588, 4).
 has_arrest(jb284621, 19674519).
-crime_date(19674519, datime(date(2018, 7, 17, 10, 45, 0)))..
+crime_date(19674519, datime(date(2018, 7, 17, 10, 45, 0))).
 criminal_race(19674519,white_hispanic).
 num_of_charges(19674519, 4).
 has_arrest(ja136019, 19467406).
-crime_date(19467406, datime(date(2017, 4, 18, 18, 27, 0)))..
+crime_date(19467406, datime(date(2017, 4, 18, 18, 27, 0))).
 criminal_race(19467406,black).
 num_of_charges(19467406, 4).
 has_arrest(ja313694, 19496746).
-crime_date(19496746, datime(date(2017, 6, 19, 18, 45, 0)))..
+crime_date(19496746, datime(date(2017, 6, 19, 18, 45, 0))).
 criminal_race(19496746,black).
 num_of_charges(19496746, 4).
 has_arrest(ja260884, 19478626).
-crime_date(19478626, datime(date(2017, 5, 12, 14, 25, 0)))..
+crime_date(19478626, datime(date(2017, 5, 12, 14, 25, 0))).
 criminal_race(19478626,black).
 num_of_charges(19478626, 4).
 has_arrest(jb164505, 19834054).
-crime_date(19834054, datime(date(2019, 7, 2, 14, 51, 0)))..
+crime_date(19834054, datime(date(2019, 7, 2, 14, 51, 0))).
 criminal_race(19834054,black).
 num_of_charges(19834054, 4).
 has_arrest(jd118228, 19962502).
-crime_date(19962502, datime(date(2020, 5, 23, 11, 45, 0)))..
+crime_date(19962502, datime(date(2020, 5, 23, 11, 45, 0))).
 criminal_race(19962502,black).
 num_of_charges(19962502, 4).
 has_arrest(jb352993, 19674479).
-crime_date(19674479, datime(date(2018, 7, 17, 5, 15, 0)))..
+crime_date(19674479, datime(date(2018, 7, 17, 5, 15, 0))).
 criminal_race(19674479,black).
 num_of_charges(19674479, 4).
 has_arrest(ja357454, 19511991).
-crime_date(19511991, datime(date(2017, 7, 22, 22, 32, 0)))..
+crime_date(19511991, datime(date(2017, 7, 22, 22, 32, 0))).
 criminal_race(19511991,black).
 num_of_charges(19511991, 4).
 has_arrest(jd455780, 30013929).
-crime_date(30013929, datime(date(2020, 12, 16, 11, 30, 0)))..
+crime_date(30013929, datime(date(2020, 12, 16, 11, 30, 0))).
 criminal_race(30013929,black).
 num_of_charges(30013929, 4).
 has_arrest(jc490450, 19895297).
-crime_date(19895297, datime(date(2019, 11, 9, 11, 49, 0)))..
+crime_date(19895297, datime(date(2019, 11, 9, 11, 49, 0))).
 criminal_race(19895297,black).
 num_of_charges(19895297, 4).
 has_arrest(c676873, 19470815).
-crime_date(19470815, datime(date(2017, 4, 25, 19, 45, 0)))..
+crime_date(19470815, datime(date(2017, 4, 25, 19, 45, 0))).
 criminal_race(19470815,white_hispanic).
 num_of_charges(19470815, 4).
 has_arrest(jd246872, 19964317).
-crime_date(19964317, datime(date(2020, 5, 29, 18, 26, 0)))..
+crime_date(19964317, datime(date(2020, 5, 29, 18, 26, 0))).
 criminal_race(19964317,black).
 num_of_charges(19964317, 4).
 has_arrest(jd132836, 19930284).
-crime_date(19930284, datime(date(2020, 1, 29, 14, 33, 0)))..
+crime_date(19930284, datime(date(2020, 1, 29, 14, 33, 0))).
 criminal_race(19930284,black).
 num_of_charges(19930284, 4).
 has_arrest(ja379302, 19521116).
-crime_date(19521116, datime(date(2017, 8, 11, 15, 15, 0)))..
+crime_date(19521116, datime(date(2017, 8, 11, 15, 15, 0))).
 criminal_race(19521116,black).
 num_of_charges(19521116, 4).
 has_arrest(je449370, 30098640).
-crime_date(30098640, datime(date(2021, 11, 18, 17, 50, 0)))..
+crime_date(30098640, datime(date(2021, 11, 18, 17, 50, 0))).
 criminal_race(30098640,white_hispanic).
 num_of_charges(30098640, 4).
 has_arrest(jb300144, 19667298).
-crime_date(19667298, datime(date(2018, 7, 2, 10, 10, 0)))..
+crime_date(19667298, datime(date(2018, 7, 2, 10, 10, 0))).
 criminal_race(19667298,white_hispanic).
 num_of_charges(19667298, 4).
 has_arrest(jc196246, 19785512).
-crime_date(19785512, datime(date(2019, 3, 23, 3, 59, 0)))..
+crime_date(19785512, datime(date(2019, 3, 23, 3, 59, 0))).
 criminal_race(19785512,black).
 num_of_charges(19785512, 4).
 has_arrest(hy404385, 19328271).
-crime_date(19328271, datime(date(2016, 6, 16, 8, 50, 0)))..
+crime_date(19328271, datime(date(2016, 6, 16, 8, 50, 0))).
 criminal_race(19328271,asian___pacific_islander).
 num_of_charges(19328271, 4).
 has_arrest(jb332700, 19667738).
-crime_date(19667738, datime(date(2018, 7, 2, 23, 36, 0)))..
+crime_date(19667738, datime(date(2018, 7, 2, 23, 36, 0))).
 criminal_race(19667738,black).
 num_of_charges(19667738, 4).
 has_arrest(jb303734, 19667367).
-crime_date(19667367, datime(date(2018, 7, 2, 12, 30, 0)))..
+crime_date(19667367, datime(date(2018, 7, 2, 12, 30, 0))).
 criminal_race(19667367,black).
 num_of_charges(19667367, 4).
 has_arrest(jc566803, 19917141).
-crime_date(19917141, datime(date(2019, 12, 31, 17, 19, 0)))..
+crime_date(19917141, datime(date(2019, 12, 31, 17, 19, 0))).
 criminal_race(19917141,black).
 num_of_charges(19917141, 4).
 has_arrest(jc177483, 19828264).
-crime_date(19828264, datime(date(2019, 6, 20, 10, 20, 0)))..
+crime_date(19828264, datime(date(2019, 6, 20, 10, 20, 0))).
 criminal_race(19828264,black).
 num_of_charges(19828264, 4).
 has_arrest(ja226762, 19466241).
-crime_date(19466241, datime(date(2017, 4, 16, 5, 50, 0)))..
+crime_date(19466241, datime(date(2017, 4, 16, 5, 50, 0))).
 criminal_race(19466241,white_hispanic).
 num_of_charges(19466241, 4).
 has_arrest(hz440510, 19412734).
-crime_date(19412734, datime(date(2016, 12, 20, 21, 10, 0)))..
+crime_date(19412734, datime(date(2016, 12, 20, 21, 10, 0))).
 criminal_race(19412734,black).
 num_of_charges(19412734, 4).
 has_arrest(jf382469, 30175275).
-crime_date(30175275, datime(date(2022, 9, 6, 18, 25, 0)))..
+crime_date(30175275, datime(date(2022, 9, 6, 18, 25, 0))).
 criminal_race(30175275,white).
 num_of_charges(30175275, 4).
 has_arrest(hz421474, 19386283).
-crime_date(19386283, datime(date(2016, 10, 18, 13, 10, 0)))..
+crime_date(19386283, datime(date(2016, 10, 18, 13, 10, 0))).
 criminal_race(19386283,black).
 num_of_charges(19386283, 4).
 has_arrest(jf344251, 30170316).
-crime_date(30170316, datime(date(2022, 8, 20, 16, 24, 0)))..
+crime_date(30170316, datime(date(2022, 8, 20, 16, 24, 0))).
 criminal_race(30170316,black).
 num_of_charges(30170316, 4).
 has_arrest(jb311580, 19666606).
-crime_date(19666606, datime(date(2018, 6, 30, 18, 27, 0)))..
+crime_date(19666606, datime(date(2018, 6, 30, 18, 27, 0))).
 criminal_race(19666606,black).
 num_of_charges(19666606, 4).
 has_arrest(jf447120, 30199837).
-crime_date(30199837, datime(date(2022, 12, 8, 12, 45, 0)))..
+crime_date(30199837, datime(date(2022, 12, 8, 12, 45, 0))).
 criminal_race(30199837,black).
 num_of_charges(30199837, 4).
 has_arrest(jb452074, 19708385).
-crime_date(19708385, datime(date(2018, 9, 26, 15, 42, 0)))..
+crime_date(19708385, datime(date(2018, 9, 26, 15, 42, 0))).
 criminal_race(19708385,black).
 num_of_charges(19708385, 4).
 has_arrest(hz403466, 19369898).
-crime_date(19369898, datime(date(2016, 9, 12, 11, 38, 0)))..
+crime_date(19369898, datime(date(2016, 9, 12, 11, 38, 0))).
 criminal_race(19369898,black).
 num_of_charges(19369898, 4).
 has_arrest(jc422828, 19866343).
-crime_date(19866343, datime(date(2019, 9, 6, 18, 38, 0)))..
+crime_date(19866343, datime(date(2019, 9, 6, 18, 38, 0))).
 criminal_race(19866343,black).
 num_of_charges(19866343, 4).
 has_arrest(jb326266, 19665367).
-crime_date(19665367, datime(date(2018, 6, 28, 13, 0, 0)))..
+crime_date(19665367, datime(date(2018, 6, 28, 13, 0, 0))).
 criminal_race(19665367,black).
 num_of_charges(19665367, 4).
 has_arrest(ja249958, 19474651).
-crime_date(19474651, datime(date(2017, 5, 4, 3, 22, 0)))..
+crime_date(19474651, datime(date(2017, 5, 4, 3, 22, 0))).
 criminal_race(19474651,black).
 num_of_charges(19474651, 4).
 has_arrest(ja403919, 19539239).
-crime_date(19539239, datime(date(2017, 9, 19, 18, 55, 0)))..
+crime_date(19539239, datime(date(2017, 9, 19, 18, 55, 0))).
 criminal_race(19539239,black).
 num_of_charges(19539239, 4).
 has_arrest(hz466758, 19382099).
-crime_date(19382099, datime(date(2016, 10, 8, 19, 37, 0)))..
+crime_date(19382099, datime(date(2016, 10, 8, 19, 37, 0))).
 criminal_race(19382099,black).
 num_of_charges(19382099, 4).
 has_arrest(jc470284, 19883135).
-crime_date(19883135, datime(date(2019, 10, 12, 17, 35, 0)))..
+crime_date(19883135, datime(date(2019, 10, 12, 17, 35, 0))).
 criminal_race(19883135,white).
 num_of_charges(19883135, 4).
 has_arrest(jc552311, 19936425).
-crime_date(19936425, datime(date(2020, 2, 11, 15, 0, 0)))..
+crime_date(19936425, datime(date(2020, 2, 11, 15, 0, 0))).
 criminal_race(19936425,black).
 num_of_charges(19936425, 4).
 has_arrest(ja311841, 19622304).
-crime_date(19622304, datime(date(2018, 3, 29, 13, 17, 0)))..
+crime_date(19622304, datime(date(2018, 3, 29, 13, 17, 0))).
 criminal_race(19622304,white_hispanic).
 num_of_charges(19622304, 4).
 has_arrest(jd200565, 19954602).
-crime_date(19954602, datime(date(2020, 4, 2, 17, 30, 0)))..
+crime_date(19954602, datime(date(2020, 4, 2, 17, 30, 0))).
 criminal_race(19954602,white).
 num_of_charges(19954602, 4).
 has_arrest(jb354326, 19674904).
-crime_date(19674904, datime(date(2018, 7, 18, 0, 52, 0)))..
+crime_date(19674904, datime(date(2018, 7, 18, 0, 52, 0))).
 criminal_race(19674904,black).
 num_of_charges(19674904, 4).
 has_arrest(jf128862, 30114480).
-crime_date(30114480, datime(date(2022, 1, 30, 17, 32, 0)))..
+crime_date(30114480, datime(date(2022, 1, 30, 17, 32, 0))).
 criminal_race(30114480,white).
 num_of_charges(30114480, 4).
 has_arrest(jd153956, 19958004).
-crime_date(19958004, datime(date(2020, 4, 29, 16, 45, 0)))..
+crime_date(19958004, datime(date(2020, 4, 29, 16, 45, 0))).
 criminal_race(19958004,white_hispanic).
 num_of_charges(19958004, 4).
 has_arrest(hz408788, 19477070).
-crime_date(19477070, datime(date(2017, 5, 9, 13, 38, 0)))..
+crime_date(19477070, datime(date(2017, 5, 9, 13, 38, 0))).
 criminal_race(19477070,black_hispanic).
 num_of_charges(19477070, 4).
 has_arrest(jb215189, 19626571).
-crime_date(19626571, datime(date(2018, 4, 7, 17, 42, 0)))..
+crime_date(19626571, datime(date(2018, 4, 7, 17, 42, 0))).
 criminal_race(19626571,black).
 num_of_charges(19626571, 4).
 has_arrest(ja486531, 19674288).
-crime_date(19674288, datime(date(2018, 7, 16, 20, 25, 0)))..
+crime_date(19674288, datime(date(2018, 7, 16, 20, 25, 0))).
 criminal_race(19674288,black).
 num_of_charges(19674288, 4).
 has_arrest(hx289940, 19454044).
-crime_date(19454044, datime(date(2017, 3, 21, 10, 0, 0)))..
+crime_date(19454044, datime(date(2017, 3, 21, 10, 0, 0))).
 criminal_race(19454044,black).
 num_of_charges(19454044, 4).
 has_arrest(jb344497, 19672129).
-crime_date(19672129, datime(date(2018, 7, 10, 23, 25, 0)))..
+crime_date(19672129, datime(date(2018, 7, 10, 23, 25, 0))).
 criminal_race(19672129,black).
 num_of_charges(19672129, 4).
 has_arrest(jb314372, 19666502).
-crime_date(19666502, datime(date(2018, 6, 30, 16, 39, 0)))..
+crime_date(19666502, datime(date(2018, 6, 30, 16, 39, 0))).
 criminal_race(19666502,black).
 num_of_charges(19666502, 4).
 has_arrest(jd208946, 19956092).
-crime_date(19956092, datime(date(2020, 4, 14, 14, 25, 0)))..
+crime_date(19956092, datime(date(2020, 4, 14, 14, 25, 0))).
 criminal_race(19956092,black).
 num_of_charges(19956092, 4).
 has_arrest(ja491239, 19556771).
-crime_date(19556771, datime(date(2017, 10, 30, 0, 13, 0)))..
+crime_date(19556771, datime(date(2017, 10, 30, 0, 13, 0))).
 criminal_race(19556771,black).
 num_of_charges(19556771, 4).
 has_arrest(je450842, 30098945).
-crime_date(30098945, datime(date(2021, 11, 19, 23, 25, 0)))..
+crime_date(30098945, datime(date(2021, 11, 19, 23, 25, 0))).
 criminal_race(30098945,black).
 num_of_charges(30098945, 4).
 has_arrest(hy422355, 19389087).
-crime_date(19389087, datime(date(2016, 10, 24, 15, 25, 0)))..
+crime_date(19389087, datime(date(2016, 10, 24, 15, 25, 0))).
 criminal_race(19389087,black).
 num_of_charges(19389087, 4).
 has_arrest(jb369376, 19685171).
-crime_date(19685171, datime(date(2018, 8, 8, 16, 23, 0)))..
+crime_date(19685171, datime(date(2018, 8, 8, 16, 23, 0))).
 criminal_race(19685171,black).
 num_of_charges(19685171, 4).
 has_arrest(jb429941, 19701039).
-crime_date(19701039, datime(date(2018, 9, 10, 16, 28, 0)))..
+crime_date(19701039, datime(date(2018, 9, 10, 16, 28, 0))).
 criminal_race(19701039,black).
 num_of_charges(19701039, 4).
 has_arrest(ja511935, 19698198).
-crime_date(19698198, datime(date(2018, 9, 4, 10, 40, 0)))..
+crime_date(19698198, datime(date(2018, 9, 4, 10, 40, 0))).
 criminal_race(19698198,white_hispanic).
 num_of_charges(19698198, 4).
 has_arrest(jb368403, 19679700).
-crime_date(19679700, datime(date(2018, 7, 27, 23, 53, 0)))..
+crime_date(19679700, datime(date(2018, 7, 27, 23, 53, 0))).
 criminal_race(19679700,black).
 num_of_charges(19679700, 4).
 has_arrest(jf496054, 30206682).
-crime_date(30206682, datime(date(2023, 1, 6, 10, 43, 0)))..
+crime_date(30206682, datime(date(2023, 1, 6, 10, 43, 0))).
 criminal_race(30206682,white_hispanic).
 num_of_charges(30206682, 4).
 has_arrest(jb333435, 19685221).
-crime_date(19685221, datime(date(2018, 8, 8, 17, 25, 0)))..
+crime_date(19685221, datime(date(2018, 8, 8, 17, 25, 0))).
 criminal_race(19685221,black).
 num_of_charges(19685221, 4).
 has_arrest(jb402270, 19700193).
-crime_date(19700193, datime(date(2018, 9, 8, 15, 47, 0)))..
+crime_date(19700193, datime(date(2018, 9, 8, 15, 47, 0))).
 criminal_race(19700193,black).
 num_of_charges(19700193, 4).
 has_arrest(hs614692, 19699171).
-crime_date(19699171, datime(date(2018, 9, 6, 12, 16, 0)))..
+crime_date(19699171, datime(date(2018, 9, 6, 12, 16, 0))).
 criminal_race(19699171,black).
 num_of_charges(19699171, 4).
 has_arrest(jb417774, 19697586).
-crime_date(19697586, datime(date(2018, 9, 2, 18, 55, 0)))..
+crime_date(19697586, datime(date(2018, 9, 2, 18, 55, 0))).
 criminal_race(19697586,black).
 num_of_charges(19697586, 4).
 has_arrest(jb367086, 19695793).
-crime_date(19695793, datime(date(2018, 8, 30, 16, 45, 0)))..
+crime_date(19695793, datime(date(2018, 8, 30, 16, 45, 0))).
 criminal_race(19695793,black).
 num_of_charges(19695793, 4).
 has_arrest(jb364747, 19681685).
-crime_date(19681685, datime(date(2018, 8, 1, 15, 38, 0)))..
+crime_date(19681685, datime(date(2018, 8, 1, 15, 38, 0))).
 criminal_race(19681685,black).
 num_of_charges(19681685, 4).
 has_arrest(jb390333, 19687114).
-crime_date(19687114, datime(date(2018, 8, 12, 14, 49, 0)))..
+crime_date(19687114, datime(date(2018, 8, 12, 14, 49, 0))).
 criminal_race(19687114,black).
 num_of_charges(19687114, 4).
 has_arrest(jb309451, 19682729).
-crime_date(19682729, datime(date(2018, 8, 3, 16, 20, 0)))..
+crime_date(19682729, datime(date(2018, 8, 3, 16, 20, 0))).
 criminal_race(19682729,black).
 num_of_charges(19682729, 4).
 has_arrest(jb430382, 19701158).
-crime_date(19701158, datime(date(2018, 9, 10, 21, 38, 0)))..
+crime_date(19701158, datime(date(2018, 9, 10, 21, 38, 0))).
 criminal_race(19701158,black).
 num_of_charges(19701158, 4).
 has_arrest(jb137011, 19677304).
-crime_date(19677304, datime(date(2018, 7, 23, 11, 27, 0)))..
+crime_date(19677304, datime(date(2018, 7, 23, 11, 27, 0))).
 criminal_race(19677304,black).
 num_of_charges(19677304, 4).
 has_arrest(jb368383, 19680752).
-crime_date(19680752, datime(date(2018, 7, 30, 16, 36, 0)))..
+crime_date(19680752, datime(date(2018, 7, 30, 16, 36, 0))).
 criminal_race(19680752,black).
 num_of_charges(19680752, 4).
 has_arrest(jb384159, 19685713).
-crime_date(19685713, datime(date(2018, 8, 8, 23, 20, 0)))..
+crime_date(19685713, datime(date(2018, 8, 8, 23, 20, 0))).
 criminal_race(19685713,white_hispanic).
 num_of_charges(19685713, 4).
 has_arrest(ja367696, 19695606).
-crime_date(19695606, datime(date(2018, 8, 30, 10, 10, 0)))..
+crime_date(19695606, datime(date(2018, 8, 30, 10, 10, 0))).
 criminal_race(19695606,black).
 num_of_charges(19695606, 4).
 has_arrest(jb360968, 19677088).
-crime_date(19677088, datime(date(2018, 7, 22, 21, 18, 0)))..
+crime_date(19677088, datime(date(2018, 7, 22, 21, 18, 0))).
 criminal_race(19677088,black).
 num_of_charges(19677088, 4).
 has_arrest(jb415563, 19695903).
-crime_date(19695903, datime(date(2018, 8, 30, 19, 16, 0)))..
+crime_date(19695903, datime(date(2018, 8, 30, 19, 16, 0))).
 criminal_race(19695903,black).
 num_of_charges(19695903, 4).
 has_arrest(jb415563, 19695892).
-crime_date(19695892, datime(date(2018, 8, 30, 19, 24, 0)))..
+crime_date(19695892, datime(date(2018, 8, 30, 19, 24, 0))).
 criminal_race(19695892,black).
 num_of_charges(19695892, 4).
 has_arrest(jb164505, 19682055).
-crime_date(19682055, datime(date(2018, 8, 2, 8, 40, 0)))..
+crime_date(19682055, datime(date(2018, 8, 2, 8, 40, 0))).
 criminal_race(19682055,black).
 num_of_charges(19682055, 4).
 has_arrest(jb226161, 19677272).
-crime_date(19677272, datime(date(2018, 7, 23, 9, 55, 0)))..
+crime_date(19677272, datime(date(2018, 7, 23, 9, 55, 0))).
 criminal_race(19677272,white_hispanic).
 num_of_charges(19677272, 4).
 has_arrest(jb373534, 19681726).
-crime_date(19681726, datime(date(2018, 8, 1, 16, 53, 0)))..
+crime_date(19681726, datime(date(2018, 8, 1, 16, 53, 0))).
 criminal_race(19681726,black).
 num_of_charges(19681726, 4).
 has_arrest(jb384095, 19684929).
-crime_date(19684929, datime(date(2018, 8, 8, 0, 53, 0)))..
+crime_date(19684929, datime(date(2018, 8, 8, 0, 53, 0))).
 criminal_race(19684929,black).
 num_of_charges(19684929, 4).
 has_arrest(jb346048, 19695464).
-crime_date(19695464, datime(date(2018, 8, 29, 20, 45, 0)))..
+crime_date(19695464, datime(date(2018, 8, 29, 20, 45, 0))).
 criminal_race(19695464,black).
 num_of_charges(19695464, 4).
 has_arrest(jb369004, 19681059).
-crime_date(19681059, datime(date(2018, 7, 31, 11, 15, 0)))..
+crime_date(19681059, datime(date(2018, 7, 31, 11, 15, 0))).
 criminal_race(19681059,black).
 num_of_charges(19681059, 4).
 has_arrest(je451936, 30099187).
-crime_date(30099187, datime(date(2021, 11, 20, 21, 51, 0)))..
+crime_date(30099187, datime(date(2021, 11, 20, 21, 51, 0))).
 criminal_race(30099187,black).
 num_of_charges(30099187, 4).
 has_arrest(jb416113, 19696361).
-crime_date(19696361, datime(date(2018, 8, 31, 16, 53, 0)))..
+crime_date(19696361, datime(date(2018, 8, 31, 16, 53, 0))).
 criminal_race(19696361,black).
 num_of_charges(19696361, 4).
 has_arrest(jb359443, 19676580).
-crime_date(19676580, datime(date(2018, 7, 21, 19, 15, 0)))..
+crime_date(19676580, datime(date(2018, 7, 21, 19, 15, 0))).
 criminal_race(19676580,black).
 num_of_charges(19676580, 4).
 has_arrest(jb369652, 19684767).
-crime_date(19684767, datime(date(2018, 8, 7, 19, 29, 0)))..
+crime_date(19684767, datime(date(2018, 8, 7, 19, 29, 0))).
 criminal_race(19684767,black).
 num_of_charges(19684767, 4).
 has_arrest(jb426868, 19700013).
-crime_date(19700013, datime(date(2018, 9, 8, 2, 8, 0)))..
+crime_date(19700013, datime(date(2018, 9, 8, 2, 8, 0))).
 criminal_race(19700013,white_hispanic).
 num_of_charges(19700013, 4).
 has_arrest(jb392329, 19687794).
-crime_date(19687794, datime(date(2018, 8, 13, 22, 22, 0)))..
+crime_date(19687794, datime(date(2018, 8, 13, 22, 22, 0))).
 criminal_race(19687794,black).
 num_of_charges(19687794, 4).
 has_arrest(jb284616, 19677840).
-crime_date(19677840, datime(date(2018, 7, 24, 15, 42, 0)))..
+crime_date(19677840, datime(date(2018, 7, 24, 15, 42, 0))).
 criminal_race(19677840,black).
 num_of_charges(19677840, 4).
 has_arrest(ja492780, 19676889).
-crime_date(19676889, datime(date(2018, 7, 22, 13, 25, 0)))..
+crime_date(19676889, datime(date(2018, 7, 22, 13, 25, 0))).
 criminal_race(19676889,black).
 num_of_charges(19676889, 4).
 has_arrest(jb335890, 19698838).
-crime_date(19698838, datime(date(2018, 9, 5, 17, 40, 0)))..
+crime_date(19698838, datime(date(2018, 9, 5, 17, 40, 0))).
 criminal_race(19698838,black).
 num_of_charges(19698838, 4).
 has_arrest(jb413981, 19695346).
-crime_date(19695346, datime(date(2018, 8, 29, 16, 23, 0)))..
+crime_date(19695346, datime(date(2018, 8, 29, 16, 23, 0))).
 criminal_race(19695346,black).
 num_of_charges(19695346, 4).
 has_arrest(hn574311, 19682358).
-crime_date(19682358, datime(date(2018, 8, 2, 20, 46, 0)))..
+crime_date(19682358, datime(date(2018, 8, 2, 20, 46, 0))).
 criminal_race(19682358,black).
 num_of_charges(19682358, 4).
 has_arrest(jb384769, 19685170).
-crime_date(19685170, datime(date(2018, 8, 8, 14, 23, 0)))..
+crime_date(19685170, datime(date(2018, 8, 8, 14, 23, 0))).
 criminal_race(19685170,black).
 num_of_charges(19685170, 4).
 has_arrest(jb372406, 19696869).
-crime_date(19696869, datime(date(2018, 9, 1, 17, 9, 0)))..
+crime_date(19696869, datime(date(2018, 9, 1, 17, 9, 0))).
 criminal_race(19696869,black).
 num_of_charges(19696869, 4).
 has_arrest(hy216946, 19677256).
-crime_date(19677256, datime(date(2018, 7, 23, 8, 2, 0)))..
+crime_date(19677256, datime(date(2018, 7, 23, 8, 2, 0))).
 criminal_race(19677256,black).
 num_of_charges(19677256, 4).
 has_arrest(jb215729, 19677422).
-crime_date(19677422, datime(date(2018, 7, 23, 17, 50, 0)))..
+crime_date(19677422, datime(date(2018, 7, 23, 17, 50, 0))).
 criminal_race(19677422,white).
 num_of_charges(19677422, 4).
 has_arrest(jb270718, 19699207).
-crime_date(19699207, datime(date(2018, 9, 6, 11, 15, 0)))..
+crime_date(19699207, datime(date(2018, 9, 6, 11, 15, 0))).
 criminal_race(19699207,black).
 num_of_charges(19699207, 4).
 has_arrest(ja376166, 19696417).
-crime_date(19696417, datime(date(2018, 8, 31, 19, 0, 0)))..
+crime_date(19696417, datime(date(2018, 8, 31, 19, 0, 0))).
 criminal_race(19696417,white_hispanic).
 num_of_charges(19696417, 4).
 has_arrest(ja453526, 19695216).
-crime_date(19695216, datime(date(2018, 8, 29, 13, 15, 0)))..
+crime_date(19695216, datime(date(2018, 8, 29, 13, 15, 0))).
 criminal_race(19695216,white_hispanic).
 num_of_charges(19695216, 4).
 has_arrest(jb379119, 19683199).
-crime_date(19683199, datime(date(2018, 8, 4, 16, 30, 0)))..
+crime_date(19683199, datime(date(2018, 8, 4, 16, 30, 0))).
 criminal_race(19683199,black).
 num_of_charges(19683199, 4).
 has_arrest(jb416113, 19696369).
-crime_date(19696369, datime(date(2018, 8, 31, 16, 53, 0)))..
+crime_date(19696369, datime(date(2018, 8, 31, 16, 53, 0))).
 criminal_race(19696369,black).
 num_of_charges(19696369, 4).
 has_arrest(jb416113, 19696342).
-crime_date(19696342, datime(date(2018, 8, 31, 17, 6, 0)))..
+crime_date(19696342, datime(date(2018, 8, 31, 17, 6, 0))).
 criminal_race(19696342,black).
 num_of_charges(19696342, 4).
 has_arrest(y142082, 19695199).
-crime_date(19695199, datime(date(2018, 8, 29, 14, 50, 0)))..
+crime_date(19695199, datime(date(2018, 8, 29, 14, 50, 0))).
 criminal_race(19695199,white_hispanic).
 num_of_charges(19695199, 4).
 has_arrest(jb346797, 19678869).
-crime_date(19678869, datime(date(2018, 7, 26, 15, 40, 0)))..
+crime_date(19678869, datime(date(2018, 7, 26, 15, 40, 0))).
 criminal_race(19678869,black).
 num_of_charges(19678869, 4).
 has_arrest(jb209359, 19688460).
-crime_date(19688460, datime(date(2018, 8, 15, 7, 10, 0)))..
+crime_date(19688460, datime(date(2018, 8, 15, 7, 10, 0))).
 criminal_race(19688460,black).
 num_of_charges(19688460, 4).
 has_arrest(jb461141, 19712244).
-crime_date(19712244, datime(date(2018, 10, 5, 17, 5, 0)))..
+crime_date(19712244, datime(date(2018, 10, 5, 17, 5, 0))).
 criminal_race(19712244,black).
 num_of_charges(19712244, 4).
 has_arrest(hz280709, 19720817).
-crime_date(19720817, datime(date(2018, 10, 25, 10, 9, 0)))..
+crime_date(19720817, datime(date(2018, 10, 25, 10, 9, 0))).
 criminal_race(19720817,black).
 num_of_charges(19720817, 4).
 has_arrest(ja461800, 19709798).
-crime_date(19709798, datime(date(2018, 9, 29, 18, 38, 0)))..
+crime_date(19709798, datime(date(2018, 9, 29, 18, 38, 0))).
 criminal_race(19709798,black).
 num_of_charges(19709798, 4).
 has_arrest(hy206710, 19705159).
-crime_date(19705159, datime(date(2018, 9, 19, 13, 35, 0)))..
+crime_date(19705159, datime(date(2018, 9, 19, 13, 35, 0))).
 criminal_race(19705159,black).
 num_of_charges(19705159, 4).
 has_arrest(jb450151, 19707828).
-crime_date(19707828, datime(date(2018, 9, 25, 11, 50, 0)))..
+crime_date(19707828, datime(date(2018, 9, 25, 11, 50, 0))).
 criminal_race(19707828,black).
 num_of_charges(19707828, 4).
 has_arrest(jb478964, 19717222).
-crime_date(19717222, datime(date(2018, 10, 17, 12, 34, 0)))..
+crime_date(19717222, datime(date(2018, 10, 17, 12, 34, 0))).
 criminal_race(19717222,white_hispanic).
 num_of_charges(19717222, 4).
 has_arrest(jb431911, 19703785).
-crime_date(19703785, datime(date(2018, 9, 16, 16, 20, 0)))..
+crime_date(19703785, datime(date(2018, 9, 16, 16, 20, 0))).
 criminal_race(19703785,white_hispanic).
 num_of_charges(19703785, 4).
 has_arrest(jb452074, 19708454).
-crime_date(19708454, datime(date(2018, 9, 26, 15, 42, 0)))..
+crime_date(19708454, datime(date(2018, 9, 26, 15, 42, 0))).
 criminal_race(19708454,black).
 num_of_charges(19708454, 4).
 has_arrest(jb127512, 19702067).
-crime_date(19702067, datime(date(2018, 9, 12, 19, 58, 0)))..
+crime_date(19702067, datime(date(2018, 9, 12, 19, 58, 0))).
 criminal_race(19702067,white_hispanic).
 num_of_charges(19702067, 4).
 has_arrest(jb452074, 19708460).
-crime_date(19708460, datime(date(2018, 9, 26, 15, 42, 0)))..
+crime_date(19708460, datime(date(2018, 9, 26, 15, 42, 0))).
 criminal_race(19708460,black).
 num_of_charges(19708460, 4).
 has_arrest(je453033, 30099451).
-crime_date(30099451, datime(date(2021, 11, 21, 23, 5, 0)))..
+crime_date(30099451, datime(date(2021, 11, 21, 23, 5, 0))).
 criminal_race(30099451,black).
 num_of_charges(30099451, 4).
 has_arrest(jb345261, 19722743).
-crime_date(19722743, datime(date(2018, 10, 29, 14, 30, 0)))..
+crime_date(19722743, datime(date(2018, 10, 29, 14, 30, 0))).
 criminal_race(19722743,black).
 num_of_charges(19722743, 4).
 has_arrest(jb430730, 19721947).
-crime_date(19721947, datime(date(2018, 10, 27, 16, 17, 0)))..
+crime_date(19721947, datime(date(2018, 10, 27, 16, 17, 0))).
 criminal_race(19721947,black).
 num_of_charges(19721947, 4).
 has_arrest(jb464035, 19712300).
-crime_date(19712300, datime(date(2018, 10, 5, 19, 8, 0)))..
+crime_date(19712300, datime(date(2018, 10, 5, 19, 8, 0))).
 criminal_race(19712300,black).
 num_of_charges(19712300, 4).
 has_arrest(jb426365, 19713819).
-crime_date(19713819, datime(date(2018, 10, 9, 17, 45, 0)))..
+crime_date(19713819, datime(date(2018, 10, 9, 17, 45, 0))).
 criminal_race(19713819,black).
 num_of_charges(19713819, 4).
 has_arrest(je452178, 30099242).
-crime_date(30099242, datime(date(2021, 11, 21, 2, 53, 0)))..
+crime_date(30099242, datime(date(2021, 11, 21, 2, 53, 0))).
 criminal_race(30099242,black).
 num_of_charges(30099242, 4).
 has_arrest(jb431911, 19701873).
-crime_date(19701873, datime(date(2018, 9, 12, 12, 30, 0)))..
+crime_date(19701873, datime(date(2018, 9, 12, 12, 30, 0))).
 criminal_race(19701873,white).
 num_of_charges(19701873, 4).
 has_arrest(jb461141, 19711564).
-crime_date(19711564, datime(date(2018, 10, 3, 16, 48, 0)))..
+crime_date(19711564, datime(date(2018, 10, 3, 16, 48, 0))).
 criminal_race(19711564,black).
 num_of_charges(19711564, 4).
 has_arrest(hx337204, 19720833).
-crime_date(19720833, datime(date(2018, 10, 25, 10, 30, 0)))..
+crime_date(19720833, datime(date(2018, 10, 25, 10, 30, 0))).
 criminal_race(19720833,black).
 num_of_charges(19720833, 4).
 has_arrest(hz274048, 19720506).
-crime_date(19720506, datime(date(2018, 10, 24, 12, 42, 0)))..
+crime_date(19720506, datime(date(2018, 10, 24, 12, 42, 0))).
 criminal_race(19720506,black).
 num_of_charges(19720506, 4).
 has_arrest(jb450151, 19707796).
-crime_date(19707796, datime(date(2018, 9, 25, 11, 45, 0)))..
+crime_date(19707796, datime(date(2018, 9, 25, 11, 45, 0))).
 criminal_race(19707796,black).
 num_of_charges(19707796, 4).
 has_arrest(jb475877, 19716232).
-crime_date(19716232, datime(date(2018, 10, 15, 7, 20, 0)))..
+crime_date(19716232, datime(date(2018, 10, 15, 7, 20, 0))).
 criminal_race(19716232,black).
 num_of_charges(19716232, 4).
 has_arrest(jb242283, 19706276).
-crime_date(19706276, datime(date(2018, 9, 21, 23, 45, 0)))..
+crime_date(19706276, datime(date(2018, 9, 21, 23, 45, 0))).
 criminal_race(19706276,black).
 num_of_charges(19706276, 4).
 has_arrest(jb376988, 19726012).
-crime_date(19726012, datime(date(2018, 11, 5, 12, 18, 0)))..
+crime_date(19726012, datime(date(2018, 11, 5, 12, 18, 0))).
 criminal_race(19726012,black).
 num_of_charges(19726012, 4).
 has_arrest(ja398662, 19717587).
-crime_date(19717587, datime(date(2018, 10, 18, 9, 45, 0)))..
+crime_date(19717587, datime(date(2018, 10, 18, 9, 45, 0))).
 criminal_race(19717587,black).
 num_of_charges(19717587, 4).
 has_arrest(jb453732, 19708994).
-crime_date(19708994, datime(date(2018, 9, 27, 21, 52, 0)))..
+crime_date(19708994, datime(date(2018, 9, 27, 21, 52, 0))).
 criminal_race(19708994,black).
 num_of_charges(19708994, 4).
 has_arrest(jb377572, 19702858).
-crime_date(19702858, datime(date(2018, 9, 14, 15, 0, 0)))..
+crime_date(19702858, datime(date(2018, 9, 14, 15, 0, 0))).
 criminal_race(19702858,black).
 num_of_charges(19702858, 4).
 has_arrest(je452178, 30099261).
-crime_date(30099261, datime(date(2021, 11, 21, 3, 30, 0)))..
+crime_date(30099261, datime(date(2021, 11, 21, 3, 30, 0))).
 criminal_race(30099261,black).
 num_of_charges(30099261, 4).
 has_arrest(jb350722, 19711695).
-crime_date(19711695, datime(date(2018, 10, 4, 3, 20, 0)))..
+crime_date(19711695, datime(date(2018, 10, 4, 3, 20, 0))).
 criminal_race(19711695,black).
 num_of_charges(19711695, 4).
 has_arrest(jb326585, 19714728).
-crime_date(19714728, datime(date(2018, 10, 11, 18, 22, 0)))..
+crime_date(19714728, datime(date(2018, 10, 11, 18, 22, 0))).
 criminal_race(19714728,black).
 num_of_charges(19714728, 4).
 has_arrest(jb413219, 19707551).
-crime_date(19707551, datime(date(2018, 9, 24, 19, 28, 0)))..
+crime_date(19707551, datime(date(2018, 9, 24, 19, 28, 0))).
 criminal_race(19707551,black).
 num_of_charges(19707551, 4).
 has_arrest(jb396746, 19703228).
-crime_date(19703228, datime(date(2018, 9, 15, 8, 55, 0)))..
+crime_date(19703228, datime(date(2018, 9, 15, 8, 55, 0))).
 criminal_race(19703228,white_hispanic).
 num_of_charges(19703228, 4).
 has_arrest(jb454189, 19710084).
-crime_date(19710084, datime(date(2018, 9, 30, 10, 10, 0)))..
+crime_date(19710084, datime(date(2018, 9, 30, 10, 10, 0))).
 criminal_race(19710084,black).
 num_of_charges(19710084, 4).
 has_arrest(jb164505, 19703359).
-crime_date(19703359, datime(date(2018, 9, 15, 17, 21, 0)))..
+crime_date(19703359, datime(date(2018, 9, 15, 17, 21, 0))).
 criminal_race(19703359,black).
 num_of_charges(19703359, 4).
 has_arrest(ja379223, 19702972).
-crime_date(19702972, datime(date(2018, 9, 14, 19, 15, 0)))..
+crime_date(19702972, datime(date(2018, 9, 14, 19, 15, 0))).
 criminal_race(19702972,white_hispanic).
 num_of_charges(19702972, 4).
 has_arrest(ja496511, 19702105).
-crime_date(19702105, datime(date(2018, 9, 12, 9, 50, 0)))..
+crime_date(19702105, datime(date(2018, 9, 12, 9, 50, 0))).
 criminal_race(19702105,black).
 num_of_charges(19702105, 4).
 has_arrest(jb458747, 19724659).
-crime_date(19724659, datime(date(2018, 11, 2, 14, 15, 0)))..
+crime_date(19724659, datime(date(2018, 11, 2, 14, 15, 0))).
 criminal_race(19724659,black).
 num_of_charges(19724659, 4).
 has_arrest(jb367723, 19704560).
-crime_date(19704560, datime(date(2018, 9, 18, 12, 20, 0)))..
+crime_date(19704560, datime(date(2018, 9, 18, 12, 20, 0))).
 criminal_race(19704560,white_hispanic).
 num_of_charges(19704560, 4).
 has_arrest(jb471302, 19714827).
-crime_date(19714827, datime(date(2018, 10, 11, 21, 44, 0)))..
+crime_date(19714827, datime(date(2018, 10, 11, 21, 44, 0))).
 criminal_race(19714827,black).
 num_of_charges(19714827, 4).
 has_arrest(je309374, 30099544).
-crime_date(30099544, datime(date(2021, 11, 22, 12, 9, 0)))..
+crime_date(30099544, datime(date(2021, 11, 22, 12, 9, 0))).
 criminal_race(30099544,black).
 num_of_charges(30099544, 4).
 has_arrest(jb465438, 19718374).
-crime_date(19718374, datime(date(2018, 10, 19, 21, 19, 0)))..
+crime_date(19718374, datime(date(2018, 10, 19, 21, 19, 0))).
 criminal_race(19718374,white_hispanic).
 num_of_charges(19718374, 4).
 has_arrest(jb434092, 19702609).
-crime_date(19702609, datime(date(2018, 9, 13, 17, 12, 0)))..
+crime_date(19702609, datime(date(2018, 9, 13, 17, 12, 0))).
 criminal_race(19702609,asian___pacific_islander).
 num_of_charges(19702609, 4).
 has_arrest(jb451359, 19708224).
-crime_date(19708224, datime(date(2018, 9, 26, 9, 27, 0)))..
+crime_date(19708224, datime(date(2018, 9, 26, 9, 27, 0))).
 criminal_race(19708224,black).
 num_of_charges(19708224, 4).
 has_arrest(jb325879, 19704876).
-crime_date(19704876, datime(date(2018, 9, 18, 21, 55, 0)))..
+crime_date(19704876, datime(date(2018, 9, 18, 21, 55, 0))).
 criminal_race(19704876,black).
 num_of_charges(19704876, 4).
 has_arrest(jb496541, 19723321).
-crime_date(19723321, datime(date(2018, 10, 30, 17, 11, 0)))..
+crime_date(19723321, datime(date(2018, 10, 30, 17, 11, 0))).
 criminal_race(19723321,white_hispanic).
 num_of_charges(19723321, 4).
 has_arrest(jb469140, 19713940).
-crime_date(19713940, datime(date(2018, 10, 9, 18, 20, 0)))..
+crime_date(19713940, datime(date(2018, 10, 9, 18, 20, 0))).
 criminal_race(19713940,white_hispanic).
 num_of_charges(19713940, 4).
 has_arrest(jb452074, 19708436).
-crime_date(19708436, datime(date(2018, 9, 26, 15, 43, 0)))..
+crime_date(19708436, datime(date(2018, 9, 26, 15, 43, 0))).
 criminal_race(19708436,black).
 num_of_charges(19708436, 4).
 has_arrest(jb426365, 19721272).
-crime_date(19721272, datime(date(2018, 10, 26, 8, 30, 0)))..
+crime_date(19721272, datime(date(2018, 10, 26, 8, 30, 0))).
 criminal_race(19721272,black).
 num_of_charges(19721272, 4).
 has_arrest(jb441147, 19705357).
-crime_date(19705357, datime(date(2018, 9, 19, 22, 42, 0)))..
+crime_date(19705357, datime(date(2018, 9, 19, 22, 42, 0))).
 criminal_race(19705357,white_hispanic).
 num_of_charges(19705357, 4).
 has_arrest(hy414739, 19976920).
-crime_date(19976920, datime(date(2020, 7, 16, 8, 47, 0)))..
+crime_date(19976920, datime(date(2020, 7, 16, 8, 47, 0))).
 criminal_race(19976920,white_hispanic).
 num_of_charges(19976920, 4).
 has_arrest(jb411263, 19705586).
-crime_date(19705586, datime(date(2018, 9, 20, 13, 25, 0)))..
+crime_date(19705586, datime(date(2018, 9, 20, 13, 25, 0))).
 criminal_race(19705586,black).
 num_of_charges(19705586, 4).
 has_arrest(jb445970, 19719425).
-crime_date(19719425, datime(date(2018, 10, 22, 12, 26, 0)))..
+crime_date(19719425, datime(date(2018, 10, 22, 12, 26, 0))).
 criminal_race(19719425,black).
 num_of_charges(19719425, 4).
 has_arrest(jb441125, 19704813).
-crime_date(19704813, datime(date(2018, 9, 18, 19, 6, 0)))..
+crime_date(19704813, datime(date(2018, 9, 18, 19, 6, 0))).
 criminal_race(19704813,white_hispanic).
 num_of_charges(19704813, 4).
 has_arrest(je391442, 30099557).
-crime_date(30099557, datime(date(2021, 11, 22, 12, 30, 0)))..
+crime_date(30099557, datime(date(2021, 11, 22, 12, 30, 0))).
 criminal_race(30099557,white_hispanic).
 num_of_charges(30099557, 4).
 has_arrest(jb258088, 19720319).
-crime_date(19720319, datime(date(2018, 10, 24, 9, 40, 0)))..
+crime_date(19720319, datime(date(2018, 10, 24, 9, 40, 0))).
 criminal_race(19720319,black).
 num_of_charges(19720319, 4).
 has_arrest(jb453732, 19709001).
-crime_date(19709001, datime(date(2018, 9, 27, 21, 52, 0)))..
+crime_date(19709001, datime(date(2018, 9, 27, 21, 52, 0))).
 criminal_race(19709001,black).
 num_of_charges(19709001, 4).
 has_arrest(jb475307, 19716093).
-crime_date(19716093, datime(date(2018, 10, 14, 20, 18, 0)))..
+crime_date(19716093, datime(date(2018, 10, 14, 20, 18, 0))).
 criminal_race(19716093,black).
 num_of_charges(19716093, 4).
 has_arrest(jb564264, 19746312).
-crime_date(19746312, datime(date(2018, 12, 22, 22, 20, 0)))..
+crime_date(19746312, datime(date(2018, 12, 22, 22, 20, 0))).
 criminal_race(19746312,black).
 num_of_charges(19746312, 4).
 has_arrest(jb556366, 19743781).
-crime_date(19743781, datime(date(2018, 12, 16, 22, 51, 0)))..
+crime_date(19743781, datime(date(2018, 12, 16, 22, 51, 0))).
 criminal_race(19743781,black).
 num_of_charges(19743781, 4).
 has_arrest(jb546569, 19740564).
-crime_date(19740564, datime(date(2018, 12, 9, 17, 28, 0)))..
+crime_date(19740564, datime(date(2018, 12, 9, 17, 28, 0))).
 criminal_race(19740564,black).
 num_of_charges(19740564, 4).
 has_arrest(jd299547, 19977016).
-crime_date(19977016, datime(date(2020, 7, 16, 16, 3, 0)))..
+crime_date(19977016, datime(date(2020, 7, 16, 16, 3, 0))).
 criminal_race(19977016,black).
 num_of_charges(19977016, 4).
 has_arrest(je405440, 30099635).
-crime_date(30099635, datime(date(2021, 11, 22, 16, 0, 0)))..
+crime_date(30099635, datime(date(2021, 11, 22, 16, 0, 0))).
 criminal_race(30099635,black).
 num_of_charges(30099635, 4).
 has_arrest(jb519595, 19731416).
-crime_date(19731416, datime(date(2018, 11, 17, 14, 44, 0)))..
+crime_date(19731416, datime(date(2018, 11, 17, 14, 44, 0))).
 criminal_race(19731416,black).
 num_of_charges(19731416, 4).
 has_arrest(jb545882, 19740352).
-crime_date(19740352, datime(date(2018, 12, 9, 3, 14, 0)))..
+crime_date(19740352, datime(date(2018, 12, 9, 3, 14, 0))).
 criminal_race(19740352,white_hispanic).
 num_of_charges(19740352, 4).
 has_arrest(jb519595, 19731414).
-crime_date(19731414, datime(date(2018, 11, 17, 14, 45, 0)))..
+crime_date(19731414, datime(date(2018, 11, 17, 14, 45, 0))).
 criminal_race(19731414,black).
 num_of_charges(19731414, 4).
 has_arrest(jb566081, 19747078).
-crime_date(19747078, datime(date(2018, 12, 24, 21, 35, 0)))..
+crime_date(19747078, datime(date(2018, 12, 24, 21, 35, 0))).
 criminal_race(19747078,black).
 num_of_charges(19747078, 4).
 has_arrest(jb537845, 19737637).
-crime_date(19737637, datime(date(2018, 12, 3, 1, 0, 0)))..
+crime_date(19737637, datime(date(2018, 12, 3, 1, 0, 0))).
 criminal_race(19737637,black).
 num_of_charges(19737637, 4).
 has_arrest(jb490658, 19737318).
-crime_date(19737318, datime(date(2018, 12, 2, 11, 5, 0)))..
+crime_date(19737318, datime(date(2018, 12, 2, 11, 5, 0))).
 criminal_race(19737318,black).
 num_of_charges(19737318, 4).
 has_arrest(jb511529, 19728493).
-crime_date(19728493, datime(date(2018, 11, 11, 1, 5, 0)))..
+crime_date(19728493, datime(date(2018, 11, 11, 1, 5, 0))).
 criminal_race(19728493,black).
 num_of_charges(19728493, 4).
 has_arrest(jb508485, 19737904).
-crime_date(19737904, datime(date(2018, 12, 3, 17, 45, 0)))..
+crime_date(19737904, datime(date(2018, 12, 3, 17, 45, 0))).
 criminal_race(19737904,black).
 num_of_charges(19737904, 4).
 has_arrest(jb517509, 19738602).
-crime_date(19738602, datime(date(2018, 12, 5, 10, 50, 0)))..
+crime_date(19738602, datime(date(2018, 12, 5, 10, 50, 0))).
 criminal_race(19738602,black).
 num_of_charges(19738602, 4).
 has_arrest(jb399529, 19728998).
-crime_date(19728998, datime(date(2018, 11, 12, 11, 26, 0)))..
+crime_date(19728998, datime(date(2018, 11, 12, 11, 26, 0))).
 criminal_race(19728998,black).
 num_of_charges(19728998, 4).
 has_arrest(jf131036, 30115117).
-crime_date(30115117, datime(date(2022, 2, 1, 19, 20, 0)))..
+crime_date(30115117, datime(date(2022, 2, 1, 19, 20, 0))).
 criminal_race(30115117,black).
 num_of_charges(30115117, 4).
 has_arrest(jb533959, 19736247).
-crime_date(19736247, datime(date(2018, 11, 29, 20, 56, 0)))..
+crime_date(19736247, datime(date(2018, 11, 29, 20, 56, 0))).
 criminal_race(19736247,black).
 num_of_charges(19736247, 4).
 has_arrest(jb564264, 19746306).
-crime_date(19746306, datime(date(2018, 12, 22, 19, 3, 0)))..
+crime_date(19746306, datime(date(2018, 12, 22, 19, 3, 0))).
 criminal_race(19746306,black).
 num_of_charges(19746306, 4).
 has_arrest(jf104564, 30114950).
-crime_date(30114950, datime(date(2022, 2, 1, 13, 40, 0)))..
+crime_date(30114950, datime(date(2022, 2, 1, 13, 40, 0))).
 criminal_race(30114950,black).
 num_of_charges(30114950, 4).
 has_arrest(jb511975, 19728661).
-crime_date(19728661, datime(date(2018, 11, 11, 13, 17, 0)))..
+crime_date(19728661, datime(date(2018, 11, 11, 13, 17, 0))).
 criminal_race(19728661,black).
 num_of_charges(19728661, 4).
 has_arrest(jb563083, 19745987).
-crime_date(19745987, datime(date(2018, 12, 22, 1, 50, 0)))..
+crime_date(19745987, datime(date(2018, 12, 22, 1, 50, 0))).
 criminal_race(19745987,black).
 num_of_charges(19745987, 4).
 has_arrest(jb566081, 19743700).
-crime_date(19743700, datime(date(2018, 12, 16, 19, 6, 0)))..
+crime_date(19743700, datime(date(2018, 12, 16, 19, 6, 0))).
 criminal_race(19743700,white).
 num_of_charges(19743700, 4).
 has_arrest(jb543980, 19739737).
-crime_date(19739737, datime(date(2018, 12, 7, 18, 14, 0)))..
+crime_date(19739737, datime(date(2018, 12, 7, 18, 14, 0))).
 criminal_race(19739737,white_hispanic).
 num_of_charges(19739737, 4).
 has_arrest(jb523107, 19737585).
-crime_date(19737585, datime(date(2018, 12, 2, 18, 38, 0)))..
+crime_date(19737585, datime(date(2018, 12, 2, 18, 38, 0))).
 criminal_race(19737585,black).
 num_of_charges(19737585, 4).
 has_arrest(jb522776, 19732555).
-crime_date(19732555, datime(date(2018, 11, 20, 10, 57, 0)))..
+crime_date(19732555, datime(date(2018, 11, 20, 10, 57, 0))).
 criminal_race(19732555,black).
 num_of_charges(19732555, 4).
 has_arrest(jb309066, 19739517).
-crime_date(19739517, datime(date(2018, 12, 7, 8, 0, 0)))..
+crime_date(19739517, datime(date(2018, 12, 7, 8, 0, 0))).
 criminal_race(19739517,black).
 num_of_charges(19739517, 4).
 has_arrest(jb564264, 19746280).
-crime_date(19746280, datime(date(2018, 12, 22, 19, 3, 0)))..
+crime_date(19746280, datime(date(2018, 12, 22, 19, 3, 0))).
 criminal_race(19746280,black).
 num_of_charges(19746280, 4).
 has_arrest(jb510330, 19728056).
-crime_date(19728056, datime(date(2018, 11, 9, 21, 47, 0)))..
+crime_date(19728056, datime(date(2018, 11, 9, 21, 47, 0))).
 criminal_race(19728056,black).
 num_of_charges(19728056, 4).
 has_arrest(jb451455, 19747388).
-crime_date(19747388, datime(date(2018, 12, 26, 13, 21, 0)))..
+crime_date(19747388, datime(date(2018, 12, 26, 13, 21, 0))).
 criminal_race(19747388,black).
 num_of_charges(19747388, 4).
 has_arrest(jb350722, 19732207).
-crime_date(19732207, datime(date(2018, 11, 19, 15, 1, 0)))..
+crime_date(19732207, datime(date(2018, 11, 19, 15, 1, 0))).
 criminal_race(19732207,black).
 num_of_charges(19732207, 4).
 has_arrest(jb528262, 19734598).
-crime_date(19734598, datime(date(2018, 11, 25, 11, 33, 0)))..
+crime_date(19734598, datime(date(2018, 11, 25, 11, 33, 0))).
 criminal_race(19734598,black).
 num_of_charges(19734598, 4).
 has_arrest(jb511529, 19728496).
-crime_date(19728496, datime(date(2018, 11, 11, 1, 5, 0)))..
+crime_date(19728496, datime(date(2018, 11, 11, 1, 5, 0))).
 criminal_race(19728496,black).
 num_of_charges(19728496, 4).
 has_arrest(ja265862, 19729843).
-crime_date(19729843, datime(date(2018, 11, 14, 11, 0, 0)))..
+crime_date(19729843, datime(date(2018, 11, 14, 11, 0, 0))).
 criminal_race(19729843,black).
 num_of_charges(19729843, 4).
 has_arrest(jb332903, 19735497).
-crime_date(19735497, datime(date(2018, 11, 28, 11, 40, 0)))..
+crime_date(19735497, datime(date(2018, 11, 28, 11, 40, 0))).
 criminal_race(19735497,black).
 num_of_charges(19735497, 4).
 has_arrest(jb329596, 19740607).
-crime_date(19740607, datime(date(2018, 12, 9, 20, 12, 0)))..
+crime_date(19740607, datime(date(2018, 12, 9, 20, 12, 0))).
 criminal_race(19740607,black).
 num_of_charges(19740607, 4).
 has_arrest(jb532191, 19742785).
-crime_date(19742785, datime(date(2018, 12, 14, 19, 6, 0)))..
+crime_date(19742785, datime(date(2018, 12, 14, 19, 6, 0))).
 criminal_race(19742785,black).
 num_of_charges(19742785, 4).
 has_arrest(jb537072, 19737359).
-crime_date(19737359, datime(date(2018, 12, 2, 12, 1, 0)))..
+crime_date(19737359, datime(date(2018, 12, 2, 12, 1, 0))).
 criminal_race(19737359,black).
 num_of_charges(19737359, 4).
 has_arrest(jb500250, 19742675).
-crime_date(19742675, datime(date(2018, 12, 14, 15, 30, 0)))..
+crime_date(19742675, datime(date(2018, 12, 14, 15, 30, 0))).
 criminal_race(19742675,black).
 num_of_charges(19742675, 4).
 has_arrest(jb335959, 19730883).
-crime_date(19730883, datime(date(2018, 11, 16, 14, 11, 0)))..
+crime_date(19730883, datime(date(2018, 11, 16, 14, 11, 0))).
 criminal_race(19730883,black).
 num_of_charges(19730883, 4).
 has_arrest(hx499081, 19749124).
-crime_date(19749124, datime(date(2018, 12, 30, 14, 20, 0)))..
+crime_date(19749124, datime(date(2018, 12, 30, 14, 20, 0))).
 criminal_race(19749124,black).
 num_of_charges(19749124, 4).
 has_arrest(jb344266, 19730977).
-crime_date(19730977, datime(date(2018, 11, 16, 17, 56, 0)))..
+crime_date(19730977, datime(date(2018, 11, 16, 17, 56, 0))).
 criminal_race(19730977,black).
 num_of_charges(19730977, 4).
 has_arrest(jb414674, 19743993).
-crime_date(19743993, datime(date(2018, 12, 17, 12, 15, 0)))..
+crime_date(19743993, datime(date(2018, 12, 17, 12, 15, 0))).
 criminal_race(19743993,black).
 num_of_charges(19743993, 4).
 has_arrest(jb399767, 19744017).
-crime_date(19744017, datime(date(2018, 12, 17, 13, 32, 0)))..
+crime_date(19744017, datime(date(2018, 12, 17, 13, 32, 0))).
 criminal_race(19744017,black).
 num_of_charges(19744017, 4).
 has_arrest(jb106545, 19732465).
-crime_date(19732465, datime(date(2018, 11, 20, 11, 11, 0)))..
+crime_date(19732465, datime(date(2018, 11, 20, 11, 11, 0))).
 criminal_race(19732465,black).
 num_of_charges(19732465, 4).
 has_arrest(jb517509, 19738126).
-crime_date(19738126, datime(date(2018, 12, 4, 11, 0, 0)))..
+crime_date(19738126, datime(date(2018, 12, 4, 11, 0, 0))).
 criminal_race(19738126,black).
 num_of_charges(19738126, 4).
 has_arrest(jb510432, 19728221).
-crime_date(19728221, datime(date(2018, 11, 10, 16, 8, 0)))..
+crime_date(19728221, datime(date(2018, 11, 10, 16, 8, 0))).
 criminal_race(19728221,black).
 num_of_charges(19728221, 4).
 has_arrest(jb511050, 19728271).
-crime_date(19728271, datime(date(2018, 11, 10, 15, 27, 0)))..
+crime_date(19728271, datime(date(2018, 11, 10, 15, 27, 0))).
 criminal_race(19728271,black).
 num_of_charges(19728271, 4).
 has_arrest(jb564264, 19746288).
-crime_date(19746288, datime(date(2018, 12, 22, 19, 3, 0)))..
+crime_date(19746288, datime(date(2018, 12, 22, 19, 3, 0))).
 criminal_race(19746288,black).
 num_of_charges(19746288, 4).
 has_arrest(je312144, 30100077).
-crime_date(30100077, datime(date(2021, 11, 24, 9, 27, 0)))..
+crime_date(30100077, datime(date(2021, 11, 24, 9, 27, 0))).
 criminal_race(30100077,black).
 num_of_charges(30100077, 4).
 has_arrest(jb573005, 19749314).
-crime_date(19749314, datime(date(2018, 12, 30, 19, 20, 0)))..
+crime_date(19749314, datime(date(2018, 12, 30, 19, 20, 0))).
 criminal_race(19749314,black).
 num_of_charges(19749314, 4).
 has_arrest(jb528092, 19734519).
-crime_date(19734519, datime(date(2018, 11, 25, 3, 24, 0)))..
+crime_date(19734519, datime(date(2018, 11, 25, 3, 24, 0))).
 criminal_race(19734519,black).
 num_of_charges(19734519, 4).
 has_arrest(je292814, 30100076).
-crime_date(30100076, datime(date(2021, 11, 24, 11, 14, 0)))..
+crime_date(30100076, datime(date(2021, 11, 24, 11, 14, 0))).
 criminal_race(30100076,black).
 num_of_charges(30100076, 4).
 has_arrest(jb520288, 19731665).
-crime_date(19731665, datime(date(2018, 11, 18, 4, 32, 0)))..
+crime_date(19731665, datime(date(2018, 11, 18, 4, 32, 0))).
 criminal_race(19731665,white_hispanic).
 num_of_charges(19731665, 4).
 has_arrest(jb506497, 19726741).
-crime_date(19726741, datime(date(2018, 11, 6, 21, 0, 0)))..
+crime_date(19726741, datime(date(2018, 11, 6, 21, 0, 0))).
 criminal_race(19726741,white_hispanic).
 num_of_charges(19726741, 4).
 has_arrest(jb287275, 19728742).
-crime_date(19728742, datime(date(2018, 11, 11, 15, 50, 0)))..
+crime_date(19728742, datime(date(2018, 11, 11, 15, 50, 0))).
 criminal_race(19728742,black).
 num_of_charges(19728742, 4).
 has_arrest(jb508351, 19727448).
-crime_date(19727448, datime(date(2018, 11, 8, 13, 34, 0)))..
+crime_date(19727448, datime(date(2018, 11, 8, 13, 34, 0))).
 criminal_race(19727448,black).
 num_of_charges(19727448, 4).
 has_arrest(jb502052, 19738635).
-crime_date(19738635, datime(date(2018, 12, 5, 9, 11, 0)))..
+crime_date(19738635, datime(date(2018, 12, 5, 9, 11, 0))).
 criminal_race(19738635,black).
 num_of_charges(19738635, 4).
 has_arrest(jb106545, 19745287).
-crime_date(19745287, datime(date(2018, 12, 20, 10, 5, 0)))..
+crime_date(19745287, datime(date(2018, 12, 20, 10, 5, 0))).
 criminal_race(19745287,black).
 num_of_charges(19745287, 4).
 has_arrest(jb560030, 19746863).
-crime_date(19746863, datime(date(2018, 12, 24, 9, 45, 0)))..
+crime_date(19746863, datime(date(2018, 12, 24, 9, 45, 0))).
 criminal_race(19746863,black).
 num_of_charges(19746863, 4).
 has_arrest(jb381095, 19728852).
-crime_date(19728852, datime(date(2018, 11, 11, 23, 19, 0)))..
+crime_date(19728852, datime(date(2018, 11, 11, 23, 19, 0))).
 criminal_race(19728852,white).
 num_of_charges(19728852, 4).
 has_arrest(jb533959, 19736197).
-crime_date(19736197, datime(date(2018, 11, 29, 20, 56, 0)))..
+crime_date(19736197, datime(date(2018, 11, 29, 20, 56, 0))).
 criminal_race(19736197,black).
 num_of_charges(19736197, 4).
 has_arrest(jb555342, 19743485).
-crime_date(19743485, datime(date(2018, 12, 16, 4, 35, 0)))..
+crime_date(19743485, datime(date(2018, 12, 16, 4, 35, 0))).
 criminal_race(19743485,black).
 num_of_charges(19743485, 4).
 has_arrest(jb546569, 19740571).
-crime_date(19740571, datime(date(2018, 12, 9, 18, 5, 0)))..
+crime_date(19740571, datime(date(2018, 12, 9, 18, 5, 0))).
 criminal_race(19740571,black).
 num_of_charges(19740571, 4).
 has_arrest(jb123810, 19730336).
-crime_date(19730336, datime(date(2018, 11, 15, 10, 0, 0)))..
+crime_date(19730336, datime(date(2018, 11, 15, 10, 0, 0))).
 criminal_race(19730336,white_hispanic).
 num_of_charges(19730336, 4).
 has_arrest(jb523961, 19745707).
-crime_date(19745707, datime(date(2018, 12, 21, 11, 45, 0)))..
+crime_date(19745707, datime(date(2018, 12, 21, 11, 45, 0))).
 criminal_race(19745707,black).
 num_of_charges(19745707, 4).
 has_arrest(jb526639, 19733932).
-crime_date(19733932, datime(date(2018, 11, 23, 19, 40, 0)))..
+crime_date(19733932, datime(date(2018, 11, 23, 19, 40, 0))).
 criminal_race(19733932,white_hispanic).
 num_of_charges(19733932, 4).
 has_arrest(jb550999, 19741991).
-crime_date(19741991, datime(date(2018, 12, 12, 23, 46, 0)))..
+crime_date(19741991, datime(date(2018, 12, 12, 23, 46, 0))).
 criminal_race(19741991,black).
 num_of_charges(19741991, 4).
 has_arrest(jc118540, 19756749).
-crime_date(19756749, datime(date(2019, 1, 16, 2, 5, 0)))..
+crime_date(19756749, datime(date(2019, 1, 16, 2, 5, 0))).
 criminal_race(19756749,black).
 num_of_charges(19756749, 4).
 has_arrest(jb573562, 19750611).
-crime_date(19750611, datime(date(2019, 1, 3, 8, 0, 0)))..
+crime_date(19750611, datime(date(2019, 1, 3, 8, 0, 0))).
 criminal_race(19750611,black).
 num_of_charges(19750611, 4).
 has_arrest(jd299775, 19977078).
-crime_date(19977078, datime(date(2020, 7, 16, 19, 17, 0)))..
+crime_date(19977078, datime(date(2020, 7, 16, 19, 17, 0))).
 criminal_race(19977078,black).
 num_of_charges(19977078, 4).
 has_arrest(jc110127, 19753645).
-crime_date(19753645, datime(date(2019, 1, 9, 17, 4, 0)))..
+crime_date(19753645, datime(date(2019, 1, 9, 17, 4, 0))).
 criminal_race(19753645,black).
 num_of_charges(19753645, 4).
 has_arrest(je447754, 30100555).
-crime_date(30100555, datime(date(2021, 11, 26, 19, 6, 0)))..
+crime_date(30100555, datime(date(2021, 11, 26, 19, 6, 0))).
 criminal_race(30100555,white_hispanic).
 num_of_charges(30100555, 4).
 has_arrest(jd455711, 30012654).
-crime_date(30012654, datime(date(2020, 12, 11, 0, 12, 0)))..
+crime_date(30012654, datime(date(2020, 12, 11, 0, 12, 0))).
 criminal_race(30012654,black).
 num_of_charges(30012654, 4).
 has_arrest(jd188043, 30012738).
-crime_date(30012738, datime(date(2020, 12, 11, 14, 10, 0)))..
+crime_date(30012738, datime(date(2020, 12, 11, 14, 10, 0))).
 criminal_race(30012738,black).
 num_of_charges(30012738, 4).
 has_arrest(jb554761, 19754730).
-crime_date(19754730, datime(date(2019, 1, 11, 19, 25, 0)))..
+crime_date(19754730, datime(date(2019, 1, 11, 19, 25, 0))).
 criminal_race(19754730,black).
 num_of_charges(19754730, 4).
 has_arrest(jd288916, 19974672).
-crime_date(19974672, datime(date(2020, 7, 7, 6, 7, 0)))..
+crime_date(19974672, datime(date(2020, 7, 7, 6, 7, 0))).
 criminal_race(19974672,white).
 num_of_charges(19974672, 4).
 has_arrest(jd248810, 19974952).
-crime_date(19974952, datime(date(2020, 7, 8, 11, 54, 0)))..
+crime_date(19974952, datime(date(2020, 7, 8, 11, 54, 0))).
 criminal_race(19974952,black).
 num_of_charges(19974952, 4).
 has_arrest(jd282222, 19974718).
-crime_date(19974718, datime(date(2020, 7, 7, 12, 20, 0)))..
+crime_date(19974718, datime(date(2020, 7, 7, 12, 20, 0))).
 criminal_race(19974718,black).
 num_of_charges(19974718, 4).
 has_arrest(jd289163, 19974755).
-crime_date(19974755, datime(date(2020, 7, 7, 11, 16, 0)))..
+crime_date(19974755, datime(date(2020, 7, 7, 11, 16, 0))).
 criminal_race(19974755,black).
 num_of_charges(19974755, 4).
 has_arrest(jd289242, 19974741).
-crime_date(19974741, datime(date(2020, 7, 7, 12, 15, 0)))..
+crime_date(19974741, datime(date(2020, 7, 7, 12, 15, 0))).
 criminal_race(19974741,black).
 num_of_charges(19974741, 4).
 has_arrest(jc123162, 19762094).
-crime_date(19762094, datime(date(2019, 1, 29, 14, 48, 0)))..
+crime_date(19762094, datime(date(2019, 1, 29, 14, 48, 0))).
 criminal_race(19762094,white_hispanic).
 num_of_charges(19762094, 4).
 has_arrest(jb112212, 19754167).
-crime_date(19754167, datime(date(2019, 1, 10, 20, 24, 0)))..
+crime_date(19754167, datime(date(2019, 1, 10, 20, 24, 0))).
 criminal_race(19754167,black).
 num_of_charges(19754167, 4).
 has_arrest(jd248976, 19974927).
-crime_date(19974927, datime(date(2020, 7, 8, 9, 33, 0)))..
+crime_date(19974927, datime(date(2020, 7, 8, 9, 33, 0))).
 criminal_race(19974927,black).
 num_of_charges(19974927, 4).
 has_arrest(jb502627, 19750810).
-crime_date(19750810, datime(date(2019, 1, 3, 18, 10, 0)))..
+crime_date(19750810, datime(date(2019, 1, 3, 18, 10, 0))).
 criminal_race(19750810,black_hispanic).
 num_of_charges(19750810, 4).
 has_arrest(jc378754, 19975185).
-crime_date(19975185, datime(date(2020, 7, 9, 7, 10, 0)))..
+crime_date(19975185, datime(date(2020, 7, 9, 7, 10, 0))).
 criminal_race(19975185,black).
 num_of_charges(19975185, 4).
 has_arrest(jc378754, 19975193).
-crime_date(19975193, datime(date(2020, 7, 9, 8, 30, 0)))..
+crime_date(19975193, datime(date(2020, 7, 9, 8, 30, 0))).
 criminal_race(19975193,black).
 num_of_charges(19975193, 4).
 has_arrest(jb567847, 19757493).
-crime_date(19757493, datime(date(2019, 1, 17, 18, 13, 0)))..
+crime_date(19757493, datime(date(2019, 1, 17, 18, 13, 0))).
 criminal_race(19757493,white_hispanic).
 num_of_charges(19757493, 4).
 has_arrest(hz427779, 19757188).
-crime_date(19757188, datime(date(2019, 1, 16, 20, 35, 0)))..
+crime_date(19757188, datime(date(2019, 1, 16, 20, 35, 0))).
 criminal_race(19757188,white_hispanic).
 num_of_charges(19757188, 4).
 has_arrest(jb528907, 19760230).
-crime_date(19760230, datime(date(2019, 1, 24, 15, 2, 0)))..
+crime_date(19760230, datime(date(2019, 1, 24, 15, 2, 0))).
 criminal_race(19760230,black).
 num_of_charges(19760230, 4).
 has_arrest(jc135696, 19768671).
-crime_date(19768671, datime(date(2019, 2, 14, 14, 0, 0)))..
+crime_date(19768671, datime(date(2019, 2, 14, 14, 0, 0))).
 criminal_race(19768671,black).
 num_of_charges(19768671, 4).
 has_arrest(jc135222, 19762531).
-crime_date(19762531, datime(date(2019, 1, 31, 15, 42, 0)))..
+crime_date(19762531, datime(date(2019, 1, 31, 15, 42, 0))).
 criminal_race(19762531,black).
 num_of_charges(19762531, 4).
 has_arrest(jf460307, 30193487).
-crime_date(30193487, datime(date(2022, 11, 13, 10, 0, 0)))..
+crime_date(30193487, datime(date(2022, 11, 13, 10, 0, 0))).
 criminal_race(30193487,black).
 num_of_charges(30193487, 4).
 has_arrest(jb139324, 19756969).
-crime_date(19756969, datime(date(2019, 1, 16, 11, 50, 0)))..
+crime_date(19756969, datime(date(2019, 1, 16, 11, 50, 0))).
 criminal_race(19756969,black).
 num_of_charges(19756969, 4).
 has_arrest(jc100143, 19749704).
-crime_date(19749704, datime(date(2019, 1, 1, 2, 6, 0)))..
+crime_date(19749704, datime(date(2019, 1, 1, 2, 6, 0))).
 criminal_race(19749704,white_hispanic).
 num_of_charges(19749704, 4).
 has_arrest(jb478579, 19762286).
-crime_date(19762286, datime(date(2019, 1, 30, 13, 40, 0)))..
+crime_date(19762286, datime(date(2019, 1, 30, 13, 40, 0))).
 criminal_race(19762286,black).
 num_of_charges(19762286, 4).
 has_arrest(jb387090, 19770304).
-crime_date(19770304, datime(date(2019, 2, 18, 9, 40, 0)))..
+crime_date(19770304, datime(date(2019, 2, 18, 9, 40, 0))).
 criminal_race(19770304,white_hispanic).
 num_of_charges(19770304, 4).
 has_arrest(jb345230, 19753120).
-crime_date(19753120, datime(date(2019, 1, 8, 14, 15, 0)))..
+crime_date(19753120, datime(date(2019, 1, 8, 14, 15, 0))).
 criminal_race(19753120,black).
 num_of_charges(19753120, 4).
 has_arrest(jc132032, 19766850).
-crime_date(19766850, datime(date(2019, 2, 10, 8, 55, 0)))..
+crime_date(19766850, datime(date(2019, 2, 10, 8, 55, 0))).
 criminal_race(19766850,white).
 num_of_charges(19766850, 4).
 has_arrest(jb483692, 19764709).
-crime_date(19764709, datime(date(2019, 2, 5, 15, 47, 0)))..
+crime_date(19764709, datime(date(2019, 2, 5, 15, 47, 0))).
 criminal_race(19764709,white_hispanic).
 num_of_charges(19764709, 4).
 has_arrest(jb512606, 19763296).
-crime_date(19763296, datime(date(2019, 2, 2, 13, 35, 0)))..
+crime_date(19763296, datime(date(2019, 2, 2, 13, 35, 0))).
 criminal_race(19763296,white).
 num_of_charges(19763296, 4).
 has_arrest(jc141679, 19764802).
-crime_date(19764802, datime(date(2019, 2, 5, 20, 11, 0)))..
+crime_date(19764802, datime(date(2019, 2, 5, 20, 11, 0))).
 criminal_race(19764802,black).
 num_of_charges(19764802, 4).
 has_arrest(jd290120, 19975488).
-crime_date(19975488, datime(date(2020, 7, 10, 11, 10, 0)))..
+crime_date(19975488, datime(date(2020, 7, 10, 11, 10, 0))).
 criminal_race(19975488,black).
 num_of_charges(19975488, 4).
 has_arrest(hv484836, 18814946).
-crime_date(18814946, datime(date(2014, 1, 7, 16, 0, 0)))..
+crime_date(18814946, datime(date(2014, 1, 7, 16, 0, 0))).
 criminal_race(18814946,white_hispanic).
 num_of_charges(18814946, 4).
 has_arrest(jf402390, 30192903).
-crime_date(30192903, datime(date(2022, 11, 11, 8, 30, 0)))..
+crime_date(30192903, datime(date(2022, 11, 11, 8, 30, 0))).
 criminal_race(30192903,black_hispanic).
 num_of_charges(30192903, 4).
 has_arrest(jc100143, 19749696).
-crime_date(19749696, datime(date(2019, 1, 1, 2, 6, 0)))..
+crime_date(19749696, datime(date(2019, 1, 1, 2, 6, 0))).
 criminal_race(19749696,black).
 num_of_charges(19749696, 4).
 has_arrest(jc122301, 19758146).
-crime_date(19758146, datime(date(2019, 1, 19, 2, 5, 0)))..
+crime_date(19758146, datime(date(2019, 1, 19, 2, 5, 0))).
 criminal_race(19758146,black).
 num_of_charges(19758146, 4).
 has_arrest(jd294291, 19975845).
-crime_date(19975845, datime(date(2020, 7, 11, 20, 49, 0)))..
+crime_date(19975845, datime(date(2020, 7, 11, 20, 49, 0))).
 criminal_race(19975845,black).
 num_of_charges(19975845, 4).
 has_arrest(jd294457, 19975936).
-crime_date(19975936, datime(date(2020, 7, 12, 1, 24, 0)))..
+crime_date(19975936, datime(date(2020, 7, 12, 1, 24, 0))).
 criminal_race(19975936,black).
 num_of_charges(19975936, 4).
 has_arrest(jd294457, 19975938).
-crime_date(19975938, datime(date(2020, 7, 12, 1, 24, 0)))..
+crime_date(19975938, datime(date(2020, 7, 12, 1, 24, 0))).
 criminal_race(19975938,black).
 num_of_charges(19975938, 4).
 has_arrest(jd285927, 19976271).
-crime_date(19976271, datime(date(2020, 7, 13, 18, 4, 0)))..
+crime_date(19976271, datime(date(2020, 7, 13, 18, 4, 0))).
 criminal_race(19976271,black).
 num_of_charges(19976271, 4).
 has_arrest(jd215088, 30014012).
-crime_date(30014012, datime(date(2020, 12, 16, 16, 35, 0)))..
+crime_date(30014012, datime(date(2020, 12, 16, 16, 35, 0))).
 criminal_race(30014012,black).
 num_of_charges(30014012, 4).
 has_arrest(jd400319, 30013394).
-crime_date(30013394, datime(date(2020, 12, 14, 9, 35, 0)))..
+crime_date(30013394, datime(date(2020, 12, 14, 9, 35, 0))).
 criminal_race(30013394,black).
 num_of_charges(30013394, 4).
 has_arrest(jd340832, 30013400).
-crime_date(30013400, datime(date(2020, 12, 14, 11, 30, 0)))..
+crime_date(30013400, datime(date(2020, 12, 14, 11, 30, 0))).
 criminal_race(30013400,black).
 num_of_charges(30013400, 4).
 has_arrest(jd426909, 30013898).
-crime_date(30013898, datime(date(2020, 12, 16, 7, 50, 0)))..
+crime_date(30013898, datime(date(2020, 12, 16, 7, 50, 0))).
 criminal_race(30013898,black).
 num_of_charges(30013898, 4).
 has_arrest(jd250234, 19976558).
-crime_date(19976558, datime(date(2020, 7, 14, 19, 45, 0)))..
+crime_date(19976558, datime(date(2020, 7, 14, 19, 45, 0))).
 criminal_race(19976558,white_hispanic).
 num_of_charges(19976558, 4).
 has_arrest(jd295766, 19976404).
-crime_date(19976404, datime(date(2020, 7, 14, 8, 27, 0)))..
+crime_date(19976404, datime(date(2020, 7, 14, 8, 27, 0))).
 criminal_race(19976404,black).
 num_of_charges(19976404, 4).
 has_arrest(jd279449, 19976478).
-crime_date(19976478, datime(date(2020, 7, 14, 14, 10, 0)))..
+crime_date(19976478, datime(date(2020, 7, 14, 14, 10, 0))).
 criminal_race(19976478,black).
 num_of_charges(19976478, 4).
 has_arrest(jd170468, 30013990).
-crime_date(30013990, datime(date(2020, 12, 16, 15, 45, 0)))..
+crime_date(30013990, datime(date(2020, 12, 16, 15, 45, 0))).
 criminal_race(30013990,black).
 num_of_charges(30013990, 4).
 has_arrest(je462975, 30101817).
-crime_date(30101817, datime(date(2021, 12, 1, 22, 20, 0)))..
+crime_date(30101817, datime(date(2021, 12, 1, 22, 20, 0))).
 criminal_race(30101817,black).
 num_of_charges(30101817, 4).
 has_arrest(jd301307, 19977492).
-crime_date(19977492, datime(date(2020, 7, 18, 4, 30, 0)))..
+crime_date(19977492, datime(date(2020, 7, 18, 4, 30, 0))).
 criminal_race(19977492,black).
 num_of_charges(19977492, 4).
 has_arrest(jd301306, 19977485).
-crime_date(19977485, datime(date(2020, 7, 18, 3, 25, 0)))..
+crime_date(19977485, datime(date(2020, 7, 18, 3, 25, 0))).
 criminal_race(19977485,white_hispanic).
 num_of_charges(19977485, 4).
 has_arrest(jd301719, 19977547).
-crime_date(19977547, datime(date(2020, 7, 18, 15, 24, 0)))..
+crime_date(19977547, datime(date(2020, 7, 18, 15, 24, 0))).
 criminal_race(19977547,white_hispanic).
 num_of_charges(19977547, 4).
 has_arrest(je462975, 30101802).
-crime_date(30101802, datime(date(2021, 12, 1, 21, 2, 0)))..
+crime_date(30101802, datime(date(2021, 12, 1, 21, 2, 0))).
 criminal_race(30101802,black).
 num_of_charges(30101802, 4).
 has_arrest(hw429716, 18815910).
-crime_date(18815910, datime(date(2014, 1, 9, 20, 40, 0)))..
+crime_date(18815910, datime(date(2014, 1, 9, 20, 40, 0))).
 criminal_race(18815910,black).
 num_of_charges(18815910, 4).
 has_arrest(jd461629, 30014230).
-crime_date(30014230, datime(date(2020, 12, 17, 13, 19, 0)))..
+crime_date(30014230, datime(date(2020, 12, 17, 13, 19, 0))).
 criminal_race(30014230,white_hispanic).
 num_of_charges(30014230, 4).
 has_arrest(jd271074, 19978002).
-crime_date(19978002, datime(date(2020, 7, 20, 12, 33, 0)))..
+crime_date(19978002, datime(date(2020, 7, 20, 12, 33, 0))).
 criminal_race(19978002,asian___pacific_islander).
 num_of_charges(19978002, 4).
 has_arrest(jd270740, 19978052).
-crime_date(19978052, datime(date(2020, 7, 20, 17, 42, 0)))..
+crime_date(19978052, datime(date(2020, 7, 20, 17, 42, 0))).
 criminal_race(19978052,black).
 num_of_charges(19978052, 4).
 has_arrest(jd205675, 19978034).
-crime_date(19978034, datime(date(2020, 7, 20, 15, 30, 0)))..
+crime_date(19978034, datime(date(2020, 7, 20, 15, 30, 0))).
 criminal_race(19978034,black).
 num_of_charges(19978034, 4).
 has_arrest(jd324667, 30014461).
-crime_date(30014461, datime(date(2020, 12, 18, 14, 20, 0)))..
+crime_date(30014461, datime(date(2020, 12, 18, 14, 20, 0))).
 criminal_race(30014461,white_hispanic).
 num_of_charges(30014461, 4).
 has_arrest(jd314664, 30014524).
-crime_date(30014524, datime(date(2020, 12, 18, 19, 20, 0)))..
+crime_date(30014524, datime(date(2020, 12, 18, 19, 20, 0))).
 criminal_race(30014524,black).
 num_of_charges(30014524, 4).
 has_arrest(jd461204, 30014773).
-crime_date(30014773, datime(date(2020, 12, 19, 17, 41, 0)))..
+crime_date(30014773, datime(date(2020, 12, 19, 17, 41, 0))).
 criminal_race(30014773,black).
 num_of_charges(30014773, 4).
 has_arrest(jd258890, 19978493).
-crime_date(19978493, datime(date(2020, 7, 22, 13, 2, 0)))..
+crime_date(19978493, datime(date(2020, 7, 22, 13, 2, 0))).
 criminal_race(19978493,white_hispanic).
 num_of_charges(19978493, 4).
 has_arrest(jf268601, 30149621).
-crime_date(30149621, datime(date(2022, 6, 5, 14, 3, 0)))..
+crime_date(30149621, datime(date(2022, 6, 5, 14, 3, 0))).
 criminal_race(30149621,black).
 num_of_charges(30149621, 4).
 has_arrest(jd302712, 19979036).
-crime_date(19979036, datime(date(2020, 7, 24, 14, 33, 0)))..
+crime_date(19979036, datime(date(2020, 7, 24, 14, 33, 0))).
 criminal_race(19979036,black).
 num_of_charges(19979036, 4).
 has_arrest(jd307901, 19978957).
-crime_date(19978957, datime(date(2020, 7, 24, 2, 50, 0)))..
+crime_date(19978957, datime(date(2020, 7, 24, 2, 50, 0))).
 criminal_race(19978957,black).
 num_of_charges(19978957, 4).
 has_arrest(jd309137, 19979272).
-crime_date(19979272, datime(date(2020, 7, 25, 8, 34, 0)))..
+crime_date(19979272, datime(date(2020, 7, 25, 8, 34, 0))).
 criminal_race(19979272,black).
 num_of_charges(19979272, 4).
 has_arrest(jd277595, 19979049).
-crime_date(19979049, datime(date(2020, 7, 24, 15, 31, 0)))..
+crime_date(19979049, datime(date(2020, 7, 24, 15, 31, 0))).
 criminal_race(19979049,black).
 num_of_charges(19979049, 4).
 has_arrest(jd429677, 30015055).
-crime_date(30015055, datime(date(2020, 12, 20, 15, 18, 0)))..
+crime_date(30015055, datime(date(2020, 12, 20, 15, 18, 0))).
 criminal_race(30015055,white_hispanic).
 num_of_charges(30015055, 4).
 has_arrest(jd310500, 19979551).
-crime_date(19979551, datime(date(2020, 7, 26, 12, 0, 0)))..
+crime_date(19979551, datime(date(2020, 7, 26, 12, 0, 0))).
 criminal_race(19979551,black).
 num_of_charges(19979551, 4).
 has_arrest(jd310500, 19979543).
-crime_date(19979543, datime(date(2020, 7, 26, 12, 0, 0)))..
+crime_date(19979543, datime(date(2020, 7, 26, 12, 0, 0))).
 criminal_race(19979543,black).
 num_of_charges(19979543, 4).
 has_arrest(jd310500, 19979555).
-crime_date(19979555, datime(date(2020, 7, 26, 12, 0, 0)))..
+crime_date(19979555, datime(date(2020, 7, 26, 12, 0, 0))).
 criminal_race(19979555,black).
 num_of_charges(19979555, 4).
 has_arrest(jd310803, 19979598).
-crime_date(19979598, datime(date(2020, 7, 26, 18, 5, 0)))..
+crime_date(19979598, datime(date(2020, 7, 26, 18, 5, 0))).
 criminal_race(19979598,black).
 num_of_charges(19979598, 4).
 has_arrest(jc496078, 30115954).
-crime_date(30115954, datime(date(2022, 2, 6, 12, 13, 0)))..
+crime_date(30115954, datime(date(2022, 2, 6, 12, 13, 0))).
 criminal_race(30115954,black).
 num_of_charges(30115954, 4).
 has_arrest(jd309011, 19979827).
-crime_date(19979827, datime(date(2020, 7, 27, 16, 51, 0)))..
+crime_date(19979827, datime(date(2020, 7, 27, 16, 51, 0))).
 criminal_race(19979827,black).
 num_of_charges(19979827, 4).
 has_arrest(jd464227, 30014993).
-crime_date(30014993, datime(date(2020, 12, 20, 8, 10, 0)))..
+crime_date(30014993, datime(date(2020, 12, 20, 8, 10, 0))).
 criminal_race(30014993,white_hispanic).
 num_of_charges(30014993, 4).
 has_arrest(jd285927, 30015365).
-crime_date(30015365, datime(date(2020, 12, 21, 16, 43, 0)))..
+crime_date(30015365, datime(date(2020, 12, 21, 16, 43, 0))).
 criminal_race(30015365,black).
 num_of_charges(30015365, 4).
 has_arrest(jd464227, 30014966).
-crime_date(30014966, datime(date(2020, 12, 20, 5, 10, 0)))..
+crime_date(30014966, datime(date(2020, 12, 20, 5, 10, 0))).
 criminal_race(30014966,black).
 num_of_charges(30014966, 4).
 has_arrest(jd464227, 30014968).
-crime_date(30014968, datime(date(2020, 12, 20, 5, 10, 0)))..
+crime_date(30014968, datime(date(2020, 12, 20, 5, 10, 0))).
 criminal_race(30014968,black).
 num_of_charges(30014968, 4).
 has_arrest(jd464227, 30014990).
-crime_date(30014990, datime(date(2020, 12, 20, 8, 10, 0)))..
+crime_date(30014990, datime(date(2020, 12, 20, 8, 10, 0))).
 criminal_race(30014990,white_hispanic).
 num_of_charges(30014990, 4).
 has_arrest(jd273788, 19980118).
-crime_date(19980118, datime(date(2020, 7, 28, 13, 25, 0)))..
+crime_date(19980118, datime(date(2020, 7, 28, 13, 25, 0))).
 criminal_race(19980118,black).
 num_of_charges(19980118, 4).
 has_arrest(jd314447, 19980545).
-crime_date(19980545, datime(date(2020, 7, 29, 19, 34, 0)))..
+crime_date(19980545, datime(date(2020, 7, 29, 19, 34, 0))).
 criminal_race(19980545,black).
 num_of_charges(19980545, 4).
 has_arrest(jd314447, 19980544).
-crime_date(19980544, datime(date(2020, 7, 29, 19, 34, 0)))..
+crime_date(19980544, datime(date(2020, 7, 29, 19, 34, 0))).
 criminal_race(19980544,black).
 num_of_charges(19980544, 4).
 has_arrest(jc242225, 30015578).
-crime_date(30015578, datime(date(2020, 12, 22, 15, 2, 0)))..
+crime_date(30015578, datime(date(2020, 12, 22, 15, 2, 0))).
 criminal_race(30015578,black).
 num_of_charges(30015578, 4).
 has_arrest(jf269067, 30149745).
-crime_date(30149745, datime(date(2022, 6, 5, 23, 54, 0)))..
+crime_date(30149745, datime(date(2022, 6, 5, 23, 54, 0))).
 criminal_race(30149745,white_hispanic).
 num_of_charges(30149745, 4).
 has_arrest(jd315647, 19980784).
-crime_date(19980784, datime(date(2020, 7, 30, 21, 28, 0)))..
+crime_date(19980784, datime(date(2020, 7, 30, 21, 28, 0))).
 criminal_race(19980784,black).
 num_of_charges(19980784, 4).
 has_arrest(jd299102, 19980689).
-crime_date(19980689, datime(date(2020, 7, 30, 12, 55, 0)))..
+crime_date(19980689, datime(date(2020, 7, 30, 12, 55, 0))).
 criminal_race(19980689,black).
 num_of_charges(19980689, 4).
 has_arrest(jd271655, 30015759).
-crime_date(30015759, datime(date(2020, 12, 23, 10, 28, 0)))..
+crime_date(30015759, datime(date(2020, 12, 23, 10, 28, 0))).
 criminal_race(30015759,black).
 num_of_charges(30015759, 4).
 has_arrest(jd316976, 19981156).
-crime_date(19981156, datime(date(2020, 8, 1, 0, 37, 0)))..
+crime_date(19981156, datime(date(2020, 8, 1, 0, 37, 0))).
 criminal_race(19981156,black).
 num_of_charges(19981156, 4).
 has_arrest(jd316976, 19981140).
-crime_date(19981140, datime(date(2020, 8, 1, 0, 38, 0)))..
+crime_date(19981140, datime(date(2020, 8, 1, 0, 38, 0))).
 criminal_race(19981140,black).
 num_of_charges(19981140, 4).
 has_arrest(je312931, 30102922).
-crime_date(30102922, datime(date(2021, 12, 6, 13, 30, 0)))..
+crime_date(30102922, datime(date(2021, 12, 6, 13, 30, 0))).
 criminal_race(30102922,black).
 num_of_charges(30102922, 4).
 has_arrest(jd469436, 30016243).
-crime_date(30016243, datime(date(2020, 12, 25, 20, 35, 0)))..
+crime_date(30016243, datime(date(2020, 12, 25, 20, 35, 0))).
 criminal_race(30016243,white_hispanic).
 num_of_charges(30016243, 4).
 has_arrest(jd469436, 30016265).
-crime_date(30016265, datime(date(2020, 12, 25, 20, 11, 0)))..
+crime_date(30016265, datime(date(2020, 12, 25, 20, 11, 0))).
 criminal_race(30016265,white_hispanic).
 num_of_charges(30016265, 4).
 has_arrest(jd318617, 19981526).
-crime_date(19981526, datime(date(2020, 8, 2, 16, 11, 0)))..
+crime_date(19981526, datime(date(2020, 8, 2, 16, 11, 0))).
 criminal_race(19981526,black).
 num_of_charges(19981526, 4).
 has_arrest(jd318617, 19981530).
-crime_date(19981530, datime(date(2020, 8, 2, 16, 15, 0)))..
+crime_date(19981530, datime(date(2020, 8, 2, 16, 15, 0))).
 criminal_race(19981530,black).
 num_of_charges(19981530, 4).
 has_arrest(jd318617, 19981536).
-crime_date(19981536, datime(date(2020, 8, 2, 16, 15, 0)))..
+crime_date(19981536, datime(date(2020, 8, 2, 16, 15, 0))).
 criminal_race(19981536,black).
 num_of_charges(19981536, 4).
 has_arrest(jd316691, 19981507).
-crime_date(19981507, datime(date(2020, 8, 2, 15, 13, 0)))..
+crime_date(19981507, datime(date(2020, 8, 2, 15, 13, 0))).
 criminal_race(19981507,black).
 num_of_charges(19981507, 4).
 has_arrest(jd285927, 19981948).
-crime_date(19981948, datime(date(2020, 8, 3, 19, 8, 0)))..
+crime_date(19981948, datime(date(2020, 8, 3, 19, 8, 0))).
 criminal_race(19981948,black).
 num_of_charges(19981948, 4).
 has_arrest(jd318144, 19981725).
-crime_date(19981725, datime(date(2020, 8, 3, 10, 39, 0)))..
+crime_date(19981725, datime(date(2020, 8, 3, 10, 39, 0))).
 criminal_race(19981725,black).
 num_of_charges(19981725, 4).
 has_arrest(jd278448, 19981717).
-crime_date(19981717, datime(date(2020, 8, 3, 10, 44, 0)))..
+crime_date(19981717, datime(date(2020, 8, 3, 10, 44, 0))).
 criminal_race(19981717,white_hispanic).
 num_of_charges(19981717, 4).
 has_arrest(je469073, 30103116).
-crime_date(30103116, datime(date(2021, 12, 7, 13, 41, 0)))..
+crime_date(30103116, datime(date(2021, 12, 7, 13, 41, 0))).
 criminal_race(30103116,black).
 num_of_charges(30103116, 4).
 has_arrest(jd415988, 30103420).
-crime_date(30103420, datime(date(2021, 12, 8, 17, 0, 0)))..
+crime_date(30103420, datime(date(2021, 12, 8, 17, 0, 0))).
 criminal_race(30103420,black).
 num_of_charges(30103420, 4).
 has_arrest(je465230, 30103405).
-crime_date(30103405, datime(date(2021, 12, 8, 15, 50, 0)))..
+crime_date(30103405, datime(date(2021, 12, 8, 15, 50, 0))).
 criminal_race(30103405,black).
 num_of_charges(30103405, 4).
 has_arrest(je133341, 30103417).
-crime_date(30103417, datime(date(2021, 12, 8, 16, 40, 0)))..
+crime_date(30103417, datime(date(2021, 12, 8, 16, 40, 0))).
 criminal_race(30103417,black).
 num_of_charges(30103417, 4).
 has_arrest(jd322174, 19982492).
-crime_date(19982492, datime(date(2020, 8, 5, 20, 53, 0)))..
+crime_date(19982492, datime(date(2020, 8, 5, 20, 53, 0))).
 criminal_race(19982492,black).
 num_of_charges(19982492, 4).
 has_arrest(jd321726, 19982356).
-crime_date(19982356, datime(date(2020, 8, 5, 14, 59, 0)))..
+crime_date(19982356, datime(date(2020, 8, 5, 14, 59, 0))).
 criminal_race(19982356,black).
 num_of_charges(19982356, 4).
 has_arrest(jd321231, 19982249).
-crime_date(19982249, datime(date(2020, 8, 5, 3, 48, 0)))..
+crime_date(19982249, datime(date(2020, 8, 5, 3, 48, 0))).
 criminal_race(19982249,black).
 num_of_charges(19982249, 4).
 has_arrest(jd321623, 19982353).
-crime_date(19982353, datime(date(2020, 8, 5, 13, 26, 0)))..
+crime_date(19982353, datime(date(2020, 8, 5, 13, 26, 0))).
 criminal_race(19982353,white_hispanic).
 num_of_charges(19982353, 4).
 has_arrest(jf101667, 30116490).
-crime_date(30116490, datime(date(2022, 2, 8, 11, 14, 0)))..
+crime_date(30116490, datime(date(2022, 2, 8, 11, 14, 0))).
 criminal_race(30116490,black).
 num_of_charges(30116490, 4).
 has_arrest(je471248, 30103671).
-crime_date(30103671, datime(date(2021, 12, 9, 13, 5, 0)))..
+crime_date(30103671, datime(date(2021, 12, 9, 13, 5, 0))).
 criminal_race(30103671,black).
 num_of_charges(30103671, 4).
 has_arrest(je447032, 30103567).
-crime_date(30103567, datime(date(2021, 12, 9, 9, 50, 0)))..
+crime_date(30103567, datime(date(2021, 12, 9, 9, 50, 0))).
 criminal_race(30103567,black).
 num_of_charges(30103567, 4).
 has_arrest(je393859, 30103561).
-crime_date(30103561, datime(date(2021, 12, 9, 9, 31, 0)))..
+crime_date(30103561, datime(date(2021, 12, 9, 9, 31, 0))).
 criminal_race(30103561,black).
 num_of_charges(30103561, 4).
 has_arrest(jf138005, 30116634).
-crime_date(30116634, datime(date(2022, 2, 8, 16, 58, 0)))..
+crime_date(30116634, datime(date(2022, 2, 8, 16, 58, 0))).
 criminal_race(30116634,black).
 num_of_charges(30116634, 4).
 has_arrest(jf100284, 30116591).
-crime_date(30116591, datime(date(2022, 2, 8, 17, 50, 0)))..
+crime_date(30116591, datime(date(2022, 2, 8, 17, 50, 0))).
 criminal_race(30116591,black).
 num_of_charges(30116591, 4).
 has_arrest(jd323434, 19982821).
-crime_date(19982821, datime(date(2020, 8, 7, 1, 23, 0)))..
+crime_date(19982821, datime(date(2020, 8, 7, 1, 23, 0))).
 criminal_race(19982821,black).
 num_of_charges(19982821, 4).
 has_arrest(jd334802, 30016286).
-crime_date(30016286, datime(date(2020, 12, 26, 10, 14, 0)))..
+crime_date(30016286, datime(date(2020, 12, 26, 10, 14, 0))).
 criminal_race(30016286,white_hispanic).
 num_of_charges(30016286, 4).
 has_arrest(jd325404, 19983332).
-crime_date(19983332, datime(date(2020, 8, 8, 20, 13, 0)))..
+crime_date(19983332, datime(date(2020, 8, 8, 20, 13, 0))).
 criminal_race(19983332,black).
 num_of_charges(19983332, 4).
 has_arrest(jd324756, 19983204).
-crime_date(19983204, datime(date(2020, 8, 8, 6, 10, 0)))..
+crime_date(19983204, datime(date(2020, 8, 8, 6, 10, 0))).
 criminal_race(19983204,black).
 num_of_charges(19983204, 4).
 has_arrest(jd325404, 19983336).
-crime_date(19983336, datime(date(2020, 8, 8, 20, 18, 0)))..
+crime_date(19983336, datime(date(2020, 8, 8, 20, 18, 0))).
 criminal_race(19983336,black).
 num_of_charges(19983336, 4).
 has_arrest(jd448552, 30016297).
-crime_date(30016297, datime(date(2020, 12, 26, 10, 0, 0)))..
+crime_date(30016297, datime(date(2020, 12, 26, 10, 0, 0))).
 criminal_race(30016297,black).
 num_of_charges(30016297, 4).
 has_arrest(jf194941, 30131797).
-crime_date(30131797, datime(date(2022, 4, 4, 14, 40, 0)))..
+crime_date(30131797, datime(date(2022, 4, 4, 14, 40, 0))).
 criminal_race(30131797,black).
 num_of_charges(30131797, 4).
 has_arrest(jd469828, 30016364).
-crime_date(30016364, datime(date(2020, 12, 26, 18, 21, 0)))..
+crime_date(30016364, datime(date(2020, 12, 26, 18, 21, 0))).
 criminal_race(30016364,black).
 num_of_charges(30016364, 4).
 has_arrest(je354838, 30116773).
-crime_date(30116773, datime(date(2022, 2, 9, 9, 0, 0)))..
+crime_date(30116773, datime(date(2022, 2, 9, 9, 0, 0))).
 criminal_race(30116773,black).
 num_of_charges(30116773, 4).
 has_arrest(jd327802, 19984128).
-crime_date(19984128, datime(date(2020, 8, 10, 23, 22, 0)))..
+crime_date(19984128, datime(date(2020, 8, 10, 23, 22, 0))).
 criminal_race(19984128,white_hispanic).
 num_of_charges(19984128, 4).
 has_arrest(jd470467, 30016506).
-crime_date(30016506, datime(date(2020, 12, 27, 4, 12, 0)))..
+crime_date(30016506, datime(date(2020, 12, 27, 4, 12, 0))).
 criminal_race(30016506,black).
 num_of_charges(30016506, 4).
 has_arrest(je235091, 30116785).
-crime_date(30116785, datime(date(2022, 2, 9, 10, 9, 0)))..
+crime_date(30116785, datime(date(2022, 2, 9, 10, 9, 0))).
 criminal_race(30116785,black).
 num_of_charges(30116785, 4).
 has_arrest(jd318042, 19984237).
-crime_date(19984237, datime(date(2020, 8, 11, 15, 54, 0)))..
+crime_date(19984237, datime(date(2020, 8, 11, 15, 54, 0))).
 criminal_race(19984237,black).
 num_of_charges(19984237, 4).
 has_arrest(jd328347, 19984196).
-crime_date(19984196, datime(date(2020, 8, 11, 12, 33, 0)))..
+crime_date(19984196, datime(date(2020, 8, 11, 12, 33, 0))).
 criminal_race(19984196,black).
 num_of_charges(19984196, 4).
 has_arrest(jf509102, 30201021).
-crime_date(30201021, datime(date(2022, 12, 13, 15, 30, 0)))..
+crime_date(30201021, datime(date(2022, 12, 13, 15, 30, 0))).
 criminal_race(30201021,black).
 num_of_charges(30201021, 4).
 has_arrest(jd286253, 19984529).
-crime_date(19984529, datime(date(2020, 8, 12, 11, 30, 0)))..
+crime_date(19984529, datime(date(2020, 8, 12, 11, 30, 0))).
 criminal_race(19984529,black).
 num_of_charges(19984529, 4).
 has_arrest(jf109059, 30116778).
-crime_date(30116778, datime(date(2022, 2, 9, 10, 10, 0)))..
+crime_date(30116778, datime(date(2022, 2, 9, 10, 10, 0))).
 criminal_race(30116778,black).
 num_of_charges(30116778, 4).
 has_arrest(jd258149, 30017238).
-crime_date(30017238, datime(date(2020, 12, 30, 17, 55, 0)))..
+crime_date(30017238, datime(date(2020, 12, 30, 17, 55, 0))).
 criminal_race(30017238,black).
 num_of_charges(30017238, 4).
 has_arrest(je260979, 30104503).
-crime_date(30104503, datime(date(2021, 12, 13, 9, 55, 0)))..
+crime_date(30104503, datime(date(2021, 12, 13, 9, 55, 0))).
 criminal_race(30104503,black).
 num_of_charges(30104503, 4).
 has_arrest(jd331619, 19985051).
-crime_date(19985051, datime(date(2020, 8, 14, 0, 10, 0)))..
+crime_date(19985051, datime(date(2020, 8, 14, 0, 10, 0))).
 criminal_race(19985051,black).
 num_of_charges(19985051, 4).
 has_arrest(jd293358, 19985129).
-crime_date(19985129, datime(date(2020, 8, 14, 10, 39, 0)))..
+crime_date(19985129, datime(date(2020, 8, 14, 10, 39, 0))).
 criminal_race(19985129,black).
 num_of_charges(19985129, 4).
 has_arrest(je408591, 30104569).
-crime_date(30104569, datime(date(2021, 12, 13, 14, 10, 0)))..
+crime_date(30104569, datime(date(2021, 12, 13, 14, 10, 0))).
 criminal_race(30104569,black).
 num_of_charges(30104569, 4).
 has_arrest(je477321, 30104837).
-crime_date(30104837, datime(date(2021, 12, 14, 15, 2, 0)))..
+crime_date(30104837, datime(date(2021, 12, 14, 15, 2, 0))).
 criminal_race(30104837,white_hispanic).
 num_of_charges(30104837, 4).
 has_arrest(jd334679, 19985875).
-crime_date(19985875, datime(date(2020, 8, 16, 16, 57, 0)))..
+crime_date(19985875, datime(date(2020, 8, 16, 16, 57, 0))).
 criminal_race(19985875,black).
 num_of_charges(19985875, 4).
 has_arrest(jd334694, 19985917).
-crime_date(19985917, datime(date(2020, 8, 16, 17, 30, 0)))..
+crime_date(19985917, datime(date(2020, 8, 16, 17, 30, 0))).
 criminal_race(19985917,black).
 num_of_charges(19985917, 4).
 has_arrest(je393924, 30117113).
-crime_date(30117113, datime(date(2022, 2, 10, 12, 15, 0)))..
+crime_date(30117113, datime(date(2022, 2, 10, 12, 15, 0))).
 criminal_race(30117113,black).
 num_of_charges(30117113, 4).
 has_arrest(jb479063, 19986321).
-crime_date(19986321, datime(date(2020, 8, 18, 9, 55, 0)))..
+crime_date(19986321, datime(date(2020, 8, 18, 9, 55, 0))).
 criminal_race(19986321,white).
 num_of_charges(19986321, 4).
 has_arrest(jc446934, 19986079).
-crime_date(19986079, datime(date(2020, 8, 17, 11, 15, 0)))..
+crime_date(19986079, datime(date(2020, 8, 17, 11, 15, 0))).
 criminal_race(19986079,black).
 num_of_charges(19986079, 4).
 has_arrest(jd290120, 19986329).
-crime_date(19986329, datime(date(2020, 8, 18, 9, 25, 0)))..
+crime_date(19986329, datime(date(2020, 8, 18, 9, 25, 0))).
 criminal_race(19986329,black).
 num_of_charges(19986329, 4).
 has_arrest(je412792, 30105014).
-crime_date(30105014, datime(date(2021, 12, 15, 10, 25, 0)))..
+crime_date(30105014, datime(date(2021, 12, 15, 10, 25, 0))).
 criminal_race(30105014,black).
 num_of_charges(30105014, 4).
 has_arrest(je466880, 30104988).
-crime_date(30104988, datime(date(2021, 12, 15, 11, 30, 0)))..
+crime_date(30104988, datime(date(2021, 12, 15, 11, 30, 0))).
 criminal_race(30104988,black).
 num_of_charges(30104988, 4).
 has_arrest(jd234384, 19986691).
-crime_date(19986691, datime(date(2020, 8, 19, 10, 7, 0)))..
+crime_date(19986691, datime(date(2020, 8, 19, 10, 7, 0))).
 criminal_race(19986691,black).
 num_of_charges(19986691, 4).
 has_arrest(jf135349, 30117174).
-crime_date(30117174, datime(date(2022, 2, 10, 17, 0, 0)))..
+crime_date(30117174, datime(date(2022, 2, 10, 17, 0, 0))).
 criminal_race(30117174,black).
 num_of_charges(30117174, 4).
 has_arrest(je102402, 30018274).
-crime_date(30018274, datime(date(2021, 1, 3, 21, 9, 0)))..
+crime_date(30018274, datime(date(2021, 1, 3, 21, 9, 0))).
 criminal_race(30018274,white_hispanic).
 num_of_charges(30018274, 4).
 has_arrest(jd338472, 19986953).
-crime_date(19986953, datime(date(2020, 8, 20, 1, 45, 0)))..
+crime_date(19986953, datime(date(2020, 8, 20, 1, 45, 0))).
 criminal_race(19986953,black).
 num_of_charges(19986953, 4).
 has_arrest(jd324667, 19987072).
-crime_date(19987072, datime(date(2020, 8, 20, 12, 47, 0)))..
+crime_date(19987072, datime(date(2020, 8, 20, 12, 47, 0))).
 criminal_race(19987072,white_hispanic).
 num_of_charges(19987072, 4).
 has_arrest(jd310610, 19987040).
-crime_date(19987040, datime(date(2020, 8, 20, 11, 0, 0)))..
+crime_date(19987040, datime(date(2020, 8, 20, 11, 0, 0))).
 criminal_race(19987040,black).
 num_of_charges(19987040, 4).
 has_arrest(jd338472, 19986964).
-crime_date(19986964, datime(date(2020, 8, 20, 1, 45, 0)))..
+crime_date(19986964, datime(date(2020, 8, 20, 1, 45, 0))).
 criminal_race(19986964,black).
 num_of_charges(19986964, 4).
 has_arrest(jd339269, 19987142).
-crime_date(19987142, datime(date(2020, 8, 20, 17, 7, 0)))..
+crime_date(19987142, datime(date(2020, 8, 20, 17, 7, 0))).
 criminal_race(19987142,black).
 num_of_charges(19987142, 4).
 has_arrest(jd324667, 19987056).
-crime_date(19987056, datime(date(2020, 8, 20, 12, 47, 0)))..
+crime_date(19987056, datime(date(2020, 8, 20, 12, 47, 0))).
 criminal_race(19987056,white_hispanic).
 num_of_charges(19987056, 4).
 has_arrest(jd338472, 19986962).
-crime_date(19986962, datime(date(2020, 8, 20, 1, 45, 0)))..
+crime_date(19986962, datime(date(2020, 8, 20, 1, 45, 0))).
 criminal_race(19986962,black).
 num_of_charges(19986962, 4).
 has_arrest(jd338472, 19986952).
-crime_date(19986952, datime(date(2020, 8, 20, 1, 45, 0)))..
+crime_date(19986952, datime(date(2020, 8, 20, 1, 45, 0))).
 criminal_race(19986952,black).
 num_of_charges(19986952, 4).
 has_arrest(jd341005, 19987650).
-crime_date(19987650, datime(date(2020, 8, 22, 7, 15, 0)))..
+crime_date(19987650, datime(date(2020, 8, 22, 7, 15, 0))).
 criminal_race(19987650,black).
 num_of_charges(19987650, 4).
 has_arrest(jf198229, 30132175).
-crime_date(30132175, datime(date(2022, 4, 5, 16, 31, 0)))..
+crime_date(30132175, datime(date(2022, 4, 5, 16, 31, 0))).
 criminal_race(30132175,black).
 num_of_charges(30132175, 4).
 has_arrest(jf198229, 30132166).
-crime_date(30132166, datime(date(2022, 4, 5, 15, 55, 0)))..
+crime_date(30132166, datime(date(2022, 4, 5, 15, 55, 0))).
 criminal_race(30132166,black).
 num_of_charges(30132166, 4).
 has_arrest(je483149, 30132110).
-crime_date(30132110, datime(date(2022, 4, 5, 14, 47, 0)))..
+crime_date(30132110, datime(date(2022, 4, 5, 14, 47, 0))).
 criminal_race(30132110,white_hispanic).
 num_of_charges(30132110, 4).
 has_arrest(jd452853, 30018587).
-crime_date(30018587, datime(date(2021, 1, 4, 13, 50, 0)))..
+crime_date(30018587, datime(date(2021, 1, 4, 13, 50, 0))).
 criminal_race(30018587,black).
 num_of_charges(30018587, 4).
 has_arrest(jd358095, 30018430).
-crime_date(30018430, datime(date(2021, 1, 4, 11, 53, 0)))..
+crime_date(30018430, datime(date(2021, 1, 4, 11, 53, 0))).
 criminal_race(30018430,black).
 num_of_charges(30018430, 4).
 has_arrest(jd343040, 19988157).
-crime_date(19988157, datime(date(2020, 8, 24, 2, 26, 0)))..
+crime_date(19988157, datime(date(2020, 8, 24, 2, 26, 0))).
 criminal_race(19988157,black).
 num_of_charges(19988157, 4).
 has_arrest(jd208470, 19988183).
-crime_date(19988183, datime(date(2020, 8, 24, 7, 50, 0)))..
+crime_date(19988183, datime(date(2020, 8, 24, 7, 50, 0))).
 criminal_race(19988183,black).
 num_of_charges(19988183, 4).
 has_arrest(jd331615, 19988521).
-crime_date(19988521, datime(date(2020, 8, 25, 13, 0, 0)))..
+crime_date(19988521, datime(date(2020, 8, 25, 13, 0, 0))).
 criminal_race(19988521,black).
 num_of_charges(19988521, 4).
 has_arrest(jd279940, 19988543).
-crime_date(19988543, datime(date(2020, 8, 25, 11, 40, 0)))..
+crime_date(19988543, datime(date(2020, 8, 25, 11, 40, 0))).
 criminal_race(19988543,black).
 num_of_charges(19988543, 4).
 has_arrest(je418337, 30105611).
-crime_date(30105611, datime(date(2021, 12, 17, 20, 25, 0)))..
+crime_date(30105611, datime(date(2021, 12, 17, 20, 25, 0))).
 criminal_race(30105611,black).
 num_of_charges(30105611, 4).
 has_arrest(jd291694, 19989149).
-crime_date(19989149, datime(date(2020, 8, 27, 12, 10, 0)))..
+crime_date(19989149, datime(date(2020, 8, 27, 12, 10, 0))).
 criminal_race(19989149,black).
 num_of_charges(19989149, 4).
 has_arrest(jd249292, 19989586).
-crime_date(19989586, datime(date(2020, 8, 28, 19, 10, 0)))..
+crime_date(19989586, datime(date(2020, 8, 28, 19, 10, 0))).
 criminal_race(19989586,black).
 num_of_charges(19989586, 4).
 has_arrest(jd347659, 19989356).
-crime_date(19989356, datime(date(2020, 8, 28, 0, 27, 0)))..
+crime_date(19989356, datime(date(2020, 8, 28, 0, 27, 0))).
 criminal_race(19989356,black).
 num_of_charges(19989356, 4).
 has_arrest(jd379595, 30019322).
-crime_date(30019322, datime(date(2021, 1, 7, 20, 15, 0)))..
+crime_date(30019322, datime(date(2021, 1, 7, 20, 15, 0))).
 criminal_race(30019322,black).
 num_of_charges(30019322, 4).
 has_arrest(jd471943, 30019248).
-crime_date(30019248, datime(date(2021, 1, 7, 13, 59, 0)))..
+crime_date(30019248, datime(date(2021, 1, 7, 13, 59, 0))).
 criminal_race(30019248,black).
 num_of_charges(30019248, 4).
 has_arrest(jd348923, 19989707).
-crime_date(19989707, datime(date(2020, 8, 29, 1, 26, 0)))..
+crime_date(19989707, datime(date(2020, 8, 29, 1, 26, 0))).
 criminal_race(19989707,black).
 num_of_charges(19989707, 4).
 has_arrest(je210069, 30106052).
-crime_date(30106052, datime(date(2021, 12, 19, 18, 0, 0)))..
+crime_date(30106052, datime(date(2021, 12, 19, 18, 0, 0))).
 criminal_race(30106052,black).
 num_of_charges(30106052, 4).
 has_arrest(jd302372, 30019525).
-crime_date(30019525, datime(date(2021, 1, 8, 13, 51, 0)))..
+crime_date(30019525, datime(date(2021, 1, 8, 13, 51, 0))).
 criminal_race(30019525,black).
 num_of_charges(30019525, 4).
 has_arrest(jd350125, 19990090).
-crime_date(19990090, datime(date(2020, 8, 30, 2, 55, 0)))..
+crime_date(19990090, datime(date(2020, 8, 30, 2, 55, 0))).
 criminal_race(19990090,black).
 num_of_charges(19990090, 4).
 has_arrest(jd350134, 19990125).
-crime_date(19990125, datime(date(2020, 8, 30, 2, 33, 0)))..
+crime_date(19990125, datime(date(2020, 8, 30, 2, 33, 0))).
 criminal_race(19990125,black).
 num_of_charges(19990125, 4).
 has_arrest(jd316246, 19990178).
-crime_date(19990178, datime(date(2020, 8, 30, 10, 21, 0)))..
+crime_date(19990178, datime(date(2020, 8, 30, 10, 21, 0))).
 criminal_race(19990178,black).
 num_of_charges(19990178, 4).
 has_arrest(hr180267, 18838731).
-crime_date(18838731, datime(date(2014, 2, 18, 18, 54, 0)))..
+crime_date(18838731, datime(date(2014, 2, 18, 18, 54, 0))).
 criminal_race(18838731,white_hispanic).
 num_of_charges(18838731, 4).
 has_arrest(je108328, 30019976).
-crime_date(30019976, datime(date(2021, 1, 9, 22, 47, 0)))..
+crime_date(30019976, datime(date(2021, 1, 9, 22, 47, 0))).
 criminal_race(30019976,black).
 num_of_charges(30019976, 4).
 has_arrest(je108463, 30019966).
-crime_date(30019966, datime(date(2021, 1, 10, 1, 5, 0)))..
+crime_date(30019966, datime(date(2021, 1, 10, 1, 5, 0))).
 criminal_race(30019966,black).
 num_of_charges(30019966, 4).
 has_arrest(jd314167, 19991498).
-crime_date(19991498, datime(date(2020, 9, 3, 20, 1, 0)))..
+crime_date(19991498, datime(date(2020, 9, 3, 20, 1, 0))).
 criminal_race(19991498,black).
 num_of_charges(19991498, 4).
 has_arrest(jd355196, 19991515).
-crime_date(19991515, datime(date(2020, 9, 3, 17, 48, 0)))..
+crime_date(19991515, datime(date(2020, 9, 3, 17, 48, 0))).
 criminal_race(19991515,black).
 num_of_charges(19991515, 4).
 has_arrest(jd355196, 19991414).
-crime_date(19991414, datime(date(2020, 9, 3, 14, 29, 0)))..
+crime_date(19991414, datime(date(2020, 9, 3, 14, 29, 0))).
 criminal_race(19991414,black).
 num_of_charges(19991414, 4).
 has_arrest(je108463, 30019985).
-crime_date(30019985, datime(date(2021, 1, 10, 1, 15, 0)))..
+crime_date(30019985, datime(date(2021, 1, 10, 1, 15, 0))).
 criminal_race(30019985,black).
 num_of_charges(30019985, 4).
 has_arrest(je462052, 30105753).
-crime_date(30105753, datime(date(2021, 12, 22, 8, 55, 0)))..
+crime_date(30105753, datime(date(2021, 12, 22, 8, 55, 0))).
 criminal_race(30105753,black).
 num_of_charges(30105753, 4).
 has_arrest(jd285240, 19991661).
-crime_date(19991661, datime(date(2020, 9, 4, 9, 38, 0)))..
+crime_date(19991661, datime(date(2020, 9, 4, 9, 38, 0))).
 criminal_race(19991661,black).
 num_of_charges(19991661, 4).
 has_arrest(jd355701, 19991746).
-crime_date(19991746, datime(date(2020, 9, 4, 14, 53, 0)))..
+crime_date(19991746, datime(date(2020, 9, 4, 14, 53, 0))).
 criminal_race(19991746,black).
 num_of_charges(19991746, 4).
 has_arrest(jd356825, 19991921).
-crime_date(19991921, datime(date(2020, 9, 4, 23, 14, 0)))..
+crime_date(19991921, datime(date(2020, 9, 4, 23, 14, 0))).
 criminal_race(19991921,black).
 num_of_charges(19991921, 4).
 has_arrest(jd356907, 19991992).
-crime_date(19991992, datime(date(2020, 9, 5, 1, 28, 0)))..
+crime_date(19991992, datime(date(2020, 9, 5, 1, 28, 0))).
 criminal_race(19991992,black).
 num_of_charges(19991992, 4).
 has_arrest(jd356907, 19991998).
-crime_date(19991998, datime(date(2020, 9, 5, 1, 28, 0)))..
+crime_date(19991998, datime(date(2020, 9, 5, 1, 28, 0))).
 criminal_race(19991998,black).
 num_of_charges(19991998, 4).
 has_arrest(jd357441, 19992094).
-crime_date(19992094, datime(date(2020, 9, 5, 14, 20, 0)))..
+crime_date(19992094, datime(date(2020, 9, 5, 14, 20, 0))).
 criminal_race(19992094,black).
 num_of_charges(19992094, 4).
 has_arrest(jf175271, 30132476).
-crime_date(30132476, datime(date(2022, 4, 6, 19, 47, 0)))..
+crime_date(30132476, datime(date(2022, 4, 6, 19, 47, 0))).
 criminal_race(30132476,black).
 num_of_charges(30132476, 4).
 has_arrest(jf101663, 30132395).
-crime_date(30132395, datime(date(2022, 4, 6, 11, 51, 0)))..
+crime_date(30132395, datime(date(2022, 4, 6, 11, 51, 0))).
 criminal_race(30132395,black).
 num_of_charges(30132395, 4).
 has_arrest(jd358313, 19992428).
-crime_date(19992428, datime(date(2020, 9, 6, 12, 20, 0)))..
+crime_date(19992428, datime(date(2020, 9, 6, 12, 20, 0))).
 criminal_race(19992428,black).
 num_of_charges(19992428, 4).
 has_arrest(jd346389, 19992431).
-crime_date(19992431, datime(date(2020, 9, 6, 14, 23, 0)))..
+crime_date(19992431, datime(date(2020, 9, 6, 14, 23, 0))).
 criminal_race(19992431,black).
 num_of_charges(19992431, 4).
 has_arrest(jd358322, 19992513).
-crime_date(19992513, datime(date(2020, 9, 6, 19, 53, 0)))..
+crime_date(19992513, datime(date(2020, 9, 6, 19, 53, 0))).
 criminal_race(19992513,black).
 num_of_charges(19992513, 4).
 has_arrest(je393924, 30106850).
-crime_date(30106850, datime(date(2021, 12, 23, 15, 2, 0)))..
+crime_date(30106850, datime(date(2021, 12, 23, 15, 2, 0))).
 criminal_race(30106850,black).
 num_of_charges(30106850, 4).
 has_arrest(jd450372, 30020808).
-crime_date(30020808, datime(date(2021, 1, 13, 8, 21, 0)))..
+crime_date(30020808, datime(date(2021, 1, 13, 8, 21, 0))).
 criminal_race(30020808,white_hispanic).
 num_of_charges(30020808, 4).
 has_arrest(jd359869, 19992878).
-crime_date(19992878, datime(date(2020, 9, 7, 18, 55, 0)))..
+crime_date(19992878, datime(date(2020, 9, 7, 18, 55, 0))).
 criminal_race(19992878,black).
 num_of_charges(19992878, 4).
 has_arrest(jd359869, 19992939).
-crime_date(19992939, datime(date(2020, 9, 7, 19, 10, 0)))..
+crime_date(19992939, datime(date(2020, 9, 7, 19, 10, 0))).
 criminal_race(19992939,black).
 num_of_charges(19992939, 4).
 has_arrest(jd359142, 19992645).
-crime_date(19992645, datime(date(2020, 9, 7, 3, 50, 0)))..
+crime_date(19992645, datime(date(2020, 9, 7, 3, 50, 0))).
 criminal_race(19992645,black).
 num_of_charges(19992645, 4).
 has_arrest(jd305703, 19992995).
-crime_date(19992995, datime(date(2020, 9, 8, 9, 50, 0)))..
+crime_date(19992995, datime(date(2020, 9, 8, 9, 50, 0))).
 criminal_race(19992995,black).
 num_of_charges(19992995, 4).
 has_arrest(jd334562, 19993252).
-crime_date(19993252, datime(date(2020, 9, 9, 10, 54, 0)))..
+crime_date(19993252, datime(date(2020, 9, 9, 10, 54, 0))).
 criminal_race(19993252,white_hispanic).
 num_of_charges(19993252, 4).
 has_arrest(jd241150, 30021329).
-crime_date(30021329, datime(date(2021, 1, 15, 14, 12, 0)))..
+crime_date(30021329, datime(date(2021, 1, 15, 14, 12, 0))).
 criminal_race(30021329,black).
 num_of_charges(30021329, 4).
 has_arrest(jf228216, 30171092).
-crime_date(30171092, datime(date(2022, 8, 23, 13, 55, 0)))..
+crime_date(30171092, datime(date(2022, 8, 23, 13, 55, 0))).
 criminal_race(30171092,white_hispanic).
 num_of_charges(30171092, 4).
 has_arrest(jd364485, 19994060).
-crime_date(19994060, datime(date(2020, 9, 12, 3, 35, 0)))..
+crime_date(19994060, datime(date(2020, 9, 12, 3, 35, 0))).
 criminal_race(19994060,black).
 num_of_charges(19994060, 4).
 has_arrest(jd364506, 19994090).
-crime_date(19994090, datime(date(2020, 9, 12, 4, 4, 0)))..
+crime_date(19994090, datime(date(2020, 9, 12, 4, 4, 0))).
 criminal_race(19994090,white_hispanic).
 num_of_charges(19994090, 4).
 has_arrest(jf131036, 30118245).
-crime_date(30118245, datime(date(2022, 2, 14, 15, 36, 0)))..
+crime_date(30118245, datime(date(2022, 2, 14, 15, 36, 0))).
 criminal_race(30118245,black).
 num_of_charges(30118245, 4).
 has_arrest(jd366214, 19994543).
-crime_date(19994543, datime(date(2020, 9, 13, 20, 39, 0)))..
+crime_date(19994543, datime(date(2020, 9, 13, 20, 39, 0))).
 criminal_race(19994543,black).
 num_of_charges(19994543, 4).
 has_arrest(je115158, 30021809).
-crime_date(30021809, datime(date(2021, 1, 17, 14, 30, 0)))..
+crime_date(30021809, datime(date(2021, 1, 17, 14, 30, 0))).
 criminal_race(30021809,black).
 num_of_charges(30021809, 4).
 has_arrest(jd348734, 19994695).
-crime_date(19994695, datime(date(2020, 9, 14, 13, 20, 0)))..
+crime_date(19994695, datime(date(2020, 9, 14, 13, 20, 0))).
 criminal_race(19994695,black).
 num_of_charges(19994695, 4).
 has_arrest(jd451449, 30107348).
-crime_date(30107348, datime(date(2021, 12, 27, 9, 5, 0)))..
+crime_date(30107348, datime(date(2021, 12, 27, 9, 5, 0))).
 criminal_race(30107348,black).
 num_of_charges(30107348, 4).
 has_arrest(jd368438, 19995124).
-crime_date(19995124, datime(date(2020, 9, 15, 20, 50, 0)))..
+crime_date(19995124, datime(date(2020, 9, 15, 20, 50, 0))).
 criminal_race(19995124,black).
 num_of_charges(19995124, 4).
 has_arrest(jd368526, 19995206).
-crime_date(19995206, datime(date(2020, 9, 16, 0, 25, 0)))..
+crime_date(19995206, datime(date(2020, 9, 16, 0, 25, 0))).
 criminal_race(19995206,white_hispanic).
 num_of_charges(19995206, 4).
 has_arrest(jd448552, 30022247).
-crime_date(30022247, datime(date(2021, 1, 19, 17, 15, 0)))..
+crime_date(30022247, datime(date(2021, 1, 19, 17, 15, 0))).
 criminal_race(30022247,black).
 num_of_charges(30022247, 4).
 has_arrest(jd136119, 19995739).
-crime_date(19995739, datime(date(2020, 9, 17, 14, 8, 0)))..
+crime_date(19995739, datime(date(2020, 9, 17, 14, 8, 0))).
 criminal_race(19995739,black).
 num_of_charges(19995739, 4).
 has_arrest(jf177123, 30132631).
-crime_date(30132631, datime(date(2022, 4, 7, 10, 15, 0)))..
+crime_date(30132631, datime(date(2022, 4, 7, 10, 15, 0))).
 criminal_race(30132631,black).
 num_of_charges(30132631, 4).
 has_arrest(je451492, 30107747).
-crime_date(30107747, datime(date(2021, 12, 29, 14, 5, 0)))..
+crime_date(30107747, datime(date(2021, 12, 29, 14, 5, 0))).
 criminal_race(30107747,black).
 num_of_charges(30107747, 4).
 has_arrest(jd457651, 30022408).
-crime_date(30022408, datime(date(2021, 1, 20, 10, 30, 0)))..
+crime_date(30022408, datime(date(2021, 1, 20, 10, 30, 0))).
 criminal_race(30022408,black).
 num_of_charges(30022408, 4).
 has_arrest(je471729, 30132622).
-crime_date(30132622, datime(date(2022, 4, 7, 9, 15, 0)))..
+crime_date(30132622, datime(date(2022, 4, 7, 9, 15, 0))).
 criminal_race(30132622,black).
 num_of_charges(30132622, 4).
 has_arrest(je492931, 30107931).
-crime_date(30107931, datime(date(2021, 12, 30, 13, 19, 0)))..
+crime_date(30107931, datime(date(2021, 12, 30, 13, 19, 0))).
 criminal_race(30107931,black).
 num_of_charges(30107931, 4).
 has_arrest(jc172796, 30118472).
-crime_date(30118472, datime(date(2022, 2, 15, 11, 52, 0)))..
+crime_date(30118472, datime(date(2022, 2, 15, 11, 52, 0))).
 criminal_race(30118472,black).
 num_of_charges(30118472, 4).
 has_arrest(jd330291, 19996975).
-crime_date(19996975, datime(date(2020, 9, 21, 22, 43, 0)))..
+crime_date(19996975, datime(date(2020, 9, 21, 22, 43, 0))).
 criminal_race(19996975,black).
 num_of_charges(19996975, 4).
 has_arrest(jd374047, 19996970).
-crime_date(19996970, datime(date(2020, 9, 21, 21, 15, 0)))..
+crime_date(19996970, datime(date(2020, 9, 21, 21, 15, 0))).
 criminal_race(19996970,white_hispanic).
 num_of_charges(19996970, 4).
 has_arrest(jf219389, 30171319).
-crime_date(30171319, datime(date(2022, 8, 24, 12, 10, 0)))..
+crime_date(30171319, datime(date(2022, 8, 24, 12, 10, 0))).
 criminal_race(30171319,black).
 num_of_charges(30171319, 4).
 has_arrest(je115158, 30150409).
-crime_date(30150409, datime(date(2022, 6, 8, 11, 29, 0)))..
+crime_date(30150409, datime(date(2022, 6, 8, 11, 29, 0))).
 criminal_race(30150409,black).
 num_of_charges(30150409, 4).
 has_arrest(jd376759, 19997510).
-crime_date(19997510, datime(date(2020, 9, 23, 15, 8, 0)))..
+crime_date(19997510, datime(date(2020, 9, 23, 15, 8, 0))).
 criminal_race(19997510,black).
 num_of_charges(19997510, 4).
 has_arrest(jd358974, 19997409).
-crime_date(19997409, datime(date(2020, 9, 23, 9, 0, 0)))..
+crime_date(19997409, datime(date(2020, 9, 23, 9, 0, 0))).
 criminal_race(19997409,white_hispanic).
 num_of_charges(19997409, 4).
 has_arrest(jf272148, 30150460).
-crime_date(30150460, datime(date(2022, 6, 8, 13, 37, 0)))..
+crime_date(30150460, datime(date(2022, 6, 8, 13, 37, 0))).
 criminal_race(30150460,black).
 num_of_charges(30150460, 4).
 has_arrest(jd376759, 19997522).
-crime_date(19997522, datime(date(2020, 9, 23, 15, 29, 0)))..
+crime_date(19997522, datime(date(2020, 9, 23, 15, 29, 0))).
 criminal_race(19997522,black_hispanic).
 num_of_charges(19997522, 4).
 has_arrest(je318011, 30118843).
-crime_date(30118843, datime(date(2022, 2, 16, 16, 30, 0)))..
+crime_date(30118843, datime(date(2022, 2, 16, 16, 30, 0))).
 criminal_race(30118843,black).
 num_of_charges(30118843, 4).
 has_arrest(je455009, 30118784).
-crime_date(30118784, datime(date(2022, 2, 16, 12, 10, 0)))..
+crime_date(30118784, datime(date(2022, 2, 16, 12, 10, 0))).
 criminal_race(30118784,white).
 num_of_charges(30118784, 4).
 has_arrest(jd378176, 19997940).
-crime_date(19997940, datime(date(2020, 9, 24, 20, 8, 0)))..
+crime_date(19997940, datime(date(2020, 9, 24, 20, 8, 0))).
 criminal_race(19997940,black).
 num_of_charges(19997940, 4).
 has_arrest(jc240099, 19997846).
-crime_date(19997846, datime(date(2020, 9, 24, 17, 41, 0)))..
+crime_date(19997846, datime(date(2020, 9, 24, 17, 41, 0))).
 criminal_race(19997846,black).
 num_of_charges(19997846, 4).
 has_arrest(jd346389, 19997883).
-crime_date(19997883, datime(date(2020, 9, 24, 20, 8, 0)))..
+crime_date(19997883, datime(date(2020, 9, 24, 20, 8, 0))).
 criminal_race(19997883,black).
 num_of_charges(19997883, 4).
 has_arrest(jd378176, 19997937).
-crime_date(19997937, datime(date(2020, 9, 24, 20, 8, 0)))..
+crime_date(19997937, datime(date(2020, 9, 24, 20, 8, 0))).
 criminal_race(19997937,black).
 num_of_charges(19997937, 4).
 has_arrest(je121729, 30023402).
-crime_date(30023402, datime(date(2021, 1, 24, 10, 35, 0)))..
+crime_date(30023402, datime(date(2021, 1, 24, 10, 35, 0))).
 criminal_race(30023402,white_hispanic).
 num_of_charges(30023402, 4).
 has_arrest(jd376465, 19998075).
-crime_date(19998075, datime(date(2020, 9, 25, 12, 28, 0)))..
+crime_date(19998075, datime(date(2020, 9, 25, 12, 28, 0))).
 criminal_race(19998075,white_hispanic).
 num_of_charges(19998075, 4).
 has_arrest(je121584, 30023333).
-crime_date(30023333, datime(date(2021, 1, 24, 0, 59, 0)))..
+crime_date(30023333, datime(date(2021, 1, 24, 0, 59, 0))).
 criminal_race(30023333,black).
 num_of_charges(30023333, 4).
 has_arrest(jd379783, 19998375).
-crime_date(19998375, datime(date(2020, 9, 26, 9, 36, 0)))..
+crime_date(19998375, datime(date(2020, 9, 26, 9, 36, 0))).
 criminal_race(19998375,black).
 num_of_charges(19998375, 4).
 has_arrest(je121729, 30023672).
-crime_date(30023672, datime(date(2021, 1, 25, 13, 55, 0)))..
+crime_date(30023672, datime(date(2021, 1, 25, 13, 55, 0))).
 criminal_race(30023672,white_hispanic).
 num_of_charges(30023672, 4).
 has_arrest(je481373, 30118962).
-crime_date(30118962, datime(date(2022, 2, 17, 8, 0, 0)))..
+crime_date(30118962, datime(date(2022, 2, 17, 8, 0, 0))).
 criminal_race(30118962,white_hispanic).
 num_of_charges(30118962, 4).
 has_arrest(jb226161, 19998528).
-crime_date(19998528, datime(date(2020, 9, 27, 1, 0, 0)))..
+crime_date(19998528, datime(date(2020, 9, 27, 1, 0, 0))).
 criminal_race(19998528,white_hispanic).
 num_of_charges(19998528, 4).
 has_arrest(jf109925, 30119005).
-crime_date(30119005, datime(date(2022, 2, 17, 12, 4, 0)))..
+crime_date(30119005, datime(date(2022, 2, 17, 12, 4, 0))).
 criminal_race(30119005,black).
 num_of_charges(30119005, 4).
 has_arrest(jd382638, 19999014).
-crime_date(19999014, datime(date(2020, 9, 28, 21, 26, 0)))..
+crime_date(19999014, datime(date(2020, 9, 28, 21, 26, 0))).
 criminal_race(19999014,black).
 num_of_charges(19999014, 4).
 has_arrest(jd382095, 19998905).
-crime_date(19998905, datime(date(2020, 9, 28, 14, 0, 0)))..
+crime_date(19998905, datime(date(2020, 9, 28, 14, 0, 0))).
 criminal_race(19998905,black).
 num_of_charges(19998905, 4).
 has_arrest(jd355226, 19998922).
-crime_date(19998922, datime(date(2020, 9, 28, 16, 46, 0)))..
+crime_date(19998922, datime(date(2020, 9, 28, 16, 46, 0))).
 criminal_race(19998922,black).
 num_of_charges(19998922, 4).
 has_arrest(jc317994, 19998829).
-crime_date(19998829, datime(date(2020, 9, 28, 12, 58, 0)))..
+crime_date(19998829, datime(date(2020, 9, 28, 12, 58, 0))).
 criminal_race(19998829,black).
 num_of_charges(19998829, 4).
 has_arrest(je124799, 30024125).
-crime_date(30024125, datime(date(2021, 1, 27, 16, 8, 0)))..
+crime_date(30024125, datime(date(2021, 1, 27, 16, 8, 0))).
 criminal_race(30024125,black).
 num_of_charges(30024125, 4).
 has_arrest(jd302055, 19999095).
-crime_date(19999095, datime(date(2020, 9, 29, 8, 35, 0)))..
+crime_date(19999095, datime(date(2020, 9, 29, 8, 35, 0))).
 criminal_race(19999095,black).
 num_of_charges(19999095, 4).
 has_arrest(jd231606, 19999170).
-crime_date(19999170, datime(date(2020, 9, 29, 14, 35, 0)))..
+crime_date(19999170, datime(date(2020, 9, 29, 14, 35, 0))).
 criminal_race(19999170,black).
 num_of_charges(19999170, 4).
 has_arrest(jc547237, 30024121).
-crime_date(30024121, datime(date(2021, 1, 27, 15, 21, 0)))..
+crime_date(30024121, datime(date(2021, 1, 27, 15, 21, 0))).
 criminal_race(30024121,white).
 num_of_charges(30024121, 4).
 has_arrest(je465164, 30119337).
-crime_date(30119337, datime(date(2022, 2, 18, 22, 0, 0)))..
+crime_date(30119337, datime(date(2022, 2, 18, 22, 0, 0))).
 criminal_race(30119337,black).
 num_of_charges(30119337, 4).
 has_arrest(jd317985, 19999551).
-crime_date(19999551, datime(date(2020, 9, 30, 20, 26, 0)))..
+crime_date(19999551, datime(date(2020, 9, 30, 20, 26, 0))).
 criminal_race(19999551,black).
 num_of_charges(19999551, 4).
 has_arrest(jd384035, 19999454).
-crime_date(19999454, datime(date(2020, 9, 30, 11, 51, 0)))..
+crime_date(19999454, datime(date(2020, 9, 30, 11, 51, 0))).
 criminal_race(19999454,black).
 num_of_charges(19999454, 4).
 has_arrest(jd282786, 19999411).
-crime_date(19999411, datime(date(2020, 9, 30, 12, 0, 0)))..
+crime_date(19999411, datime(date(2020, 9, 30, 12, 0, 0))).
 criminal_race(19999411,black).
 num_of_charges(19999411, 4).
 has_arrest(je476493, 30119329).
-crime_date(30119329, datime(date(2022, 2, 18, 22, 0, 0)))..
+crime_date(30119329, datime(date(2022, 2, 18, 22, 0, 0))).
 criminal_race(30119329,black).
 num_of_charges(30119329, 4).
 has_arrest(jd385787, 19999923).
-crime_date(19999923, datime(date(2020, 10, 1, 22, 15, 0)))..
+crime_date(19999923, datime(date(2020, 10, 1, 22, 15, 0))).
 criminal_race(19999923,black).
 num_of_charges(19999923, 4).
 has_arrest(jd385346, 19999825).
-crime_date(19999825, datime(date(2020, 10, 1, 15, 47, 0)))..
+crime_date(19999825, datime(date(2020, 10, 1, 15, 47, 0))).
 criminal_race(19999825,black).
 num_of_charges(19999825, 4).
 has_arrest(jd385346, 19999816).
-crime_date(19999816, datime(date(2020, 10, 1, 15, 57, 0)))..
+crime_date(19999816, datime(date(2020, 10, 1, 15, 57, 0))).
 criminal_race(19999816,black).
 num_of_charges(19999816, 4).
 has_arrest(je125579, 30024367).
-crime_date(30024367, datime(date(2021, 1, 28, 12, 4, 0)))..
+crime_date(30024367, datime(date(2021, 1, 28, 12, 4, 0))).
 criminal_race(30024367,black).
 num_of_charges(30024367, 4).
 has_arrest(jd378179, 20000125).
-crime_date(20000125, datime(date(2020, 10, 2, 17, 26, 0)))..
+crime_date(20000125, datime(date(2020, 10, 2, 17, 26, 0))).
 criminal_race(20000125,black).
 num_of_charges(20000125, 4).
 has_arrest(jd386990, 20000281).
-crime_date(20000281, datime(date(2020, 10, 3, 2, 24, 0)))..
+crime_date(20000281, datime(date(2020, 10, 3, 2, 24, 0))).
 criminal_race(20000281,black).
 num_of_charges(20000281, 4).
 has_arrest(jd387611, 20000463).
-crime_date(20000463, datime(date(2020, 10, 3, 17, 44, 0)))..
+crime_date(20000463, datime(date(2020, 10, 3, 17, 44, 0))).
 criminal_race(20000463,black).
 num_of_charges(20000463, 4).
 has_arrest(je127677, 30024897).
-crime_date(30024897, datime(date(2021, 1, 30, 15, 15, 0)))..
+crime_date(30024897, datime(date(2021, 1, 30, 15, 15, 0))).
 criminal_race(30024897,black).
 num_of_charges(30024897, 4).
 has_arrest(jd356945, 20000880).
-crime_date(20000880, datime(date(2020, 10, 5, 10, 10, 0)))..
+crime_date(20000880, datime(date(2020, 10, 5, 10, 10, 0))).
 criminal_race(20000880,white_hispanic).
 num_of_charges(20000880, 4).
 has_arrest(jd185504, 20000850).
-crime_date(20000850, datime(date(2020, 10, 5, 10, 50, 0)))..
+crime_date(20000850, datime(date(2020, 10, 5, 10, 50, 0))).
 criminal_race(20000850,black).
 num_of_charges(20000850, 4).
 has_arrest(jd295649, 20000894).
-crime_date(20000894, datime(date(2020, 10, 5, 11, 40, 0)))..
+crime_date(20000894, datime(date(2020, 10, 5, 11, 40, 0))).
 criminal_race(20000894,black).
 num_of_charges(20000894, 4).
 has_arrest(jd356945, 20000889).
-crime_date(20000889, datime(date(2020, 10, 5, 10, 15, 0)))..
+crime_date(20000889, datime(date(2020, 10, 5, 10, 15, 0))).
 criminal_race(20000889,white_hispanic).
 num_of_charges(20000889, 4).
 has_arrest(jd397578, 30024830).
-crime_date(30024830, datime(date(2021, 1, 30, 7, 52, 0)))..
+crime_date(30024830, datime(date(2021, 1, 30, 7, 52, 0))).
 criminal_race(30024830,black).
 num_of_charges(30024830, 4).
 has_arrest(je121729, 30025048).
-crime_date(30025048, datime(date(2021, 1, 31, 20, 0, 0)))..
+crime_date(30025048, datime(date(2021, 1, 31, 20, 0, 0))).
 criminal_race(30025048,white_hispanic).
 num_of_charges(30025048, 4).
 has_arrest(hy438692, 20001193).
-crime_date(20001193, datime(date(2020, 10, 6, 8, 20, 0)))..
+crime_date(20001193, datime(date(2020, 10, 6, 8, 20, 0))).
 criminal_race(20001193,black).
 num_of_charges(20001193, 4).
 has_arrest(hy438692, 20001192).
-crime_date(20001192, datime(date(2020, 10, 6, 8, 20, 0)))..
+crime_date(20001192, datime(date(2020, 10, 6, 8, 20, 0))).
 criminal_race(20001192,black).
 num_of_charges(20001192, 4).
 has_arrest(je488889, 30150784).
-crime_date(30150784, datime(date(2022, 6, 9, 12, 55, 0)))..
+crime_date(30150784, datime(date(2022, 6, 9, 12, 55, 0))).
 criminal_race(30150784,white_hispanic).
 num_of_charges(30150784, 4).
 has_arrest(jd266395, 20001714).
-crime_date(20001714, datime(date(2020, 10, 7, 18, 20, 0)))..
+crime_date(20001714, datime(date(2020, 10, 7, 18, 20, 0))).
 criminal_race(20001714,white_hispanic).
 num_of_charges(20001714, 4).
 has_arrest(jd382767, 30025182).
-crime_date(30025182, datime(date(2021, 2, 1, 16, 32, 0)))..
+crime_date(30025182, datime(date(2021, 2, 1, 16, 32, 0))).
 criminal_race(30025182,black).
 num_of_charges(30025182, 4).
 has_arrest(jf150017, 30119634).
-crime_date(30119634, datime(date(2022, 2, 20, 1, 14, 0)))..
+crime_date(30119634, datime(date(2022, 2, 20, 1, 14, 0))).
 criminal_race(30119634,black).
 num_of_charges(30119634, 4).
 has_arrest(jd168151, 20001941).
-crime_date(20001941, datime(date(2020, 10, 8, 13, 36, 0)))..
+crime_date(20001941, datime(date(2020, 10, 8, 13, 36, 0))).
 criminal_race(20001941,black).
 num_of_charges(20001941, 4).
 has_arrest(jf219389, 30171284).
-crime_date(30171284, datime(date(2022, 8, 24, 9, 51, 0)))..
+crime_date(30171284, datime(date(2022, 8, 24, 9, 51, 0))).
 criminal_race(30171284,black).
 num_of_charges(30171284, 4).
 has_arrest(jc248729, 30171297).
-crime_date(30171297, datime(date(2022, 8, 24, 11, 1, 0)))..
+crime_date(30171297, datime(date(2022, 8, 24, 11, 1, 0))).
 criminal_race(30171297,black).
 num_of_charges(30171297, 4).
 has_arrest(jf356024, 30171350).
-crime_date(30171350, datime(date(2022, 8, 24, 13, 50, 0)))..
+crime_date(30171350, datime(date(2022, 8, 24, 13, 50, 0))).
 criminal_race(30171350,white_hispanic).
 num_of_charges(30171350, 4).
 has_arrest(jf369072, 30171437).
-crime_date(30171437, datime(date(2022, 8, 24, 19, 52, 0)))..
+crime_date(30171437, datime(date(2022, 8, 24, 19, 52, 0))).
 criminal_race(30171437,black).
 num_of_charges(30171437, 4).
 has_arrest(je125583, 30025397).
-crime_date(30025397, datime(date(2021, 2, 2, 13, 12, 0)))..
+crime_date(30025397, datime(date(2021, 2, 2, 13, 12, 0))).
 criminal_race(30025397,black).
 num_of_charges(30025397, 4).
 has_arrest(jd394401, 20002423).
-crime_date(20002423, datime(date(2020, 10, 9, 23, 7, 0)))..
+crime_date(20002423, datime(date(2020, 10, 9, 23, 7, 0))).
 criminal_race(20002423,black).
 num_of_charges(20002423, 4).
 has_arrest(jd321623, 30025671).
-crime_date(30025671, datime(date(2021, 2, 3, 12, 0, 0)))..
+crime_date(30025671, datime(date(2021, 2, 3, 12, 0, 0))).
 criminal_race(30025671,white_hispanic).
 num_of_charges(30025671, 4).
 has_arrest(je114885, 30025718).
-crime_date(30025718, datime(date(2021, 2, 3, 16, 45, 0)))..
+crime_date(30025718, datime(date(2021, 2, 3, 16, 45, 0))).
 criminal_race(30025718,white).
 num_of_charges(30025718, 4).
 has_arrest(jd394434, 20002448).
-crime_date(20002448, datime(date(2020, 10, 10, 0, 15, 0)))..
+crime_date(20002448, datime(date(2020, 10, 10, 0, 15, 0))).
 criminal_race(20002448,black).
 num_of_charges(20002448, 4).
 has_arrest(jd395966, 20003019).
-crime_date(20003019, datime(date(2020, 10, 11, 21, 15, 0)))..
+crime_date(20003019, datime(date(2020, 10, 11, 21, 15, 0))).
 criminal_race(20003019,white_hispanic).
 num_of_charges(20003019, 4).
 has_arrest(jd396417, 20003014).
-crime_date(20003014, datime(date(2020, 10, 11, 21, 3, 0)))..
+crime_date(20003014, datime(date(2020, 10, 11, 21, 3, 0))).
 criminal_race(20003014,white_hispanic).
 num_of_charges(20003014, 4).
 has_arrest(jf249020, 30171356).
-crime_date(30171356, datime(date(2022, 8, 24, 14, 17, 0)))..
+crime_date(30171356, datime(date(2022, 8, 24, 14, 17, 0))).
 criminal_race(30171356,black).
 num_of_charges(30171356, 4).
 has_arrest(je133730, 30026305).
-crime_date(30026305, datime(date(2021, 2, 5, 21, 30, 0)))..
+crime_date(30026305, datime(date(2021, 2, 5, 21, 30, 0))).
 criminal_race(30026305,white_hispanic).
 num_of_charges(30026305, 4).
 has_arrest(jd398265, 20003545).
-crime_date(20003545, datime(date(2020, 10, 13, 16, 26, 0)))..
+crime_date(20003545, datime(date(2020, 10, 13, 16, 26, 0))).
 criminal_race(20003545,black).
 num_of_charges(20003545, 4).
 has_arrest(jd336779, 20003451).
-crime_date(20003451, datime(date(2020, 10, 13, 12, 23, 0)))..
+crime_date(20003451, datime(date(2020, 10, 13, 12, 23, 0))).
 criminal_race(20003451,black).
 num_of_charges(20003451, 4).
 has_arrest(jd396749, 20003510).
-crime_date(20003510, datime(date(2020, 10, 13, 15, 50, 0)))..
+crime_date(20003510, datime(date(2020, 10, 13, 15, 50, 0))).
 criminal_race(20003510,black).
 num_of_charges(20003510, 4).
 has_arrest(jf148196, 30120275).
-crime_date(30120275, datime(date(2022, 2, 22, 10, 50, 0)))..
+crime_date(30120275, datime(date(2022, 2, 22, 10, 50, 0))).
 criminal_race(30120275,white_hispanic).
 num_of_charges(30120275, 4).
 has_arrest(jf116641, 30118756).
-crime_date(30118756, datime(date(2022, 2, 16, 10, 20, 0)))..
+crime_date(30118756, datime(date(2022, 2, 16, 10, 20, 0))).
 criminal_race(30118756,black).
 num_of_charges(30118756, 4).
 has_arrest(jf152198, 30120306).
-crime_date(30120306, datime(date(2022, 2, 22, 12, 54, 0)))..
+crime_date(30120306, datime(date(2022, 2, 22, 12, 54, 0))).
 criminal_race(30120306,white_hispanic).
 num_of_charges(30120306, 4).
 has_arrest(je134661, 30026492).
-crime_date(30026492, datime(date(2021, 2, 6, 22, 8, 0)))..
+crime_date(30026492, datime(date(2021, 2, 6, 22, 8, 0))).
 criminal_race(30026492,black).
 num_of_charges(30026492, 4).
 has_arrest(je135558, 30026655).
-crime_date(30026655, datime(date(2021, 2, 7, 23, 55, 0)))..
+crime_date(30026655, datime(date(2021, 2, 7, 23, 55, 0))).
 criminal_race(30026655,black).
 num_of_charges(30026655, 4).
 has_arrest(jd363441, 20004789).
-crime_date(20004789, datime(date(2020, 10, 17, 18, 0, 0)))..
+crime_date(20004789, datime(date(2020, 10, 17, 18, 0, 0))).
 criminal_race(20004789,black).
 num_of_charges(20004789, 4).
 has_arrest(jf260478, 30151002).
-crime_date(30151002, datime(date(2022, 6, 10, 12, 2, 0)))..
+crime_date(30151002, datime(date(2022, 6, 10, 12, 2, 0))).
 criminal_race(30151002,white_hispanic).
 num_of_charges(30151002, 4).
 has_arrest(jf152400, 30120296).
-crime_date(30120296, datime(date(2022, 2, 22, 12, 29, 0)))..
+crime_date(30120296, datime(date(2022, 2, 22, 12, 29, 0))).
 criminal_race(30120296,black).
 num_of_charges(30120296, 4).
 has_arrest(jf152400, 30120307).
-crime_date(30120307, datime(date(2022, 2, 22, 12, 29, 0)))..
+crime_date(30120307, datime(date(2022, 2, 22, 12, 29, 0))).
 criminal_race(30120307,black).
 num_of_charges(30120307, 4).
 has_arrest(jd386650, 30026864).
-crime_date(30026864, datime(date(2021, 2, 9, 9, 18, 0)))..
+crime_date(30026864, datime(date(2021, 2, 9, 9, 18, 0))).
 criminal_race(30026864,black).
 num_of_charges(30026864, 4).
 has_arrest(jf153125, 30120482).
-crime_date(30120482, datime(date(2022, 2, 23, 3, 10, 0)))..
+crime_date(30120482, datime(date(2022, 2, 23, 3, 10, 0))).
 criminal_race(30120482,black).
 num_of_charges(30120482, 4).
 has_arrest(jd256319, 30151011).
-crime_date(30151011, datime(date(2022, 6, 10, 12, 41, 0)))..
+crime_date(30151011, datime(date(2022, 6, 10, 12, 41, 0))).
 criminal_race(30151011,black).
 num_of_charges(30151011, 4).
 has_arrest(jd403067, 20005337).
-crime_date(20005337, datime(date(2020, 10, 19, 14, 0, 0)))..
+crime_date(20005337, datime(date(2020, 10, 19, 14, 0, 0))).
 criminal_race(20005337,black).
 num_of_charges(20005337, 4).
 has_arrest(jd403067, 20005400).
-crime_date(20005400, datime(date(2020, 10, 20, 0, 30, 0)))..
+crime_date(20005400, datime(date(2020, 10, 20, 0, 30, 0))).
 criminal_race(20005400,black).
 num_of_charges(20005400, 4).
 has_arrest(jd352206, 20005464).
-crime_date(20005464, datime(date(2020, 10, 20, 9, 30, 0)))..
+crime_date(20005464, datime(date(2020, 10, 20, 9, 30, 0))).
 criminal_race(20005464,black).
 num_of_charges(20005464, 4).
 has_arrest(jd398293, 20005527).
-crime_date(20005527, datime(date(2020, 10, 20, 13, 52, 0)))..
+crime_date(20005527, datime(date(2020, 10, 20, 13, 52, 0))).
 criminal_race(20005527,black).
 num_of_charges(20005527, 4).
 has_arrest(jd364131, 20005462).
-crime_date(20005462, datime(date(2020, 10, 20, 9, 30, 0)))..
+crime_date(20005462, datime(date(2020, 10, 20, 9, 30, 0))).
 criminal_race(20005462,black).
 num_of_charges(20005462, 4).
 has_arrest(je330055, 30120819).
-crime_date(30120819, datime(date(2022, 2, 24, 11, 50, 0)))..
+crime_date(30120819, datime(date(2022, 2, 24, 11, 50, 0))).
 criminal_race(30120819,black).
 num_of_charges(30120819, 4).
 has_arrest(jd163780, 20005843).
-crime_date(20005843, datime(date(2020, 10, 21, 15, 12, 0)))..
+crime_date(20005843, datime(date(2020, 10, 21, 15, 12, 0))).
 criminal_race(20005843,black).
 num_of_charges(20005843, 4).
 has_arrest(jd397606, 20006012).
-crime_date(20006012, datime(date(2020, 10, 21, 23, 6, 0)))..
+crime_date(20006012, datime(date(2020, 10, 21, 23, 6, 0))).
 criminal_race(20006012,black).
 num_of_charges(20006012, 4).
 has_arrest(jd406255, 20005863).
-crime_date(20005863, datime(date(2020, 10, 21, 16, 20, 0)))..
+crime_date(20005863, datime(date(2020, 10, 21, 16, 20, 0))).
 criminal_race(20005863,black).
 num_of_charges(20005863, 4).
 has_arrest(jd288522, 20005821).
-crime_date(20005821, datime(date(2020, 10, 21, 14, 1, 0)))..
+crime_date(20005821, datime(date(2020, 10, 21, 14, 1, 0))).
 criminal_race(20005821,black).
 num_of_charges(20005821, 4).
 has_arrest(jd450200, 30027439).
-crime_date(30027439, datime(date(2021, 2, 11, 16, 45, 0)))..
+crime_date(30027439, datime(date(2021, 2, 11, 16, 45, 0))).
 criminal_race(30027439,black).
 num_of_charges(30027439, 4).
 has_arrest(jd322197, 30027413).
-crime_date(30027413, datime(date(2021, 2, 11, 14, 25, 0)))..
+crime_date(30027413, datime(date(2021, 2, 11, 14, 25, 0))).
 criminal_race(30027413,black).
 num_of_charges(30027413, 4).
 has_arrest(jf205509, 30134176).
-crime_date(30134176, datime(date(2022, 4, 12, 11, 47, 0)))..
+crime_date(30134176, datime(date(2022, 4, 12, 11, 47, 0))).
 criminal_race(30134176,white_hispanic).
 num_of_charges(30134176, 4).
 has_arrest(jd371907, 20006091).
-crime_date(20006091, datime(date(2020, 10, 22, 11, 53, 0)))..
+crime_date(20006091, datime(date(2020, 10, 22, 11, 53, 0))).
 criminal_race(20006091,white_hispanic).
 num_of_charges(20006091, 4).
 has_arrest(jf203921, 30134191).
-crime_date(30134191, datime(date(2022, 4, 12, 14, 3, 0)))..
+crime_date(30134191, datime(date(2022, 4, 12, 14, 3, 0))).
 criminal_race(30134191,black).
 num_of_charges(30134191, 4).
 has_arrest(jd409160, 20006579).
-crime_date(20006579, datime(date(2020, 10, 23, 23, 18, 0)))..
+crime_date(20006579, datime(date(2020, 10, 23, 23, 18, 0))).
 criminal_race(20006579,white).
 num_of_charges(20006579, 4).
 has_arrest(jd317098, 30027682).
-crime_date(30027682, datime(date(2021, 2, 12, 17, 0, 0)))..
+crime_date(30027682, datime(date(2021, 2, 12, 17, 0, 0))).
 criminal_race(30027682,white_hispanic).
 num_of_charges(30027682, 4).
 has_arrest(je133730, 30027651).
-crime_date(30027651, datime(date(2021, 2, 12, 12, 21, 0)))..
+crime_date(30027651, datime(date(2021, 2, 12, 12, 21, 0))).
 criminal_race(30027651,white_hispanic).
 num_of_charges(30027651, 4).
 has_arrest(jd409160, 20006746).
-crime_date(20006746, datime(date(2020, 10, 24, 15, 8, 0)))..
+crime_date(20006746, datime(date(2020, 10, 24, 15, 8, 0))).
 criminal_race(20006746,white_hispanic).
 num_of_charges(20006746, 4).
 has_arrest(je339848, 30121055).
-crime_date(30121055, datime(date(2022, 2, 25, 9, 55, 0)))..
+crime_date(30121055, datime(date(2022, 2, 25, 9, 55, 0))).
 criminal_race(30121055,white).
 num_of_charges(30121055, 4).
 has_arrest(jf476867, 30194207).
-crime_date(30194207, datime(date(2022, 11, 16, 12, 58, 0)))..
+crime_date(30194207, datime(date(2022, 11, 16, 12, 58, 0))).
 criminal_race(30194207,black).
 num_of_charges(30194207, 4).
 has_arrest(jd410805, 20007105).
-crime_date(20007105, datime(date(2020, 10, 25, 18, 21, 0)))..
+crime_date(20007105, datime(date(2020, 10, 25, 18, 21, 0))).
 criminal_race(20007105,black).
 num_of_charges(20007105, 4).
 has_arrest(jd318617, 20007040).
-crime_date(20007040, datime(date(2020, 10, 25, 13, 56, 0)))..
+crime_date(20007040, datime(date(2020, 10, 25, 13, 56, 0))).
 criminal_race(20007040,black).
 num_of_charges(20007040, 4).
 has_arrest(jf367830, 30171537).
-crime_date(30171537, datime(date(2022, 8, 25, 1, 50, 0)))..
+crime_date(30171537, datime(date(2022, 8, 25, 1, 50, 0))).
 criminal_race(30171537,white_hispanic).
 num_of_charges(30171537, 4).
 has_arrest(jc283120, 30000059).
-crime_date(30000059, datime(date(2020, 10, 26, 13, 15, 0)))..
+crime_date(30000059, datime(date(2020, 10, 26, 13, 15, 0))).
 criminal_race(30000059,black).
 num_of_charges(30000059, 4).
 has_arrest(je143399, 30028381).
-crime_date(30028381, datime(date(2021, 2, 16, 21, 8, 0)))..
+crime_date(30028381, datime(date(2021, 2, 16, 21, 8, 0))).
 criminal_race(30028381,black).
 num_of_charges(30028381, 4).
 has_arrest(je142800, 30028265).
-crime_date(30028265, datime(date(2021, 2, 16, 8, 41, 0)))..
+crime_date(30028265, datime(date(2021, 2, 16, 8, 41, 0))).
 criminal_race(30028265,black).
 num_of_charges(30028265, 4).
 has_arrest(jd305635, 30000585).
-crime_date(30000585, datime(date(2020, 10, 28, 11, 15, 0)))..
+crime_date(30000585, datime(date(2020, 10, 28, 11, 15, 0))).
 criminal_race(30000585,black).
 num_of_charges(30000585, 4).
 has_arrest(jd292249, 30000581).
-crime_date(30000581, datime(date(2020, 10, 28, 10, 40, 0)))..
+crime_date(30000581, datime(date(2020, 10, 28, 10, 40, 0))).
 criminal_race(30000581,white_hispanic).
 num_of_charges(30000581, 4).
 has_arrest(je144350, 30028618).
-crime_date(30028618, datime(date(2021, 2, 17, 22, 41, 0)))..
+crime_date(30028618, datime(date(2021, 2, 17, 22, 41, 0))).
 criminal_race(30028618,black).
 num_of_charges(30028618, 4).
 has_arrest(je131523, 30028442).
-crime_date(30028442, datime(date(2021, 2, 17, 9, 47, 0)))..
+crime_date(30028442, datime(date(2021, 2, 17, 9, 47, 0))).
 criminal_race(30028442,black).
 num_of_charges(30028442, 4).
 has_arrest(jd365408, 30000959).
-crime_date(30000959, datime(date(2020, 10, 29, 15, 34, 0)))..
+crime_date(30000959, datime(date(2020, 10, 29, 15, 34, 0))).
 criminal_race(30000959,black).
 num_of_charges(30000959, 4).
 has_arrest(jd403004, 30000955).
-crime_date(30000955, datime(date(2020, 10, 29, 17, 29, 0)))..
+crime_date(30000955, datime(date(2020, 10, 29, 17, 29, 0))).
 criminal_race(30000955,black).
 num_of_charges(30000955, 4).
 has_arrest(jd364466, 30028541).
-crime_date(30028541, datime(date(2021, 2, 17, 14, 30, 0)))..
+crime_date(30028541, datime(date(2021, 2, 17, 14, 30, 0))).
 criminal_race(30028541,black).
 num_of_charges(30028541, 4).
 has_arrest(jd364466, 30028528).
-crime_date(30028528, datime(date(2021, 2, 17, 14, 30, 0)))..
+crime_date(30028528, datime(date(2021, 2, 17, 14, 30, 0))).
 criminal_race(30028528,black).
 num_of_charges(30028528, 4).
 has_arrest(jd293392, 30001183).
-crime_date(30001183, datime(date(2020, 10, 30, 10, 50, 0)))..
+crime_date(30001183, datime(date(2020, 10, 30, 10, 50, 0))).
 criminal_race(30001183,black_hispanic).
 num_of_charges(30001183, 4).
 has_arrest(je391908, 30134643).
-crime_date(30134643, datime(date(2022, 4, 14, 11, 29, 0)))..
+crime_date(30134643, datime(date(2022, 4, 14, 11, 29, 0))).
 criminal_race(30134643,black).
 num_of_charges(30134643, 4).
 has_arrest(jf360248, 30171736).
-crime_date(30171736, datime(date(2022, 8, 25, 19, 34, 0)))..
+crime_date(30171736, datime(date(2022, 8, 25, 19, 34, 0))).
 criminal_race(30171736,black).
 num_of_charges(30171736, 4).
 has_arrest(jd269688, 30002106).
-crime_date(30002106, datime(date(2020, 11, 2, 11, 45, 0)))..
+crime_date(30002106, datime(date(2020, 11, 2, 11, 45, 0))).
 criminal_race(30002106,black).
 num_of_charges(30002106, 4).
 has_arrest(jd353155, 30002108).
-crime_date(30002108, datime(date(2020, 11, 2, 12, 40, 0)))..
+crime_date(30002108, datime(date(2020, 11, 2, 12, 40, 0))).
 criminal_race(30002108,black).
 num_of_charges(30002108, 4).
 has_arrest(jd413727, 30002070).
-crime_date(30002070, datime(date(2020, 11, 2, 10, 2, 0)))..
+crime_date(30002070, datime(date(2020, 11, 2, 10, 2, 0))).
 criminal_race(30002070,black).
 num_of_charges(30002070, 4).
 has_arrest(jc236052, 30121863).
-crime_date(30121863, datime(date(2022, 2, 28, 10, 23, 0)))..
+crime_date(30121863, datime(date(2022, 2, 28, 10, 23, 0))).
 criminal_race(30121863,black).
 num_of_charges(30121863, 4).
 has_arrest(jd418958, 30002412).
-crime_date(30002412, datime(date(2020, 11, 3, 11, 45, 0)))..
+crime_date(30002412, datime(date(2020, 11, 3, 11, 45, 0))).
 criminal_race(30002412,black).
 num_of_charges(30002412, 4).
 has_arrest(jd401865, 30002430).
-crime_date(30002430, datime(date(2020, 11, 3, 18, 58, 0)))..
+crime_date(30002430, datime(date(2020, 11, 3, 18, 58, 0))).
 criminal_race(30002430,black).
 num_of_charges(30002430, 4).
 has_arrest(hw334016, 30002574).
-crime_date(30002574, datime(date(2020, 11, 4, 9, 30, 0)))..
+crime_date(30002574, datime(date(2020, 11, 4, 9, 30, 0))).
 criminal_race(30002574,black).
 num_of_charges(30002574, 4).
 has_arrest(jd407951, 30002611).
-crime_date(30002611, datime(date(2020, 11, 4, 12, 15, 0)))..
+crime_date(30002611, datime(date(2020, 11, 4, 12, 15, 0))).
 criminal_race(30002611,black).
 num_of_charges(30002611, 4).
 has_arrest(jf177123, 30134630).
-crime_date(30134630, datime(date(2022, 4, 14, 10, 0, 0)))..
+crime_date(30134630, datime(date(2022, 4, 14, 10, 0, 0))).
 criminal_race(30134630,black).
 num_of_charges(30134630, 4).
 has_arrest(jd272406, 30002947).
-crime_date(30002947, datime(date(2020, 11, 5, 9, 22, 0)))..
+crime_date(30002947, datime(date(2020, 11, 5, 9, 22, 0))).
 criminal_race(30002947,black).
 num_of_charges(30002947, 4).
 has_arrest(jd394401, 30002961).
-crime_date(30002961, datime(date(2020, 11, 5, 13, 33, 0)))..
+crime_date(30002961, datime(date(2020, 11, 5, 13, 33, 0))).
 criminal_race(30002961,black).
 num_of_charges(30002961, 4).
 has_arrest(je474250, 30122314).
-crime_date(30122314, datime(date(2022, 3, 1, 20, 34, 0)))..
+crime_date(30122314, datime(date(2022, 3, 1, 20, 34, 0))).
 criminal_race(30122314,white_hispanic).
 num_of_charges(30122314, 4).
 has_arrest(je345334, 30122157).
-crime_date(30122157, datime(date(2022, 3, 1, 11, 35, 0)))..
+crime_date(30122157, datime(date(2022, 3, 1, 11, 35, 0))).
 criminal_race(30122157,black).
 num_of_charges(30122157, 4).
 has_arrest(jd423602, 30003534).
-crime_date(30003534, datime(date(2020, 11, 7, 3, 1, 0)))..
+crime_date(30003534, datime(date(2020, 11, 7, 3, 1, 0))).
 criminal_race(30003534,black).
 num_of_charges(30003534, 4).
 has_arrest(jd423557, 30003929).
-crime_date(30003929, datime(date(2020, 11, 8, 15, 1, 0)))..
+crime_date(30003929, datime(date(2020, 11, 8, 15, 1, 0))).
 criminal_race(30003929,black).
 num_of_charges(30003929, 4).
 has_arrest(jd209949, 30029916).
-crime_date(30029916, datime(date(2021, 2, 23, 10, 33, 0)))..
+crime_date(30029916, datime(date(2021, 2, 23, 10, 33, 0))).
 criminal_race(30029916,black).
 num_of_charges(30029916, 4).
 has_arrest(je150086, 30030112).
-crime_date(30030112, datime(date(2021, 2, 23, 23, 20, 0)))..
+crime_date(30030112, datime(date(2021, 2, 23, 23, 20, 0))).
 criminal_race(30030112,black).
 num_of_charges(30030112, 4).
 has_arrest(je150086, 30030066).
-crime_date(30030066, datime(date(2021, 2, 23, 15, 10, 0)))..
+crime_date(30030066, datime(date(2021, 2, 23, 15, 10, 0))).
 criminal_race(30030066,black).
 num_of_charges(30030066, 4).
 has_arrest(jd334066, 30004167).
-crime_date(30004167, datime(date(2020, 11, 9, 12, 12, 0)))..
+crime_date(30004167, datime(date(2020, 11, 9, 12, 12, 0))).
 criminal_race(30004167,black).
 num_of_charges(30004167, 4).
 has_arrest(jd212064, 30004379).
-crime_date(30004379, datime(date(2020, 11, 10, 7, 55, 0)))..
+crime_date(30004379, datime(date(2020, 11, 10, 7, 55, 0))).
 criminal_race(30004379,black).
 num_of_charges(30004379, 4).
 has_arrest(jd292085, 30004176).
-crime_date(30004176, datime(date(2020, 11, 9, 12, 45, 0)))..
+crime_date(30004176, datime(date(2020, 11, 9, 12, 45, 0))).
 criminal_race(30004176,black).
 num_of_charges(30004176, 4).
 has_arrest(ja502788, 30004380).
-crime_date(30004380, datime(date(2020, 11, 10, 8, 0, 0)))..
+crime_date(30004380, datime(date(2020, 11, 10, 8, 0, 0))).
 criminal_race(30004380,white_hispanic).
 num_of_charges(30004380, 4).
 has_arrest(jd302055, 30004640).
-crime_date(30004640, datime(date(2020, 11, 11, 8, 55, 0)))..
+crime_date(30004640, datime(date(2020, 11, 11, 8, 55, 0))).
 criminal_race(30004640,black).
 num_of_charges(30004640, 4).
 has_arrest(jf276431, 30151538).
-crime_date(30151538, datime(date(2022, 6, 12, 3, 33, 0)))..
+crime_date(30151538, datime(date(2022, 6, 12, 3, 33, 0))).
 criminal_race(30151538,white_hispanic).
 num_of_charges(30151538, 4).
 has_arrest(jf276431, 30151525).
-crime_date(30151525, datime(date(2022, 6, 12, 3, 33, 0)))..
+crime_date(30151525, datime(date(2022, 6, 12, 3, 33, 0))).
 criminal_race(30151525,white_hispanic).
 num_of_charges(30151525, 4).
 has_arrest(jf277153, 30151634).
-crime_date(30151634, datime(date(2022, 6, 12, 19, 20, 0)))..
+crime_date(30151634, datime(date(2022, 6, 12, 19, 20, 0))).
 criminal_race(30151634,black).
 num_of_charges(30151634, 4).
 has_arrest(jd410860, 30005261).
-crime_date(30005261, datime(date(2020, 11, 13, 15, 35, 0)))..
+crime_date(30005261, datime(date(2020, 11, 13, 15, 35, 0))).
 criminal_race(30005261,black).
 num_of_charges(30005261, 4).
 has_arrest(je459726, 30122717).
-crime_date(30122717, datime(date(2022, 3, 3, 9, 54, 0)))..
+crime_date(30122717, datime(date(2022, 3, 3, 9, 54, 0))).
 criminal_race(30122717,white_hispanic).
 num_of_charges(30122717, 4).
 has_arrest(jf158773, 30122908).
-crime_date(30122908, datime(date(2022, 3, 3, 21, 22, 0)))..
+crime_date(30122908, datime(date(2022, 3, 3, 21, 22, 0))).
 criminal_race(30122908,black).
 num_of_charges(30122908, 4).
 has_arrest(je474250, 30122695).
-crime_date(30122695, datime(date(2022, 3, 3, 8, 40, 0)))..
+crime_date(30122695, datime(date(2022, 3, 3, 8, 40, 0))).
 criminal_race(30122695,white_hispanic).
 num_of_charges(30122695, 4).
 has_arrest(jf158773, 30122906).
-crime_date(30122906, datime(date(2022, 3, 3, 21, 5, 0)))..
+crime_date(30122906, datime(date(2022, 3, 3, 21, 5, 0))).
 criminal_race(30122906,black).
 num_of_charges(30122906, 4).
 has_arrest(je153463, 30031023).
-crime_date(30031023, datime(date(2021, 2, 26, 21, 5, 0)))..
+crime_date(30031023, datime(date(2021, 2, 26, 21, 5, 0))).
 criminal_race(30031023,white_hispanic).
 num_of_charges(30031023, 4).
 has_arrest(jd340988, 30030907).
-crime_date(30030907, datime(date(2021, 2, 26, 15, 40, 0)))..
+crime_date(30030907, datime(date(2021, 2, 26, 15, 40, 0))).
 criminal_race(30030907,black).
 num_of_charges(30030907, 4).
 has_arrest(je153463, 30031022).
-crime_date(30031022, datime(date(2021, 2, 26, 21, 0, 0)))..
+crime_date(30031022, datime(date(2021, 2, 26, 21, 0, 0))).
 criminal_race(30031022,white_hispanic).
 num_of_charges(30031022, 4).
 has_arrest(jd424633, 30005819).
-crime_date(30005819, datime(date(2020, 11, 15, 21, 30, 0)))..
+crime_date(30005819, datime(date(2020, 11, 15, 21, 30, 0))).
 criminal_race(30005819,black).
 num_of_charges(30005819, 4).
 has_arrest(jd422749, 30005934).
-crime_date(30005934, datime(date(2020, 11, 16, 12, 57, 0)))..
+crime_date(30005934, datime(date(2020, 11, 16, 12, 57, 0))).
 criminal_race(30005934,black).
 num_of_charges(30005934, 4).
 has_arrest(jd369840, 30006159).
-crime_date(30006159, datime(date(2020, 11, 17, 10, 0, 0)))..
+crime_date(30006159, datime(date(2020, 11, 17, 10, 0, 0))).
 criminal_race(30006159,white).
 num_of_charges(30006159, 4).
 has_arrest(jf155296, 30123085).
-crime_date(30123085, datime(date(2022, 3, 4, 14, 25, 0)))..
+crime_date(30123085, datime(date(2022, 3, 4, 14, 25, 0))).
 criminal_race(30123085,black).
 num_of_charges(30123085, 4).
 has_arrest(jf156242, 30123150).
-crime_date(30123150, datime(date(2022, 3, 4, 15, 1, 0)))..
+crime_date(30123150, datime(date(2022, 3, 4, 15, 1, 0))).
 criminal_race(30123150,black).
 num_of_charges(30123150, 4).
 has_arrest(jf162616, 30122986).
-crime_date(30122986, datime(date(2022, 3, 4, 3, 41, 0)))..
+crime_date(30122986, datime(date(2022, 3, 4, 3, 41, 0))).
 criminal_race(30122986,black).
 num_of_charges(30122986, 4).
 has_arrest(jd329090, 30006508).
-crime_date(30006508, datime(date(2020, 11, 18, 17, 0, 0)))..
+crime_date(30006508, datime(date(2020, 11, 18, 17, 0, 0))).
 criminal_race(30006508,white_hispanic).
 num_of_charges(30006508, 4).
 has_arrest(jd435029, 30006574).
-crime_date(30006574, datime(date(2020, 11, 18, 20, 20, 0)))..
+crime_date(30006574, datime(date(2020, 11, 18, 20, 20, 0))).
 criminal_race(30006574,black).
 num_of_charges(30006574, 4).
 has_arrest(jd379766, 30006689).
-crime_date(30006689, datime(date(2020, 11, 19, 9, 20, 0)))..
+crime_date(30006689, datime(date(2020, 11, 19, 9, 20, 0))).
 criminal_race(30006689,black).
 num_of_charges(30006689, 4).
 has_arrest(jd281693, 30007011).
-crime_date(30007011, datime(date(2020, 11, 20, 14, 35, 0)))..
+crime_date(30007011, datime(date(2020, 11, 20, 14, 35, 0))).
 criminal_race(30007011,black).
 num_of_charges(30007011, 4).
 has_arrest(jd297331, 30031654).
-crime_date(30031654, datime(date(2021, 3, 1, 8, 25, 0)))..
+crime_date(30031654, datime(date(2021, 3, 1, 8, 25, 0))).
 criminal_race(30031654,black).
 num_of_charges(30031654, 4).
 has_arrest(je154094, 30031761).
-crime_date(30031761, datime(date(2021, 3, 1, 18, 44, 0)))..
+crime_date(30031761, datime(date(2021, 3, 1, 18, 44, 0))).
 criminal_race(30031761,black).
 num_of_charges(30031761, 4).
 has_arrest(jf210366, 30135603).
-crime_date(30135603, datime(date(2022, 4, 17, 8, 0, 0)))..
+crime_date(30135603, datime(date(2022, 4, 17, 8, 0, 0))).
 criminal_race(30135603,black).
 num_of_charges(30135603, 4).
 has_arrest(jd461629, 30031940).
-crime_date(30031940, datime(date(2021, 3, 2, 12, 45, 0)))..
+crime_date(30031940, datime(date(2021, 3, 2, 12, 45, 0))).
 criminal_race(30031940,white_hispanic).
 num_of_charges(30031940, 4).
 has_arrest(a616347, 30007591).
-crime_date(30007591, datime(date(2020, 11, 22, 15, 44, 0)))..
+crime_date(30007591, datime(date(2020, 11, 22, 15, 44, 0))).
 criminal_race(30007591,black).
 num_of_charges(30007591, 4).
 has_arrest(jd275420, 30007633).
-crime_date(30007633, datime(date(2020, 11, 22, 17, 45, 0)))..
+crime_date(30007633, datime(date(2020, 11, 22, 17, 45, 0))).
 criminal_race(30007633,black).
 num_of_charges(30007633, 4).
 has_arrest(jd275420, 30007624).
-crime_date(30007624, datime(date(2020, 11, 22, 17, 45, 0)))..
+crime_date(30007624, datime(date(2020, 11, 22, 17, 45, 0))).
 criminal_race(30007624,black).
 num_of_charges(30007624, 4).
 has_arrest(je141194, 30031959).
-crime_date(30031959, datime(date(2021, 3, 2, 13, 33, 0)))..
+crime_date(30031959, datime(date(2021, 3, 2, 13, 33, 0))).
 criminal_race(30031959,black).
 num_of_charges(30031959, 4).
 has_arrest(je156432, 30031875).
-crime_date(30031875, datime(date(2021, 3, 2, 5, 13, 0)))..
+crime_date(30031875, datime(date(2021, 3, 2, 5, 13, 0))).
 criminal_race(30031875,black).
 num_of_charges(30031875, 4).
 has_arrest(jd344930, 30007779).
-crime_date(30007779, datime(date(2020, 11, 23, 10, 0, 0)))..
+crime_date(30007779, datime(date(2020, 11, 23, 10, 0, 0))).
 criminal_race(30007779,black).
 num_of_charges(30007779, 4).
 has_arrest(jd420526, 30007846).
-crime_date(30007846, datime(date(2020, 11, 23, 15, 30, 0)))..
+crime_date(30007846, datime(date(2020, 11, 23, 15, 30, 0))).
 criminal_race(30007846,black).
 num_of_charges(30007846, 4).
 has_arrest(jd169963, 30007789).
-crime_date(30007789, datime(date(2020, 11, 23, 11, 37, 0)))..
+crime_date(30007789, datime(date(2020, 11, 23, 11, 37, 0))).
 criminal_race(30007789,black).
 num_of_charges(30007789, 4).
 has_arrest(jf210985, 30135653).
-crime_date(30135653, datime(date(2022, 4, 17, 19, 0, 0)))..
+crime_date(30135653, datime(date(2022, 4, 17, 19, 0, 0))).
 criminal_race(30135653,white_hispanic).
 num_of_charges(30135653, 4).
 has_arrest(jd400594, 30008015).
-crime_date(30008015, datime(date(2020, 11, 24, 7, 35, 0)))..
+crime_date(30008015, datime(date(2020, 11, 24, 7, 35, 0))).
 criminal_race(30008015,black).
 num_of_charges(30008015, 4).
 has_arrest(je147805, 30032288).
-crime_date(30032288, datime(date(2021, 3, 3, 14, 20, 0)))..
+crime_date(30032288, datime(date(2021, 3, 3, 14, 20, 0))).
 criminal_race(30032288,black).
 num_of_charges(30032288, 4).
 has_arrest(jd442829, 30008745).
-crime_date(30008745, datime(date(2020, 11, 27, 11, 15, 0)))..
+crime_date(30008745, datime(date(2020, 11, 27, 11, 15, 0))).
 criminal_race(30008745,black).
 num_of_charges(30008745, 4).
 has_arrest(hx333887, 19203921).
-crime_date(19203921, datime(date(2015, 10, 12, 19, 15, 0)))..
+crime_date(19203921, datime(date(2015, 10, 12, 19, 15, 0))).
 criminal_race(19203921,black).
 num_of_charges(19203921, 4).
 has_arrest(jf166274, 30123922).
-crime_date(30123922, datime(date(2022, 3, 7, 15, 14, 0)))..
+crime_date(30123922, datime(date(2022, 3, 7, 15, 14, 0))).
 criminal_race(30123922,black).
 num_of_charges(30123922, 4).
 has_arrest(jd444618, 30009302).
-crime_date(30009302, datime(date(2020, 11, 29, 6, 4, 0)))..
+crime_date(30009302, datime(date(2020, 11, 29, 6, 4, 0))).
 criminal_race(30009302,black).
 num_of_charges(30009302, 4).
 has_arrest(jf371773, 30172068).
-crime_date(30172068, datime(date(2022, 8, 26, 22, 22, 0)))..
+crime_date(30172068, datime(date(2022, 8, 26, 22, 22, 0))).
 criminal_race(30172068,white_hispanic).
 num_of_charges(30172068, 4).
 has_arrest(jf100233, 30124181).
-crime_date(30124181, datime(date(2022, 3, 8, 15, 3, 0)))..
+crime_date(30124181, datime(date(2022, 3, 8, 15, 3, 0))).
 criminal_race(30124181,black).
 num_of_charges(30124181, 4).
 has_arrest(jf167008, 30124104).
-crime_date(30124104, datime(date(2022, 3, 8, 10, 31, 0)))..
+crime_date(30124104, datime(date(2022, 3, 8, 10, 31, 0))).
 criminal_race(30124104,white).
 num_of_charges(30124104, 4).
 has_arrest(jf199836, 30135906).
-crime_date(30135906, datime(date(2022, 4, 18, 19, 11, 0)))..
+crime_date(30135906, datime(date(2022, 4, 18, 19, 11, 0))).
 criminal_race(30135906,white_hispanic).
 num_of_charges(30135906, 4).
 has_arrest(jd451449, 30011390).
-crime_date(30011390, datime(date(2020, 12, 6, 18, 35, 0)))..
+crime_date(30011390, datime(date(2020, 12, 6, 18, 35, 0))).
 criminal_race(30011390,black).
 num_of_charges(30011390, 4).
 has_arrest(je164442, 30034181).
-crime_date(30034181, datime(date(2021, 3, 9, 23, 37, 0)))..
+crime_date(30034181, datime(date(2021, 3, 9, 23, 37, 0))).
 criminal_race(30034181,black).
 num_of_charges(30034181, 4).
 has_arrest(jb236716, 30033989).
-crime_date(30033989, datime(date(2021, 3, 9, 12, 30, 0)))..
+crime_date(30033989, datime(date(2021, 3, 9, 12, 30, 0))).
 criminal_race(30033989,black).
 num_of_charges(30033989, 4).
 has_arrest(je453172, 30124526).
-crime_date(30124526, datime(date(2022, 3, 9, 17, 22, 0)))..
+crime_date(30124526, datime(date(2022, 3, 9, 17, 22, 0))).
 criminal_race(30124526,black).
 num_of_charges(30124526, 4).
 has_arrest(jf280055, 30152333).
-crime_date(30152333, datime(date(2022, 6, 14, 23, 29, 0)))..
+crime_date(30152333, datime(date(2022, 6, 14, 23, 29, 0))).
 criminal_race(30152333,black).
 num_of_charges(30152333, 4).
 has_arrest(jf279958, 30152316).
-crime_date(30152316, datime(date(2022, 6, 14, 21, 51, 0)))..
+crime_date(30152316, datime(date(2022, 6, 14, 21, 51, 0))).
 criminal_race(30152316,white_hispanic).
 num_of_charges(30152316, 4).
 has_arrest(je444402, 30136007).
-crime_date(30136007, datime(date(2022, 4, 19, 11, 37, 0)))..
+crime_date(30136007, datime(date(2022, 4, 19, 11, 37, 0))).
 criminal_race(30136007,black).
 num_of_charges(30136007, 4).
 has_arrest(je164718, 30034323).
-crime_date(30034323, datime(date(2021, 3, 10, 10, 51, 0)))..
+crime_date(30034323, datime(date(2021, 3, 10, 10, 51, 0))).
 criminal_race(30034323,black).
 num_of_charges(30034323, 4).
 has_arrest(je164426, 30034204).
-crime_date(30034204, datime(date(2021, 3, 10, 1, 30, 0)))..
+crime_date(30034204, datime(date(2021, 3, 10, 1, 30, 0))).
 criminal_race(30034204,black).
 num_of_charges(30034204, 4).
 has_arrest(jd358038, 30034303).
-crime_date(30034303, datime(date(2021, 3, 10, 11, 26, 0)))..
+crime_date(30034303, datime(date(2021, 3, 10, 11, 26, 0))).
 criminal_race(30034303,black).
 num_of_charges(30034303, 4).
 has_arrest(jf152184, 30124797).
-crime_date(30124797, datime(date(2022, 3, 10, 13, 55, 0)))..
+crime_date(30124797, datime(date(2022, 3, 10, 13, 55, 0))).
 criminal_race(30124797,black).
 num_of_charges(30124797, 4).
 has_arrest(jf128181, 30124687).
-crime_date(30124687, datime(date(2022, 3, 10, 8, 55, 0)))..
+crime_date(30124687, datime(date(2022, 3, 10, 8, 55, 0))).
 criminal_race(30124687,black).
 num_of_charges(30124687, 4).
 has_arrest(je114110, 30034780).
-crime_date(30034780, datime(date(2021, 3, 11, 21, 0, 0)))..
+crime_date(30034780, datime(date(2021, 3, 11, 21, 0, 0))).
 criminal_race(30034780,black).
 num_of_charges(30034780, 4).
 has_arrest(je143284, 30034728).
-crime_date(30034728, datime(date(2021, 3, 11, 17, 5, 0)))..
+crime_date(30034728, datime(date(2021, 3, 11, 17, 5, 0))).
 criminal_race(30034728,white_hispanic).
 num_of_charges(30034728, 4).
 has_arrest(jf141403, 30152056).
-crime_date(30152056, datime(date(2022, 6, 14, 8, 35, 0)))..
+crime_date(30152056, datime(date(2022, 6, 14, 8, 35, 0))).
 criminal_race(30152056,black).
 num_of_charges(30152056, 4).
 has_arrest(je343566, 30125022).
-crime_date(30125022, datime(date(2022, 3, 11, 14, 53, 0)))..
+crime_date(30125022, datime(date(2022, 3, 11, 14, 53, 0))).
 criminal_race(30125022,black).
 num_of_charges(30125022, 4).
 has_arrest(jf130742, 30125027).
-crime_date(30125027, datime(date(2022, 3, 11, 11, 0, 0)))..
+crime_date(30125027, datime(date(2022, 3, 11, 11, 0, 0))).
 criminal_race(30125027,black).
 num_of_charges(30125027, 4).
 has_arrest(je120147, 30034905).
-crime_date(30034905, datime(date(2021, 3, 12, 10, 35, 0)))..
+crime_date(30034905, datime(date(2021, 3, 12, 10, 35, 0))).
 criminal_race(30034905,white_hispanic).
 num_of_charges(30034905, 4).
 has_arrest(jf120326, 30125146).
-crime_date(30125146, datime(date(2022, 3, 11, 19, 40, 0)))..
+crime_date(30125146, datime(date(2022, 3, 11, 19, 40, 0))).
 criminal_race(30125146,black).
 num_of_charges(30125146, 4).
 has_arrest(jd457738, 30035234).
-crime_date(30035234, datime(date(2021, 3, 13, 10, 10, 0)))..
+crime_date(30035234, datime(date(2021, 3, 13, 10, 10, 0))).
 criminal_race(30035234,black).
 num_of_charges(30035234, 4).
 has_arrest(jf172207, 30125703).
-crime_date(30125703, datime(date(2022, 3, 13, 21, 24, 0)))..
+crime_date(30125703, datime(date(2022, 3, 13, 21, 24, 0))).
 criminal_race(30125703,black).
 num_of_charges(30125703, 4).
 has_arrest(jf215062, 30136717).
-crime_date(30136717, datime(date(2022, 4, 21, 16, 41, 0)))..
+crime_date(30136717, datime(date(2022, 4, 21, 16, 41, 0))).
 criminal_race(30136717,black).
 num_of_charges(30136717, 4).
 has_arrest(jf173653, 30125945).
-crime_date(30125945, datime(date(2022, 3, 14, 14, 59, 0)))..
+crime_date(30125945, datime(date(2022, 3, 14, 14, 59, 0))).
 criminal_race(30125945,black).
 num_of_charges(30125945, 4).
 has_arrest(jd381573, 30036618).
-crime_date(30036618, datime(date(2021, 3, 18, 14, 30, 0)))..
+crime_date(30036618, datime(date(2021, 3, 18, 14, 30, 0))).
 criminal_race(30036618,black).
 num_of_charges(30036618, 4).
 has_arrest(je285314, 30152516).
-crime_date(30152516, datime(date(2022, 6, 15, 18, 52, 0)))..
+crime_date(30152516, datime(date(2022, 6, 15, 18, 52, 0))).
 criminal_race(30152516,black).
 num_of_charges(30152516, 4).
 has_arrest(jf175178, 30126323).
-crime_date(30126323, datime(date(2022, 3, 15, 20, 5, 0)))..
+crime_date(30126323, datime(date(2022, 3, 15, 20, 5, 0))).
 criminal_race(30126323,black).
 num_of_charges(30126323, 4).
 has_arrest(jd203676, 30126133).
-crime_date(30126133, datime(date(2022, 3, 15, 14, 45, 0)))..
+crime_date(30126133, datime(date(2022, 3, 15, 14, 45, 0))).
 criminal_race(30126133,black).
 num_of_charges(30126133, 4).
 has_arrest(jd203676, 30126135).
-crime_date(30126135, datime(date(2022, 3, 15, 8, 10, 0)))..
+crime_date(30126135, datime(date(2022, 3, 15, 8, 10, 0))).
 criminal_race(30126135,black).
 num_of_charges(30126135, 4).
 has_arrest(jf140040, 30126140).
-crime_date(30126140, datime(date(2022, 3, 15, 7, 44, 0)))..
+crime_date(30126140, datime(date(2022, 3, 15, 7, 44, 0))).
 criminal_race(30126140,black).
 num_of_charges(30126140, 4).
 has_arrest(jf140040, 30126138).
-crime_date(30126138, datime(date(2022, 3, 15, 7, 44, 0)))..
+crime_date(30126138, datime(date(2022, 3, 15, 7, 44, 0))).
 criminal_race(30126138,black).
 num_of_charges(30126138, 4).
 has_arrest(je174425, 30037190).
-crime_date(30037190, datime(date(2021, 3, 20, 18, 57, 0)))..
+crime_date(30037190, datime(date(2021, 3, 20, 18, 57, 0))).
 criminal_race(30037190,black).
 num_of_charges(30037190, 4).
 has_arrest(je174211, 30037157).
-crime_date(30037157, datime(date(2021, 3, 20, 14, 7, 0)))..
+crime_date(30037157, datime(date(2021, 3, 20, 14, 7, 0))).
 criminal_race(30037157,black).
 num_of_charges(30037157, 4).
 has_arrest(jf176280, 30126591).
-crime_date(30126591, datime(date(2022, 3, 16, 18, 54, 0)))..
+crime_date(30126591, datime(date(2022, 3, 16, 18, 54, 0))).
 criminal_race(30126591,black).
 num_of_charges(30126591, 4).
 has_arrest(jd327153, 30037624).
-crime_date(30037624, datime(date(2021, 3, 22, 9, 40, 0)))..
+crime_date(30037624, datime(date(2021, 3, 22, 9, 40, 0))).
 criminal_race(30037624,black).
 num_of_charges(30037624, 4).
 has_arrest(jc334372, 30037609).
-crime_date(30037609, datime(date(2021, 3, 22, 6, 40, 0)))..
+crime_date(30037609, datime(date(2021, 3, 22, 6, 40, 0))).
 criminal_race(30037609,black).
 num_of_charges(30037609, 4).
 has_arrest(je176830, 30037841).
-crime_date(30037841, datime(date(2021, 3, 22, 22, 3, 0)))..
+crime_date(30037841, datime(date(2021, 3, 22, 22, 3, 0))).
 criminal_race(30037841,white_hispanic).
 num_of_charges(30037841, 4).
 has_arrest(je176830, 30037818).
-crime_date(30037818, datime(date(2021, 3, 22, 22, 30, 0)))..
+crime_date(30037818, datime(date(2021, 3, 22, 22, 30, 0))).
 criminal_race(30037818,white_hispanic).
 num_of_charges(30037818, 4).
 has_arrest(je288138, 30126843).
-crime_date(30126843, datime(date(2022, 3, 17, 15, 1, 0)))..
+crime_date(30126843, datime(date(2022, 3, 17, 15, 1, 0))).
 criminal_race(30126843,black).
 num_of_charges(30126843, 4).
 has_arrest(jd160647, 30037918).
-crime_date(30037918, datime(date(2021, 3, 23, 9, 0, 0)))..
+crime_date(30037918, datime(date(2021, 3, 23, 9, 0, 0))).
 criminal_race(30037918,black).
 num_of_charges(30037918, 4).
 has_arrest(je177363, 30038017).
-crime_date(30038017, datime(date(2021, 3, 23, 13, 1, 0)))..
+crime_date(30038017, datime(date(2021, 3, 23, 13, 1, 0))).
 criminal_race(30038017,black).
 num_of_charges(30038017, 4).
 has_arrest(jd301394, 30038011).
-crime_date(30038011, datime(date(2021, 3, 23, 13, 40, 0)))..
+crime_date(30038011, datime(date(2021, 3, 23, 13, 40, 0))).
 criminal_race(30038011,black).
 num_of_charges(30038011, 4).
 has_arrest(jf277233, 30152770).
-crime_date(30152770, datime(date(2022, 6, 16, 15, 8, 0)))..
+crime_date(30152770, datime(date(2022, 6, 16, 15, 8, 0))).
 criminal_race(30152770,white_hispanic).
 num_of_charges(30152770, 4).
 has_arrest(jd225652, 30038253).
-crime_date(30038253, datime(date(2021, 3, 24, 10, 55, 0)))..
+crime_date(30038253, datime(date(2021, 3, 24, 10, 55, 0))).
 criminal_race(30038253,black).
 num_of_charges(30038253, 4).
 has_arrest(je136065, 30038565).
-crime_date(30038565, datime(date(2021, 3, 25, 10, 33, 0)))..
+crime_date(30038565, datime(date(2021, 3, 25, 10, 33, 0))).
 criminal_race(30038565,black).
 num_of_charges(30038565, 4).
 has_arrest(je179906, 30038750).
-crime_date(30038750, datime(date(2021, 3, 26, 0, 18, 0)))..
+crime_date(30038750, datime(date(2021, 3, 26, 0, 18, 0))).
 criminal_race(30038750,black).
 num_of_charges(30038750, 4).
 has_arrest(jf218002, 30137493).
-crime_date(30137493, datime(date(2022, 4, 24, 4, 51, 0)))..
+crime_date(30137493, datime(date(2022, 4, 24, 4, 51, 0))).
 criminal_race(30137493,black).
 num_of_charges(30137493, 4).
 has_arrest(je181894, 30039285).
-crime_date(30039285, datime(date(2021, 3, 28, 1, 34, 0)))..
+crime_date(30039285, datime(date(2021, 3, 28, 1, 34, 0))).
 criminal_race(30039285,black).
 num_of_charges(30039285, 4).
 has_arrest(je183243, 30039700).
-crime_date(30039700, datime(date(2021, 3, 29, 14, 30, 0)))..
+crime_date(30039700, datime(date(2021, 3, 29, 14, 30, 0))).
 criminal_race(30039700,black).
 num_of_charges(30039700, 4).
 has_arrest(je181985, 30039665).
-crime_date(30039665, datime(date(2021, 3, 29, 13, 0, 0)))..
+crime_date(30039665, datime(date(2021, 3, 29, 13, 0, 0))).
 criminal_race(30039665,white_hispanic).
 num_of_charges(30039665, 4).
 has_arrest(je340026, 30153087).
-crime_date(30153087, datime(date(2022, 6, 17, 14, 54, 0)))..
+crime_date(30153087, datime(date(2022, 6, 17, 14, 54, 0))).
 criminal_race(30153087,black).
 num_of_charges(30153087, 4).
 has_arrest(jf221655, 30138329).
-crime_date(30138329, datime(date(2022, 4, 27, 9, 46, 0)))..
+crime_date(30138329, datime(date(2022, 4, 27, 9, 46, 0))).
 criminal_race(30138329,black).
 num_of_charges(30138329, 4).
 has_arrest(jf285204, 30153543).
-crime_date(30153543, datime(date(2022, 6, 18, 21, 44, 0)))..
+crime_date(30153543, datime(date(2022, 6, 18, 21, 44, 0))).
 criminal_race(30153543,black).
 num_of_charges(30153543, 4).
 has_arrest(jf336974, 30172692).
-crime_date(30172692, datime(date(2022, 8, 29, 10, 7, 0)))..
+crime_date(30172692, datime(date(2022, 8, 29, 10, 7, 0))).
 criminal_race(30172692,black).
 num_of_charges(30172692, 4).
 has_arrest(jf223762, 30138846).
-crime_date(30138846, datime(date(2022, 4, 29, 1, 51, 0)))..
+crime_date(30138846, datime(date(2022, 4, 29, 1, 51, 0))).
 criminal_race(30138846,black).
 num_of_charges(30138846, 4).
 has_arrest(jf285622, 30153648).
-crime_date(30153648, datime(date(2022, 6, 19, 9, 13, 0)))..
+crime_date(30153648, datime(date(2022, 6, 19, 9, 13, 0))).
 criminal_race(30153648,black).
 num_of_charges(30153648, 4).
 has_arrest(jf285439, 30173074).
-crime_date(30173074, datime(date(2022, 8, 30, 16, 5, 0)))..
+crime_date(30173074, datime(date(2022, 8, 30, 16, 5, 0))).
 criminal_race(30173074,black).
 num_of_charges(30173074, 4).
 has_arrest(jf228484, 30139958).
-crime_date(30139958, datime(date(2022, 5, 3, 10, 9, 0)))..
+crime_date(30139958, datime(date(2022, 5, 3, 10, 9, 0))).
 criminal_race(30139958,black).
 num_of_charges(30139958, 4).
 has_arrest(jf289151, 30154408).
-crime_date(30154408, datime(date(2022, 6, 21, 21, 49, 0)))..
+crime_date(30154408, datime(date(2022, 6, 21, 21, 49, 0))).
 criminal_race(30154408,white_hispanic).
 num_of_charges(30154408, 4).
 has_arrest(jf230855, 30140519).
-crime_date(30140519, datime(date(2022, 5, 5, 10, 35, 0)))..
+crime_date(30140519, datime(date(2022, 5, 5, 10, 35, 0))).
 criminal_race(30140519,black).
 num_of_charges(30140519, 4).
 has_arrest(je474395, 30140490).
-crime_date(30140490, datime(date(2022, 5, 5, 10, 15, 0)))..
+crime_date(30140490, datime(date(2022, 5, 5, 10, 15, 0))).
 criminal_race(30140490,white_hispanic).
 num_of_charges(30140490, 4).
 has_arrest(jf261306, 30173275).
-crime_date(30173275, datime(date(2022, 8, 31, 10, 10, 0)))..
+crime_date(30173275, datime(date(2022, 8, 31, 10, 10, 0))).
 criminal_race(30173275,black).
 num_of_charges(30173275, 4).
 has_arrest(jf356883, 30173273).
-crime_date(30173273, datime(date(2022, 8, 31, 8, 46, 0)))..
+crime_date(30173273, datime(date(2022, 8, 31, 8, 46, 0))).
 criminal_race(30173273,black).
 num_of_charges(30173273, 4).
 has_arrest(jf377163, 30173283).
-crime_date(30173283, datime(date(2022, 8, 31, 9, 37, 0)))..
+crime_date(30173283, datime(date(2022, 8, 31, 9, 37, 0))).
 criminal_race(30173283,black).
 num_of_charges(30173283, 4).
 has_arrest(jf233232, 30141029).
-crime_date(30141029, datime(date(2022, 5, 7, 10, 13, 0)))..
+crime_date(30141029, datime(date(2022, 5, 7, 10, 13, 0))).
 criminal_race(30141029,black).
 num_of_charges(30141029, 4).
 has_arrest(jc248729, 30154555).
-crime_date(30154555, datime(date(2022, 6, 22, 11, 0, 0)))..
+crime_date(30154555, datime(date(2022, 6, 22, 11, 0, 0))).
 criminal_race(30154555,black).
 num_of_charges(30154555, 4).
 has_arrest(jf234788, 30141359).
-crime_date(30141359, datime(date(2022, 5, 8, 17, 55, 0)))..
+crime_date(30141359, datime(date(2022, 5, 8, 17, 55, 0))).
 criminal_race(30141359,black).
 num_of_charges(30141359, 4).
 has_arrest(jf234523, 30141306).
-crime_date(30141306, datime(date(2022, 5, 8, 13, 29, 0)))..
+crime_date(30141306, datime(date(2022, 5, 8, 13, 29, 0))).
 criminal_race(30141306,black).
 num_of_charges(30141306, 4).
 has_arrest(jf164766, 30173634).
-crime_date(30173634, datime(date(2022, 9, 1, 9, 10, 0)))..
+crime_date(30173634, datime(date(2022, 9, 1, 9, 10, 0))).
 criminal_race(30173634,black).
 num_of_charges(30173634, 4).
 has_arrest(jf197755, 30154871).
-crime_date(30154871, datime(date(2022, 6, 23, 14, 55, 0)))..
+crime_date(30154871, datime(date(2022, 6, 23, 14, 55, 0))).
 criminal_race(30154871,black).
 num_of_charges(30154871, 4).
 has_arrest(jf235754, 30141685).
-crime_date(30141685, datime(date(2022, 5, 9, 15, 6, 0)))..
+crime_date(30141685, datime(date(2022, 5, 9, 15, 6, 0))).
 criminal_race(30141685,white_hispanic).
 num_of_charges(30141685, 4).
 has_arrest(je391908, 30173684).
-crime_date(30173684, datime(date(2022, 9, 1, 14, 15, 0)))..
+crime_date(30173684, datime(date(2022, 9, 1, 14, 15, 0))).
 criminal_race(30173684,black).
 num_of_charges(30173684, 4).
 has_arrest(jf378370, 30173581).
-crime_date(30173581, datime(date(2022, 9, 1, 2, 29, 0)))..
+crime_date(30173581, datime(date(2022, 9, 1, 2, 29, 0))).
 criminal_race(30173581,black).
 num_of_charges(30173581, 4).
 has_arrest(jf237550, 30142076).
-crime_date(30142076, datime(date(2022, 5, 10, 22, 45, 0)))..
+crime_date(30142076, datime(date(2022, 5, 10, 22, 45, 0))).
 criminal_race(30142076,black).
 num_of_charges(30142076, 4).
 has_arrest(jd373241, 30155279).
-crime_date(30155279, datime(date(2022, 6, 24, 19, 15, 0)))..
+crime_date(30155279, datime(date(2022, 6, 24, 19, 15, 0))).
 criminal_race(30155279,black).
 num_of_charges(30155279, 4).
 has_arrest(jf160773, 30142513).
-crime_date(30142513, datime(date(2022, 5, 12, 14, 46, 0)))..
+crime_date(30142513, datime(date(2022, 5, 12, 14, 46, 0))).
 criminal_race(30142513,black).
 num_of_charges(30142513, 4).
 has_arrest(je385492, 30142545).
-crime_date(30142545, datime(date(2022, 5, 12, 15, 42, 0)))..
+crime_date(30142545, datime(date(2022, 5, 12, 15, 42, 0))).
 criminal_race(30142545,black).
 num_of_charges(30142545, 4).
 has_arrest(jf277469, 30155624).
-crime_date(30155624, datime(date(2022, 6, 26, 14, 30, 0)))..
+crime_date(30155624, datime(date(2022, 6, 26, 14, 30, 0))).
 criminal_race(30155624,black).
 num_of_charges(30155624, 4).
 has_arrest(jf294294, 30155952).
-crime_date(30155952, datime(date(2022, 6, 27, 17, 25, 0)))..
+crime_date(30155952, datime(date(2022, 6, 27, 17, 25, 0))).
 criminal_race(30155952,black).
 num_of_charges(30155952, 4).
 has_arrest(jf295434, 30155780).
-crime_date(30155780, datime(date(2022, 6, 27, 1, 27, 0)))..
+crime_date(30155780, datime(date(2022, 6, 27, 1, 27, 0))).
 criminal_race(30155780,black).
 num_of_charges(30155780, 4).
 has_arrest(jf242623, 30143252).
-crime_date(30143252, datime(date(2022, 5, 14, 23, 44, 0)))..
+crime_date(30143252, datime(date(2022, 5, 14, 23, 44, 0))).
 criminal_race(30143252,black).
 num_of_charges(30143252, 4).
 has_arrest(jf244550, 30143692).
-crime_date(30143692, datime(date(2022, 5, 16, 15, 50, 0)))..
+crime_date(30143692, datime(date(2022, 5, 16, 15, 50, 0))).
 criminal_race(30143692,white_hispanic).
 num_of_charges(30143692, 4).
 has_arrest(jf241180, 30142957).
-crime_date(30142957, datime(date(2022, 5, 13, 19, 2, 0)))..
+crime_date(30142957, datime(date(2022, 5, 13, 19, 2, 0))).
 criminal_race(30142957,black).
 num_of_charges(30142957, 4).
 has_arrest(jf241529, 30143035).
-crime_date(30143035, datime(date(2022, 5, 14, 2, 11, 0)))..
+crime_date(30143035, datime(date(2022, 5, 14, 2, 11, 0))).
 criminal_race(30143035,black).
 num_of_charges(30143035, 4).
 has_arrest(jf240335, 30142760).
-crime_date(30142760, datime(date(2022, 5, 13, 8, 24, 0)))..
+crime_date(30142760, datime(date(2022, 5, 13, 8, 24, 0))).
 criminal_race(30142760,black).
 num_of_charges(30142760, 4).
 has_arrest(jf241449, 30143013).
-crime_date(30143013, datime(date(2022, 5, 13, 23, 31, 0)))..
+crime_date(30143013, datime(date(2022, 5, 13, 23, 31, 0))).
 criminal_race(30143013,black).
 num_of_charges(30143013, 4).
 has_arrest(jf380692, 30174163).
-crime_date(30174163, datime(date(2022, 9, 3, 2, 9, 0)))..
+crime_date(30174163, datime(date(2022, 9, 3, 2, 9, 0))).
 criminal_race(30174163,black).
 num_of_charges(30174163, 4).
 has_arrest(jf245199, 30143999).
-crime_date(30143999, datime(date(2022, 5, 17, 19, 20, 0)))..
+crime_date(30143999, datime(date(2022, 5, 17, 19, 20, 0))).
 criminal_race(30143999,black).
 num_of_charges(30143999, 4).
 has_arrest(je447754, 30156131).
-crime_date(30156131, datime(date(2022, 6, 28, 10, 56, 0)))..
+crime_date(30156131, datime(date(2022, 6, 28, 10, 56, 0))).
 criminal_race(30156131,white_hispanic).
 num_of_charges(30156131, 4).
 has_arrest(jf113651, 30144221).
-crime_date(30144221, datime(date(2022, 5, 18, 14, 0, 0)))..
+crime_date(30144221, datime(date(2022, 5, 18, 14, 0, 0))).
 criminal_race(30144221,black).
 num_of_charges(30144221, 4).
 has_arrest(jf381256, 30174228).
-crime_date(30174228, datime(date(2022, 9, 3, 8, 16, 0)))..
+crime_date(30174228, datime(date(2022, 9, 3, 8, 16, 0))).
 criminal_race(30174228,black).
 num_of_charges(30174228, 4).
 has_arrest(jf380154, 30174302).
-crime_date(30174302, datime(date(2022, 9, 3, 16, 40, 0)))..
+crime_date(30174302, datime(date(2022, 9, 3, 16, 40, 0))).
 criminal_race(30174302,white_hispanic).
 num_of_charges(30174302, 4).
 has_arrest(jf248696, 30144682).
-crime_date(30144682, datime(date(2022, 5, 19, 22, 54, 0)))..
+crime_date(30144682, datime(date(2022, 5, 19, 22, 54, 0))).
 criminal_race(30144682,black).
 num_of_charges(30144682, 4).
 has_arrest(jf248696, 30144695).
-crime_date(30144695, datime(date(2022, 5, 19, 22, 54, 0)))..
+crime_date(30144695, datime(date(2022, 5, 19, 22, 54, 0))).
 criminal_race(30144695,black).
 num_of_charges(30144695, 4).
 has_arrest(jf224024, 30144538).
-crime_date(30144538, datime(date(2022, 5, 19, 15, 5, 0)))..
+crime_date(30144538, datime(date(2022, 5, 19, 15, 5, 0))).
 criminal_race(30144538,black).
 num_of_charges(30144538, 4).
 has_arrest(jf247428, 30144491).
-crime_date(30144491, datime(date(2022, 5, 19, 10, 55, 0)))..
+crime_date(30144491, datime(date(2022, 5, 19, 10, 55, 0))).
 criminal_race(30144491,black).
 num_of_charges(30144491, 4).
 has_arrest(jf256392, 30156529).
-crime_date(30156529, datime(date(2022, 6, 29, 15, 53, 0)))..
+crime_date(30156529, datime(date(2022, 6, 29, 15, 53, 0))).
 criminal_race(30156529,black).
 num_of_charges(30156529, 4).
 has_arrest(jf249405, 30144833).
-crime_date(30144833, datime(date(2022, 5, 20, 14, 22, 0)))..
+crime_date(30144833, datime(date(2022, 5, 20, 14, 22, 0))).
 criminal_race(30144833,black).
 num_of_charges(30144833, 4).
 has_arrest(je300699, 30156986).
-crime_date(30156986, datime(date(2022, 6, 30, 23, 59, 0)))..
+crime_date(30156986, datime(date(2022, 6, 30, 23, 59, 0))).
 criminal_race(30156986,black).
 num_of_charges(30156986, 4).
 has_arrest(jf300280, 30156874).
-crime_date(30156874, datime(date(2022, 6, 30, 17, 28, 0)))..
+crime_date(30156874, datime(date(2022, 6, 30, 17, 28, 0))).
 criminal_race(30156874,black).
 num_of_charges(30156874, 4).
 has_arrest(jf133162, 30145331).
-crime_date(30145331, datime(date(2022, 5, 22, 12, 50, 0)))..
+crime_date(30145331, datime(date(2022, 5, 22, 12, 50, 0))).
 criminal_race(30145331,white_hispanic).
 num_of_charges(30145331, 4).
 has_arrest(jf251130, 30145366).
-crime_date(30145366, datime(date(2022, 5, 22, 14, 47, 0)))..
+crime_date(30145366, datime(date(2022, 5, 22, 14, 47, 0))).
 criminal_race(30145366,black).
 num_of_charges(30145366, 4).
 has_arrest(hx293604, 18909866).
-crime_date(18909866, datime(date(2014, 6, 7, 10, 50, 0)))..
+crime_date(18909866, datime(date(2014, 6, 7, 10, 50, 0))).
 criminal_race(18909866,black).
 num_of_charges(18909866, 4).
 has_arrest(jf300280, 30156867).
-crime_date(30156867, datime(date(2022, 6, 30, 17, 31, 0)))..
+crime_date(30156867, datime(date(2022, 6, 30, 17, 31, 0))).
 criminal_race(30156867,black).
 num_of_charges(30156867, 4).
 has_arrest(jc225720, 30156742).
-crime_date(30156742, datime(date(2022, 6, 30, 10, 0, 0)))..
+crime_date(30156742, datime(date(2022, 6, 30, 10, 0, 0))).
 criminal_race(30156742,black).
 num_of_charges(30156742, 4).
 has_arrest(jd291374, 30157103).
-crime_date(30157103, datime(date(2022, 7, 1, 12, 5, 0)))..
+crime_date(30157103, datime(date(2022, 7, 1, 12, 5, 0))).
 criminal_race(30157103,black).
 num_of_charges(30157103, 4).
 has_arrest(jf253293, 30146005).
-crime_date(30146005, datime(date(2022, 5, 24, 18, 5, 0)))..
+crime_date(30146005, datime(date(2022, 5, 24, 18, 5, 0))).
 criminal_race(30146005,black).
 num_of_charges(30146005, 4).
 has_arrest(jf253314, 30145808).
-crime_date(30145808, datime(date(2022, 5, 24, 0, 42, 0)))..
+crime_date(30145808, datime(date(2022, 5, 24, 0, 42, 0))).
 criminal_race(30145808,black).
 num_of_charges(30145808, 4).
 has_arrest(jf232247, 30145848).
-crime_date(30145848, datime(date(2022, 5, 24, 9, 55, 0)))..
+crime_date(30145848, datime(date(2022, 5, 24, 9, 55, 0))).
 criminal_race(30145848,black).
 num_of_charges(30145848, 4).
 has_arrest(jf199836, 30145844).
-crime_date(30145844, datime(date(2022, 5, 24, 9, 30, 0)))..
+crime_date(30145844, datime(date(2022, 5, 24, 9, 30, 0))).
 criminal_race(30145844,white_hispanic).
 num_of_charges(30145844, 4).
 has_arrest(je357713, 30145858).
-crime_date(30145858, datime(date(2022, 5, 24, 9, 0, 0)))..
+crime_date(30145858, datime(date(2022, 5, 24, 9, 0, 0))).
 criminal_race(30145858,black).
 num_of_charges(30145858, 4).
 has_arrest(jf254260, 30145991).
-crime_date(30145991, datime(date(2022, 5, 24, 18, 30, 0)))..
+crime_date(30145991, datime(date(2022, 5, 24, 18, 30, 0))).
 criminal_race(30145991,black).
 num_of_charges(30145991, 4).
 has_arrest(jf301491, 30157153).
-crime_date(30157153, datime(date(2022, 7, 1, 15, 14, 0)))..
+crime_date(30157153, datime(date(2022, 7, 1, 15, 14, 0))).
 criminal_race(30157153,white_hispanic).
 num_of_charges(30157153, 4).
 has_arrest(jf300969, 30157104).
-crime_date(30157104, datime(date(2022, 7, 1, 9, 3, 0)))..
+crime_date(30157104, datime(date(2022, 7, 1, 9, 3, 0))).
 criminal_race(30157104,black).
 num_of_charges(30157104, 4).
 has_arrest(jf226997, 30157123).
-crime_date(30157123, datime(date(2022, 7, 1, 13, 24, 0)))..
+crime_date(30157123, datime(date(2022, 7, 1, 13, 24, 0))).
 criminal_race(30157123,black).
 num_of_charges(30157123, 4).
 has_arrest(jf240163, 30146189).
-crime_date(30146189, datime(date(2022, 5, 25, 10, 50, 0)))..
+crime_date(30146189, datime(date(2022, 5, 25, 10, 50, 0))).
 criminal_race(30146189,black).
 num_of_charges(30146189, 4).
 has_arrest(jf255198, 30146281).
-crime_date(30146281, datime(date(2022, 5, 25, 16, 30, 0)))..
+crime_date(30146281, datime(date(2022, 5, 25, 16, 30, 0))).
 criminal_race(30146281,black).
 num_of_charges(30146281, 4).
 has_arrest(jf185705, 30146180).
-crime_date(30146180, datime(date(2022, 5, 25, 9, 50, 0)))..
+crime_date(30146180, datime(date(2022, 5, 25, 9, 50, 0))).
 criminal_race(30146180,white_hispanic).
 num_of_charges(30146180, 4).
 has_arrest(jf254973, 30146212).
-crime_date(30146212, datime(date(2022, 5, 25, 11, 30, 0)))..
+crime_date(30146212, datime(date(2022, 5, 25, 11, 30, 0))).
 criminal_race(30146212,black).
 num_of_charges(30146212, 4).
 has_arrest(jb493474, 30146531).
-crime_date(30146531, datime(date(2022, 5, 26, 8, 30, 0)))..
+crime_date(30146531, datime(date(2022, 5, 26, 8, 30, 0))).
 criminal_race(30146531,black).
 num_of_charges(30146531, 4).
 has_arrest(jf257894, 30146915).
-crime_date(30146915, datime(date(2022, 5, 27, 16, 26, 0)))..
+crime_date(30146915, datime(date(2022, 5, 27, 16, 26, 0))).
 criminal_race(30146915,black).
 num_of_charges(30146915, 4).
 has_arrest(je454914, 30146868).
-crime_date(30146868, datime(date(2022, 5, 27, 11, 45, 0)))..
+crime_date(30146868, datime(date(2022, 5, 27, 11, 45, 0))).
 criminal_race(30146868,black).
 num_of_charges(30146868, 4).
 has_arrest(jf254640, 30147049).
-crime_date(30147049, datime(date(2022, 5, 27, 21, 0, 0)))..
+crime_date(30147049, datime(date(2022, 5, 27, 21, 0, 0))).
 criminal_race(30147049,white_hispanic).
 num_of_charges(30147049, 4).
 has_arrest(jf304539, 30157929).
-crime_date(30157929, datime(date(2022, 7, 4, 3, 41, 0)))..
+crime_date(30157929, datime(date(2022, 7, 4, 3, 41, 0))).
 criminal_race(30157929,white_hispanic).
 num_of_charges(30157929, 4).
 has_arrest(jf308294, 30158870).
-crime_date(30158870, datime(date(2022, 7, 7, 10, 29, 0)))..
+crime_date(30158870, datime(date(2022, 7, 7, 10, 29, 0))).
 criminal_race(30158870,black).
 num_of_charges(30158870, 4).
 has_arrest(jf309136, 30158888).
-crime_date(30158888, datime(date(2022, 7, 7, 19, 48, 0)))..
+crime_date(30158888, datime(date(2022, 7, 7, 19, 48, 0))).
 criminal_race(30158888,black).
 num_of_charges(30158888, 4).
 has_arrest(je376499, 30159117).
-crime_date(30159117, datime(date(2022, 7, 8, 19, 30, 0)))..
+crime_date(30159117, datime(date(2022, 7, 8, 19, 30, 0))).
 criminal_race(30159117,white_hispanic).
 num_of_charges(30159117, 4).
 has_arrest(jf310323, 30159091).
-crime_date(30159091, datime(date(2022, 7, 8, 18, 12, 0)))..
+crime_date(30159091, datime(date(2022, 7, 8, 18, 12, 0))).
 criminal_race(30159091,black).
 num_of_charges(30159091, 4).
 has_arrest(jf310677, 30159372).
-crime_date(30159372, datime(date(2022, 7, 9, 21, 21, 0)))..
+crime_date(30159372, datime(date(2022, 7, 9, 21, 21, 0))).
 criminal_race(30159372,black).
 num_of_charges(30159372, 4).
 has_arrest(jf310677, 30159733).
-crime_date(30159733, datime(date(2022, 7, 11, 13, 14, 0)))..
+crime_date(30159733, datime(date(2022, 7, 11, 13, 14, 0))).
 criminal_race(30159733,black).
 num_of_charges(30159733, 4).
 has_arrest(jf260542, 30159938).
-crime_date(30159938, datime(date(2022, 7, 12, 9, 14, 0)))..
+crime_date(30159938, datime(date(2022, 7, 12, 9, 14, 0))).
 criminal_race(30159938,white_hispanic).
 num_of_charges(30159938, 4).
 has_arrest(jf275932, 30160407).
-crime_date(30160407, datime(date(2022, 7, 13, 21, 51, 0)))..
+crime_date(30160407, datime(date(2022, 7, 13, 21, 51, 0))).
 criminal_race(30160407,black).
 num_of_charges(30160407, 4).
 has_arrest(jf314170, 30160311).
-crime_date(30160311, datime(date(2022, 7, 13, 15, 20, 0)))..
+crime_date(30160311, datime(date(2022, 7, 13, 15, 20, 0))).
 criminal_race(30160311,black).
 num_of_charges(30160311, 4).
 has_arrest(jf316861, 30160483).
-crime_date(30160483, datime(date(2022, 7, 14, 5, 57, 0)))..
+crime_date(30160483, datime(date(2022, 7, 14, 5, 57, 0))).
 criminal_race(30160483,black).
 num_of_charges(30160483, 4).
 has_arrest(jf308005, 30160831).
-crime_date(30160831, datime(date(2022, 7, 15, 11, 5, 0)))..
+crime_date(30160831, datime(date(2022, 7, 15, 11, 5, 0))).
 criminal_race(30160831,black).
 num_of_charges(30160831, 4).
 has_arrest(jf321367, 30161474).
-crime_date(30161474, datime(date(2022, 7, 18, 2, 9, 0)))..
+crime_date(30161474, datime(date(2022, 7, 18, 2, 9, 0))).
 criminal_race(30161474,white_hispanic).
 num_of_charges(30161474, 4).
 has_arrest(jf301693, 30162423).
-crime_date(30162423, datime(date(2022, 7, 21, 16, 15, 0)))..
+crime_date(30162423, datime(date(2022, 7, 21, 16, 15, 0))).
 criminal_race(30162423,black).
 num_of_charges(30162423, 4).
 has_arrest(jf326342, 30162436).
-crime_date(30162436, datime(date(2022, 7, 21, 17, 48, 0)))..
+crime_date(30162436, datime(date(2022, 7, 21, 17, 48, 0))).
 criminal_race(30162436,black).
 num_of_charges(30162436, 4).
 has_arrest(hy538907, 30162650).
-crime_date(30162650, datime(date(2022, 7, 22, 13, 15, 0)))..
+crime_date(30162650, datime(date(2022, 7, 22, 13, 15, 0))).
 criminal_race(30162650,white_hispanic).
 num_of_charges(30162650, 4).
 has_arrest(jf264039, 30162637).
-crime_date(30162637, datime(date(2022, 7, 22, 10, 0, 0)))..
+crime_date(30162637, datime(date(2022, 7, 22, 10, 0, 0))).
 criminal_race(30162637,black).
 num_of_charges(30162637, 4).
 has_arrest(jf328106, 30162837).
-crime_date(30162837, datime(date(2022, 7, 23, 3, 18, 0)))..
+crime_date(30162837, datime(date(2022, 7, 23, 3, 18, 0))).
 criminal_race(30162837,black).
 num_of_charges(30162837, 4).
 has_arrest(hx319825, 18922554).
-crime_date(18922554, datime(date(2014, 6, 26, 16, 36, 0)))..
+crime_date(18922554, datime(date(2014, 6, 26, 16, 36, 0))).
 criminal_race(18922554,black).
 num_of_charges(18922554, 4).
 has_arrest(jf329251, 30163193).
-crime_date(30163193, datime(date(2022, 7, 24, 20, 54, 0)))..
+crime_date(30163193, datime(date(2022, 7, 24, 20, 54, 0))).
 criminal_race(30163193,white_hispanic).
 num_of_charges(30163193, 4).
 has_arrest(jf251691, 30163473).
-crime_date(30163473, datime(date(2022, 7, 25, 22, 30, 0)))..
+crime_date(30163473, datime(date(2022, 7, 25, 22, 30, 0))).
 criminal_race(30163473,black).
 num_of_charges(30163473, 4).
 has_arrest(hy414074, 19192741).
-crime_date(19192741, datime(date(2015, 9, 23, 15, 50, 0)))..
+crime_date(19192741, datime(date(2015, 9, 23, 15, 50, 0))).
 criminal_race(19192741,black).
 num_of_charges(19192741, 4).
 has_arrest(jf331687, 30163543).
-crime_date(30163543, datime(date(2022, 7, 26, 2, 5, 0)))..
+crime_date(30163543, datime(date(2022, 7, 26, 2, 5, 0))).
 criminal_race(30163543,black).
 num_of_charges(30163543, 4).
 has_arrest(jf103620, 30163885).
-crime_date(30163885, datime(date(2022, 7, 27, 12, 5, 0)))..
+crime_date(30163885, datime(date(2022, 7, 27, 12, 5, 0))).
 criminal_race(30163885,black).
 num_of_charges(30163885, 4).
 has_arrest(jf335497, 30164369).
-crime_date(30164369, datime(date(2022, 7, 28, 23, 3, 0)))..
+crime_date(30164369, datime(date(2022, 7, 28, 23, 3, 0))).
 criminal_race(30164369,black).
 num_of_charges(30164369, 4).
 has_arrest(jf335362, 30164361).
-crime_date(30164361, datime(date(2022, 7, 28, 21, 31, 0)))..
+crime_date(30164361, datime(date(2022, 7, 28, 21, 31, 0))).
 criminal_race(30164361,white_hispanic).
 num_of_charges(30164361, 4).
 has_arrest(jf335362, 30164345).
-crime_date(30164345, datime(date(2022, 7, 28, 21, 28, 0)))..
+crime_date(30164345, datime(date(2022, 7, 28, 21, 28, 0))).
 criminal_race(30164345,white_hispanic).
 num_of_charges(30164345, 4).
 has_arrest(jf337987, 30164822).
-crime_date(30164822, datime(date(2022, 7, 30, 21, 23, 0)))..
+crime_date(30164822, datime(date(2022, 7, 30, 21, 23, 0))).
 criminal_race(30164822,black).
 num_of_charges(30164822, 4).
 has_arrest(jf311820, 30165193).
-crime_date(30165193, datime(date(2022, 8, 1, 14, 10, 0)))..
+crime_date(30165193, datime(date(2022, 8, 1, 14, 10, 0))).
 criminal_race(30165193,white_hispanic).
 num_of_charges(30165193, 4).
 has_arrest(jf217156, 30165144).
-crime_date(30165144, datime(date(2022, 8, 1, 8, 5, 0)))..
+crime_date(30165144, datime(date(2022, 8, 1, 8, 5, 0))).
 criminal_race(30165144,black).
 num_of_charges(30165144, 4).
 has_arrest(jf342200, 30165655).
-crime_date(30165655, datime(date(2022, 8, 3, 1, 33, 0)))..
+crime_date(30165655, datime(date(2022, 8, 3, 1, 33, 0))).
 criminal_race(30165655,black).
 num_of_charges(30165655, 4).
 has_arrest(jf343082, 30165904).
-crime_date(30165904, datime(date(2022, 8, 3, 17, 56, 0)))..
+crime_date(30165904, datime(date(2022, 8, 3, 17, 56, 0))).
 criminal_race(30165904,black).
 num_of_charges(30165904, 4).
 has_arrest(jc248729, 30165980).
-crime_date(30165980, datime(date(2022, 8, 4, 11, 32, 0)))..
+crime_date(30165980, datime(date(2022, 8, 4, 11, 32, 0))).
 criminal_race(30165980,black).
 num_of_charges(30165980, 4).
 has_arrest(jf305436, 30166308).
-crime_date(30166308, datime(date(2022, 8, 5, 13, 2, 0)))..
+crime_date(30166308, datime(date(2022, 8, 5, 13, 2, 0))).
 criminal_race(30166308,white_hispanic).
 num_of_charges(30166308, 4).
 has_arrest(jc248729, 30166559).
-crime_date(30166559, datime(date(2022, 8, 6, 11, 28, 0)))..
+crime_date(30166559, datime(date(2022, 8, 6, 11, 28, 0))).
 criminal_race(30166559,black).
 num_of_charges(30166559, 4).
 has_arrest(jf276495, 30166892).
-crime_date(30166892, datime(date(2022, 8, 7, 17, 44, 0)))..
+crime_date(30166892, datime(date(2022, 8, 7, 17, 44, 0))).
 criminal_race(30166892,black).
 num_of_charges(30166892, 4).
 has_arrest(jf349570, 30167203).
-crime_date(30167203, datime(date(2022, 8, 8, 19, 15, 0)))..
+crime_date(30167203, datime(date(2022, 8, 8, 19, 15, 0))).
 criminal_race(30167203,black).
 num_of_charges(30167203, 4).
 has_arrest(jf349570, 30167198).
-crime_date(30167198, datime(date(2022, 8, 8, 19, 25, 0)))..
+crime_date(30167198, datime(date(2022, 8, 8, 19, 25, 0))).
 criminal_race(30167198,black).
 num_of_charges(30167198, 4).
 has_arrest(jf349714, 30167279).
-crime_date(30167279, datime(date(2022, 8, 9, 1, 16, 0)))..
+crime_date(30167279, datime(date(2022, 8, 9, 1, 16, 0))).
 criminal_race(30167279,black).
 num_of_charges(30167279, 4).
 has_arrest(jf300613, 30167368).
-crime_date(30167368, datime(date(2022, 8, 9, 12, 45, 0)))..
+crime_date(30167368, datime(date(2022, 8, 9, 12, 45, 0))).
 criminal_race(30167368,white_hispanic).
 num_of_charges(30167368, 4).
 has_arrest(jf351405, 30167629).
-crime_date(30167629, datime(date(2022, 8, 10, 11, 57, 0)))..
+crime_date(30167629, datime(date(2022, 8, 10, 11, 57, 0))).
 criminal_race(30167629,black).
 num_of_charges(30167629, 4).
 has_arrest(jf352384, 30167865).
-crime_date(30167865, datime(date(2022, 8, 11, 4, 44, 0)))..
+crime_date(30167865, datime(date(2022, 8, 11, 4, 44, 0))).
 criminal_race(30167865,white_hispanic).
 num_of_charges(30167865, 4).
 has_arrest(je304017, 30167902).
-crime_date(30167902, datime(date(2022, 8, 11, 12, 20, 0)))..
+crime_date(30167902, datime(date(2022, 8, 11, 12, 20, 0))).
 criminal_race(30167902,black).
 num_of_charges(30167902, 4).
 has_arrest(jf353379, 30168235).
-crime_date(30168235, datime(date(2022, 8, 12, 16, 24, 0)))..
+crime_date(30168235, datime(date(2022, 8, 12, 16, 24, 0))).
 criminal_race(30168235,white).
 num_of_charges(30168235, 4).
 has_arrest(jf282944, 30168173).
-crime_date(30168173, datime(date(2022, 8, 12, 11, 50, 0)))..
+crime_date(30168173, datime(date(2022, 8, 12, 11, 50, 0))).
 criminal_race(30168173,black).
 num_of_charges(30168173, 4).
 has_arrest(jf354713, 30168357).
-crime_date(30168357, datime(date(2022, 8, 13, 0, 0, 0)))..
+crime_date(30168357, datime(date(2022, 8, 13, 0, 0, 0))).
 criminal_race(30168357,black).
 num_of_charges(30168357, 4).
 has_arrest(jf354713, 30168338).
-crime_date(30168338, datime(date(2022, 8, 13, 1, 41, 0)))..
+crime_date(30168338, datime(date(2022, 8, 13, 1, 41, 0))).
 criminal_race(30168338,black).
 num_of_charges(30168338, 4).
 has_arrest(hx212376, 18939057).
-crime_date(18939057, datime(date(2014, 7, 21, 10, 42, 0)))..
+crime_date(18939057, datime(date(2014, 7, 21, 10, 42, 0))).
 criminal_race(18939057,black).
 num_of_charges(18939057, 4).
 has_arrest(hx361779, 18942913).
-crime_date(18942913, datime(date(2014, 7, 26, 22, 5, 0)))..
+crime_date(18942913, datime(date(2014, 7, 26, 22, 5, 0))).
 criminal_race(18942913,black).
 num_of_charges(18942913, 4).
 has_arrest(hw201999, 18949647).
-crime_date(18949647, datime(date(2014, 8, 6, 4, 30, 0)))..
+crime_date(18949647, datime(date(2014, 8, 6, 4, 30, 0))).
 criminal_race(18949647,white_hispanic).
 num_of_charges(18949647, 4).
 has_arrest(hx416825, 18976384).
-crime_date(18976384, datime(date(2014, 9, 16, 21, 20, 0)))..
+crime_date(18976384, datime(date(2014, 9, 16, 21, 20, 0))).
 criminal_race(18976384,white_hispanic).
 num_of_charges(18976384, 4).
 has_arrest(hx443411, 18982438).
-crime_date(18982438, datime(date(2014, 9, 25, 21, 58, 0)))..
+crime_date(18982438, datime(date(2014, 9, 25, 21, 58, 0))).
 criminal_race(18982438,black).
 num_of_charges(18982438, 4).
 has_arrest(hx467799, 18995366).
-crime_date(18995366, datime(date(2014, 10, 16, 21, 10, 0)))..
+crime_date(18995366, datime(date(2014, 10, 16, 21, 10, 0))).
 criminal_race(18995366,black).
 num_of_charges(18995366, 4).
 has_arrest(hx479713, 18999831).
-crime_date(18999831, datime(date(2014, 10, 23, 23, 57, 0)))..
+crime_date(18999831, datime(date(2014, 10, 23, 23, 57, 0))).
 criminal_race(18999831,black).
 num_of_charges(18999831, 4).
 has_arrest(hx481071, 19000484).
-crime_date(19000484, datime(date(2014, 10, 24, 23, 38, 0)))..
+crime_date(19000484, datime(date(2014, 10, 24, 23, 38, 0))).
 criminal_race(19000484,black).
 num_of_charges(19000484, 4).
 has_arrest(hx199577, 19005429).
-crime_date(19005429, datime(date(2014, 11, 1, 21, 38, 0)))..
+crime_date(19005429, datime(date(2014, 11, 1, 21, 38, 0))).
 criminal_race(19005429,black).
 num_of_charges(19005429, 4).
 has_arrest(hy355698, 19161257).
-crime_date(19161257, datime(date(2015, 7, 31, 12, 50, 0)))..
+crime_date(19161257, datime(date(2015, 7, 31, 12, 50, 0))).
 criminal_race(19161257,asian___pacific_islander).
 num_of_charges(19161257, 4).
 has_arrest(hy382619, 19169737).
-crime_date(19169737, datime(date(2015, 8, 14, 19, 44, 0)))..
+crime_date(19169737, datime(date(2015, 8, 14, 19, 44, 0))).
 criminal_race(19169737,black).
 num_of_charges(19169737, 4).
 has_arrest(hy407022, 19193348).
-crime_date(19193348, datime(date(2015, 9, 24, 14, 50, 0)))..
+crime_date(19193348, datime(date(2015, 9, 24, 14, 50, 0))).
 criminal_race(19193348,black).
 num_of_charges(19193348, 4).
 has_arrest(jf397075, 30177796).
-crime_date(30177796, datime(date(2022, 9, 15, 22, 3, 0)))..
+crime_date(30177796, datime(date(2022, 9, 15, 22, 3, 0))).
 criminal_race(30177796,white_hispanic).
 num_of_charges(30177796, 4).
 has_arrest(hz130665, 19282813).
-crime_date(19282813, datime(date(2016, 3, 20, 12, 15, 0)))..
+crime_date(19282813, datime(date(2016, 3, 20, 12, 15, 0))).
 criminal_race(19282813,white).
 num_of_charges(19282813, 4).
 has_arrest(hz183696, 19283144).
-crime_date(19283144, datime(date(2016, 3, 21, 17, 5, 0)))..
+crime_date(19283144, datime(date(2016, 3, 21, 17, 5, 0))).
 criminal_race(19283144,white_hispanic).
 num_of_charges(19283144, 4).
 has_arrest(hz263386, 19310147).
-crime_date(19310147, datime(date(2016, 5, 13, 19, 30, 0)))..
+crime_date(19310147, datime(date(2016, 5, 13, 19, 30, 0))).
 criminal_race(19310147,white_hispanic).
 num_of_charges(19310147, 4).
 has_arrest(hz128408, 19341863).
-crime_date(19341863, datime(date(2016, 7, 13, 20, 20, 0)))..
+crime_date(19341863, datime(date(2016, 7, 13, 20, 20, 0))).
 criminal_race(19341863,black).
 num_of_charges(19341863, 4).
 has_arrest(hz360647, 19346272).
-crime_date(19346272, datime(date(2016, 7, 23, 4, 42, 0)))..
+crime_date(19346272, datime(date(2016, 7, 23, 4, 42, 0))).
 criminal_race(19346272,black).
 num_of_charges(19346272, 4).
 has_arrest(hz151213, 19374702).
-crime_date(19374702, datime(date(2016, 9, 22, 10, 45, 0)))..
+crime_date(19374702, datime(date(2016, 9, 22, 10, 45, 0))).
 criminal_race(19374702,black).
 num_of_charges(19374702, 4).
 has_arrest(t409950, 19377353).
-crime_date(19377353, datime(date(2016, 9, 28, 9, 40, 0)))..
+crime_date(19377353, datime(date(2016, 9, 28, 9, 40, 0))).
 criminal_race(19377353,black).
 num_of_charges(19377353, 4).
 has_arrest(hz470314, 19383594).
-crime_date(19383594, datime(date(2016, 10, 12, 12, 7, 0)))..
+crime_date(19383594, datime(date(2016, 10, 12, 12, 7, 0))).
 criminal_race(19383594,white_hispanic).
 num_of_charges(19383594, 4).
 has_arrest(hy411806, 19398213).
-crime_date(19398213, datime(date(2016, 11, 14, 21, 1, 0)))..
+crime_date(19398213, datime(date(2016, 11, 14, 21, 1, 0))).
 criminal_race(19398213,black).
 num_of_charges(19398213, 4).
 has_arrest(hz321765, 19399058).
-crime_date(19399058, datime(date(2016, 11, 16, 13, 0, 0)))..
+crime_date(19399058, datime(date(2016, 11, 16, 13, 0, 0))).
 criminal_race(19399058,black).
 num_of_charges(19399058, 4).
 has_arrest(hy313340, 19417865).
-crime_date(19417865, datime(date(2017, 1, 3, 9, 40, 0)))..
+crime_date(19417865, datime(date(2017, 1, 3, 9, 40, 0))).
 criminal_race(19417865,black).
 num_of_charges(19417865, 4).
 has_arrest(ja154850, 19438140).
-crime_date(19438140, datime(date(2017, 2, 15, 15, 29, 0)))..
+crime_date(19438140, datime(date(2017, 2, 15, 15, 29, 0))).
 criminal_race(19438140,black).
 num_of_charges(19438140, 4).
 has_arrest(hz554339, 19441095).
-crime_date(19441095, datime(date(2017, 2, 21, 17, 35, 0)))..
+crime_date(19441095, datime(date(2017, 2, 21, 17, 35, 0))).
 criminal_race(19441095,white_hispanic).
 num_of_charges(19441095, 4).
 has_arrest(hy549737, 19446859).
-crime_date(19446859, datime(date(2017, 3, 5, 18, 15, 0)))..
+crime_date(19446859, datime(date(2017, 3, 5, 18, 15, 0))).
 criminal_race(19446859,black).
 num_of_charges(19446859, 4).
 has_arrest(ja218968, 19463296).
-crime_date(19463296, datime(date(2017, 4, 9, 21, 37, 0)))..
+crime_date(19463296, datime(date(2017, 4, 9, 21, 37, 0))).
 criminal_race(19463296,white_hispanic).
 num_of_charges(19463296, 4).
 has_arrest(ja158021, 19467641).
-crime_date(19467641, datime(date(2017, 4, 19, 9, 45, 0)))..
+crime_date(19467641, datime(date(2017, 4, 19, 9, 45, 0))).
 criminal_race(19467641,black).
 num_of_charges(19467641, 4).
 has_arrest(hz167242, 19470605).
-crime_date(19470605, datime(date(2017, 4, 25, 13, 40, 0)))..
+crime_date(19470605, datime(date(2017, 4, 25, 13, 40, 0))).
 criminal_race(19470605,black).
 num_of_charges(19470605, 4).
 has_arrest(ja309544, 19495370).
-crime_date(19495370, datime(date(2017, 6, 16, 13, 50, 0)))..
+crime_date(19495370, datime(date(2017, 6, 16, 13, 50, 0))).
 criminal_race(19495370,black).
 num_of_charges(19495370, 4).
 has_arrest(hk827036, 19525723).
-crime_date(19525723, datime(date(2017, 8, 21, 17, 25, 0)))..
+crime_date(19525723, datime(date(2017, 8, 21, 17, 25, 0))).
 criminal_race(19525723,black).
 num_of_charges(19525723, 4).
 has_arrest(ja413975, 19533460).
-crime_date(19533460, datime(date(2017, 9, 6, 11, 50, 0)))..
+crime_date(19533460, datime(date(2017, 9, 6, 11, 50, 0))).
 criminal_race(19533460,black).
 num_of_charges(19533460, 4).
 has_arrest(hz500019, 19539571).
-crime_date(19539571, datime(date(2017, 9, 20, 12, 30, 0)))..
+crime_date(19539571, datime(date(2017, 9, 20, 12, 30, 0))).
 criminal_race(19539571,black).
 num_of_charges(19539571, 4).
 has_arrest(ja441263, 19540288).
-crime_date(19540288, datime(date(2017, 9, 21, 20, 45, 0)))..
+crime_date(19540288, datime(date(2017, 9, 21, 20, 45, 0))).
 criminal_race(19540288,white_hispanic).
 num_of_charges(19540288, 4).
 has_arrest(ja463914, 19548505).
-crime_date(19548505, datime(date(2017, 10, 10, 13, 27, 0)))..
+crime_date(19548505, datime(date(2017, 10, 10, 13, 27, 0))).
 criminal_race(19548505,black).
 num_of_charges(19548505, 4).
 has_arrest(ja437161, 19552003).
-crime_date(19552003, datime(date(2017, 10, 18, 23, 10, 0)))..
+crime_date(19552003, datime(date(2017, 10, 18, 23, 10, 0))).
 criminal_race(19552003,white_hispanic).
 num_of_charges(19552003, 4).
 has_arrest(ja520455, 19566883).
-crime_date(19566883, datime(date(2017, 11, 21, 14, 22, 0)))..
+crime_date(19566883, datime(date(2017, 11, 21, 14, 22, 0))).
 criminal_race(19566883,black).
 num_of_charges(19566883, 4).
 has_arrest(jb105842, 19584701).
-crime_date(19584701, datime(date(2018, 1, 5, 19, 18, 0)))..
+crime_date(19584701, datime(date(2018, 1, 5, 19, 18, 0))).
 criminal_race(19584701,white_hispanic).
 num_of_charges(19584701, 4).
 has_arrest(ja355081, 19595120).
-crime_date(19595120, datime(date(2018, 1, 29, 9, 20, 0)))..
+crime_date(19595120, datime(date(2018, 1, 29, 9, 20, 0))).
 criminal_race(19595120,black).
 num_of_charges(19595120, 4).
 has_arrest(jb123082, 19596149).
-crime_date(19596149, datime(date(2018, 1, 31, 13, 35, 0)))..
+crime_date(19596149, datime(date(2018, 1, 31, 13, 35, 0))).
 criminal_race(19596149,black).
 num_of_charges(19596149, 4).
 has_arrest(ja364517, 19599602).
-crime_date(19599602, datime(date(2018, 2, 8, 10, 0, 0)))..
+crime_date(19599602, datime(date(2018, 2, 8, 10, 0, 0))).
 criminal_race(19599602,black).
 num_of_charges(19599602, 4).
 has_arrest(jb149168, 19601207).
-crime_date(19601207, datime(date(2018, 2, 12, 14, 20, 0)))..
+crime_date(19601207, datime(date(2018, 2, 12, 14, 20, 0))).
 criminal_race(19601207,black).
 num_of_charges(19601207, 4).
 has_arrest(jb236716, 19634430).
-crime_date(19634430, datime(date(2018, 4, 24, 21, 3, 0)))..
+crime_date(19634430, datime(date(2018, 4, 24, 21, 3, 0))).
 criminal_race(19634430,black).
 num_of_charges(19634430, 4).
 has_arrest(jb236716, 19634419).
-crime_date(19634419, datime(date(2018, 4, 24, 21, 3, 0)))..
+crime_date(19634419, datime(date(2018, 4, 24, 21, 3, 0))).
 criminal_race(19634419,black).
 num_of_charges(19634419, 4).
 has_arrest(jb253051, 19640489).
-crime_date(19640489, datime(date(2018, 5, 7, 1, 49, 0)))..
+crime_date(19640489, datime(date(2018, 5, 7, 1, 49, 0))).
 criminal_race(19640489,black).
 num_of_charges(19640489, 4).
 has_arrest(jb221924, 19647720).
-crime_date(19647720, datime(date(2018, 5, 22, 13, 25, 0)))..
+crime_date(19647720, datime(date(2018, 5, 22, 13, 25, 0))).
 criminal_race(19647720,black).
 num_of_charges(19647720, 4).
 has_arrest(hz323373, 19664483).
-crime_date(19664483, datime(date(2018, 6, 26, 18, 30, 0)))..
+crime_date(19664483, datime(date(2018, 6, 26, 18, 30, 0))).
 criminal_race(19664483,black).
 num_of_charges(19664483, 4).
 has_arrest(jd268744, 19970415).
-crime_date(19970415, datime(date(2020, 6, 19, 3, 39, 0)))..
+crime_date(19970415, datime(date(2020, 6, 19, 3, 39, 0))).
 criminal_race(19970415,black).
 num_of_charges(19970415, 4).
 has_arrest(jb287275, 19667384).
-crime_date(19667384, datime(date(2018, 7, 2, 11, 35, 0)))..
+crime_date(19667384, datime(date(2018, 7, 2, 11, 35, 0))).
 criminal_race(19667384,black).
 num_of_charges(19667384, 4).
 has_arrest(jb344497, 19672076).
-crime_date(19672076, datime(date(2018, 7, 10, 23, 20, 0)))..
+crime_date(19672076, datime(date(2018, 7, 10, 23, 20, 0))).
 criminal_race(19672076,black).
 num_of_charges(19672076, 4).
 has_arrest(jb380284, 19691891).
-crime_date(19691891, datime(date(2018, 8, 22, 16, 30, 0)))..
+crime_date(19691891, datime(date(2018, 8, 22, 16, 30, 0))).
 criminal_race(19691891,white_hispanic).
 num_of_charges(19691891, 4).
 has_arrest(jb435876, 19703119).
-crime_date(19703119, datime(date(2018, 9, 14, 22, 35, 0)))..
+crime_date(19703119, datime(date(2018, 9, 14, 22, 35, 0))).
 criminal_race(19703119,black).
 num_of_charges(19703119, 4).
 has_arrest(jb441125, 19704789).
-crime_date(19704789, datime(date(2018, 9, 18, 19, 11, 0)))..
+crime_date(19704789, datime(date(2018, 9, 18, 19, 11, 0))).
 criminal_race(19704789,white_hispanic).
 num_of_charges(19704789, 4).
 has_arrest(f780368, 19707360).
-crime_date(19707360, datime(date(2018, 9, 24, 11, 26, 0)))..
+crime_date(19707360, datime(date(2018, 9, 24, 11, 26, 0))).
 criminal_race(19707360,black).
 num_of_charges(19707360, 4).
 has_arrest(jb516097, 19762824).
-crime_date(19762824, datime(date(2019, 2, 1, 14, 10, 0)))..
+crime_date(19762824, datime(date(2019, 2, 1, 14, 10, 0))).
 criminal_race(19762824,black).
 num_of_charges(19762824, 4).
 has_arrest(jc125352, 19771227).
-crime_date(19771227, datime(date(2019, 2, 20, 10, 4, 0)))..
+crime_date(19771227, datime(date(2019, 2, 20, 10, 4, 0))).
 criminal_race(19771227,black).
 num_of_charges(19771227, 4).
 has_arrest(jc142387, 19765753).
-crime_date(19765753, datime(date(2019, 2, 7, 20, 13, 0)))..
+crime_date(19765753, datime(date(2019, 2, 7, 20, 13, 0))).
 criminal_race(19765753,black).
 num_of_charges(19765753, 4).
 has_arrest(jc127397, 19770781).
-crime_date(19770781, datime(date(2019, 2, 19, 11, 14, 0)))..
+crime_date(19770781, datime(date(2019, 2, 19, 11, 14, 0))).
 criminal_race(19770781,white_hispanic).
 num_of_charges(19770781, 4).
 has_arrest(jc114123, 19755068).
-crime_date(19755068, datime(date(2019, 1, 12, 13, 9, 0)))..
+crime_date(19755068, datime(date(2019, 1, 12, 13, 9, 0))).
 criminal_race(19755068,black).
 num_of_charges(19755068, 4).
 has_arrest(jc118929, 19767309).
-crime_date(19767309, datime(date(2019, 2, 11, 12, 45, 0)))..
+crime_date(19767309, datime(date(2019, 2, 11, 12, 45, 0))).
 criminal_race(19767309,black).
 num_of_charges(19767309, 4).
 has_arrest(jc150115, 19767898).
-crime_date(19767898, datime(date(2019, 2, 12, 19, 16, 0)))..
+crime_date(19767898, datime(date(2019, 2, 12, 19, 16, 0))).
 criminal_race(19767898,black).
 num_of_charges(19767898, 4).
 has_arrest(jb406714, 19754739).
-crime_date(19754739, datime(date(2019, 1, 11, 19, 15, 0)))..
+crime_date(19754739, datime(date(2019, 1, 11, 19, 15, 0))).
 criminal_race(19754739,black).
 num_of_charges(19754739, 4).
 has_arrest(jc109528, 19753289).
-crime_date(19753289, datime(date(2019, 1, 8, 16, 49, 0)))..
+crime_date(19753289, datime(date(2019, 1, 8, 16, 49, 0))).
 criminal_race(19753289,black).
 num_of_charges(19753289, 4).
 has_arrest(jc144977, 19766056).
-crime_date(19766056, datime(date(2019, 2, 8, 17, 10, 0)))..
+crime_date(19766056, datime(date(2019, 2, 8, 17, 10, 0))).
 criminal_race(19766056,white_hispanic).
 num_of_charges(19766056, 4).
 has_arrest(jc441393, 19873059).
-crime_date(19873059, datime(date(2019, 9, 20, 16, 55, 0)))..
+crime_date(19873059, datime(date(2019, 9, 20, 16, 55, 0))).
 criminal_race(19873059,white_hispanic).
 num_of_charges(19873059, 4).
 has_arrest(jc151650, 19768463).
-crime_date(19768463, datime(date(2019, 2, 14, 0, 17, 0)))..
+crime_date(19768463, datime(date(2019, 2, 14, 0, 17, 0))).
 criminal_race(19768463,black).
 num_of_charges(19768463, 4).
 has_arrest(jb387780, 19750816).
-crime_date(19750816, datime(date(2019, 1, 3, 17, 30, 0)))..
+crime_date(19750816, datime(date(2019, 1, 3, 17, 30, 0))).
 criminal_race(19750816,black).
 num_of_charges(19750816, 4).
 has_arrest(jb532191, 19765422).
-crime_date(19765422, datime(date(2019, 2, 7, 9, 45, 0)))..
+crime_date(19765422, datime(date(2019, 2, 7, 9, 45, 0))).
 criminal_race(19765422,black).
 num_of_charges(19765422, 4).
 has_arrest(jc158576, 19771046).
-crime_date(19771046, datime(date(2019, 2, 19, 18, 33, 0)))..
+crime_date(19771046, datime(date(2019, 2, 19, 18, 33, 0))).
 criminal_race(19771046,black).
 num_of_charges(19771046, 4).
 has_arrest(jb414674, 19752563).
-crime_date(19752563, datime(date(2019, 1, 7, 10, 0, 0)))..
+crime_date(19752563, datime(date(2019, 1, 7, 10, 0, 0))).
 criminal_race(19752563,black).
 num_of_charges(19752563, 4).
 has_arrest(hz380183, 19770467).
-crime_date(19770467, datime(date(2019, 2, 18, 18, 57, 0)))..
+crime_date(19770467, datime(date(2019, 2, 18, 18, 57, 0))).
 criminal_race(19770467,black).
 num_of_charges(19770467, 4).
 has_arrest(jb540491, 19768112).
-crime_date(19768112, datime(date(2019, 2, 13, 12, 27, 0)))..
+crime_date(19768112, datime(date(2019, 2, 13, 12, 27, 0))).
 criminal_race(19768112,black).
 num_of_charges(19768112, 4).
 has_arrest(jc161724, 19774949).
-crime_date(19774949, datime(date(2019, 2, 28, 14, 48, 0)))..
+crime_date(19774949, datime(date(2019, 2, 28, 14, 48, 0))).
 criminal_race(19774949,white_hispanic).
 num_of_charges(19774949, 4).
 has_arrest(jb273286, 19783131).
-crime_date(19783131, datime(date(2019, 3, 18, 7, 40, 0)))..
+crime_date(19783131, datime(date(2019, 3, 18, 7, 40, 0))).
 criminal_race(19783131,white_hispanic).
 num_of_charges(19783131, 4).
 has_arrest(jc196246, 19790289).
-crime_date(19790289, datime(date(2019, 4, 2, 13, 47, 0)))..
+crime_date(19790289, datime(date(2019, 4, 2, 13, 47, 0))).
 criminal_race(19790289,black).
 num_of_charges(19790289, 4).
 has_arrest(jc200716, 19787232).
-crime_date(19787232, datime(date(2019, 3, 26, 18, 40, 0)))..
+crime_date(19787232, datime(date(2019, 3, 26, 18, 40, 0))).
 criminal_race(19787232,black).
 num_of_charges(19787232, 4).
 has_arrest(jc192076, 19793628).
-crime_date(19793628, datime(date(2019, 4, 9, 7, 45, 0)))..
+crime_date(19793628, datime(date(2019, 4, 9, 7, 45, 0))).
 criminal_race(19793628,black).
 num_of_charges(19793628, 4).
 has_arrest(jf395595, 30177394).
-crime_date(30177394, datime(date(2022, 9, 14, 13, 0, 0)))..
+crime_date(30177394, datime(date(2022, 9, 14, 13, 0, 0))).
 criminal_race(30177394,black).
 num_of_charges(30177394, 4).
 has_arrest(jc190859, 19783470).
-crime_date(19783470, datime(date(2019, 3, 18, 21, 50, 0)))..
+crime_date(19783470, datime(date(2019, 3, 18, 21, 50, 0))).
 criminal_race(19783470,black).
 num_of_charges(19783470, 4).
 has_arrest(jb561916, 19775316).
-crime_date(19775316, datime(date(2019, 3, 1, 12, 15, 0)))..
+crime_date(19775316, datime(date(2019, 3, 1, 12, 15, 0))).
 criminal_race(19775316,black).
 num_of_charges(19775316, 4).
 has_arrest(jb479063, 19775086).
-crime_date(19775086, datime(date(2019, 2, 28, 20, 25, 0)))..
+crime_date(19775086, datime(date(2019, 2, 28, 20, 25, 0))).
 criminal_race(19775086,white).
 num_of_charges(19775086, 4).
 has_arrest(jc178589, 19784711).
-crime_date(19784711, datime(date(2019, 3, 21, 15, 28, 0)))..
+crime_date(19784711, datime(date(2019, 3, 21, 15, 28, 0))).
 criminal_race(19784711,black).
 num_of_charges(19784711, 4).
 has_arrest(jb372197, 19790241).
-crime_date(19790241, datime(date(2019, 4, 2, 11, 46, 0)))..
+crime_date(19790241, datime(date(2019, 4, 2, 11, 46, 0))).
 criminal_race(19790241,black).
 num_of_charges(19790241, 4).
 has_arrest(hy274690, 19781304).
-crime_date(19781304, datime(date(2019, 3, 14, 17, 10, 0)))..
+crime_date(19781304, datime(date(2019, 3, 14, 17, 10, 0))).
 criminal_race(19781304,black).
 num_of_charges(19781304, 4).
 has_arrest(jb340227, 19787553).
-crime_date(19787553, datime(date(2019, 3, 27, 16, 7, 0)))..
+crime_date(19787553, datime(date(2019, 3, 27, 16, 7, 0))).
 criminal_race(19787553,black).
 num_of_charges(19787553, 4).
 has_arrest(jb166417, 19779849).
-crime_date(19779849, datime(date(2019, 3, 11, 14, 15, 0)))..
+crime_date(19779849, datime(date(2019, 3, 11, 14, 15, 0))).
 criminal_race(19779849,black).
 num_of_charges(19779849, 4).
 has_arrest(jc190708, 19783511).
-crime_date(19783511, datime(date(2019, 3, 19, 2, 0, 0)))..
+crime_date(19783511, datime(date(2019, 3, 19, 2, 0, 0))).
 criminal_race(19783511,white).
 num_of_charges(19783511, 4).
 has_arrest(jb305932, 19779863).
-crime_date(19779863, datime(date(2019, 3, 11, 11, 30, 0)))..
+crime_date(19779863, datime(date(2019, 3, 11, 11, 30, 0))).
 criminal_race(19779863,black).
 num_of_charges(19779863, 4).
 has_arrest(jc214900, 19792698).
-crime_date(19792698, datime(date(2019, 4, 7, 10, 5, 0)))..
+crime_date(19792698, datime(date(2019, 4, 7, 10, 5, 0))).
 criminal_race(19792698,black).
 num_of_charges(19792698, 4).
 has_arrest(jc160382, 19779751).
-crime_date(19779751, datime(date(2019, 3, 11, 12, 19, 0)))..
+crime_date(19779751, datime(date(2019, 3, 11, 12, 19, 0))).
 criminal_race(19779751,black).
 num_of_charges(19779751, 4).
 has_arrest(jc185986, 19788786).
-crime_date(19788786, datime(date(2019, 3, 30, 9, 45, 0)))..
+crime_date(19788786, datime(date(2019, 3, 30, 9, 45, 0))).
 criminal_race(19788786,black).
 num_of_charges(19788786, 4).
 has_arrest(jb489157, 19781129).
-crime_date(19781129, datime(date(2019, 3, 14, 8, 30, 0)))..
+crime_date(19781129, datime(date(2019, 3, 14, 8, 30, 0))).
 criminal_race(19781129,black).
 num_of_charges(19781129, 4).
 has_arrest(jc190708, 19783468).
-crime_date(19783468, datime(date(2019, 3, 18, 20, 15, 0)))..
+crime_date(19783468, datime(date(2019, 3, 18, 20, 15, 0))).
 criminal_race(19783468,black).
 num_of_charges(19783468, 4).
 has_arrest(jb263673, 19786589).
-crime_date(19786589, datime(date(2019, 3, 25, 10, 14, 0)))..
+crime_date(19786589, datime(date(2019, 3, 25, 10, 14, 0))).
 criminal_race(19786589,white_hispanic).
 num_of_charges(19786589, 4).
 has_arrest(ja446387, 19786597).
-crime_date(19786597, datime(date(2019, 3, 25, 11, 12, 0)))..
+crime_date(19786597, datime(date(2019, 3, 25, 11, 12, 0))).
 criminal_race(19786597,black).
 num_of_charges(19786597, 4).
 has_arrest(ja471943, 19772234).
-crime_date(19772234, datime(date(2019, 2, 22, 11, 0, 0)))..
+crime_date(19772234, datime(date(2019, 2, 22, 11, 0, 0))).
 criminal_race(19772234,black).
 num_of_charges(19772234, 4).
 has_arrest(jc165625, 19773726).
-crime_date(19773726, datime(date(2019, 2, 25, 17, 46, 0)))..
+crime_date(19773726, datime(date(2019, 2, 25, 17, 46, 0))).
 criminal_race(19773726,black).
 num_of_charges(19773726, 4).
 has_arrest(jc147080, 19773323).
-crime_date(19773323, datime(date(2019, 2, 24, 20, 45, 0)))..
+crime_date(19773323, datime(date(2019, 2, 24, 20, 45, 0))).
 criminal_race(19773323,black).
 num_of_charges(19773323, 4).
 has_arrest(hs227745, 19793292).
-crime_date(19793292, datime(date(2019, 4, 8, 12, 45, 0)))..
+crime_date(19793292, datime(date(2019, 4, 8, 12, 45, 0))).
 criminal_race(19793292,black).
 num_of_charges(19793292, 4).
 has_arrest(jc161724, 19774946).
-crime_date(19774946, datime(date(2019, 2, 28, 14, 48, 0)))..
+crime_date(19774946, datime(date(2019, 2, 28, 14, 48, 0))).
 criminal_race(19774946,white_hispanic).
 num_of_charges(19774946, 4).
 has_arrest(jc181840, 19779909).
-crime_date(19779909, datime(date(2019, 3, 11, 18, 33, 0)))..
+crime_date(19779909, datime(date(2019, 3, 11, 18, 33, 0))).
 criminal_race(19779909,black).
 num_of_charges(19779909, 4).
 has_arrest(x587121, 19776931).
-crime_date(19776931, datime(date(2019, 3, 5, 0, 32, 0)))..
+crime_date(19776931, datime(date(2019, 3, 5, 0, 32, 0))).
 criminal_race(19776931,white_hispanic).
 num_of_charges(19776931, 4).
 has_arrest(jc177483, 19784125).
-crime_date(19784125, datime(date(2019, 3, 20, 10, 51, 0)))..
+crime_date(19784125, datime(date(2019, 3, 20, 10, 51, 0))).
 criminal_race(19784125,black).
 num_of_charges(19784125, 4).
 has_arrest(ja501198, 19780200).
-crime_date(19780200, datime(date(2019, 3, 12, 12, 19, 0)))..
+crime_date(19780200, datime(date(2019, 3, 12, 12, 19, 0))).
 criminal_race(19780200,white_hispanic).
 num_of_charges(19780200, 4).
 has_arrest(jc208961, 19790346).
-crime_date(19790346, datime(date(2019, 4, 2, 13, 50, 0)))..
+crime_date(19790346, datime(date(2019, 4, 2, 13, 50, 0))).
 criminal_race(19790346,black).
 num_of_charges(19790346, 4).
 has_arrest(hx239937, 19790685).
-crime_date(19790685, datime(date(2019, 4, 3, 10, 30, 0)))..
+crime_date(19790685, datime(date(2019, 4, 3, 10, 30, 0))).
 criminal_race(19790685,black).
 num_of_charges(19790685, 4).
 has_arrest(jb368403, 19785104).
-crime_date(19785104, datime(date(2019, 3, 22, 13, 25, 0)))..
+crime_date(19785104, datime(date(2019, 3, 22, 13, 25, 0))).
 criminal_race(19785104,black).
 num_of_charges(19785104, 4).
 has_arrest(jc196246, 19786099).
-crime_date(19786099, datime(date(2019, 3, 24, 8, 15, 0)))..
+crime_date(19786099, datime(date(2019, 3, 24, 8, 15, 0))).
 criminal_race(19786099,black).
 num_of_charges(19786099, 4).
 has_arrest(jc163607, 19772971).
-crime_date(19772971, datime(date(2019, 2, 23, 22, 12, 0)))..
+crime_date(19772971, datime(date(2019, 2, 23, 22, 12, 0))).
 criminal_race(19772971,black).
 num_of_charges(19772971, 4).
 has_arrest(jc214843, 19792851).
-crime_date(19792851, datime(date(2019, 4, 7, 18, 5, 0)))..
+crime_date(19792851, datime(date(2019, 4, 7, 18, 5, 0))).
 criminal_race(19792851,black).
 num_of_charges(19792851, 4).
 has_arrest(jc147657, 19794658).
-crime_date(19794658, datime(date(2019, 4, 11, 13, 45, 0)))..
+crime_date(19794658, datime(date(2019, 4, 11, 13, 45, 0))).
 criminal_race(19794658,black).
 num_of_charges(19794658, 4).
 has_arrest(jc236433, 19810274).
-crime_date(19810274, datime(date(2019, 5, 14, 16, 8, 0)))..
+crime_date(19810274, datime(date(2019, 5, 14, 16, 8, 0))).
 criminal_race(19810274,white_hispanic).
 num_of_charges(19810274, 4).
 has_arrest(hw434870, 19807586).
-crime_date(19807586, datime(date(2019, 5, 9, 10, 0, 0)))..
+crime_date(19807586, datime(date(2019, 5, 9, 10, 0, 0))).
 criminal_race(19807586,black).
 num_of_charges(19807586, 4).
 has_arrest(jc183040, 19800202).
-crime_date(19800202, datime(date(2019, 4, 23, 10, 54, 0)))..
+crime_date(19800202, datime(date(2019, 4, 23, 10, 54, 0))).
 criminal_race(19800202,black).
 num_of_charges(19800202, 4).
 has_arrest(jc263552, 19810341).
-crime_date(19810341, datime(date(2019, 5, 15, 0, 50, 0)))..
+crime_date(19810341, datime(date(2019, 5, 15, 0, 50, 0))).
 criminal_race(19810341,black).
 num_of_charges(19810341, 4).
 has_arrest(jc237161, 19801094).
-crime_date(19801094, datime(date(2019, 4, 24, 20, 51, 0)))..
+crime_date(19801094, datime(date(2019, 4, 24, 20, 51, 0))).
 criminal_race(19801094,black).
 num_of_charges(19801094, 4).
 has_arrest(jc236433, 19810383).
-crime_date(19810383, datime(date(2019, 5, 14, 16, 8, 0)))..
+crime_date(19810383, datime(date(2019, 5, 14, 16, 8, 0))).
 criminal_race(19810383,white_hispanic).
 num_of_charges(19810383, 4).
 has_arrest(jc218598, 19796397).
-crime_date(19796397, datime(date(2019, 4, 15, 11, 50, 0)))..
+crime_date(19796397, datime(date(2019, 4, 15, 11, 50, 0))).
 criminal_race(19796397,white_hispanic).
 num_of_charges(19796397, 4).
 has_arrest(jc245681, 19804137).
-crime_date(19804137, datime(date(2019, 5, 1, 21, 17, 0)))..
+crime_date(19804137, datime(date(2019, 5, 1, 21, 17, 0))).
 criminal_race(19804137,black).
 num_of_charges(19804137, 4).
 has_arrest(jb189927, 19803001).
-crime_date(19803001, datime(date(2019, 4, 29, 13, 5, 0)))..
+crime_date(19803001, datime(date(2019, 4, 29, 13, 5, 0))).
 criminal_race(19803001,white_hispanic).
 num_of_charges(19803001, 4).
 has_arrest(jc233948, 19800942).
-crime_date(19800942, datime(date(2019, 4, 24, 19, 12, 0)))..
+crime_date(19800942, datime(date(2019, 4, 24, 19, 12, 0))).
 criminal_race(19800942,white_hispanic).
 num_of_charges(19800942, 4).
 has_arrest(jc218371, 19793969).
-crime_date(19793969, datime(date(2019, 4, 9, 20, 40, 0)))..
+crime_date(19793969, datime(date(2019, 4, 9, 20, 40, 0))).
 criminal_race(19793969,black).
 num_of_charges(19793969, 4).
 has_arrest(jc277458, 19816196).
-crime_date(19816196, datime(date(2019, 5, 26, 16, 47, 0)))..
+crime_date(19816196, datime(date(2019, 5, 26, 16, 47, 0))).
 criminal_race(19816196,white_hispanic).
 num_of_charges(19816196, 4).
 has_arrest(jc230385, 19806299).
-crime_date(19806299, datime(date(2019, 5, 6, 17, 25, 0)))..
+crime_date(19806299, datime(date(2019, 5, 6, 17, 25, 0))).
 criminal_race(19806299,black).
 num_of_charges(19806299, 4).
 has_arrest(jc218783, 19796862).
-crime_date(19796862, datime(date(2019, 4, 16, 11, 40, 0)))..
+crime_date(19796862, datime(date(2019, 4, 16, 11, 40, 0))).
 criminal_race(19796862,black).
 num_of_charges(19796862, 4).
 has_arrest(jc274150, 19814129).
-crime_date(19814129, datime(date(2019, 5, 22, 18, 25, 0)))..
+crime_date(19814129, datime(date(2019, 5, 22, 18, 25, 0))).
 criminal_race(19814129,black).
 num_of_charges(19814129, 4).
 has_arrest(jc236433, 19810385).
-crime_date(19810385, datime(date(2019, 5, 14, 16, 8, 0)))..
+crime_date(19810385, datime(date(2019, 5, 14, 16, 8, 0))).
 criminal_race(19810385,white).
 num_of_charges(19810385, 4).
 has_arrest(jc245681, 19804138).
-crime_date(19804138, datime(date(2019, 5, 1, 21, 17, 0)))..
+crime_date(19804138, datime(date(2019, 5, 1, 21, 17, 0))).
 criminal_race(19804138,black).
 num_of_charges(19804138, 4).
 has_arrest(jc277458, 19816258).
-crime_date(19816258, datime(date(2019, 5, 26, 16, 47, 0)))..
+crime_date(19816258, datime(date(2019, 5, 26, 16, 47, 0))).
 criminal_race(19816258,white_hispanic).
 num_of_charges(19816258, 4).
 has_arrest(jb570952, 19809301).
-crime_date(19809301, datime(date(2019, 5, 12, 22, 53, 0)))..
+crime_date(19809301, datime(date(2019, 5, 12, 22, 53, 0))).
 criminal_race(19809301,black).
 num_of_charges(19809301, 4).
 has_arrest(jc253838, 19810276).
-crime_date(19810276, datime(date(2019, 5, 14, 22, 10, 0)))..
+crime_date(19810276, datime(date(2019, 5, 14, 22, 10, 0))).
 criminal_race(19810276,white_hispanic).
 num_of_charges(19810276, 4).
 has_arrest(jc208059, 19794652).
-crime_date(19794652, datime(date(2019, 4, 11, 14, 1, 0)))..
+crime_date(19794652, datime(date(2019, 4, 11, 14, 1, 0))).
 criminal_race(19794652,white_hispanic).
 num_of_charges(19794652, 4).
 has_arrest(jb560154, 19809464).
-crime_date(19809464, datime(date(2019, 5, 13, 11, 8, 0)))..
+crime_date(19809464, datime(date(2019, 5, 13, 11, 8, 0))).
 criminal_race(19809464,black).
 num_of_charges(19809464, 4).
 has_arrest(jc232741, 19799494).
-crime_date(19799494, datime(date(2019, 4, 21, 17, 55, 0)))..
+crime_date(19799494, datime(date(2019, 4, 21, 17, 55, 0))).
 criminal_race(19799494,black).
 num_of_charges(19799494, 4).
 has_arrest(hz222268, 19809944).
-crime_date(19809944, datime(date(2019, 5, 14, 14, 5, 0)))..
+crime_date(19809944, datime(date(2019, 5, 14, 14, 5, 0))).
 criminal_race(19809944,black_hispanic).
 num_of_charges(19809944, 4).
 has_arrest(jc243567, 19804723).
-crime_date(19804723, datime(date(2019, 5, 3, 10, 22, 0)))..
+crime_date(19804723, datime(date(2019, 5, 3, 10, 22, 0))).
 criminal_race(19804723,black).
 num_of_charges(19804723, 4).
 has_arrest(jb496408, 19810564).
-crime_date(19810564, datime(date(2019, 5, 15, 12, 24, 0)))..
+crime_date(19810564, datime(date(2019, 5, 15, 12, 24, 0))).
 criminal_race(19810564,black).
 num_of_charges(19810564, 4).
 has_arrest(jc265615, 19811277).
-crime_date(19811277, datime(date(2019, 5, 16, 16, 30, 0)))..
+crime_date(19811277, datime(date(2019, 5, 16, 16, 30, 0))).
 criminal_race(19811277,white_hispanic).
 num_of_charges(19811277, 4).
 has_arrest(jc228553, 19807386).
-crime_date(19807386, datime(date(2019, 5, 8, 17, 32, 0)))..
+crime_date(19807386, datime(date(2019, 5, 8, 17, 32, 0))).
 criminal_race(19807386,white_hispanic).
 num_of_charges(19807386, 4).
 has_arrest(jb379731, 19809993).
-crime_date(19809993, datime(date(2019, 5, 14, 12, 18, 0)))..
+crime_date(19809993, datime(date(2019, 5, 14, 12, 18, 0))).
 criminal_race(19809993,black).
 num_of_charges(19809993, 4).
 has_arrest(jc245681, 19804141).
-crime_date(19804141, datime(date(2019, 5, 1, 21, 17, 0)))..
+crime_date(19804141, datime(date(2019, 5, 1, 21, 17, 0))).
 criminal_race(19804141,black).
 num_of_charges(19804141, 4).
 has_arrest(jc230385, 19804346).
-crime_date(19804346, datime(date(2019, 5, 2, 14, 27, 0)))..
+crime_date(19804346, datime(date(2019, 5, 2, 14, 27, 0))).
 criminal_race(19804346,black).
 num_of_charges(19804346, 4).
 has_arrest(jc239646, 19805859).
-crime_date(19805859, datime(date(2019, 5, 5, 16, 51, 0)))..
+crime_date(19805859, datime(date(2019, 5, 5, 16, 51, 0))).
 criminal_race(19805859,white_hispanic).
 num_of_charges(19805859, 4).
 has_arrest(jc151490, 19800251).
-crime_date(19800251, datime(date(2019, 4, 23, 12, 25, 0)))..
+crime_date(19800251, datime(date(2019, 4, 23, 12, 25, 0))).
 criminal_race(19800251,black).
 num_of_charges(19800251, 4).
 has_arrest(jc191684, 19801380).
-crime_date(19801380, datime(date(2019, 4, 25, 18, 11, 0)))..
+crime_date(19801380, datime(date(2019, 4, 25, 18, 11, 0))).
 criminal_race(19801380,black).
 num_of_charges(19801380, 4).
 has_arrest(jc230181, 19798468).
-crime_date(19798468, datime(date(2019, 4, 19, 12, 2, 0)))..
+crime_date(19798468, datime(date(2019, 4, 19, 12, 2, 0))).
 criminal_race(19798468,black).
 num_of_charges(19798468, 4).
 has_arrest(jb271122, 19807663).
-crime_date(19807663, datime(date(2019, 5, 9, 11, 50, 0)))..
+crime_date(19807663, datime(date(2019, 5, 9, 11, 50, 0))).
 criminal_race(19807663,black).
 num_of_charges(19807663, 4).
 has_arrest(jc255014, 19807895).
-crime_date(19807895, datime(date(2019, 5, 9, 20, 21, 0)))..
+crime_date(19807895, datime(date(2019, 5, 9, 20, 21, 0))).
 criminal_race(19807895,white_hispanic).
 num_of_charges(19807895, 4).
 has_arrest(jc242077, 19803931).
-crime_date(19803931, datime(date(2019, 5, 1, 16, 20, 0)))..
+crime_date(19803931, datime(date(2019, 5, 1, 16, 20, 0))).
 criminal_race(19803931,black).
 num_of_charges(19803931, 4).
 has_arrest(jc274636, 19814255).
-crime_date(19814255, datime(date(2019, 5, 23, 2, 1, 0)))..
+crime_date(19814255, datime(date(2019, 5, 23, 2, 1, 0))).
 criminal_race(19814255,black).
 num_of_charges(19814255, 4).
 has_arrest(hs335199, 19803798).
-crime_date(19803798, datime(date(2019, 5, 1, 10, 0, 0)))..
+crime_date(19803798, datime(date(2019, 5, 1, 10, 0, 0))).
 criminal_race(19803798,white_hispanic).
 num_of_charges(19803798, 4).
 has_arrest(jc239646, 19805546).
-crime_date(19805546, datime(date(2019, 5, 4, 22, 4, 0)))..
+crime_date(19805546, datime(date(2019, 5, 4, 22, 4, 0))).
 criminal_race(19805546,black).
 num_of_charges(19805546, 4).
 has_arrest(jb213540, 19810011).
-crime_date(19810011, datime(date(2019, 5, 14, 12, 40, 0)))..
+crime_date(19810011, datime(date(2019, 5, 14, 12, 40, 0))).
 criminal_race(19810011,black).
 num_of_charges(19810011, 4).
 has_arrest(hz385494, 19800753).
-crime_date(19800753, datime(date(2019, 4, 24, 9, 30, 0)))..
+crime_date(19800753, datime(date(2019, 4, 24, 9, 30, 0))).
 criminal_race(19800753,black).
 num_of_charges(19800753, 4).
 has_arrest(jc245681, 19804133).
-crime_date(19804133, datime(date(2019, 5, 1, 21, 17, 0)))..
+crime_date(19804133, datime(date(2019, 5, 1, 21, 17, 0))).
 criminal_race(19804133,black).
 num_of_charges(19804133, 4).
 has_arrest(jf409645, 30186565).
-crime_date(30186565, datime(date(2022, 10, 18, 12, 27, 0)))..
+crime_date(30186565, datime(date(2022, 10, 18, 12, 27, 0))).
 criminal_race(30186565,black).
 num_of_charges(30186565, 4).
 has_arrest(jc258195, 19808394).
-crime_date(19808394, datime(date(2019, 5, 10, 20, 5, 0)))..
+crime_date(19808394, datime(date(2019, 5, 10, 20, 5, 0))).
 criminal_race(19808394,white_hispanic).
 num_of_charges(19808394, 4).
 has_arrest(jc241361, 19813328).
-crime_date(19813328, datime(date(2019, 5, 21, 7, 35, 0)))..
+crime_date(19813328, datime(date(2019, 5, 21, 7, 35, 0))).
 criminal_race(19813328,black).
 num_of_charges(19813328, 4).
 has_arrest(jc245681, 19804136).
-crime_date(19804136, datime(date(2019, 5, 1, 21, 17, 0)))..
+crime_date(19804136, datime(date(2019, 5, 1, 21, 17, 0))).
 criminal_race(19804136,black).
 num_of_charges(19804136, 4).
 has_arrest(jc230349, 19798425).
-crime_date(19798425, datime(date(2019, 4, 19, 14, 21, 0)))..
+crime_date(19798425, datime(date(2019, 4, 19, 14, 21, 0))).
 criminal_race(19798425,black).
 num_of_charges(19798425, 4).
 has_arrest(jc185125, 19804252).
-crime_date(19804252, datime(date(2019, 5, 2, 9, 51, 0)))..
+crime_date(19804252, datime(date(2019, 5, 2, 9, 51, 0))).
 criminal_race(19804252,black).
 num_of_charges(19804252, 4).
 has_arrest(jc228777, 19810464).
-crime_date(19810464, datime(date(2019, 5, 15, 10, 12, 0)))..
+crime_date(19810464, datime(date(2019, 5, 15, 10, 12, 0))).
 criminal_race(19810464,black).
 num_of_charges(19810464, 4).
 has_arrest(ja351991, 19799739).
-crime_date(19799739, datime(date(2019, 4, 22, 10, 20, 0)))..
+crime_date(19799739, datime(date(2019, 4, 22, 10, 20, 0))).
 criminal_race(19799739,black).
 num_of_charges(19799739, 4).
 has_arrest(ja255920, 19804405).
-crime_date(19804405, datime(date(2019, 5, 2, 15, 45, 0)))..
+crime_date(19804405, datime(date(2019, 5, 2, 15, 45, 0))).
 criminal_race(19804405,black).
 num_of_charges(19804405, 4).
 has_arrest(jb459857, 19813868).
-crime_date(19813868, datime(date(2019, 5, 22, 10, 40, 0)))..
+crime_date(19813868, datime(date(2019, 5, 22, 10, 40, 0))).
 criminal_race(19813868,black).
 num_of_charges(19813868, 4).
 has_arrest(jc132194, 19824430).
-crime_date(19824430, datime(date(2019, 6, 12, 18, 30, 0)))..
+crime_date(19824430, datime(date(2019, 6, 12, 18, 30, 0))).
 criminal_race(19824430,black).
 num_of_charges(19824430, 4).
 has_arrest(jc295384, 19821504).
-crime_date(19821504, datime(date(2019, 6, 6, 22, 45, 0)))..
+crime_date(19821504, datime(date(2019, 6, 6, 22, 45, 0))).
 criminal_race(19821504,black).
 num_of_charges(19821504, 4).
 has_arrest(jc306302, 19831106).
-crime_date(19831106, datime(date(2019, 6, 26, 12, 35, 0)))..
+crime_date(19831106, datime(date(2019, 6, 26, 12, 35, 0))).
 criminal_race(19831106,black).
 num_of_charges(19831106, 4).
 has_arrest(jc287051, 19818702).
-crime_date(19818702, datime(date(2019, 5, 31, 22, 44, 0)))..
+crime_date(19818702, datime(date(2019, 5, 31, 22, 44, 0))).
 criminal_race(19818702,black).
 num_of_charges(19818702, 4).
 has_arrest(jc317433, 19829491).
-crime_date(19829491, datime(date(2019, 6, 22, 18, 42, 0)))..
+crime_date(19829491, datime(date(2019, 6, 22, 18, 42, 0))).
 criminal_race(19829491,black).
 num_of_charges(19829491, 4).
 has_arrest(jc317433, 19829484).
-crime_date(19829484, datime(date(2019, 6, 22, 18, 16, 0)))..
+crime_date(19829484, datime(date(2019, 6, 22, 18, 16, 0))).
 criminal_race(19829484,black).
 num_of_charges(19829484, 4).
 has_arrest(jc338476, 19836581).
-crime_date(19836581, datime(date(2019, 7, 7, 11, 59, 0)))..
+crime_date(19836581, datime(date(2019, 7, 7, 11, 59, 0))).
 criminal_race(19836581,black).
 num_of_charges(19836581, 4).
 has_arrest(jc306676, 19825498).
-crime_date(19825498, datime(date(2019, 6, 14, 20, 20, 0)))..
+crime_date(19825498, datime(date(2019, 6, 14, 20, 20, 0))).
 criminal_race(19825498,asian___pacific_islander).
 num_of_charges(19825498, 4).
 has_arrest(jb416113, 19823637).
-crime_date(19823637, datime(date(2019, 6, 11, 7, 45, 0)))..
+crime_date(19823637, datime(date(2019, 6, 11, 7, 45, 0))).
 criminal_race(19823637,black).
 num_of_charges(19823637, 4).
 has_arrest(jc311811, 19827273).
-crime_date(19827273, datime(date(2019, 6, 18, 16, 29, 0)))..
+crime_date(19827273, datime(date(2019, 6, 18, 16, 29, 0))).
 criminal_race(19827273,black).
 num_of_charges(19827273, 4).
 has_arrest(jc287209, 19824777).
-crime_date(19824777, datime(date(2019, 6, 13, 14, 0, 0)))..
+crime_date(19824777, datime(date(2019, 6, 13, 14, 0, 0))).
 criminal_race(19824777,black).
 num_of_charges(19824777, 4).
 has_arrest(jc293193, 19820735).
-crime_date(19820735, datime(date(2019, 6, 5, 13, 1, 0)))..
+crime_date(19820735, datime(date(2019, 6, 5, 13, 1, 0))).
 criminal_race(19820735,black).
 num_of_charges(19820735, 4).
 has_arrest(jc326868, 19833609).
-crime_date(19833609, datime(date(2019, 7, 1, 17, 44, 0)))..
+crime_date(19833609, datime(date(2019, 7, 1, 17, 44, 0))).
 criminal_race(19833609,black).
 num_of_charges(19833609, 4).
 has_arrest(jc264851, 19822357).
-crime_date(19822357, datime(date(2019, 6, 8, 17, 25, 0)))..
+crime_date(19822357, datime(date(2019, 6, 8, 17, 25, 0))).
 criminal_race(19822357,black).
 num_of_charges(19822357, 4).
 has_arrest(jc329154, 19834301).
-crime_date(19834301, datime(date(2019, 7, 2, 23, 30, 0)))..
+crime_date(19834301, datime(date(2019, 7, 2, 23, 30, 0))).
 criminal_race(19834301,black).
 num_of_charges(19834301, 4).
 has_arrest(jc308941, 19826349).
-crime_date(19826349, datime(date(2019, 6, 16, 17, 36, 0)))..
+crime_date(19826349, datime(date(2019, 6, 16, 17, 36, 0))).
 criminal_race(19826349,black).
 num_of_charges(19826349, 4).
 has_arrest(jc295384, 19821508).
-crime_date(19821508, datime(date(2019, 6, 6, 22, 45, 0)))..
+crime_date(19821508, datime(date(2019, 6, 6, 22, 45, 0))).
 criminal_race(19821508,black).
 num_of_charges(19821508, 4).
 has_arrest(jc321391, 19830700).
-crime_date(19830700, datime(date(2019, 6, 25, 15, 45, 0)))..
+crime_date(19830700, datime(date(2019, 6, 25, 15, 45, 0))).
 criminal_race(19830700,black).
 num_of_charges(19830700, 4).
 has_arrest(jc251037, 19827801).
-crime_date(19827801, datime(date(2019, 6, 19, 16, 8, 0)))..
+crime_date(19827801, datime(date(2019, 6, 19, 16, 8, 0))).
 criminal_race(19827801,black).
 num_of_charges(19827801, 4).
 has_arrest(jc338074, 19836445).
-crime_date(19836445, datime(date(2019, 7, 7, 1, 27, 0)))..
+crime_date(19836445, datime(date(2019, 7, 7, 1, 27, 0))).
 criminal_race(19836445,black).
 num_of_charges(19836445, 4).
 has_arrest(jc304063, 19827885).
-crime_date(19827885, datime(date(2019, 6, 19, 19, 10, 0)))..
+crime_date(19827885, datime(date(2019, 6, 19, 19, 10, 0))).
 criminal_race(19827885,black).
 num_of_charges(19827885, 4).
 has_arrest(ja303922, 19818364).
-crime_date(19818364, datime(date(2019, 5, 31, 10, 30, 0)))..
+crime_date(19818364, datime(date(2019, 5, 31, 10, 30, 0))).
 criminal_race(19818364,white_hispanic).
 num_of_charges(19818364, 4).
 has_arrest(jc296174, 19824754).
-crime_date(19824754, datime(date(2019, 6, 13, 13, 17, 0)))..
+crime_date(19824754, datime(date(2019, 6, 13, 13, 17, 0))).
 criminal_race(19824754,black).
 num_of_charges(19824754, 4).
 has_arrest(jc317433, 19829488).
-crime_date(19829488, datime(date(2019, 6, 22, 18, 42, 0)))..
+crime_date(19829488, datime(date(2019, 6, 22, 18, 42, 0))).
 criminal_race(19829488,black).
 num_of_charges(19829488, 4).
 has_arrest(jc284673, 19817951).
-crime_date(19817951, datime(date(2019, 5, 30, 12, 55, 0)))..
+crime_date(19817951, datime(date(2019, 5, 30, 12, 55, 0))).
 criminal_race(19817951,black).
 num_of_charges(19817951, 4).
 has_arrest(jc262468, 19819784).
-crime_date(19819784, datime(date(2019, 6, 3, 15, 54, 0)))..
+crime_date(19819784, datime(date(2019, 6, 3, 15, 54, 0))).
 criminal_race(19819784,white_hispanic).
 num_of_charges(19819784, 4).
 has_arrest(jc197810, 19831479).
-crime_date(19831479, datime(date(2019, 6, 27, 8, 1, 0)))..
+crime_date(19831479, datime(date(2019, 6, 27, 8, 1, 0))).
 criminal_race(19831479,black).
 num_of_charges(19831479, 4).
 has_arrest(jb358768, 19824823).
-crime_date(19824823, datime(date(2019, 6, 13, 16, 20, 0)))..
+crime_date(19824823, datime(date(2019, 6, 13, 16, 20, 0))).
 criminal_race(19824823,black).
 num_of_charges(19824823, 4).
 has_arrest(jb365528, 19827194).
-crime_date(19827194, datime(date(2019, 6, 18, 11, 30, 0)))..
+crime_date(19827194, datime(date(2019, 6, 18, 11, 30, 0))).
 criminal_race(19827194,black).
 num_of_charges(19827194, 4).
 has_arrest(jc328192, 19837413).
-crime_date(19837413, datime(date(2019, 7, 8, 18, 40, 0)))..
+crime_date(19837413, datime(date(2019, 7, 8, 18, 40, 0))).
 criminal_race(19837413,white_hispanic).
 num_of_charges(19837413, 4).
 has_arrest(jc337875, 19836339).
-crime_date(19836339, datime(date(2019, 7, 6, 23, 0, 0)))..
+crime_date(19836339, datime(date(2019, 7, 6, 23, 0, 0))).
 criminal_race(19836339,black).
 num_of_charges(19836339, 4).
 has_arrest(jc214156, 19830075).
-crime_date(19830075, datime(date(2019, 6, 24, 9, 5, 0)))..
+crime_date(19830075, datime(date(2019, 6, 24, 9, 5, 0))).
 criminal_race(19830075,black).
 num_of_charges(19830075, 4).
 has_arrest(jb567847, 19837210).
-crime_date(19837210, datime(date(2019, 7, 8, 18, 58, 0)))..
+crime_date(19837210, datime(date(2019, 7, 8, 18, 58, 0))).
 criminal_race(19837210,white_hispanic).
 num_of_charges(19837210, 4).
 has_arrest(jc300537, 19823533).
-crime_date(19823533, datime(date(2019, 6, 10, 16, 8, 0)))..
+crime_date(19823533, datime(date(2019, 6, 10, 16, 8, 0))).
 criminal_race(19823533,black).
 num_of_charges(19823533, 4).
 has_arrest(jc338230, 19836506).
-crime_date(19836506, datime(date(2019, 7, 7, 7, 0, 0)))..
+crime_date(19836506, datime(date(2019, 7, 7, 7, 0, 0))).
 criminal_race(19836506,black).
 num_of_charges(19836506, 4).
 has_arrest(jc329493, 19833429).
-crime_date(19833429, datime(date(2019, 7, 1, 8, 45, 0)))..
+crime_date(19833429, datime(date(2019, 7, 1, 8, 45, 0))).
 criminal_race(19833429,white_hispanic).
 num_of_charges(19833429, 4).
 has_arrest(jc288353, 19819155).
-crime_date(19819155, datime(date(2019, 6, 1, 22, 2, 0)))..
+crime_date(19819155, datime(date(2019, 6, 1, 22, 2, 0))).
 criminal_race(19819155,black).
 num_of_charges(19819155, 4).
 has_arrest(jb303350, 19830651).
-crime_date(19830651, datime(date(2019, 6, 25, 10, 15, 0)))..
+crime_date(19830651, datime(date(2019, 6, 25, 10, 15, 0))).
 criminal_race(19830651,black).
 num_of_charges(19830651, 4).
 has_arrest(jb477554, 19821319).
-crime_date(19821319, datime(date(2019, 6, 6, 14, 45, 0)))..
+crime_date(19821319, datime(date(2019, 6, 6, 14, 45, 0))).
 criminal_race(19821319,black).
 num_of_charges(19821319, 4).
 has_arrest(jc293992, 19821003).
-crime_date(19821003, datime(date(2019, 6, 5, 21, 45, 0)))..
+crime_date(19821003, datime(date(2019, 6, 5, 21, 45, 0))).
 criminal_race(19821003,white).
 num_of_charges(19821003, 4).
 has_arrest(jc302360, 19826617).
-crime_date(19826617, datime(date(2019, 6, 17, 10, 32, 0)))..
+crime_date(19826617, datime(date(2019, 6, 17, 10, 32, 0))).
 criminal_race(19826617,white_hispanic).
 num_of_charges(19826617, 4).
 has_arrest(jc321391, 19830698).
-crime_date(19830698, datime(date(2019, 6, 25, 15, 25, 0)))..
+crime_date(19830698, datime(date(2019, 6, 25, 15, 25, 0))).
 criminal_race(19830698,black).
 num_of_charges(19830698, 4).
 has_arrest(jc326686, 19832512).
-crime_date(19832512, datime(date(2019, 6, 29, 1, 6, 0)))..
+crime_date(19832512, datime(date(2019, 6, 29, 1, 6, 0))).
 criminal_race(19832512,black).
 num_of_charges(19832512, 4).
 has_arrest(jc282729, 19817945).
-crime_date(19817945, datime(date(2019, 5, 30, 11, 15, 0)))..
+crime_date(19817945, datime(date(2019, 5, 30, 11, 15, 0))).
 criminal_race(19817945,black).
 num_of_charges(19817945, 4).
 has_arrest(ja253989, 19830744).
-crime_date(19830744, datime(date(2019, 6, 25, 17, 20, 0)))..
+crime_date(19830744, datime(date(2019, 6, 25, 17, 20, 0))).
 criminal_race(19830744,black).
 num_of_charges(19830744, 4).
 has_arrest(jc287306, 19820213).
-crime_date(19820213, datime(date(2019, 6, 4, 12, 20, 0)))..
+crime_date(19820213, datime(date(2019, 6, 4, 12, 20, 0))).
 criminal_race(19820213,black).
 num_of_charges(19820213, 4).
 has_arrest(jc283353, 19823638).
-crime_date(19823638, datime(date(2019, 6, 11, 7, 39, 0)))..
+crime_date(19823638, datime(date(2019, 6, 11, 7, 39, 0))).
 criminal_race(19823638,black).
 num_of_charges(19823638, 4).
 has_arrest(jc317433, 19829477).
-crime_date(19829477, datime(date(2019, 6, 22, 18, 42, 0)))..
+crime_date(19829477, datime(date(2019, 6, 22, 18, 42, 0))).
 criminal_race(19829477,black).
 num_of_charges(19829477, 4).
 has_arrest(jc170998, 19817927).
-crime_date(19817927, datime(date(2019, 5, 30, 13, 35, 0)))..
+crime_date(19817927, datime(date(2019, 5, 30, 13, 35, 0))).
 criminal_race(19817927,black).
 num_of_charges(19817927, 4).
 has_arrest(jc367710, 19846658).
-crime_date(19846658, datime(date(2019, 7, 28, 3, 27, 0)))..
+crime_date(19846658, datime(date(2019, 7, 28, 3, 27, 0))).
 criminal_race(19846658,black_hispanic).
 num_of_charges(19846658, 4).
 has_arrest(jc375795, 19849257).
-crime_date(19849257, datime(date(2019, 8, 2, 19, 55, 0)))..
+crime_date(19849257, datime(date(2019, 8, 2, 19, 55, 0))).
 criminal_race(19849257,black).
 num_of_charges(19849257, 4).
 has_arrest(jb268112, 19858793).
-crime_date(19858793, datime(date(2019, 8, 22, 1, 40, 0)))..
+crime_date(19858793, datime(date(2019, 8, 22, 1, 40, 0))).
 criminal_race(19858793,black).
 num_of_charges(19858793, 4).
 has_arrest(jc343628, 19843630).
-crime_date(19843630, datime(date(2019, 7, 22, 1, 0, 0)))..
+crime_date(19843630, datime(date(2019, 7, 22, 1, 0, 0))).
 criminal_race(19843630,black).
 num_of_charges(19843630, 4).
 has_arrest(jc317433, 19841858).
-crime_date(19841858, datime(date(2019, 7, 18, 10, 0, 0)))..
+crime_date(19841858, datime(date(2019, 7, 18, 10, 0, 0))).
 criminal_race(19841858,black).
 num_of_charges(19841858, 4).
 has_arrest(jc388466, 19853633).
-crime_date(19853633, datime(date(2019, 8, 11, 18, 11, 0)))..
+crime_date(19853633, datime(date(2019, 8, 11, 18, 11, 0))).
 criminal_race(19853633,black).
 num_of_charges(19853633, 4).
 has_arrest(jc381695, 19851166).
-crime_date(19851166, datime(date(2019, 8, 6, 23, 16, 0)))..
+crime_date(19851166, datime(date(2019, 8, 6, 23, 16, 0))).
 criminal_race(19851166,black).
 num_of_charges(19851166, 4).
 has_arrest(jb310763, 19853122).
-crime_date(19853122, datime(date(2019, 8, 10, 19, 32, 0)))..
+crime_date(19853122, datime(date(2019, 8, 10, 19, 32, 0))).
 criminal_race(19853122,black).
 num_of_charges(19853122, 4).
 has_arrest(jb419647, 19850879).
-crime_date(19850879, datime(date(2019, 8, 6, 12, 0, 0)))..
+crime_date(19850879, datime(date(2019, 8, 6, 12, 0, 0))).
 criminal_race(19850879,black).
 num_of_charges(19850879, 4).
 has_arrest(jc287306, 19848295).
-crime_date(19848295, datime(date(2019, 7, 31, 18, 55, 0)))..
+crime_date(19848295, datime(date(2019, 7, 31, 18, 55, 0))).
 criminal_race(19848295,black).
 num_of_charges(19848295, 4).
 has_arrest(jc239646, 19847302).
-crime_date(19847302, datime(date(2019, 7, 29, 17, 37, 0)))..
+crime_date(19847302, datime(date(2019, 7, 29, 17, 37, 0))).
 criminal_race(19847302,white_hispanic).
 num_of_charges(19847302, 4).
 has_arrest(jc334629, 19844082).
-crime_date(19844082, datime(date(2019, 7, 23, 0, 50, 0)))..
+crime_date(19844082, datime(date(2019, 7, 23, 0, 50, 0))).
 criminal_race(19844082,black).
 num_of_charges(19844082, 4).
 has_arrest(jc327352, 19844722).
-crime_date(19844722, datime(date(2019, 7, 24, 11, 37, 0)))..
+crime_date(19844722, datime(date(2019, 7, 24, 11, 37, 0))).
 criminal_race(19844722,black).
 num_of_charges(19844722, 4).
 has_arrest(hz565767, 19844678).
-crime_date(19844678, datime(date(2019, 7, 24, 10, 20, 0)))..
+crime_date(19844678, datime(date(2019, 7, 24, 10, 20, 0))).
 criminal_race(19844678,white_hispanic).
 num_of_charges(19844678, 4).
 has_arrest(jc240092, 19844681).
-crime_date(19844681, datime(date(2019, 7, 24, 9, 9, 0)))..
+crime_date(19844681, datime(date(2019, 7, 24, 9, 9, 0))).
 criminal_race(19844681,black).
 num_of_charges(19844681, 4).
 has_arrest(jc362682, 19855103).
-crime_date(19855103, datime(date(2019, 8, 14, 17, 46, 0)))..
+crime_date(19855103, datime(date(2019, 8, 14, 17, 46, 0))).
 criminal_race(19855103,black).
 num_of_charges(19855103, 4).
 has_arrest(jc391424, 19854661).
-crime_date(19854661, datime(date(2019, 8, 13, 23, 40, 0)))..
+crime_date(19854661, datime(date(2019, 8, 13, 23, 40, 0))).
 criminal_race(19854661,black).
 num_of_charges(19854661, 4).
 has_arrest(jc359225, 19843804).
-crime_date(19843804, datime(date(2019, 7, 22, 10, 10, 0)))..
+crime_date(19843804, datime(date(2019, 7, 22, 10, 10, 0))).
 criminal_race(19843804,black).
 num_of_charges(19843804, 4).
 has_arrest(jc405126, 19859863).
-crime_date(19859863, datime(date(2019, 8, 24, 10, 22, 0)))..
+crime_date(19859863, datime(date(2019, 8, 24, 10, 22, 0))).
 criminal_race(19859863,black).
 num_of_charges(19859863, 4).
 has_arrest(jc375795, 19849244).
-crime_date(19849244, datime(date(2019, 8, 2, 19, 55, 0)))..
+crime_date(19849244, datime(date(2019, 8, 2, 19, 55, 0))).
 criminal_race(19849244,black).
 num_of_charges(19849244, 4).
 has_arrest(jc383239, 19851768).
-crime_date(19851768, datime(date(2019, 8, 8, 1, 49, 0)))..
+crime_date(19851768, datime(date(2019, 8, 8, 1, 49, 0))).
 criminal_race(19851768,black).
 num_of_charges(19851768, 4).
 has_arrest(jc392836, 19855184).
-crime_date(19855184, datime(date(2019, 8, 14, 20, 49, 0)))..
+crime_date(19855184, datime(date(2019, 8, 14, 20, 49, 0))).
 criminal_race(19855184,black).
 num_of_charges(19855184, 4).
 has_arrest(jb567847, 19858030).
-crime_date(19858030, datime(date(2019, 8, 20, 19, 30, 0)))..
+crime_date(19858030, datime(date(2019, 8, 20, 19, 30, 0))).
 criminal_race(19858030,white_hispanic).
 num_of_charges(19858030, 4).
 has_arrest(jc356024, 19845001).
-crime_date(19845001, datime(date(2019, 7, 24, 22, 48, 0)))..
+crime_date(19845001, datime(date(2019, 7, 24, 22, 48, 0))).
 criminal_race(19845001,black).
 num_of_charges(19845001, 4).
 has_arrest(jc389303, 19853949).
-crime_date(19853949, datime(date(2019, 8, 12, 12, 28, 0)))..
+crime_date(19853949, datime(date(2019, 8, 12, 12, 28, 0))).
 criminal_race(19853949,black).
 num_of_charges(19853949, 4).
 has_arrest(jc375795, 19849214).
-crime_date(19849214, datime(date(2019, 8, 2, 19, 55, 0)))..
+crime_date(19849214, datime(date(2019, 8, 2, 19, 55, 0))).
 criminal_race(19849214,black).
 num_of_charges(19849214, 4).
 has_arrest(jc343628, 19843624).
-crime_date(19843624, datime(date(2019, 7, 22, 1, 0, 0)))..
+crime_date(19843624, datime(date(2019, 7, 22, 1, 0, 0))).
 criminal_race(19843624,black).
 num_of_charges(19843624, 4).
 has_arrest(jc374519, 19848776).
-crime_date(19848776, datime(date(2019, 8, 1, 20, 32, 0)))..
+crime_date(19848776, datime(date(2019, 8, 1, 20, 32, 0))).
 criminal_race(19848776,white_hispanic).
 num_of_charges(19848776, 4).
 has_arrest(jc347217, 19840311).
-crime_date(19840311, datime(date(2019, 7, 15, 10, 20, 0)))..
+crime_date(19840311, datime(date(2019, 7, 15, 10, 20, 0))).
 criminal_race(19840311,black).
 num_of_charges(19840311, 4).
 has_arrest(jc236433, 19841266).
-crime_date(19841266, datime(date(2019, 7, 17, 8, 31, 0)))..
+crime_date(19841266, datime(date(2019, 7, 17, 8, 31, 0))).
 criminal_race(19841266,white_hispanic).
 num_of_charges(19841266, 4).
 has_arrest(jc368088, 19846799).
-crime_date(19846799, datime(date(2019, 7, 28, 14, 20, 0)))..
+crime_date(19846799, datime(date(2019, 7, 28, 14, 20, 0))).
 criminal_race(19846799,black).
 num_of_charges(19846799, 4).
 has_arrest(jc236433, 19841265).
-crime_date(19841265, datime(date(2019, 7, 17, 8, 27, 0)))..
+crime_date(19841265, datime(date(2019, 7, 17, 8, 27, 0))).
 criminal_race(19841265,white_hispanic).
 num_of_charges(19841265, 4).
 has_arrest(jc374519, 19848782).
-crime_date(19848782, datime(date(2019, 8, 1, 20, 32, 0)))..
+crime_date(19848782, datime(date(2019, 8, 1, 20, 32, 0))).
 criminal_race(19848782,white_hispanic).
 num_of_charges(19848782, 4).
 has_arrest(jc371919, 19847985).
-crime_date(19847985, datime(date(2019, 7, 30, 23, 47, 0)))..
+crime_date(19847985, datime(date(2019, 7, 30, 23, 47, 0))).
 criminal_race(19847985,black).
 num_of_charges(19847985, 4).
 has_arrest(jc369752, 19849562).
-crime_date(19849562, datime(date(2019, 8, 3, 14, 50, 0)))..
+crime_date(19849562, datime(date(2019, 8, 3, 14, 50, 0))).
 criminal_race(19849562,black).
 num_of_charges(19849562, 4).
 has_arrest(jc358101, 19843331).
-crime_date(19843331, datime(date(2019, 7, 21, 9, 39, 0)))..
+crime_date(19843331, datime(date(2019, 7, 21, 9, 39, 0))).
 criminal_race(19843331,white_hispanic).
 num_of_charges(19843331, 4).
 has_arrest(jc167528, 19840958).
-crime_date(19840958, datime(date(2019, 7, 16, 17, 58, 0)))..
+crime_date(19840958, datime(date(2019, 7, 16, 17, 58, 0))).
 criminal_race(19840958,black).
 num_of_charges(19840958, 4).
 has_arrest(jc281250, 19840342).
-crime_date(19840342, datime(date(2019, 7, 15, 11, 56, 0)))..
+crime_date(19840342, datime(date(2019, 7, 15, 11, 56, 0))).
 criminal_race(19840342,white_hispanic).
 num_of_charges(19840342, 4).
 has_arrest(jc356345, 19842783).
-crime_date(19842783, datime(date(2019, 7, 20, 0, 47, 0)))..
+crime_date(19842783, datime(date(2019, 7, 20, 0, 47, 0))).
 criminal_race(19842783,black).
 num_of_charges(19842783, 4).
 has_arrest(jc377545, 19849870).
-crime_date(19849870, datime(date(2019, 8, 4, 1, 20, 0)))..
+crime_date(19849870, datime(date(2019, 8, 4, 1, 20, 0))).
 criminal_race(19849870,black).
 num_of_charges(19849870, 4).
 has_arrest(jc344986, 19838796).
-crime_date(19838796, datime(date(2019, 7, 11, 23, 40, 0)))..
+crime_date(19838796, datime(date(2019, 7, 11, 23, 40, 0))).
 criminal_race(19838796,black).
 num_of_charges(19838796, 4).
 has_arrest(jc358101, 19843336).
-crime_date(19843336, datime(date(2019, 7, 21, 9, 39, 0)))..
+crime_date(19843336, datime(date(2019, 7, 21, 9, 39, 0))).
 criminal_race(19843336,white_hispanic).
 num_of_charges(19843336, 4).
 has_arrest(jc381991, 19852513).
-crime_date(19852513, datime(date(2019, 8, 9, 13, 5, 0)))..
+crime_date(19852513, datime(date(2019, 8, 9, 13, 5, 0))).
 criminal_race(19852513,black).
 num_of_charges(19852513, 4).
 has_arrest(jc358101, 19843330).
-crime_date(19843330, datime(date(2019, 7, 21, 9, 39, 0)))..
+crime_date(19843330, datime(date(2019, 7, 21, 9, 39, 0))).
 criminal_race(19843330,white_hispanic).
 num_of_charges(19843330, 4).
 has_arrest(jc387663, 19853384).
-crime_date(19853384, datime(date(2019, 8, 11, 4, 30, 0)))..
+crime_date(19853384, datime(date(2019, 8, 11, 4, 30, 0))).
 criminal_race(19853384,black).
 num_of_charges(19853384, 4).
 has_arrest(jc346830, 19840463).
-crime_date(19840463, datime(date(2019, 7, 15, 15, 0, 0)))..
+crime_date(19840463, datime(date(2019, 7, 15, 15, 0, 0))).
 criminal_race(19840463,white_hispanic).
 num_of_charges(19840463, 4).
 has_arrest(jc317433, 19841859).
-crime_date(19841859, datime(date(2019, 7, 18, 10, 0, 0)))..
+crime_date(19841859, datime(date(2019, 7, 18, 10, 0, 0))).
 criminal_race(19841859,black).
 num_of_charges(19841859, 4).
 has_arrest(jc358101, 19844664).
-crime_date(19844664, datime(date(2019, 7, 24, 8, 2, 0)))..
+crime_date(19844664, datime(date(2019, 7, 24, 8, 2, 0))).
 criminal_race(19844664,white_hispanic).
 num_of_charges(19844664, 4).
 has_arrest(hw289806, 19841965).
-crime_date(19841965, datime(date(2019, 7, 18, 15, 5, 0)))..
+crime_date(19841965, datime(date(2019, 7, 18, 15, 5, 0))).
 criminal_race(19841965,black).
 num_of_charges(19841965, 4).
 has_arrest(jc113431, 19839013).
-crime_date(19839013, datime(date(2019, 7, 12, 13, 15, 0)))..
+crime_date(19839013, datime(date(2019, 7, 12, 13, 15, 0))).
 criminal_race(19839013,black).
 num_of_charges(19839013, 4).
 has_arrest(jc327352, 19857302).
-crime_date(19857302, datime(date(2019, 8, 19, 11, 19, 0)))..
+crime_date(19857302, datime(date(2019, 8, 19, 11, 19, 0))).
 criminal_race(19857302,black).
 num_of_charges(19857302, 4).
 has_arrest(jc419033, 19864914).
-crime_date(19864914, datime(date(2019, 9, 3, 17, 58, 0)))..
+crime_date(19864914, datime(date(2019, 9, 3, 17, 58, 0))).
 criminal_race(19864914,black).
 num_of_charges(19864914, 4).
 has_arrest(jc461818, 19880182).
-crime_date(19880182, datime(date(2019, 10, 6, 4, 0, 0)))..
+crime_date(19880182, datime(date(2019, 10, 6, 4, 0, 0))).
 criminal_race(19880182,white_hispanic).
 num_of_charges(19880182, 4).
 has_arrest(jc424463, 19870926).
-crime_date(19870926, datime(date(2019, 9, 16, 9, 13, 0)))..
+crime_date(19870926, datime(date(2019, 9, 16, 9, 13, 0))).
 criminal_race(19870926,white_hispanic).
 num_of_charges(19870926, 4).
 has_arrest(hw431623, 19881536).
-crime_date(19881536, datime(date(2019, 10, 9, 13, 27, 0)))..
+crime_date(19881536, datime(date(2019, 10, 9, 13, 27, 0))).
 criminal_race(19881536,black).
 num_of_charges(19881536, 4).
 has_arrest(jc415562, 19863688).
-crime_date(19863688, datime(date(2019, 9, 1, 3, 5, 0)))..
+crime_date(19863688, datime(date(2019, 9, 1, 3, 5, 0))).
 criminal_race(19863688,black).
 num_of_charges(19863688, 4).
 has_arrest(jc288642, 19868142).
-crime_date(19868142, datime(date(2019, 9, 10, 16, 50, 0)))..
+crime_date(19868142, datime(date(2019, 9, 10, 16, 50, 0))).
 criminal_race(19868142,black).
 num_of_charges(19868142, 4).
 has_arrest(jc424523, 19867135).
-crime_date(19867135, datime(date(2019, 9, 8, 8, 10, 0)))..
+crime_date(19867135, datime(date(2019, 9, 8, 8, 10, 0))).
 criminal_race(19867135,white_hispanic).
 num_of_charges(19867135, 4).
 has_arrest(jb525987, 19861793).
-crime_date(19861793, datime(date(2019, 8, 28, 12, 45, 0)))..
+crime_date(19861793, datime(date(2019, 8, 28, 12, 45, 0))).
 criminal_race(19861793,black).
 num_of_charges(19861793, 4).
 has_arrest(hz475009, 19882070).
-crime_date(19882070, datime(date(2019, 10, 10, 13, 20, 0)))..
+crime_date(19882070, datime(date(2019, 10, 10, 13, 20, 0))).
 criminal_race(19882070,white_hispanic).
 num_of_charges(19882070, 4).
 has_arrest(jc428499, 19877040).
-crime_date(19877040, datime(date(2019, 9, 29, 15, 23, 0)))..
+crime_date(19877040, datime(date(2019, 9, 29, 15, 23, 0))).
 criminal_race(19877040,black).
 num_of_charges(19877040, 4).
 has_arrest(jc385715, 19881021).
-crime_date(19881021, datime(date(2019, 10, 8, 8, 25, 0)))..
+crime_date(19881021, datime(date(2019, 10, 8, 8, 25, 0))).
 criminal_race(19881021,white_hispanic).
 num_of_charges(19881021, 4).
 has_arrest(jc422210, 19866196).
-crime_date(19866196, datime(date(2019, 9, 6, 11, 24, 0)))..
+crime_date(19866196, datime(date(2019, 9, 6, 11, 24, 0))).
 criminal_race(19866196,black).
 num_of_charges(19866196, 4).
 has_arrest(hz505589, 19868996).
-crime_date(19868996, datime(date(2019, 9, 12, 10, 40, 0)))..
+crime_date(19868996, datime(date(2019, 9, 12, 10, 40, 0))).
 criminal_race(19868996,black).
 num_of_charges(19868996, 4).
 has_arrest(jc424463, 19870928).
-crime_date(19870928, datime(date(2019, 9, 16, 9, 25, 0)))..
+crime_date(19870928, datime(date(2019, 9, 16, 9, 25, 0))).
 criminal_race(19870928,white_hispanic).
 num_of_charges(19870928, 4).
 has_arrest(jc429531, 19868878).
-crime_date(19868878, datime(date(2019, 9, 11, 21, 48, 0)))..
+crime_date(19868878, datime(date(2019, 9, 11, 21, 48, 0))).
 criminal_race(19868878,black).
 num_of_charges(19868878, 4).
 has_arrest(jc403417, 19878806).
-crime_date(19878806, datime(date(2019, 10, 3, 10, 27, 0)))..
+crime_date(19878806, datime(date(2019, 10, 3, 10, 27, 0))).
 criminal_race(19878806,white_hispanic).
 num_of_charges(19878806, 4).
 has_arrest(jc449816, 19875985).
-crime_date(19875985, datime(date(2019, 9, 26, 20, 29, 0)))..
+crime_date(19875985, datime(date(2019, 9, 26, 20, 29, 0))).
 criminal_race(19875985,black).
 num_of_charges(19875985, 4).
 has_arrest(jc307166, 19868439).
-crime_date(19868439, datime(date(2019, 9, 11, 6, 58, 0)))..
+crime_date(19868439, datime(date(2019, 9, 11, 6, 58, 0))).
 criminal_race(19868439,black).
 num_of_charges(19868439, 4).
 has_arrest(jc363198, 19861556).
-crime_date(19861556, datime(date(2019, 8, 27, 18, 55, 0)))..
+crime_date(19861556, datime(date(2019, 8, 27, 18, 55, 0))).
 criminal_race(19861556,black).
 num_of_charges(19861556, 4).
 has_arrest(jc456247, 19879028).
-crime_date(19879028, datime(date(2019, 10, 3, 17, 43, 0)))..
+crime_date(19879028, datime(date(2019, 10, 3, 17, 43, 0))).
 criminal_race(19879028,black).
 num_of_charges(19879028, 4).
 has_arrest(jc404581, 19862482).
-crime_date(19862482, datime(date(2019, 8, 29, 20, 0, 0)))..
+crime_date(19862482, datime(date(2019, 8, 29, 20, 0, 0))).
 criminal_race(19862482,black).
 num_of_charges(19862482, 4).
 has_arrest(jc425539, 19871208).
-crime_date(19871208, datime(date(2019, 9, 16, 19, 22, 0)))..
+crime_date(19871208, datime(date(2019, 9, 16, 19, 22, 0))).
 criminal_race(19871208,black).
 num_of_charges(19871208, 4).
 has_arrest(jc422210, 19866169).
-crime_date(19866169, datime(date(2019, 9, 6, 11, 24, 0)))..
+crime_date(19866169, datime(date(2019, 9, 6, 11, 24, 0))).
 criminal_race(19866169,black).
 num_of_charges(19866169, 4).
 has_arrest(jb525987, 19861797).
-crime_date(19861797, datime(date(2019, 8, 28, 13, 1, 0)))..
+crime_date(19861797, datime(date(2019, 8, 28, 13, 1, 0))).
 criminal_race(19861797,black).
 num_of_charges(19861797, 4).
 has_arrest(hr281876, 19874667).
-crime_date(19874667, datime(date(2019, 9, 30, 6, 30, 0)))..
+crime_date(19874667, datime(date(2019, 9, 30, 6, 30, 0))).
 criminal_race(19874667,black).
 num_of_charges(19874667, 4).
 has_arrest(jc409903, 19878424).
-crime_date(19878424, datime(date(2019, 10, 2, 14, 0, 0)))..
+crime_date(19878424, datime(date(2019, 10, 2, 14, 0, 0))).
 criminal_race(19878424,black).
 num_of_charges(19878424, 4).
 has_arrest(jc411645, 19869546).
-crime_date(19869546, datime(date(2019, 9, 13, 12, 45, 0)))..
+crime_date(19869546, datime(date(2019, 9, 13, 12, 45, 0))).
 criminal_race(19869546,black).
 num_of_charges(19869546, 4).
 has_arrest(jc178809, 19874132).
-crime_date(19874132, datime(date(2019, 9, 23, 10, 30, 0)))..
+crime_date(19874132, datime(date(2019, 9, 23, 10, 30, 0))).
 criminal_race(19874132,black).
 num_of_charges(19874132, 4).
 has_arrest(jc406167, 19860183).
-crime_date(19860183, datime(date(2019, 8, 25, 2, 26, 0)))..
+crime_date(19860183, datime(date(2019, 8, 25, 2, 26, 0))).
 criminal_race(19860183,black).
 num_of_charges(19860183, 4).
 has_arrest(jc262117, 19865363).
-crime_date(19865363, datime(date(2019, 9, 4, 17, 50, 0)))..
+crime_date(19865363, datime(date(2019, 9, 4, 17, 50, 0))).
 criminal_race(19865363,black).
 num_of_charges(19865363, 4).
 has_arrest(jc397873, 19875628).
-crime_date(19875628, datime(date(2019, 9, 26, 8, 51, 0)))..
+crime_date(19875628, datime(date(2019, 9, 26, 8, 51, 0))).
 criminal_race(19875628,black).
 num_of_charges(19875628, 4).
 has_arrest(jc285616, 19881614).
-crime_date(19881614, datime(date(2019, 10, 9, 15, 13, 0)))..
+crime_date(19881614, datime(date(2019, 10, 9, 15, 13, 0))).
 criminal_race(19881614,black).
 num_of_charges(19881614, 4).
 has_arrest(jc455343, 19877814).
-crime_date(19877814, datime(date(2019, 10, 1, 8, 55, 0)))..
+crime_date(19877814, datime(date(2019, 10, 1, 8, 55, 0))).
 criminal_race(19877814,black).
 num_of_charges(19877814, 4).
 has_arrest(jc418987, 19868536).
-crime_date(19868536, datime(date(2019, 9, 11, 11, 57, 0)))..
+crime_date(19868536, datime(date(2019, 9, 11, 11, 57, 0))).
 criminal_race(19868536,black).
 num_of_charges(19868536, 4).
 has_arrest(jc376255, 19864697).
-crime_date(19864697, datime(date(2019, 9, 3, 7, 48, 0)))..
+crime_date(19864697, datime(date(2019, 9, 3, 7, 48, 0))).
 criminal_race(19864697,black).
 num_of_charges(19864697, 4).
 has_arrest(jc422210, 19866188).
-crime_date(19866188, datime(date(2019, 9, 6, 10, 27, 0)))..
+crime_date(19866188, datime(date(2019, 9, 6, 10, 27, 0))).
 criminal_race(19866188,black).
 num_of_charges(19866188, 4).
 has_arrest(jc177483, 19877123).
-crime_date(19877123, datime(date(2019, 9, 29, 20, 20, 0)))..
+crime_date(19877123, datime(date(2019, 9, 29, 20, 20, 0))).
 criminal_race(19877123,black).
 num_of_charges(19877123, 4).
 has_arrest(jc286876, 19876247).
-crime_date(19876247, datime(date(2019, 9, 27, 12, 43, 0)))..
+crime_date(19876247, datime(date(2019, 9, 27, 12, 43, 0))).
 criminal_race(19876247,black).
 num_of_charges(19876247, 4).
 has_arrest(jc324333, 19864741).
-crime_date(19864741, datime(date(2019, 9, 3, 11, 5, 0)))..
+crime_date(19864741, datime(date(2019, 9, 3, 11, 5, 0))).
 criminal_race(19864741,black).
 num_of_charges(19864741, 4).
 has_arrest(jc346635, 19862531).
-crime_date(19862531, datime(date(2019, 8, 29, 22, 14, 0)))..
+crime_date(19862531, datime(date(2019, 8, 29, 22, 14, 0))).
 criminal_race(19862531,black).
 num_of_charges(19862531, 4).
 has_arrest(jc461818, 19880176).
-crime_date(19880176, datime(date(2019, 10, 6, 4, 0, 0)))..
+crime_date(19880176, datime(date(2019, 10, 6, 4, 0, 0))).
 criminal_race(19880176,white).
 num_of_charges(19880176, 4).
 has_arrest(jc184723, 19880763).
-crime_date(19880763, datime(date(2019, 10, 7, 18, 22, 0)))..
+crime_date(19880763, datime(date(2019, 10, 7, 18, 22, 0))).
 criminal_race(19880763,black).
 num_of_charges(19880763, 4).
 has_arrest(jc405126, 19862351).
-crime_date(19862351, datime(date(2019, 8, 29, 14, 30, 0)))..
+crime_date(19862351, datime(date(2019, 8, 29, 14, 30, 0))).
 criminal_race(19862351,black).
 num_of_charges(19862351, 4).
 has_arrest(jc456247, 19879037).
-crime_date(19879037, datime(date(2019, 10, 3, 19, 50, 0)))..
+crime_date(19879037, datime(date(2019, 10, 3, 19, 50, 0))).
 criminal_race(19879037,black).
 num_of_charges(19879037, 4).
 has_arrest(jc334372, 19877791).
-crime_date(19877791, datime(date(2019, 10, 1, 7, 25, 0)))..
+crime_date(19877791, datime(date(2019, 10, 1, 7, 25, 0))).
 criminal_race(19877791,black).
 num_of_charges(19877791, 4).
 has_arrest(jc371245, 19874727).
-crime_date(19874727, datime(date(2019, 9, 24, 11, 20, 0)))..
+crime_date(19874727, datime(date(2019, 9, 24, 11, 20, 0))).
 criminal_race(19874727,black).
 num_of_charges(19874727, 4).
 has_arrest(jc511874, 19898649).
-crime_date(19898649, datime(date(2019, 11, 17, 11, 25, 0)))..
+crime_date(19898649, datime(date(2019, 11, 17, 11, 25, 0))).
 criminal_race(19898649,black).
 num_of_charges(19898649, 4).
 has_arrest(jb384129, 19895378).
-crime_date(19895378, datime(date(2019, 11, 9, 5, 5, 0)))..
+crime_date(19895378, datime(date(2019, 11, 9, 5, 5, 0))).
 criminal_race(19895378,black).
 num_of_charges(19895378, 4).
 has_arrest(jc528149, 19903792).
-crime_date(19903792, datime(date(2019, 11, 29, 6, 33, 0)))..
+crime_date(19903792, datime(date(2019, 11, 29, 6, 33, 0))).
 criminal_race(19903792,black).
 num_of_charges(19903792, 4).
 has_arrest(jc469553, 19887119).
-crime_date(19887119, datime(date(2019, 10, 21, 14, 53, 0)))..
+crime_date(19887119, datime(date(2019, 10, 21, 14, 53, 0))).
 criminal_race(19887119,white_hispanic).
 num_of_charges(19887119, 4).
 has_arrest(jc532963, 19905622).
-crime_date(19905622, datime(date(2019, 12, 3, 12, 48, 0)))..
+crime_date(19905622, datime(date(2019, 12, 3, 12, 48, 0))).
 criminal_race(19905622,black).
 num_of_charges(19905622, 4).
 has_arrest(jc517800, 19900003).
-crime_date(19900003, datime(date(2019, 11, 20, 15, 17, 0)))..
+crime_date(19900003, datime(date(2019, 11, 20, 15, 17, 0))).
 criminal_race(19900003,black).
 num_of_charges(19900003, 4).
 has_arrest(jc502527, 19894604).
-crime_date(19894604, datime(date(2019, 11, 7, 21, 32, 0)))..
+crime_date(19894604, datime(date(2019, 11, 7, 21, 32, 0))).
 criminal_race(19894604,black).
 num_of_charges(19894604, 4).
 has_arrest(jc490655, 19890498).
-crime_date(19890498, datime(date(2019, 10, 29, 10, 59, 0)))..
+crime_date(19890498, datime(date(2019, 10, 29, 10, 59, 0))).
 criminal_race(19890498,black).
 num_of_charges(19890498, 4).
 has_arrest(jc517927, 19900029).
-crime_date(19900029, datime(date(2019, 11, 20, 16, 35, 0)))..
+crime_date(19900029, datime(date(2019, 11, 20, 16, 35, 0))).
 criminal_race(19900029,black).
 num_of_charges(19900029, 4).
 has_arrest(jc461608, 19894427).
-crime_date(19894427, datime(date(2019, 11, 7, 15, 20, 0)))..
+crime_date(19894427, datime(date(2019, 11, 7, 15, 20, 0))).
 criminal_race(19894427,black).
 num_of_charges(19894427, 4).
 has_arrest(jc482954, 19887834).
-crime_date(19887834, datime(date(2019, 10, 23, 1, 20, 0)))..
+crime_date(19887834, datime(date(2019, 10, 23, 1, 20, 0))).
 criminal_race(19887834,black).
 num_of_charges(19887834, 4).
 has_arrest(jc484749, 19888512).
-crime_date(19888512, datime(date(2019, 10, 24, 13, 26, 0)))..
+crime_date(19888512, datime(date(2019, 10, 24, 13, 26, 0))).
 criminal_race(19888512,black).
 num_of_charges(19888512, 4).
 has_arrest(jb210902, 19899457).
-crime_date(19899457, datime(date(2019, 11, 19, 10, 0, 0)))..
+crime_date(19899457, datime(date(2019, 11, 19, 10, 0, 0))).
 criminal_race(19899457,black).
 num_of_charges(19899457, 4).
 has_arrest(hy515665, 19896975).
-crime_date(19896975, datime(date(2019, 11, 13, 9, 0, 0)))..
+crime_date(19896975, datime(date(2019, 11, 13, 9, 0, 0))).
 criminal_race(19896975,black).
 num_of_charges(19896975, 4).
 has_arrest(jc500162, 19893721).
-crime_date(19893721, datime(date(2019, 11, 5, 21, 46, 0)))..
+crime_date(19893721, datime(date(2019, 11, 5, 21, 46, 0))).
 criminal_race(19893721,white_hispanic).
 num_of_charges(19893721, 4).
 has_arrest(hy402725, 19885317).
-crime_date(19885317, datime(date(2019, 10, 17, 12, 10, 0)))..
+crime_date(19885317, datime(date(2019, 10, 17, 12, 10, 0))).
 criminal_race(19885317,black).
 num_of_charges(19885317, 4).
 has_arrest(jc490798, 19890718).
-crime_date(19890718, datime(date(2019, 10, 29, 13, 22, 0)))..
+crime_date(19890718, datime(date(2019, 10, 29, 13, 22, 0))).
 criminal_race(19890718,black).
 num_of_charges(19890718, 4).
 has_arrest(jc182941, 19896497).
-crime_date(19896497, datime(date(2019, 11, 12, 10, 45, 0)))..
+crime_date(19896497, datime(date(2019, 11, 12, 10, 45, 0))).
 criminal_race(19896497,black).
 num_of_charges(19896497, 4).
 has_arrest(jc524124, 19902379).
-crime_date(19902379, datime(date(2019, 11, 25, 16, 16, 0)))..
+crime_date(19902379, datime(date(2019, 11, 25, 16, 16, 0))).
 criminal_race(19902379,black).
 num_of_charges(19902379, 4).
 has_arrest(jc366984, 19893948).
-crime_date(19893948, datime(date(2019, 11, 6, 12, 4, 0)))..
+crime_date(19893948, datime(date(2019, 11, 6, 12, 4, 0))).
 criminal_race(19893948,black).
 num_of_charges(19893948, 4).
 has_arrest(jc498471, 19893466).
-crime_date(19893466, datime(date(2019, 11, 5, 11, 40, 0)))..
+crime_date(19893466, datime(date(2019, 11, 5, 11, 40, 0))).
 criminal_race(19893466,black).
 num_of_charges(19893466, 4).
 has_arrest(jc527564, 19903576).
-crime_date(19903576, datime(date(2019, 11, 28, 12, 48, 0)))..
+crime_date(19903576, datime(date(2019, 11, 28, 12, 48, 0))).
 criminal_race(19903576,black).
 num_of_charges(19903576, 4).
 has_arrest(jc386423, 19889727).
-crime_date(19889727, datime(date(2019, 10, 27, 11, 38, 0)))..
+crime_date(19889727, datime(date(2019, 10, 27, 11, 38, 0))).
 criminal_race(19889727,black).
 num_of_charges(19889727, 4).
 has_arrest(jc478780, 19886423).
-crime_date(19886423, datime(date(2019, 10, 19, 20, 33, 0)))..
+crime_date(19886423, datime(date(2019, 10, 19, 20, 33, 0))).
 criminal_race(19886423,black).
 num_of_charges(19886423, 4).
 has_arrest(jc477249, 19885794).
-crime_date(19885794, datime(date(2019, 10, 18, 12, 12, 0)))..
+crime_date(19885794, datime(date(2019, 10, 18, 12, 12, 0))).
 criminal_race(19885794,black).
 num_of_charges(19885794, 4).
 has_arrest(jc371747, 19893722).
-crime_date(19893722, datime(date(2019, 11, 5, 21, 28, 0)))..
+crime_date(19893722, datime(date(2019, 11, 5, 21, 28, 0))).
 criminal_race(19893722,white_hispanic).
 num_of_charges(19893722, 4).
 has_arrest(jc525807, 19902925).
-crime_date(19902925, datime(date(2019, 11, 26, 20, 11, 0)))..
+crime_date(19902925, datime(date(2019, 11, 26, 20, 11, 0))).
 criminal_race(19902925,black).
 num_of_charges(19902925, 4).
 has_arrest(jc454161, 19902754).
-crime_date(19902754, datime(date(2019, 11, 26, 14, 20, 0)))..
+crime_date(19902754, datime(date(2019, 11, 26, 14, 20, 0))).
 criminal_race(19902754,black).
 num_of_charges(19902754, 4).
 has_arrest(jc490655, 19890524).
-crime_date(19890524, datime(date(2019, 10, 29, 11, 6, 0)))..
+crime_date(19890524, datime(date(2019, 10, 29, 11, 6, 0))).
 criminal_race(19890524,black).
 num_of_charges(19890524, 4).
 has_arrest(jb493178, 19893549).
-crime_date(19893549, datime(date(2019, 11, 5, 16, 0, 0)))..
+crime_date(19893549, datime(date(2019, 11, 5, 16, 0, 0))).
 criminal_race(19893549,black).
 num_of_charges(19893549, 4).
 has_arrest(jc387139, 19902375).
-crime_date(19902375, datime(date(2019, 11, 25, 16, 0, 0)))..
+crime_date(19902375, datime(date(2019, 11, 25, 16, 0, 0))).
 criminal_race(19902375,black).
 num_of_charges(19902375, 4).
 has_arrest(jc508437, 19898059).
-crime_date(19898059, datime(date(2019, 11, 16, 0, 4, 0)))..
+crime_date(19898059, datime(date(2019, 11, 16, 0, 4, 0))).
 criminal_race(19898059,white_hispanic).
 num_of_charges(19898059, 4).
 has_arrest(jc521050, 19902199).
-crime_date(19902199, datime(date(2019, 11, 25, 6, 17, 0)))..
+crime_date(19902199, datime(date(2019, 11, 25, 6, 17, 0))).
 criminal_race(19902199,black).
 num_of_charges(19902199, 4).
 has_arrest(jc513081, 19898382).
-crime_date(19898382, datime(date(2019, 11, 16, 16, 48, 0)))..
+crime_date(19898382, datime(date(2019, 11, 16, 16, 48, 0))).
 criminal_race(19898382,black).
 num_of_charges(19898382, 4).
 has_arrest(jc192494, 19902329).
-crime_date(19902329, datime(date(2019, 11, 25, 14, 25, 0)))..
+crime_date(19902329, datime(date(2019, 11, 25, 14, 25, 0))).
 criminal_race(19902329,black).
 num_of_charges(19902329, 4).
 has_arrest(jc504390, 19903093).
-crime_date(19903093, datime(date(2019, 11, 27, 10, 25, 0)))..
+crime_date(19903093, datime(date(2019, 11, 27, 10, 25, 0))).
 criminal_race(19903093,black).
 num_of_charges(19903093, 4).
 has_arrest(ja552276, 19917058).
-crime_date(19917058, datime(date(2019, 12, 31, 13, 37, 0)))..
+crime_date(19917058, datime(date(2019, 12, 31, 13, 37, 0))).
 criminal_race(19917058,black).
 num_of_charges(19917058, 4).
 has_arrest(jb523107, 19909330).
-crime_date(19909330, datime(date(2019, 12, 12, 10, 30, 0)))..
+crime_date(19909330, datime(date(2019, 12, 12, 10, 30, 0))).
 criminal_race(19909330,black).
 num_of_charges(19909330, 4).
 has_arrest(jd126337, 19928007).
-crime_date(19928007, datime(date(2020, 1, 24, 23, 8, 0)))..
+crime_date(19928007, datime(date(2020, 1, 24, 23, 8, 0))).
 criminal_race(19928007,black).
 num_of_charges(19928007, 4).
 has_arrest(ja326821, 19923708).
-crime_date(19923708, datime(date(2020, 1, 15, 14, 22, 0)))..
+crime_date(19923708, datime(date(2020, 1, 15, 14, 22, 0))).
 criminal_race(19923708,black).
 num_of_charges(19923708, 4).
 has_arrest(jd126337, 19928058).
-crime_date(19928058, datime(date(2020, 1, 24, 23, 8, 0)))..
+crime_date(19928058, datime(date(2020, 1, 24, 23, 8, 0))).
 criminal_race(19928058,black).
 num_of_charges(19928058, 4).
 has_arrest(jb501375, 19920582).
-crime_date(19920582, datime(date(2020, 1, 8, 10, 12, 0)))..
+crime_date(19920582, datime(date(2020, 1, 8, 10, 12, 0))).
 criminal_race(19920582,black).
 num_of_charges(19920582, 4).
 has_arrest(jb270645, 19924120).
-crime_date(19924120, datime(date(2020, 1, 16, 11, 40, 0)))..
+crime_date(19924120, datime(date(2020, 1, 16, 11, 40, 0))).
 criminal_race(19924120,black).
 num_of_charges(19924120, 4).
 has_arrest(jd124601, 19926815).
-crime_date(19926815, datime(date(2020, 1, 22, 13, 41, 0)))..
+crime_date(19926815, datime(date(2020, 1, 22, 13, 41, 0))).
 criminal_race(19926815,black).
 num_of_charges(19926815, 4).
 has_arrest(jd104512, 19919308).
-crime_date(19919308, datime(date(2020, 1, 5, 15, 3, 0)))..
+crime_date(19919308, datime(date(2020, 1, 5, 15, 3, 0))).
 criminal_race(19919308,white_hispanic).
 num_of_charges(19919308, 4).
 has_arrest(jd114851, 19926845).
-crime_date(19926845, datime(date(2020, 1, 22, 15, 20, 0)))..
+crime_date(19926845, datime(date(2020, 1, 22, 15, 20, 0))).
 criminal_race(19926845,asian___pacific_islander).
 num_of_charges(19926845, 4).
 has_arrest(jc553810, 19912700).
-crime_date(19912700, datime(date(2019, 12, 20, 11, 52, 0)))..
+crime_date(19912700, datime(date(2019, 12, 20, 11, 52, 0))).
 criminal_race(19912700,white_hispanic).
 num_of_charges(19912700, 4).
 has_arrest(jc560154, 19914799).
-crime_date(19914799, datime(date(2019, 12, 25, 21, 25, 0)))..
+crime_date(19914799, datime(date(2019, 12, 25, 21, 25, 0))).
 criminal_race(19914799,black).
 num_of_charges(19914799, 4).
 has_arrest(jd103496, 19918603).
-crime_date(19918603, datime(date(2020, 1, 3, 20, 53, 0)))..
+crime_date(19918603, datime(date(2020, 1, 3, 20, 53, 0))).
 criminal_race(19918603,black).
 num_of_charges(19918603, 4).
 has_arrest(jc543864, 19909475).
-crime_date(19909475, datime(date(2019, 12, 12, 11, 18, 0)))..
+crime_date(19909475, datime(date(2019, 12, 12, 11, 18, 0))).
 criminal_race(19909475,black).
 num_of_charges(19909475, 4).
 has_arrest(jd126337, 19928059).
-crime_date(19928059, datime(date(2020, 1, 24, 23, 8, 0)))..
+crime_date(19928059, datime(date(2020, 1, 24, 23, 8, 0))).
 criminal_race(19928059,black).
 num_of_charges(19928059, 4).
 has_arrest(jb298782, 19918282).
-crime_date(19918282, datime(date(2020, 1, 3, 9, 0, 0)))..
+crime_date(19918282, datime(date(2020, 1, 3, 9, 0, 0))).
 criminal_race(19918282,black).
 num_of_charges(19918282, 4).
 has_arrest(jc551950, 19912096).
-crime_date(19912096, datime(date(2019, 12, 18, 20, 9, 0)))..
+crime_date(19912096, datime(date(2019, 12, 18, 20, 9, 0))).
 criminal_race(19912096,black).
 num_of_charges(19912096, 4).
 has_arrest(jc511180, 19918576).
-crime_date(19918576, datime(date(2020, 1, 3, 20, 52, 0)))..
+crime_date(19918576, datime(date(2020, 1, 3, 20, 52, 0))).
 criminal_race(19918576,black).
 num_of_charges(19918576, 4).
 has_arrest(jc559736, 19914834).
-crime_date(19914834, datime(date(2019, 12, 25, 22, 11, 0)))..
+crime_date(19914834, datime(date(2019, 12, 25, 22, 11, 0))).
 criminal_race(19914834,black).
 num_of_charges(19914834, 4).
 has_arrest(jc145553, 19926786).
-crime_date(19926786, datime(date(2020, 1, 22, 15, 15, 0)))..
+crime_date(19926786, datime(date(2020, 1, 22, 15, 15, 0))).
 criminal_race(19926786,black).
 num_of_charges(19926786, 4).
 has_arrest(jd124601, 19926823).
-crime_date(19926823, datime(date(2020, 1, 22, 14, 45, 0)))..
+crime_date(19926823, datime(date(2020, 1, 22, 14, 45, 0))).
 criminal_race(19926823,black).
 num_of_charges(19926823, 4).
 has_arrest(jc538094, 19912315).
-crime_date(19912315, datime(date(2019, 12, 19, 11, 55, 0)))..
+crime_date(19912315, datime(date(2019, 12, 19, 11, 55, 0))).
 criminal_race(19912315,black).
 num_of_charges(19912315, 4).
 has_arrest(jd121622, 19925678).
-crime_date(19925678, datime(date(2020, 1, 19, 21, 28, 0)))..
+crime_date(19925678, datime(date(2020, 1, 19, 21, 28, 0))).
 criminal_race(19925678,black).
 num_of_charges(19925678, 4).
 has_arrest(jc521139, 19910993).
-crime_date(19910993, datime(date(2019, 12, 16, 12, 7, 0)))..
+crime_date(19910993, datime(date(2019, 12, 16, 12, 7, 0))).
 criminal_race(19910993,white_hispanic).
 num_of_charges(19910993, 4).
 has_arrest(jd110014, 19921175).
-crime_date(19921175, datime(date(2020, 1, 9, 15, 35, 0)))..
+crime_date(19921175, datime(date(2020, 1, 9, 15, 35, 0))).
 criminal_race(19921175,black).
 num_of_charges(19921175, 4).
 has_arrest(jc443095, 19906404).
-crime_date(19906404, datime(date(2019, 12, 5, 12, 10, 0)))..
+crime_date(19906404, datime(date(2019, 12, 5, 12, 10, 0))).
 criminal_race(19906404,black).
 num_of_charges(19906404, 4).
 has_arrest(jc555971, 19924149).
-crime_date(19924149, datime(date(2020, 1, 16, 12, 10, 0)))..
+crime_date(19924149, datime(date(2020, 1, 16, 12, 10, 0))).
 criminal_race(19924149,black).
 num_of_charges(19924149, 4).
 has_arrest(jc541859, 19912833).
-crime_date(19912833, datime(date(2019, 12, 20, 14, 35, 0)))..
+crime_date(19912833, datime(date(2019, 12, 20, 14, 35, 0))).
 criminal_race(19912833,black).
 num_of_charges(19912833, 4).
 has_arrest(hw333884, 19909388).
-crime_date(19909388, datime(date(2019, 12, 12, 20, 52, 0)))..
+crime_date(19909388, datime(date(2019, 12, 12, 20, 52, 0))).
 criminal_race(19909388,white).
 num_of_charges(19909388, 4).
 has_arrest(jc563440, 19916073).
-crime_date(19916073, datime(date(2019, 12, 28, 19, 28, 0)))..
+crime_date(19916073, datime(date(2019, 12, 28, 19, 28, 0))).
 criminal_race(19916073,black).
 num_of_charges(19916073, 4).
 has_arrest(jc403559, 19920091).
-crime_date(19920091, datime(date(2020, 1, 7, 8, 45, 0)))..
+crime_date(19920091, datime(date(2020, 1, 7, 8, 45, 0))).
 criminal_race(19920091,black).
 num_of_charges(19920091, 4).
 has_arrest(jc487897, 19923566).
-crime_date(19923566, datime(date(2020, 1, 15, 10, 15, 0)))..
+crime_date(19923566, datime(date(2020, 1, 15, 10, 15, 0))).
 criminal_race(19923566,black).
 num_of_charges(19923566, 4).
 has_arrest(jc508437, 19908951).
-crime_date(19908951, datime(date(2019, 12, 11, 9, 5, 0)))..
+crime_date(19908951, datime(date(2019, 12, 11, 9, 5, 0))).
 criminal_race(19908951,white_hispanic).
 num_of_charges(19908951, 4).
 has_arrest(jd110879, 19921785).
-crime_date(19921785, datime(date(2020, 1, 10, 21, 48, 0)))..
+crime_date(19921785, datime(date(2020, 1, 10, 21, 48, 0))).
 criminal_race(19921785,black).
 num_of_charges(19921785, 4).
 has_arrest(jd114877, 19923031).
-crime_date(19923031, datime(date(2020, 1, 14, 4, 35, 0)))..
+crime_date(19923031, datime(date(2020, 1, 14, 4, 35, 0))).
 criminal_race(19923031,white_hispanic).
 num_of_charges(19923031, 4).
 has_arrest(jd108850, 19920782).
-crime_date(19920782, datime(date(2020, 1, 8, 17, 39, 0)))..
+crime_date(19920782, datime(date(2020, 1, 8, 17, 39, 0))).
 criminal_race(19920782,black).
 num_of_charges(19920782, 4).
 has_arrest(jc539589, 19907926).
-crime_date(19907926, datime(date(2019, 12, 8, 18, 53, 0)))..
+crime_date(19907926, datime(date(2019, 12, 8, 18, 53, 0))).
 criminal_race(19907926,white_hispanic).
 num_of_charges(19907926, 4).
 has_arrest(jc551950, 19912091).
-crime_date(19912091, datime(date(2019, 12, 18, 20, 9, 0)))..
+crime_date(19912091, datime(date(2019, 12, 18, 20, 9, 0))).
 criminal_race(19912091,black).
 num_of_charges(19912091, 4).
 has_arrest(jc532963, 19909077).
-crime_date(19909077, datime(date(2019, 12, 11, 15, 30, 0)))..
+crime_date(19909077, datime(date(2019, 12, 11, 15, 30, 0))).
 criminal_race(19909077,black).
 num_of_charges(19909077, 4).
 has_arrest(jc563440, 19916072).
-crime_date(19916072, datime(date(2019, 12, 28, 19, 16, 0)))..
+crime_date(19916072, datime(date(2019, 12, 28, 19, 16, 0))).
 criminal_race(19916072,black).
 num_of_charges(19916072, 4).
 has_arrest(jd140749, 19933888).
-crime_date(19933888, datime(date(2020, 2, 5, 22, 25, 0)))..
+crime_date(19933888, datime(date(2020, 2, 5, 22, 25, 0))).
 criminal_race(19933888,black).
 num_of_charges(19933888, 4).
 has_arrest(jc442076, 19937277).
-crime_date(19937277, datime(date(2020, 2, 13, 12, 40, 0)))..
+crime_date(19937277, datime(date(2020, 2, 13, 12, 40, 0))).
 criminal_race(19937277,black).
 num_of_charges(19937277, 4).
 has_arrest(jd111310, 19933133).
-crime_date(19933133, datime(date(2020, 2, 4, 9, 3, 0)))..
+crime_date(19933133, datime(date(2020, 2, 4, 9, 3, 0))).
 criminal_race(19933133,black).
 num_of_charges(19933133, 4).
 has_arrest(jd149784, 19937109).
-crime_date(19937109, datime(date(2020, 2, 12, 22, 24, 0)))..
+crime_date(19937109, datime(date(2020, 2, 12, 22, 24, 0))).
 criminal_race(19937109,black).
 num_of_charges(19937109, 4).
 has_arrest(jc562286, 19930087).
-crime_date(19930087, datime(date(2020, 1, 29, 9, 26, 0)))..
+crime_date(19930087, datime(date(2020, 1, 29, 9, 26, 0))).
 criminal_race(19930087,black).
 num_of_charges(19930087, 4).
 has_arrest(jc478871, 19950060).
-crime_date(19950060, datime(date(2020, 3, 12, 9, 25, 0)))..
+crime_date(19950060, datime(date(2020, 3, 12, 9, 25, 0))).
 criminal_race(19950060,black).
 num_of_charges(19950060, 4).
 has_arrest(jb211626, 19935803).
-crime_date(19935803, datime(date(2020, 2, 10, 10, 52, 0)))..
+crime_date(19935803, datime(date(2020, 2, 10, 10, 52, 0))).
 criminal_race(19935803,black).
 num_of_charges(19935803, 4).
 has_arrest(jd134414, 19942219).
-crime_date(19942219, datime(date(2020, 2, 24, 13, 34, 0)))..
+crime_date(19942219, datime(date(2020, 2, 24, 13, 34, 0))).
 criminal_race(19942219,black).
 num_of_charges(19942219, 4).
 has_arrest(jc555894, 19939398).
-crime_date(19939398, datime(date(2020, 2, 18, 12, 10, 0)))..
+crime_date(19939398, datime(date(2020, 2, 18, 12, 10, 0))).
 criminal_race(19939398,black).
 num_of_charges(19939398, 4).
 has_arrest(jd129426, 19928844).
-crime_date(19928844, datime(date(2020, 1, 26, 21, 9, 0)))..
+crime_date(19928844, datime(date(2020, 1, 26, 21, 9, 0))).
 criminal_race(19928844,black).
 num_of_charges(19928844, 4).
 has_arrest(jb380921, 19934661).
-crime_date(19934661, datime(date(2020, 2, 7, 19, 35, 0)))..
+crime_date(19934661, datime(date(2020, 2, 7, 19, 35, 0))).
 criminal_race(19934661,black).
 num_of_charges(19934661, 4).
 has_arrest(jd120104, 19930011).
-crime_date(19930011, datime(date(2020, 1, 29, 9, 38, 0)))..
+crime_date(19930011, datime(date(2020, 1, 29, 9, 38, 0))).
 criminal_race(19930011,black).
 num_of_charges(19930011, 4).
 has_arrest(jd143446, 19934589).
-crime_date(19934589, datime(date(2020, 2, 7, 14, 21, 0)))..
+crime_date(19934589, datime(date(2020, 2, 7, 14, 21, 0))).
 criminal_race(19934589,black).
 num_of_charges(19934589, 4).
 has_arrest(jd130829, 19929345).
-crime_date(19929345, datime(date(2020, 1, 27, 20, 5, 0)))..
+crime_date(19929345, datime(date(2020, 1, 27, 20, 5, 0))).
 criminal_race(19929345,black).
 num_of_charges(19929345, 4).
 has_arrest(jd175066, 19947124).
-crime_date(19947124, datime(date(2020, 3, 5, 14, 58, 0)))..
+crime_date(19947124, datime(date(2020, 3, 5, 14, 58, 0))).
 criminal_race(19947124,black).
 num_of_charges(19947124, 4).
 has_arrest(jd152182, 19946441).
-crime_date(19946441, datime(date(2020, 3, 4, 11, 15, 0)))..
+crime_date(19946441, datime(date(2020, 3, 4, 11, 15, 0))).
 criminal_race(19946441,black).
 num_of_charges(19946441, 4).
 has_arrest(jd130829, 19929416).
-crime_date(19929416, datime(date(2020, 1, 28, 0, 3, 0)))..
+crime_date(19929416, datime(date(2020, 1, 28, 0, 3, 0))).
 criminal_race(19929416,black).
 num_of_charges(19929416, 4).
 has_arrest(jd185010, 19950909).
-crime_date(19950909, datime(date(2020, 3, 13, 23, 35, 0)))..
+crime_date(19950909, datime(date(2020, 3, 13, 23, 35, 0))).
 criminal_race(19950909,black).
 num_of_charges(19950909, 4).
 has_arrest(jc502378, 19935858).
-crime_date(19935858, datime(date(2020, 2, 10, 11, 55, 0)))..
+crime_date(19935858, datime(date(2020, 2, 10, 11, 55, 0))).
 criminal_race(19935858,white_hispanic).
 num_of_charges(19935858, 4).
 has_arrest(jd186480, 19951518).
-crime_date(19951518, datime(date(2020, 3, 15, 12, 40, 0)))..
+crime_date(19951518, datime(date(2020, 3, 15, 12, 40, 0))).
 criminal_race(19951518,black).
 num_of_charges(19951518, 4).
 has_arrest(jd175066, 19947148).
-crime_date(19947148, datime(date(2020, 3, 5, 14, 59, 0)))..
+crime_date(19947148, datime(date(2020, 3, 5, 14, 59, 0))).
 criminal_race(19947148,black).
 num_of_charges(19947148, 4).
 has_arrest(jc389022, 19935936).
-crime_date(19935936, datime(date(2020, 2, 10, 13, 10, 0)))..
+crime_date(19935936, datime(date(2020, 2, 10, 13, 10, 0))).
 criminal_race(19935936,black).
 num_of_charges(19935936, 4).
 has_arrest(jd144288, 19935004).
-crime_date(19935004, datime(date(2020, 2, 8, 11, 45, 0)))..
+crime_date(19935004, datime(date(2020, 2, 8, 11, 45, 0))).
 criminal_race(19935004,black).
 num_of_charges(19935004, 4).
 has_arrest(jf145715, 30175385).
-crime_date(30175385, datime(date(2022, 9, 7, 9, 8, 0)))..
+crime_date(30175385, datime(date(2022, 9, 7, 9, 8, 0))).
 criminal_race(30175385,white_hispanic).
 num_of_charges(30175385, 4).
 has_arrest(jd132214, 19935900).
-crime_date(19935900, datime(date(2020, 2, 10, 13, 10, 0)))..
+crime_date(19935900, datime(date(2020, 2, 10, 13, 10, 0))).
 criminal_race(19935900,white_hispanic).
 num_of_charges(19935900, 4).
 has_arrest(jc427293, 19942975).
-crime_date(19942975, datime(date(2020, 2, 26, 10, 0, 0)))..
+crime_date(19942975, datime(date(2020, 2, 26, 10, 0, 0))).
 criminal_race(19942975,black).
 num_of_charges(19942975, 4).
 has_arrest(jc559513, 19947446).
-crime_date(19947446, datime(date(2020, 3, 6, 11, 40, 0)))..
+crime_date(19947446, datime(date(2020, 3, 6, 11, 40, 0))).
 criminal_race(19947446,white_hispanic).
 num_of_charges(19947446, 4).
 has_arrest(jc138032, 19932517).
-crime_date(19932517, datime(date(2020, 2, 3, 4, 35, 0)))..
+crime_date(19932517, datime(date(2020, 2, 3, 4, 35, 0))).
 criminal_race(19932517,black).
 num_of_charges(19932517, 4).
 has_arrest(jc559513, 19947447).
-crime_date(19947447, datime(date(2020, 3, 6, 13, 6, 0)))..
+crime_date(19947447, datime(date(2020, 3, 6, 13, 6, 0))).
 criminal_race(19947447,white_hispanic).
 num_of_charges(19947447, 4).
 has_arrest(jd186480, 19951517).
-crime_date(19951517, datime(date(2020, 3, 15, 12, 40, 0)))..
+crime_date(19951517, datime(date(2020, 3, 15, 12, 40, 0))).
 criminal_race(19951517,black).
 num_of_charges(19951517, 4).
 has_arrest(jb449465, 19939122).
-crime_date(19939122, datime(date(2020, 2, 17, 18, 50, 0)))..
+crime_date(19939122, datime(date(2020, 2, 17, 18, 50, 0))).
 criminal_race(19939122,black).
 num_of_charges(19939122, 4).
 has_arrest(jc555971, 19933123).
-crime_date(19933123, datime(date(2020, 2, 4, 12, 20, 0)))..
+crime_date(19933123, datime(date(2020, 2, 4, 12, 20, 0))).
 criminal_race(19933123,black).
 num_of_charges(19933123, 4).
 has_arrest(jd170886, 19946027).
-crime_date(19946027, datime(date(2020, 3, 3, 14, 45, 0)))..
+crime_date(19946027, datime(date(2020, 3, 3, 14, 45, 0))).
 criminal_race(19946027,black_hispanic).
 num_of_charges(19946027, 4).
 has_arrest(jb270645, 19935862).
-crime_date(19935862, datime(date(2020, 2, 10, 11, 5, 0)))..
+crime_date(19935862, datime(date(2020, 2, 10, 11, 5, 0))).
 criminal_race(19935862,black).
 num_of_charges(19935862, 4).
 has_arrest(jc424463, 19929079).
-crime_date(19929079, datime(date(2020, 1, 27, 12, 24, 0)))..
+crime_date(19929079, datime(date(2020, 1, 27, 12, 24, 0))).
 criminal_race(19929079,white_hispanic).
 num_of_charges(19929079, 4).
 has_arrest(jc517927, 19949619).
-crime_date(19949619, datime(date(2020, 3, 11, 12, 0, 0)))..
+crime_date(19949619, datime(date(2020, 3, 11, 12, 0, 0))).
 criminal_race(19949619,black).
 num_of_charges(19949619, 4).
 has_arrest(jc535011, 19937348).
-crime_date(19937348, datime(date(2020, 2, 13, 17, 15, 0)))..
+crime_date(19937348, datime(date(2020, 2, 13, 17, 15, 0))).
 criminal_race(19937348,black).
 num_of_charges(19937348, 4).
 has_arrest(jd145278, 19935340).
-crime_date(19935340, datime(date(2020, 2, 9, 2, 27, 0)))..
+crime_date(19935340, datime(date(2020, 2, 9, 2, 27, 0))).
 criminal_race(19935340,black).
 num_of_charges(19935340, 4).
 has_arrest(jd162608, 19941978).
-crime_date(19941978, datime(date(2020, 2, 23, 22, 15, 0)))..
+crime_date(19941978, datime(date(2020, 2, 23, 22, 15, 0))).
 criminal_race(19941978,black).
 num_of_charges(19941978, 4).
 has_arrest(jd175066, 19947145).
-crime_date(19947145, datime(date(2020, 3, 5, 14, 58, 0)))..
+crime_date(19947145, datime(date(2020, 3, 5, 14, 58, 0))).
 criminal_race(19947145,black).
 num_of_charges(19947145, 4).
 has_arrest(jd182526, 19949934).
-crime_date(19949934, datime(date(2020, 3, 11, 21, 33, 0)))..
+crime_date(19949934, datime(date(2020, 3, 11, 21, 33, 0))).
 criminal_race(19949934,white_hispanic).
 num_of_charges(19949934, 4).
 has_arrest(jc309056, 19946526).
-crime_date(19946526, datime(date(2020, 3, 4, 14, 55, 0)))..
+crime_date(19946526, datime(date(2020, 3, 4, 14, 55, 0))).
 criminal_race(19946526,black).
 num_of_charges(19946526, 4).
 has_arrest(jd133160, 19943002).
-crime_date(19943002, datime(date(2020, 2, 26, 11, 0, 0)))..
+crime_date(19943002, datime(date(2020, 2, 26, 11, 0, 0))).
 criminal_race(19943002,black).
 num_of_charges(19943002, 4).
 has_arrest(jd170823, 19948672).
-crime_date(19948672, datime(date(2020, 3, 9, 1, 38, 0)))..
+crime_date(19948672, datime(date(2020, 3, 9, 1, 38, 0))).
 criminal_race(19948672,white_hispanic).
 num_of_charges(19948672, 4).
 has_arrest(jc315222, 19952137).
-crime_date(19952137, datime(date(2020, 3, 17, 11, 25, 0)))..
+crime_date(19952137, datime(date(2020, 3, 17, 11, 25, 0))).
 criminal_race(19952137,black).
 num_of_charges(19952137, 4).
 has_arrest(jd136981, 19936012).
-crime_date(19936012, datime(date(2020, 2, 10, 17, 30, 0)))..
+crime_date(19936012, datime(date(2020, 2, 10, 17, 30, 0))).
 criminal_race(19936012,black).
 num_of_charges(19936012, 4).
 has_arrest(jd132214, 19930015).
-crime_date(19930015, datime(date(2020, 1, 29, 9, 51, 0)))..
+crime_date(19930015, datime(date(2020, 1, 29, 9, 51, 0))).
 criminal_race(19930015,white_hispanic).
 num_of_charges(19930015, 4).
 has_arrest(jd149711, 19937114).
-crime_date(19937114, datime(date(2020, 2, 12, 20, 55, 0)))..
+crime_date(19937114, datime(date(2020, 2, 12, 20, 55, 0))).
 criminal_race(19937114,white_hispanic).
 num_of_charges(19937114, 4).
 has_arrest(jd185504, 19951162).
-crime_date(19951162, datime(date(2020, 3, 14, 13, 35, 0)))..
+crime_date(19951162, datime(date(2020, 3, 14, 13, 35, 0))).
 criminal_race(19951162,black).
 num_of_charges(19951162, 4).
 has_arrest(jd140278, 19946972).
-crime_date(19946972, datime(date(2020, 3, 5, 13, 50, 0)))..
+crime_date(19946972, datime(date(2020, 3, 5, 13, 50, 0))).
 criminal_race(19946972,black).
 num_of_charges(19946972, 4).
 has_arrest(jd149826, 19937144).
-crime_date(19937144, datime(date(2020, 2, 13, 0, 26, 0)))..
+crime_date(19937144, datime(date(2020, 2, 13, 0, 26, 0))).
 criminal_race(19937144,black).
 num_of_charges(19937144, 4).
 has_arrest(jf442641, 30187321).
-crime_date(30187321, datime(date(2022, 10, 21, 3, 46, 0)))..
+crime_date(30187321, datime(date(2022, 10, 21, 3, 46, 0))).
 criminal_race(30187321,black).
 num_of_charges(30187321, 4).
 has_arrest(jc315715, 19933570).
-crime_date(19933570, datime(date(2020, 2, 5, 9, 0, 0)))..
+crime_date(19933570, datime(date(2020, 2, 5, 9, 0, 0))).
 criminal_race(19933570,black).
 num_of_charges(19933570, 4).
 has_arrest(jd116111, 19945577).
-crime_date(19945577, datime(date(2020, 3, 2, 15, 10, 0)))..
+crime_date(19945577, datime(date(2020, 3, 2, 15, 10, 0))).
 criminal_race(19945577,black).
 num_of_charges(19945577, 4).
 has_arrest(jc555330, 19942559).
-crime_date(19942559, datime(date(2020, 2, 25, 8, 10, 0)))..
+crime_date(19942559, datime(date(2020, 2, 25, 8, 10, 0))).
 criminal_race(19942559,white_hispanic).
 num_of_charges(19942559, 4).
 has_arrest(jd175066, 19947153).
-crime_date(19947153, datime(date(2020, 3, 5, 14, 58, 0)))..
+crime_date(19947153, datime(date(2020, 3, 5, 14, 58, 0))).
 criminal_race(19947153,black).
 num_of_charges(19947153, 4).
 has_arrest(jd161486, 19944552).
-crime_date(19944552, datime(date(2020, 2, 29, 12, 39, 0)))..
+crime_date(19944552, datime(date(2020, 2, 29, 12, 39, 0))).
 criminal_race(19944552,black).
 num_of_charges(19944552, 4).
 has_arrest(ja173527, 19930198).
-crime_date(19930198, datime(date(2020, 1, 29, 16, 7, 0)))..
+crime_date(19930198, datime(date(2020, 1, 29, 16, 7, 0))).
 criminal_race(19930198,black).
 num_of_charges(19930198, 4).
 has_arrest(jd145361, 19935363).
-crime_date(19935363, datime(date(2020, 2, 9, 4, 50, 0)))..
+crime_date(19935363, datime(date(2020, 2, 9, 4, 50, 0))).
 criminal_race(19935363,black).
 num_of_charges(19935363, 4).
 has_arrest(jd250234, 19966289).
-crime_date(19966289, datime(date(2020, 6, 1, 19, 27, 0)))..
+crime_date(19966289, datime(date(2020, 6, 1, 19, 27, 0))).
 criminal_race(19966289,white_hispanic).
 num_of_charges(19966289, 4).
 has_arrest(jd201910, 19954815).
-crime_date(19954815, datime(date(2020, 4, 4, 16, 48, 0)))..
+crime_date(19954815, datime(date(2020, 4, 4, 16, 48, 0))).
 criminal_race(19954815,white_hispanic).
 num_of_charges(19954815, 4).
 has_arrest(jd247925, 19964849).
-crime_date(19964849, datime(date(2020, 5, 30, 22, 0, 0)))..
+crime_date(19964849, datime(date(2020, 5, 30, 22, 0, 0))).
 criminal_race(19964849,white_hispanic).
 num_of_charges(19964849, 4).
 has_arrest(jd204167, 19956295).
-crime_date(19956295, datime(date(2020, 4, 16, 17, 15, 0)))..
+crime_date(19956295, datime(date(2020, 4, 16, 17, 15, 0))).
 criminal_race(19956295,black).
 num_of_charges(19956295, 4).
 has_arrest(jd247157, 19964470).
-crime_date(19964470, datime(date(2020, 5, 30, 2, 24, 0)))..
+crime_date(19964470, datime(date(2020, 5, 30, 2, 24, 0))).
 criminal_race(19964470,white_hispanic).
 num_of_charges(19964470, 4).
 has_arrest(jd250234, 19966308).
-crime_date(19966308, datime(date(2020, 6, 1, 19, 27, 0)))..
+crime_date(19966308, datime(date(2020, 6, 1, 19, 27, 0))).
 criminal_race(19966308,white_hispanic).
 num_of_charges(19966308, 4).
 has_arrest(jd241029, 19962732).
-crime_date(19962732, datime(date(2020, 5, 24, 2, 15, 0)))..
+crime_date(19962732, datime(date(2020, 5, 24, 2, 15, 0))).
 criminal_race(19962732,black).
 num_of_charges(19962732, 4).
 has_arrest(jd185870, 19957461).
-crime_date(19957461, datime(date(2020, 4, 25, 12, 50, 0)))..
+crime_date(19957461, datime(date(2020, 4, 25, 12, 50, 0))).
 criminal_race(19957461,black).
 num_of_charges(19957461, 4).
 has_arrest(jd203044, 19958111).
-crime_date(19958111, datime(date(2020, 4, 30, 13, 39, 0)))..
+crime_date(19958111, datime(date(2020, 4, 30, 13, 39, 0))).
 criminal_race(19958111,black).
 num_of_charges(19958111, 4).
 has_arrest(jd241071, 19962771).
-crime_date(19962771, datime(date(2020, 5, 24, 4, 37, 0)))..
+crime_date(19962771, datime(date(2020, 5, 24, 4, 37, 0))).
 criminal_race(19962771,black).
 num_of_charges(19962771, 4).
 has_arrest(jd216194, 19957334).
-crime_date(19957334, datime(date(2020, 4, 24, 15, 31, 0)))..
+crime_date(19957334, datime(date(2020, 4, 24, 15, 31, 0))).
 criminal_race(19957334,black).
 num_of_charges(19957334, 4).
 has_arrest(jd219023, 19957867).
-crime_date(19957867, datime(date(2020, 4, 28, 12, 27, 0)))..
+crime_date(19957867, datime(date(2020, 4, 28, 12, 27, 0))).
 criminal_race(19957867,white).
 num_of_charges(19957867, 4).
 has_arrest(jd248956, 19965557).
-crime_date(19965557, datime(date(2020, 5, 31, 19, 16, 0)))..
+crime_date(19965557, datime(date(2020, 5, 31, 19, 16, 0))).
 criminal_race(19965557,black).
 num_of_charges(19965557, 4).
 has_arrest(jd246872, 19964302).
-crime_date(19964302, datime(date(2020, 5, 29, 18, 27, 0)))..
+crime_date(19964302, datime(date(2020, 5, 29, 18, 27, 0))).
 criminal_race(19964302,black).
 num_of_charges(19964302, 4).
 has_arrest(jd204167, 19955615).
-crime_date(19955615, datime(date(2020, 4, 10, 20, 20, 0)))..
+crime_date(19955615, datime(date(2020, 4, 10, 20, 20, 0))).
 criminal_race(19955615,white).
 num_of_charges(19955615, 4).
 has_arrest(jd202802, 19957019).
-crime_date(19957019, datime(date(2020, 4, 22, 7, 30, 0)))..
+crime_date(19957019, datime(date(2020, 4, 22, 7, 30, 0))).
 criminal_race(19957019,black).
 num_of_charges(19957019, 4).
 has_arrest(hz278320, 19958761).
-crime_date(19958761, datime(date(2020, 5, 4, 10, 20, 0)))..
+crime_date(19958761, datime(date(2020, 5, 4, 10, 20, 0))).
 criminal_race(19958761,black).
 num_of_charges(19958761, 4).
 has_arrest(jd254045, 19967381).
-crime_date(19967381, datime(date(2020, 6, 5, 0, 45, 0)))..
+crime_date(19967381, datime(date(2020, 6, 5, 0, 45, 0))).
 criminal_race(19967381,black).
 num_of_charges(19967381, 4).
 has_arrest(jd221123, 19958225).
-crime_date(19958225, datime(date(2020, 5, 1, 3, 17, 0)))..
+crime_date(19958225, datime(date(2020, 5, 1, 3, 17, 0))).
 criminal_race(19958225,black).
 num_of_charges(19958225, 4).
 has_arrest(jd250528, 19967696).
-crime_date(19967696, datime(date(2020, 6, 6, 16, 50, 0)))..
+crime_date(19967696, datime(date(2020, 6, 6, 16, 50, 0))).
 criminal_race(19967696,black).
 num_of_charges(19967696, 4).
 has_arrest(jd236268, 19961470).
-crime_date(19961470, datime(date(2020, 5, 19, 1, 19, 0)))..
+crime_date(19961470, datime(date(2020, 5, 19, 1, 19, 0))).
 criminal_race(19961470,black).
 num_of_charges(19961470, 4).
 has_arrest(jc517927, 19952612).
-crime_date(19952612, datime(date(2020, 3, 19, 10, 28, 0)))..
+crime_date(19952612, datime(date(2020, 3, 19, 10, 28, 0))).
 criminal_race(19952612,black).
 num_of_charges(19952612, 4).
 has_arrest(jd216194, 19957336).
-crime_date(19957336, datime(date(2020, 4, 24, 15, 33, 0)))..
+crime_date(19957336, datime(date(2020, 4, 24, 15, 33, 0))).
 criminal_race(19957336,black).
 num_of_charges(19957336, 4).
 has_arrest(hs600811, 19959234).
-crime_date(19959234, datime(date(2020, 5, 7, 7, 40, 0)))..
+crime_date(19959234, datime(date(2020, 5, 7, 7, 40, 0))).
 criminal_race(19959234,black).
 num_of_charges(19959234, 4).
 has_arrest(jd204957, 19955425).
-crime_date(19955425, datime(date(2020, 4, 9, 13, 35, 0)))..
+crime_date(19955425, datime(date(2020, 4, 9, 13, 35, 0))).
 criminal_race(19955425,black).
 num_of_charges(19955425, 4).
 has_arrest(jd200565, 19954601).
-crime_date(19954601, datime(date(2020, 4, 2, 17, 34, 0)))..
+crime_date(19954601, datime(date(2020, 4, 2, 17, 34, 0))).
 criminal_race(19954601,white_hispanic).
 num_of_charges(19954601, 4).
 has_arrest(jd250234, 19966290).
-crime_date(19966290, datime(date(2020, 6, 1, 19, 27, 0)))..
+crime_date(19966290, datime(date(2020, 6, 1, 19, 27, 0))).
 criminal_race(19966290,white_hispanic).
 num_of_charges(19966290, 4).
 has_arrest(jd216194, 19957341).
-crime_date(19957341, datime(date(2020, 4, 24, 15, 34, 0)))..
+crime_date(19957341, datime(date(2020, 4, 24, 15, 34, 0))).
 criminal_race(19957341,black).
 num_of_charges(19957341, 4).
 has_arrest(jc501365, 19961325).
-crime_date(19961325, datime(date(2020, 5, 18, 15, 32, 0)))..
+crime_date(19961325, datime(date(2020, 5, 18, 15, 32, 0))).
 criminal_race(19961325,black).
 num_of_charges(19961325, 4).
 has_arrest(jd206576, 19960328).
-crime_date(19960328, datime(date(2020, 5, 13, 14, 20, 0)))..
+crime_date(19960328, datime(date(2020, 5, 13, 14, 20, 0))).
 criminal_race(19960328,black).
 num_of_charges(19960328, 4).
 has_arrest(jd227712, 19960725).
-crime_date(19960725, datime(date(2020, 5, 15, 12, 50, 0)))..
+crime_date(19960725, datime(date(2020, 5, 15, 12, 50, 0))).
 criminal_race(19960725,black).
 num_of_charges(19960725, 4).
 has_arrest(jd208437, 19959079).
-crime_date(19959079, datime(date(2020, 5, 6, 11, 15, 0)))..
+crime_date(19959079, datime(date(2020, 5, 6, 11, 15, 0))).
 criminal_race(19959079,black).
 num_of_charges(19959079, 4).
 has_arrest(jd242789, 19963281).
-crime_date(19963281, datime(date(2020, 5, 25, 21, 56, 0)))..
+crime_date(19963281, datime(date(2020, 5, 25, 21, 56, 0))).
 criminal_race(19963281,black).
 num_of_charges(19963281, 4).
 has_arrest(jd132010, 19968131).
-crime_date(19968131, datime(date(2020, 6, 8, 21, 3, 0)))..
+crime_date(19968131, datime(date(2020, 6, 8, 21, 3, 0))).
 criminal_race(19968131,black).
 num_of_charges(19968131, 4).
 has_arrest(jd210646, 19956358).
-crime_date(19956358, datime(date(2020, 4, 17, 2, 24, 0)))..
+crime_date(19956358, datime(date(2020, 4, 17, 2, 24, 0))).
 criminal_race(19956358,white_hispanic).
 num_of_charges(19956358, 4).
 has_arrest(jd241071, 19962769).
-crime_date(19962769, datime(date(2020, 5, 24, 4, 37, 0)))..
+crime_date(19962769, datime(date(2020, 5, 24, 4, 37, 0))).
 criminal_race(19962769,black).
 num_of_charges(19962769, 4).
 has_arrest(jd233529, 19961045).
-crime_date(19961045, datime(date(2020, 5, 16, 19, 55, 0)))..
+crime_date(19961045, datime(date(2020, 5, 16, 19, 55, 0))).
 criminal_race(19961045,black).
 num_of_charges(19961045, 4).
 has_arrest(jd204854, 19955307).
-crime_date(19955307, datime(date(2020, 4, 8, 16, 10, 0)))..
+crime_date(19955307, datime(date(2020, 4, 8, 16, 10, 0))).
 criminal_race(19955307,black).
 num_of_charges(19955307, 4).
 has_arrest(jc425361, 19954432).
-crime_date(19954432, datime(date(2020, 4, 1, 12, 30, 0)))..
+crime_date(19954432, datime(date(2020, 4, 1, 12, 30, 0))).
 criminal_race(19954432,black).
 num_of_charges(19954432, 4).
 has_arrest(jd231941, 19960473).
-crime_date(19960473, datime(date(2020, 5, 14, 7, 41, 0)))..
+crime_date(19960473, datime(date(2020, 5, 14, 7, 41, 0))).
 criminal_race(19960473,black).
 num_of_charges(19960473, 4).
 has_arrest(jd216194, 19957339).
-crime_date(19957339, datime(date(2020, 4, 24, 15, 32, 0)))..
+crime_date(19957339, datime(date(2020, 4, 24, 15, 32, 0))).
 criminal_race(19957339,black).
 num_of_charges(19957339, 4).
 has_arrest(jd211346, 19956444).
-crime_date(19956444, datime(date(2020, 4, 18, 0, 15, 0)))..
+crime_date(19956444, datime(date(2020, 4, 18, 0, 15, 0))).
 criminal_race(19956444,black).
 num_of_charges(19956444, 4).
 has_arrest(jc197810, 19959286).
-crime_date(19959286, datime(date(2020, 5, 7, 17, 17, 0)))..
+crime_date(19959286, datime(date(2020, 5, 7, 17, 17, 0))).
 criminal_race(19959286,black).
 num_of_charges(19959286, 4).
 has_arrest(jd157682, 19952415).
-crime_date(19952415, datime(date(2020, 3, 18, 10, 45, 0)))..
+crime_date(19952415, datime(date(2020, 3, 18, 10, 45, 0))).
 criminal_race(19952415,black).
 num_of_charges(19952415, 4).
 has_arrest(jd219023, 19957864).
-crime_date(19957864, datime(date(2020, 4, 28, 13, 9, 0)))..
+crime_date(19957864, datime(date(2020, 4, 28, 13, 9, 0))).
 criminal_race(19957864,black).
 num_of_charges(19957864, 4).
 has_arrest(jd250234, 19966285).
-crime_date(19966285, datime(date(2020, 6, 1, 19, 27, 0)))..
+crime_date(19966285, datime(date(2020, 6, 1, 19, 27, 0))).
 criminal_race(19966285,black).
 num_of_charges(19966285, 4).
 has_arrest(jd248956, 19965540).
-crime_date(19965540, datime(date(2020, 5, 31, 19, 16, 0)))..
+crime_date(19965540, datime(date(2020, 5, 31, 19, 16, 0))).
 criminal_race(19965540,white).
 num_of_charges(19965540, 4).
 has_arrest(jd250291, 19966314).
-crime_date(19966314, datime(date(2020, 6, 1, 20, 58, 0)))..
+crime_date(19966314, datime(date(2020, 6, 1, 20, 58, 0))).
 criminal_race(19966314,black).
 num_of_charges(19966314, 4).
 has_arrest(jd202406, 19955062).
-crime_date(19955062, datime(date(2020, 4, 6, 19, 10, 0)))..
+crime_date(19955062, datime(date(2020, 4, 6, 19, 10, 0))).
 criminal_race(19955062,black).
 num_of_charges(19955062, 4).
 has_arrest(jd252220, 19966985).
-crime_date(19966985, datime(date(2020, 6, 3, 16, 3, 0)))..
+crime_date(19966985, datime(date(2020, 6, 3, 16, 3, 0))).
 criminal_race(19966985,white).
 num_of_charges(19966985, 4).
 has_arrest(jd223625, 19959959).
-crime_date(19959959, datime(date(2020, 5, 11, 14, 25, 0)))..
+crime_date(19959959, datime(date(2020, 5, 11, 14, 25, 0))).
 criminal_race(19959959,black).
 num_of_charges(19959959, 4).
 has_arrest(jd226367, 19959272).
-crime_date(19959272, datime(date(2020, 5, 7, 11, 5, 0)))..
+crime_date(19959272, datime(date(2020, 5, 7, 11, 5, 0))).
 criminal_race(19959272,white).
 num_of_charges(19959272, 4).
 has_arrest(jd183381, 19952408).
-crime_date(19952408, datime(date(2020, 3, 18, 10, 10, 0)))..
+crime_date(19952408, datime(date(2020, 3, 18, 10, 10, 0))).
 criminal_race(19952408,white_hispanic).
 num_of_charges(19952408, 4).
 has_arrest(jd156966, 19956375).
-crime_date(19956375, datime(date(2020, 4, 17, 13, 11, 0)))..
+crime_date(19956375, datime(date(2020, 4, 17, 13, 11, 0))).
 criminal_race(19956375,black).
 num_of_charges(19956375, 4).
 has_arrest(jd254764, 19967470).
-crime_date(19967470, datime(date(2020, 6, 5, 15, 6, 0)))..
+crime_date(19967470, datime(date(2020, 6, 5, 15, 6, 0))).
 criminal_race(19967470,black).
 num_of_charges(19967470, 4).
 has_arrest(jd219229, 19961717).
-crime_date(19961717, datime(date(2020, 5, 20, 13, 8, 0)))..
+crime_date(19961717, datime(date(2020, 5, 20, 13, 8, 0))).
 criminal_race(19961717,white).
 num_of_charges(19961717, 4).
 has_arrest(jd225128, 19959134).
-crime_date(19959134, datime(date(2020, 5, 6, 18, 6, 0)))..
+crime_date(19959134, datime(date(2020, 5, 6, 18, 6, 0))).
 criminal_race(19959134,black).
 num_of_charges(19959134, 4).
 has_arrest(jd203693, 19956867).
-crime_date(19956867, datime(date(2020, 4, 21, 7, 52, 0)))..
+crime_date(19956867, datime(date(2020, 4, 21, 7, 52, 0))).
 criminal_race(19956867,black).
 num_of_charges(19956867, 4).
 has_arrest(jd231188, 19960292).
-crime_date(19960292, datime(date(2020, 5, 13, 11, 9, 0)))..
+crime_date(19960292, datime(date(2020, 5, 13, 11, 9, 0))).
 criminal_race(19960292,black).
 num_of_charges(19960292, 4).
 has_arrest(jd215088, 19957227).
-crime_date(19957227, datime(date(2020, 4, 23, 11, 30, 0)))..
+crime_date(19957227, datime(date(2020, 4, 23, 11, 30, 0))).
 criminal_race(19957227,black).
 num_of_charges(19957227, 4).
 has_arrest(jc501365, 19959931).
-crime_date(19959931, datime(date(2020, 5, 11, 11, 2, 0)))..
+crime_date(19959931, datime(date(2020, 5, 11, 11, 2, 0))).
 criminal_race(19959931,black).
 num_of_charges(19959931, 4).
 has_arrest(jd231606, 19960946).
-crime_date(19960946, datime(date(2020, 5, 16, 13, 25, 0)))..
+crime_date(19960946, datime(date(2020, 5, 16, 13, 25, 0))).
 criminal_race(19960946,black).
 num_of_charges(19960946, 4).
 has_arrest(jd246069, 19964160).
-crime_date(19964160, datime(date(2020, 5, 29, 0, 18, 0)))..
+crime_date(19964160, datime(date(2020, 5, 29, 0, 18, 0))).
 criminal_race(19964160,black).
 num_of_charges(19964160, 4).
 has_arrest(hx121804, 18834107).
-crime_date(18834107, datime(date(2014, 2, 10, 21, 31, 0)))..
+crime_date(18834107, datime(date(2014, 2, 10, 21, 31, 0))).
 criminal_race(18834107,black).
 num_of_charges(18834107, 4).
 has_arrest(hx139648, 18830973).
-crime_date(18830973, datime(date(2014, 2, 5, 5, 30, 0)))..
+crime_date(18830973, datime(date(2014, 2, 5, 5, 30, 0))).
 criminal_race(18830973,white_hispanic).
 num_of_charges(18830973, 4).
 has_arrest(hx102820, 18813726).
-crime_date(18813726, datime(date(2014, 1, 3, 20, 42, 0)))..
+crime_date(18813726, datime(date(2014, 1, 3, 20, 42, 0))).
 criminal_race(18813726,black).
 num_of_charges(18813726, 4).
 has_arrest(hr473660, 18815103).
-crime_date(18815103, datime(date(2014, 1, 8, 10, 25, 0)))..
+crime_date(18815103, datime(date(2014, 1, 8, 10, 25, 0))).
 criminal_race(18815103,black).
 num_of_charges(18815103, 4).
 has_arrest(hx130273, 18827750).
-crime_date(18827750, datime(date(2014, 1, 30, 11, 25, 0)))..
+crime_date(18827750, datime(date(2014, 1, 30, 11, 25, 0))).
 criminal_race(18827750,black).
 num_of_charges(18827750, 4).
 has_arrest(hx123785, 18833822).
-crime_date(18833822, datime(date(2014, 2, 10, 13, 30, 0)))..
+crime_date(18833822, datime(date(2014, 2, 10, 13, 30, 0))).
 criminal_race(18833822,black).
 num_of_charges(18833822, 4).
 has_arrest(hx128524, 18830358).
-crime_date(18830358, datime(date(2014, 2, 3, 22, 25, 0)))..
+crime_date(18830358, datime(date(2014, 2, 3, 22, 25, 0))).
 criminal_race(18830358,white_hispanic).
 num_of_charges(18830358, 4).
 has_arrest(hw507691, 18812611).
-crime_date(18812611, datime(date(2014, 1, 1, 13, 25, 0)))..
+crime_date(18812611, datime(date(2014, 1, 1, 13, 25, 0))).
 criminal_race(18812611,white_hispanic).
 num_of_charges(18812611, 4).
 has_arrest(hv348176, 18826120).
-crime_date(18826120, datime(date(2014, 1, 27, 16, 4, 0)))..
+crime_date(18826120, datime(date(2014, 1, 27, 16, 4, 0))).
 criminal_race(18826120,black).
 num_of_charges(18826120, 4).
 has_arrest(hr547827, 18813375).
-crime_date(18813375, datime(date(2014, 1, 3, 11, 45, 0)))..
+crime_date(18813375, datime(date(2014, 1, 3, 11, 45, 0))).
 criminal_race(18813375,black).
 num_of_charges(18813375, 4).
 has_arrest(hx131767, 18827200).
-crime_date(18827200, datime(date(2014, 1, 29, 15, 46, 0)))..
+crime_date(18827200, datime(date(2014, 1, 29, 15, 46, 0))).
 criminal_race(18827200,black).
 num_of_charges(18827200, 4).
 has_arrest(hx128524, 18830120).
-crime_date(18830120, datime(date(2014, 2, 3, 11, 45, 0)))..
+crime_date(18830120, datime(date(2014, 2, 3, 11, 45, 0))).
 criminal_race(18830120,white_hispanic).
 num_of_charges(18830120, 4).
 has_arrest(hr503597, 18827057).
-crime_date(18827057, datime(date(2014, 1, 29, 11, 10, 0)))..
+crime_date(18827057, datime(date(2014, 1, 29, 11, 10, 0))).
 criminal_race(18827057,black).
 num_of_charges(18827057, 4).
 has_arrest(hw574861, 18830436).
-crime_date(18830436, datime(date(2014, 2, 4, 9, 15, 0)))..
+crime_date(18830436, datime(date(2014, 2, 4, 9, 15, 0))).
 criminal_race(18830436,white_hispanic).
 num_of_charges(18830436, 4).
 has_arrest(hx107078, 18820130).
-crime_date(18820130, datime(date(2014, 1, 16, 20, 34, 0)))..
+crime_date(18820130, datime(date(2014, 1, 16, 20, 34, 0))).
 criminal_race(18820130,black).
 num_of_charges(18820130, 4).
 has_arrest(hw433733, 18830398).
-crime_date(18830398, datime(date(2014, 2, 4, 6, 10, 0)))..
+crime_date(18830398, datime(date(2014, 2, 4, 6, 10, 0))).
 criminal_race(18830398,black).
 num_of_charges(18830398, 4).
 has_arrest(hw507691, 18819709).
-crime_date(18819709, datime(date(2014, 1, 16, 8, 24, 0)))..
+crime_date(18819709, datime(date(2014, 1, 16, 8, 24, 0))).
 criminal_race(18819709,white_hispanic).
 num_of_charges(18819709, 4).
 has_arrest(hw458811, 18823003).
-crime_date(18823003, datime(date(2014, 1, 21, 19, 55, 0)))..
+crime_date(18823003, datime(date(2014, 1, 21, 19, 55, 0))).
 criminal_race(18823003,white_hispanic).
 num_of_charges(18823003, 4).
 has_arrest(hw577067, 18826181).
-crime_date(18826181, datime(date(2014, 1, 27, 14, 30, 0)))..
+crime_date(18826181, datime(date(2014, 1, 27, 14, 30, 0))).
 criminal_race(18826181,black).
 num_of_charges(18826181, 4).
 has_arrest(hx119153, 18821188).
-crime_date(18821188, datime(date(2014, 1, 18, 13, 33, 0)))..
+crime_date(18821188, datime(date(2014, 1, 18, 13, 33, 0))).
 criminal_race(18821188,black).
 num_of_charges(18821188, 4).
 has_arrest(hx132617, 18827644).
-crime_date(18827644, datime(date(2014, 1, 30, 9, 17, 0)))..
+crime_date(18827644, datime(date(2014, 1, 30, 9, 17, 0))).
 criminal_race(18827644,black).
 num_of_charges(18827644, 4).
 has_arrest(hw554326, 18830441).
-crime_date(18830441, datime(date(2014, 2, 4, 9, 40, 0)))..
+crime_date(18830441, datime(date(2014, 2, 4, 9, 40, 0))).
 criminal_race(18830441,black).
 num_of_charges(18830441, 4).
 has_arrest(hx105434, 18814636).
-crime_date(18814636, datime(date(2014, 1, 6, 22, 45, 0)))..
+crime_date(18814636, datime(date(2014, 1, 6, 22, 45, 0))).
 criminal_race(18814636,white_hispanic).
 num_of_charges(18814636, 4).
 has_arrest(hx112667, 18817876).
-crime_date(18817876, datime(date(2014, 1, 13, 10, 55, 0)))..
+crime_date(18817876, datime(date(2014, 1, 13, 10, 55, 0))).
 criminal_race(18817876,black).
 num_of_charges(18817876, 4).
 has_arrest(hx132529, 18830526).
-crime_date(18830526, datime(date(2014, 2, 4, 10, 42, 0)))..
+crime_date(18830526, datime(date(2014, 2, 4, 10, 42, 0))).
 criminal_race(18830526,black).
 num_of_charges(18830526, 4).
 has_arrest(hw563459, 18818231).
-crime_date(18818231, datime(date(2014, 1, 13, 21, 40, 0)))..
+crime_date(18818231, datime(date(2014, 1, 13, 21, 40, 0))).
 criminal_race(18818231,black).
 num_of_charges(18818231, 4).
 has_arrest(hx131767, 18827195).
-crime_date(18827195, datime(date(2014, 1, 29, 15, 31, 0)))..
+crime_date(18827195, datime(date(2014, 1, 29, 15, 31, 0))).
 criminal_race(18827195,black).
 num_of_charges(18827195, 4).
 has_arrest(hx100935, 18823127).
-crime_date(18823127, datime(date(2014, 1, 21, 9, 50, 0)))..
+crime_date(18823127, datime(date(2014, 1, 21, 9, 50, 0))).
 criminal_race(18823127,black).
 num_of_charges(18823127, 4).
 has_arrest(hx112667, 18817905).
-crime_date(18817905, datime(date(2014, 1, 13, 10, 55, 0)))..
+crime_date(18817905, datime(date(2014, 1, 13, 10, 55, 0))).
 criminal_race(18817905,black).
 num_of_charges(18817905, 4).
 has_arrest(hx160329, 18856067).
-crime_date(18856067, datime(date(2014, 3, 17, 19, 30, 0)))..
+crime_date(18856067, datime(date(2014, 3, 17, 19, 30, 0))).
 criminal_race(18856067,black).
 num_of_charges(18856067, 4).
 has_arrest(hx179891, 18852768).
-crime_date(18852768, datime(date(2014, 3, 12, 19, 0, 0)))..
+crime_date(18852768, datime(date(2014, 3, 12, 19, 0, 0))).
 criminal_race(18852768,black).
 num_of_charges(18852768, 4).
 has_arrest(hx150373, 18837300).
-crime_date(18837300, datime(date(2014, 2, 15, 23, 0, 0)))..
+crime_date(18837300, datime(date(2014, 2, 15, 23, 0, 0))).
 criminal_race(18837300,black).
 num_of_charges(18837300, 4).
 has_arrest(hx184454, 18853979).
-crime_date(18853979, datime(date(2014, 3, 14, 12, 59, 0)))..
+crime_date(18853979, datime(date(2014, 3, 14, 12, 59, 0))).
 criminal_race(18853979,black).
 num_of_charges(18853979, 4).
 has_arrest(hx169429, 18846022).
-crime_date(18846022, datime(date(2014, 3, 2, 3, 8, 0)))..
+crime_date(18846022, datime(date(2014, 3, 2, 3, 8, 0))).
 criminal_race(18846022,black).
 num_of_charges(18846022, 4).
 has_arrest(hx179976, 18856063).
-crime_date(18856063, datime(date(2014, 3, 17, 19, 44, 0)))..
+crime_date(18856063, datime(date(2014, 3, 17, 19, 44, 0))).
 criminal_race(18856063,white_hispanic).
 num_of_charges(18856063, 4).
 has_arrest(hx167048, 18856581).
-crime_date(18856581, datime(date(2014, 3, 17, 16, 30, 0)))..
+crime_date(18856581, datime(date(2014, 3, 17, 16, 30, 0))).
 criminal_race(18856581,black).
 num_of_charges(18856581, 4).
 has_arrest(hx161193, 18841706).
-crime_date(18841706, datime(date(2014, 2, 22, 21, 40, 0)))..
+crime_date(18841706, datime(date(2014, 2, 22, 21, 40, 0))).
 criminal_race(18841706,black).
 num_of_charges(18841706, 4).
 has_arrest(hx145191, 18836116).
-crime_date(18836116, datime(date(2014, 2, 14, 0, 15, 0)))..
+crime_date(18836116, datime(date(2014, 2, 14, 0, 15, 0))).
 criminal_race(18836116,black).
 num_of_charges(18836116, 4).
 has_arrest(hx123785, 18848912).
-crime_date(18848912, datime(date(2014, 3, 6, 22, 0, 0)))..
+crime_date(18848912, datime(date(2014, 3, 6, 22, 0, 0))).
 criminal_race(18848912,black).
 num_of_charges(18848912, 4).
 has_arrest(hx150345, 18836155).
-crime_date(18836155, datime(date(2014, 2, 14, 1, 30, 0)))..
+crime_date(18836155, datime(date(2014, 2, 14, 1, 30, 0))).
 criminal_race(18836155,black).
 num_of_charges(18836155, 4).
 has_arrest(ht305737, 18836612).
-crime_date(18836612, datime(date(2014, 2, 14, 13, 15, 0)))..
+crime_date(18836612, datime(date(2014, 2, 14, 13, 15, 0))).
 criminal_race(18836612,black).
 num_of_charges(18836612, 4).
 has_arrest(hw570213, 18843052).
-crime_date(18843052, datime(date(2014, 2, 25, 0, 30, 0)))..
+crime_date(18843052, datime(date(2014, 2, 25, 0, 30, 0))).
 criminal_race(18843052,black).
 num_of_charges(18843052, 4).
 has_arrest(hx150373, 18837825).
-crime_date(18837825, datime(date(2014, 2, 16, 22, 50, 0)))..
+crime_date(18837825, datime(date(2014, 2, 16, 22, 50, 0))).
 criminal_race(18837825,black).
 num_of_charges(18837825, 4).
 has_arrest(hx131480, 18844976).
-crime_date(18844976, datime(date(2014, 2, 28, 11, 20, 0)))..
+crime_date(18844976, datime(date(2014, 2, 28, 11, 20, 0))).
 criminal_race(18844976,black).
 num_of_charges(18844976, 4).
 has_arrest(hx156332, 18839032).
-crime_date(18839032, datime(date(2014, 2, 19, 1, 25, 0)))..
+crime_date(18839032, datime(date(2014, 2, 19, 1, 25, 0))).
 criminal_race(18839032,black).
 num_of_charges(18839032, 4).
 has_arrest(hw546839, 18854445).
-crime_date(18854445, datime(date(2014, 3, 15, 1, 58, 0)))..
+crime_date(18854445, datime(date(2014, 3, 15, 1, 58, 0))).
 criminal_race(18854445,black).
 num_of_charges(18854445, 4).
 has_arrest(hx176463, 18853733).
-crime_date(18853733, datime(date(2014, 3, 14, 7, 45, 0)))..
+crime_date(18853733, datime(date(2014, 3, 14, 7, 45, 0))).
 criminal_race(18853733,white_hispanic).
 num_of_charges(18853733, 4).
 has_arrest(hx166613, 18844690).
-crime_date(18844690, datime(date(2014, 2, 27, 19, 10, 0)))..
+crime_date(18844690, datime(date(2014, 2, 27, 19, 10, 0))).
 criminal_race(18844690,black).
 num_of_charges(18844690, 4).
 has_arrest(hx190919, 18857253).
-crime_date(18857253, datime(date(2014, 3, 19, 15, 20, 0)))..
+crime_date(18857253, datime(date(2014, 3, 19, 15, 20, 0))).
 criminal_race(18857253,black).
 num_of_charges(18857253, 4).
 has_arrest(hw320604, 18837529).
-crime_date(18837529, datime(date(2014, 2, 16, 12, 50, 0)))..
+crime_date(18837529, datime(date(2014, 2, 16, 12, 50, 0))).
 criminal_race(18837529,white_hispanic).
 num_of_charges(18837529, 4).
 has_arrest(hx168924, 18846494).
-crime_date(18846494, datime(date(2014, 3, 2, 22, 0, 0)))..
+crime_date(18846494, datime(date(2014, 3, 2, 22, 0, 0))).
 criminal_race(18846494,white_hispanic).
 num_of_charges(18846494, 4).
 has_arrest(hx168924, 18852873).
-crime_date(18852873, datime(date(2014, 3, 12, 21, 19, 0)))..
+crime_date(18852873, datime(date(2014, 3, 12, 21, 19, 0))).
 criminal_race(18852873,white_hispanic).
 num_of_charges(18852873, 4).
 has_arrest(hx169429, 18846027).
-crime_date(18846027, datime(date(2014, 3, 2, 3, 8, 0)))..
+crime_date(18846027, datime(date(2014, 3, 2, 3, 8, 0))).
 criminal_race(18846027,black).
 num_of_charges(18846027, 4).
 has_arrest(hx187389, 18856514).
-crime_date(18856514, datime(date(2014, 3, 17, 10, 30, 0)))..
+crime_date(18856514, datime(date(2014, 3, 17, 10, 30, 0))).
 criminal_race(18856514,black).
 num_of_charges(18856514, 4).
 has_arrest(jb281697, 19672501).
-crime_date(19672501, datime(date(2018, 7, 12, 8, 10, 0)))..
+crime_date(19672501, datime(date(2018, 7, 12, 8, 10, 0))).
 criminal_race(19672501,black).
 num_of_charges(19672501, 4).
 has_arrest(hx193885, 18859242).
-crime_date(18859242, datime(date(2014, 3, 22, 10, 0, 0)))..
+crime_date(18859242, datime(date(2014, 3, 22, 10, 0, 0))).
 criminal_race(18859242,black).
 num_of_charges(18859242, 4).
 has_arrest(hw413159, 18856890).
-crime_date(18856890, datime(date(2014, 3, 18, 21, 45, 0)))..
+crime_date(18856890, datime(date(2014, 3, 18, 21, 45, 0))).
 criminal_race(18856890,black).
 num_of_charges(18856890, 4).
 has_arrest(hx177692, 18851960).
-crime_date(18851960, datime(date(2014, 3, 11, 13, 15, 0)))..
+crime_date(18851960, datime(date(2014, 3, 11, 13, 15, 0))).
 criminal_race(18851960,black).
 num_of_charges(18851960, 4).
 has_arrest(hx168322, 18845523).
-crime_date(18845523, datime(date(2014, 3, 1, 3, 35, 0)))..
+crime_date(18845523, datime(date(2014, 3, 1, 3, 35, 0))).
 criminal_race(18845523,black).
 num_of_charges(18845523, 4).
 has_arrest(ht243538, 18852497).
-crime_date(18852497, datime(date(2014, 3, 12, 10, 45, 0)))..
+crime_date(18852497, datime(date(2014, 3, 12, 10, 45, 0))).
 criminal_race(18852497,black).
 num_of_charges(18852497, 4).
 has_arrest(hx191550, 18857762).
-crime_date(18857762, datime(date(2014, 3, 20, 9, 52, 0)))..
+crime_date(18857762, datime(date(2014, 3, 20, 9, 52, 0))).
 criminal_race(18857762,black).
 num_of_charges(18857762, 4).
 has_arrest(hx171517, 18847089).
-crime_date(18847089, datime(date(2014, 3, 4, 1, 48, 0)))..
+crime_date(18847089, datime(date(2014, 3, 4, 1, 48, 0))).
 criminal_race(18847089,black).
 num_of_charges(18847089, 4).
 has_arrest(hx150821, 18836396).
-crime_date(18836396, datime(date(2014, 2, 14, 14, 13, 0)))..
+crime_date(18836396, datime(date(2014, 2, 14, 14, 13, 0))).
 criminal_race(18836396,black).
 num_of_charges(18836396, 4).
 has_arrest(hx186536, 18880782).
-crime_date(18880782, datime(date(2014, 4, 22, 2, 50, 0)))..
+crime_date(18880782, datime(date(2014, 4, 22, 2, 50, 0))).
 criminal_race(18880782,black).
 num_of_charges(18880782, 4).
 has_arrest(hx206656, 18865607).
-crime_date(18865607, datime(date(2014, 4, 1, 12, 40, 0)))..
+crime_date(18865607, datime(date(2014, 4, 1, 12, 40, 0))).
 criminal_race(18865607,black).
 num_of_charges(18865607, 4).
 has_arrest(hs440368, 18870469).
-crime_date(18870469, datime(date(2014, 4, 8, 16, 0, 0)))..
+crime_date(18870469, datime(date(2014, 4, 8, 16, 0, 0))).
 criminal_race(18870469,black).
 num_of_charges(18870469, 4).
 has_arrest(hx237813, 18882202).
-crime_date(18882202, datime(date(2014, 4, 26, 13, 37, 0)))..
+crime_date(18882202, datime(date(2014, 4, 26, 13, 37, 0))).
 criminal_race(18882202,black).
 num_of_charges(18882202, 4).
 has_arrest(hx237477, 18881838).
-crime_date(18881838, datime(date(2014, 4, 25, 23, 5, 0)))..
+crime_date(18881838, datime(date(2014, 4, 25, 23, 5, 0))).
 criminal_race(18881838,black).
 num_of_charges(18881838, 4).
 has_arrest(hx193257, 18862286).
-crime_date(18862286, datime(date(2014, 3, 27, 13, 27, 0)))..
+crime_date(18862286, datime(date(2014, 3, 27, 13, 27, 0))).
 criminal_race(18862286,black).
 num_of_charges(18862286, 4).
 has_arrest(hx229324, 18877992).
-crime_date(18877992, datime(date(2014, 4, 19, 22, 16, 0)))..
+crime_date(18877992, datime(date(2014, 4, 19, 22, 16, 0))).
 criminal_race(18877992,black).
 num_of_charges(18877992, 4).
 has_arrest(hw348957, 18862316).
-crime_date(18862316, datime(date(2014, 3, 27, 12, 55, 0)))..
+crime_date(18862316, datime(date(2014, 3, 27, 12, 55, 0))).
 criminal_race(18862316,black).
 num_of_charges(18862316, 4).
 has_arrest(jb297270, 19664724).
-crime_date(19664724, datime(date(2018, 6, 27, 9, 0, 0)))..
+crime_date(19664724, datime(date(2018, 6, 27, 9, 0, 0))).
 criminal_race(19664724,black).
 num_of_charges(19664724, 4).
 has_arrest(hx237477, 18881816).
-crime_date(18881816, datime(date(2014, 4, 25, 23, 5, 0)))..
+crime_date(18881816, datime(date(2014, 4, 25, 23, 5, 0))).
 criminal_race(18881816,black).
 num_of_charges(18881816, 4).
 has_arrest(hx230719, 18880625).
-crime_date(18880625, datime(date(2014, 4, 24, 9, 55, 0)))..
+crime_date(18880625, datime(date(2014, 4, 24, 9, 55, 0))).
 criminal_race(18880625,black).
 num_of_charges(18880625, 4).
 has_arrest(ht504280, 18866590).
-crime_date(18866590, datime(date(2014, 4, 2, 22, 29, 0)))..
+crime_date(18866590, datime(date(2014, 4, 2, 22, 29, 0))).
 criminal_race(18866590,black).
 num_of_charges(18866590, 4).
 has_arrest(hx198850, 18861430).
-crime_date(18861430, datime(date(2014, 3, 25, 22, 12, 0)))..
+crime_date(18861430, datime(date(2014, 3, 25, 22, 12, 0))).
 criminal_race(18861430,black).
 num_of_charges(18861430, 4).
 has_arrest(jd474021, 30177450).
-crime_date(30177450, datime(date(2022, 9, 14, 16, 5, 0)))..
+crime_date(30177450, datime(date(2022, 9, 14, 16, 5, 0))).
 criminal_race(30177450,white_hispanic).
 num_of_charges(30177450, 4).
 has_arrest(hx230268, 18878161).
-crime_date(18878161, datime(date(2014, 4, 20, 6, 42, 0)))..
+crime_date(18878161, datime(date(2014, 4, 20, 6, 42, 0))).
 criminal_race(18878161,black).
 num_of_charges(18878161, 4).
 has_arrest(hx229266, 18877740).
-crime_date(18877740, datime(date(2014, 4, 19, 12, 55, 0)))..
+crime_date(18877740, datime(date(2014, 4, 19, 12, 55, 0))).
 criminal_race(18877740,black).
 num_of_charges(18877740, 4).
 has_arrest(jf261306, 30177381).
-crime_date(30177381, datime(date(2022, 9, 14, 12, 15, 0)))..
+crime_date(30177381, datime(date(2022, 9, 14, 12, 15, 0))).
 criminal_race(30177381,black).
 num_of_charges(30177381, 4).
 has_arrest(hx186536, 18879290).
-crime_date(18879290, datime(date(2014, 4, 22, 10, 0, 0)))..
+crime_date(18879290, datime(date(2014, 4, 22, 10, 0, 0))).
 criminal_race(18879290,black).
 num_of_charges(18879290, 4).
 has_arrest(hx211314, 18867976).
-crime_date(18867976, datime(date(2014, 4, 4, 22, 18, 0)))..
+crime_date(18867976, datime(date(2014, 4, 4, 22, 18, 0))).
 criminal_race(18867976,black).
 num_of_charges(18867976, 4).
 has_arrest(hx237477, 18881839).
-crime_date(18881839, datime(date(2014, 4, 25, 23, 5, 0)))..
+crime_date(18881839, datime(date(2014, 4, 25, 23, 5, 0))).
 criminal_race(18881839,black).
 num_of_charges(18881839, 4).
 has_arrest(hx320313, 18872801).
-crime_date(18872801, datime(date(2014, 4, 12, 0, 15, 0)))..
+crime_date(18872801, datime(date(2014, 4, 12, 0, 15, 0))).
 criminal_race(18872801,black).
 num_of_charges(18872801, 4).
 has_arrest(hx229207, 18881322).
-crime_date(18881322, datime(date(2014, 4, 25, 12, 55, 0)))..
+crime_date(18881322, datime(date(2014, 4, 25, 12, 55, 0))).
 criminal_race(18881322,white_hispanic).
 num_of_charges(18881322, 4).
 has_arrest(hx236823, 18881683).
-crime_date(18881683, datime(date(2014, 4, 25, 14, 26, 0)))..
+crime_date(18881683, datime(date(2014, 4, 25, 14, 26, 0))).
 criminal_race(18881683,black).
 num_of_charges(18881683, 4).
 has_arrest(hx211314, 18867991).
-crime_date(18867991, datime(date(2014, 4, 4, 22, 18, 0)))..
+crime_date(18867991, datime(date(2014, 4, 4, 22, 18, 0))).
 criminal_race(18867991,black).
 num_of_charges(18867991, 4).
 has_arrest(jf340568, 30175442).
-crime_date(30175442, datime(date(2022, 9, 7, 11, 38, 0)))..
+crime_date(30175442, datime(date(2022, 9, 7, 11, 38, 0))).
 criminal_race(30175442,white_hispanic).
 num_of_charges(30175442, 4).
 has_arrest(hx142789, 18871200).
-crime_date(18871200, datime(date(2014, 4, 9, 14, 0, 0)))..
+crime_date(18871200, datime(date(2014, 4, 9, 14, 0, 0))).
 criminal_race(18871200,white_hispanic).
 num_of_charges(18871200, 4).
 has_arrest(hx223928, 18874654).
-crime_date(18874654, datime(date(2014, 4, 15, 2, 55, 0)))..
+crime_date(18874654, datime(date(2014, 4, 15, 2, 55, 0))).
 criminal_race(18874654,black).
 num_of_charges(18874654, 4).
 has_arrest(hx206414, 18865962).
-crime_date(18865962, datime(date(2014, 4, 1, 20, 20, 0)))..
+crime_date(18865962, datime(date(2014, 4, 1, 20, 20, 0))).
 criminal_race(18865962,black).
 num_of_charges(18865962, 4).
 has_arrest(hx198452, 18861189).
-crime_date(18861189, datime(date(2014, 3, 25, 16, 20, 0)))..
+crime_date(18861189, datime(date(2014, 3, 25, 16, 20, 0))).
 criminal_race(18861189,black).
 num_of_charges(18861189, 4).
 has_arrest(hx229502, 18877717).
-crime_date(18877717, datime(date(2014, 4, 19, 15, 51, 0)))..
+crime_date(18877717, datime(date(2014, 4, 19, 15, 51, 0))).
 criminal_race(18877717,black).
 num_of_charges(18877717, 4).
 has_arrest(hs501948, 18866121).
-crime_date(18866121, datime(date(2014, 4, 2, 10, 55, 0)))..
+crime_date(18866121, datime(date(2014, 4, 2, 10, 55, 0))).
 criminal_race(18866121,white_hispanic).
 num_of_charges(18866121, 4).
 has_arrest(hs460541, 18870791).
-crime_date(18870791, datime(date(2014, 4, 9, 10, 15, 0)))..
+crime_date(18870791, datime(date(2014, 4, 9, 10, 15, 0))).
 criminal_race(18870791,black).
 num_of_charges(18870791, 4).
 has_arrest(hx195480, 18861435).
-crime_date(18861435, datime(date(2014, 3, 25, 23, 43, 0)))..
+crime_date(18861435, datime(date(2014, 3, 25, 23, 43, 0))).
 criminal_race(18861435,black).
 num_of_charges(18861435, 4).
 has_arrest(hx280568, 18903554).
-crime_date(18903554, datime(date(2014, 5, 29, 0, 9, 0)))..
+crime_date(18903554, datime(date(2014, 5, 29, 0, 9, 0))).
 criminal_race(18903554,black).
 num_of_charges(18903554, 4).
 has_arrest(hx111217, 18895363).
-crime_date(18895363, datime(date(2014, 5, 16, 19, 40, 0)))..
+crime_date(18895363, datime(date(2014, 5, 16, 19, 40, 0))).
 criminal_race(18895363,black).
 num_of_charges(18895363, 4).
 has_arrest(hx214089, 18889192).
-crime_date(18889192, datime(date(2014, 5, 7, 15, 3, 0)))..
+crime_date(18889192, datime(date(2014, 5, 7, 15, 3, 0))).
 criminal_race(18889192,black).
 num_of_charges(18889192, 4).
 has_arrest(hx240739, 18883427).
-crime_date(18883427, datime(date(2014, 4, 28, 21, 7, 0)))..
+crime_date(18883427, datime(date(2014, 4, 28, 21, 7, 0))).
 criminal_race(18883427,black).
 num_of_charges(18883427, 4).
 has_arrest(hx238998, 18895063).
-crime_date(18895063, datime(date(2014, 5, 16, 11, 15, 0)))..
+crime_date(18895063, datime(date(2014, 5, 16, 11, 15, 0))).
 criminal_race(18895063,white_hispanic).
 num_of_charges(18895063, 4).
 has_arrest(hx158889, 18883497).
-crime_date(18883497, datime(date(2014, 4, 28, 22, 30, 0)))..
+crime_date(18883497, datime(date(2014, 4, 28, 22, 30, 0))).
 criminal_race(18883497,black).
 num_of_charges(18883497, 4).
 has_arrest(hx280568, 18903553).
-crime_date(18903553, datime(date(2014, 5, 29, 0, 9, 0)))..
+crime_date(18903553, datime(date(2014, 5, 29, 0, 9, 0))).
 criminal_race(18903553,black).
 num_of_charges(18903553, 4).
 has_arrest(jf386283, 30175478).
-crime_date(30175478, datime(date(2022, 9, 7, 14, 15, 0)))..
+crime_date(30175478, datime(date(2022, 9, 7, 14, 15, 0))).
 criminal_race(30175478,black).
 num_of_charges(30175478, 4).
 has_arrest(hx243655, 18884807).
-crime_date(18884807, datime(date(2014, 4, 30, 21, 47, 0)))..
+crime_date(18884807, datime(date(2014, 4, 30, 21, 47, 0))).
 criminal_race(18884807,white_hispanic).
 num_of_charges(18884807, 4).
 has_arrest(hp583051, 18892913).
-crime_date(18892913, datime(date(2014, 5, 13, 8, 35, 0)))..
+crime_date(18892913, datime(date(2014, 5, 13, 8, 35, 0))).
 criminal_race(18892913,black).
 num_of_charges(18892913, 4).
 has_arrest(hv278636, 18897835).
-crime_date(18897835, datime(date(2014, 5, 20, 9, 15, 0)))..
+crime_date(18897835, datime(date(2014, 5, 20, 9, 15, 0))).
 criminal_race(18897835,black).
 num_of_charges(18897835, 4).
 has_arrest(hx272763, 18899610).
-crime_date(18899610, datime(date(2014, 5, 23, 0, 1, 0)))..
+crime_date(18899610, datime(date(2014, 5, 23, 0, 1, 0))).
 criminal_race(18899610,black).
 num_of_charges(18899610, 4).
 has_arrest(hx237693, 18903743).
-crime_date(18903743, datime(date(2014, 5, 29, 11, 45, 0)))..
+crime_date(18903743, datime(date(2014, 5, 29, 11, 45, 0))).
 criminal_race(18903743,white_hispanic).
 num_of_charges(18903743, 4).
 has_arrest(hx237696, 18903231).
-crime_date(18903231, datime(date(2014, 5, 28, 17, 17, 0)))..
+crime_date(18903231, datime(date(2014, 5, 28, 17, 17, 0))).
 criminal_race(18903231,black_hispanic).
 num_of_charges(18903231, 4).
 has_arrest(hx260788, 18893531).
-crime_date(18893531, datime(date(2014, 5, 14, 0, 49, 0)))..
+crime_date(18893531, datime(date(2014, 5, 14, 0, 49, 0))).
 criminal_race(18893531,white).
 num_of_charges(18893531, 4).
 has_arrest(hx243655, 18884844).
-crime_date(18884844, datime(date(2014, 4, 30, 21, 47, 0)))..
+crime_date(18884844, datime(date(2014, 4, 30, 21, 47, 0))).
 criminal_race(18884844,white_hispanic).
 num_of_charges(18884844, 4).
 has_arrest(hx268077, 18897574).
-crime_date(18897574, datime(date(2014, 5, 19, 17, 13, 0)))..
+crime_date(18897574, datime(date(2014, 5, 19, 17, 13, 0))).
 criminal_race(18897574,black).
 num_of_charges(18897574, 4).
 has_arrest(hx265196, 18895910).
-crime_date(18895910, datime(date(2014, 5, 17, 15, 33, 0)))..
+crime_date(18895910, datime(date(2014, 5, 17, 15, 33, 0))).
 criminal_race(18895910,black).
 num_of_charges(18895910, 4).
 has_arrest(hx239919, 18883373).
-crime_date(18883373, datime(date(2014, 4, 28, 15, 35, 0)))..
+crime_date(18883373, datime(date(2014, 4, 28, 15, 35, 0))).
 criminal_race(18883373,black).
 num_of_charges(18883373, 4).
 has_arrest(hx259396, 18904214).
-crime_date(18904214, datime(date(2014, 5, 30, 8, 51, 0)))..
+crime_date(18904214, datime(date(2014, 5, 30, 8, 51, 0))).
 criminal_race(18904214,white_hispanic).
 num_of_charges(18904214, 4).
 has_arrest(hx239765, 18882890).
-crime_date(18882890, datime(date(2014, 4, 27, 21, 52, 0)))..
+crime_date(18882890, datime(date(2014, 4, 27, 21, 52, 0))).
 criminal_race(18882890,black).
 num_of_charges(18882890, 4).
 has_arrest(hx276332, 18901711).
-crime_date(18901711, datime(date(2014, 5, 25, 22, 15, 0)))..
+crime_date(18901711, datime(date(2014, 5, 25, 22, 15, 0))).
 criminal_race(18901711,black).
 num_of_charges(18901711, 4).
 has_arrest(hx264520, 18895622).
-crime_date(18895622, datime(date(2014, 5, 16, 20, 55, 0)))..
+crime_date(18895622, datime(date(2014, 5, 16, 20, 55, 0))).
 criminal_race(18895622,white_hispanic).
 num_of_charges(18895622, 4).
 has_arrest(hv546216, 18899113).
-crime_date(18899113, datime(date(2014, 5, 22, 12, 13, 0)))..
+crime_date(18899113, datime(date(2014, 5, 22, 12, 13, 0))).
 criminal_race(18899113,white_hispanic).
 num_of_charges(18899113, 4).
 has_arrest(hx229406, 18904513).
-crime_date(18904513, datime(date(2014, 5, 30, 17, 45, 0)))..
+crime_date(18904513, datime(date(2014, 5, 30, 17, 45, 0))).
 criminal_race(18904513,black).
 num_of_charges(18904513, 4).
 has_arrest(hx252574, 18889484).
-crime_date(18889484, datime(date(2014, 5, 7, 18, 27, 0)))..
+crime_date(18889484, datime(date(2014, 5, 7, 18, 27, 0))).
 criminal_race(18889484,white_hispanic).
 num_of_charges(18889484, 4).
 has_arrest(hx267017, 18897536).
-crime_date(18897536, datime(date(2014, 5, 19, 4, 50, 0)))..
+crime_date(18897536, datime(date(2014, 5, 19, 4, 50, 0))).
 criminal_race(18897536,white_hispanic).
 num_of_charges(18897536, 4).
 has_arrest(hx228931, 18904389).
-crime_date(18904389, datime(date(2014, 5, 30, 13, 45, 0)))..
+crime_date(18904389, datime(date(2014, 5, 30, 13, 45, 0))).
 criminal_race(18904389,black).
 num_of_charges(18904389, 4).
 has_arrest(hx269684, 18898565).
-crime_date(18898565, datime(date(2014, 5, 21, 12, 1, 0)))..
+crime_date(18898565, datime(date(2014, 5, 21, 12, 1, 0))).
 criminal_race(18898565,black).
 num_of_charges(18898565, 4).
 has_arrest(hx243458, 18885267).
-crime_date(18885267, datime(date(2014, 5, 1, 20, 25, 0)))..
+crime_date(18885267, datime(date(2014, 5, 1, 20, 25, 0))).
 criminal_race(18885267,black).
 num_of_charges(18885267, 4).
 has_arrest(hw400791, 18897935).
-crime_date(18897935, datime(date(2014, 5, 20, 16, 25, 0)))..
+crime_date(18897935, datime(date(2014, 5, 20, 16, 25, 0))).
 criminal_race(18897935,black).
 num_of_charges(18897935, 4).
 has_arrest(hx246577, 18887957).
-crime_date(18887957, datime(date(2014, 5, 5, 20, 40, 0)))..
+crime_date(18887957, datime(date(2014, 5, 5, 20, 40, 0))).
 criminal_race(18887957,white_hispanic).
 num_of_charges(18887957, 4).
 has_arrest(hx278380, 18902754).
-crime_date(18902754, datime(date(2014, 5, 27, 22, 33, 0)))..
+crime_date(18902754, datime(date(2014, 5, 27, 22, 33, 0))).
 criminal_race(18902754,black).
 num_of_charges(18902754, 4).
 has_arrest(hx276174, 18902491).
-crime_date(18902491, datime(date(2014, 5, 27, 15, 22, 0)))..
+crime_date(18902491, datime(date(2014, 5, 27, 15, 22, 0))).
 criminal_race(18902491,black).
 num_of_charges(18902491, 4).
 has_arrest(hx280568, 18927108).
-crime_date(18927108, datime(date(2014, 7, 3, 15, 45, 0)))..
+crime_date(18927108, datime(date(2014, 7, 3, 15, 45, 0))).
 criminal_race(18927108,black).
 num_of_charges(18927108, 4).
 has_arrest(hx240837, 18908836).
-crime_date(18908836, datime(date(2014, 6, 5, 21, 15, 0)))..
+crime_date(18908836, datime(date(2014, 6, 5, 21, 15, 0))).
 criminal_race(18908836,white_hispanic).
 num_of_charges(18908836, 4).
 has_arrest(hx290881, 18915699).
-crime_date(18915699, datime(date(2014, 6, 16, 1, 0, 0)))..
+crime_date(18915699, datime(date(2014, 6, 16, 1, 0, 0))).
 criminal_race(18915699,black).
 num_of_charges(18915699, 4).
 has_arrest(hx293138, 18925546).
-crime_date(18925546, datime(date(2014, 7, 1, 11, 0, 0)))..
+crime_date(18925546, datime(date(2014, 7, 1, 11, 0, 0))).
 criminal_race(18925546,black).
 num_of_charges(18925546, 4).
 has_arrest(hv213223, 18912310).
-crime_date(18912310, datime(date(2014, 6, 11, 14, 20, 0)))..
+crime_date(18912310, datime(date(2014, 6, 11, 14, 20, 0))).
 criminal_race(18912310,black).
 num_of_charges(18912310, 4).
 has_arrest(hx305187, 18918341).
-crime_date(18918341, datime(date(2014, 6, 20, 2, 20, 0)))..
+crime_date(18918341, datime(date(2014, 6, 20, 2, 20, 0))).
 criminal_race(18918341,black).
 num_of_charges(18918341, 4).
 has_arrest(hx305276, 18915433).
-crime_date(18915433, datime(date(2014, 6, 16, 2, 24, 0)))..
+crime_date(18915433, datime(date(2014, 6, 16, 2, 24, 0))).
 criminal_race(18915433,black).
 num_of_charges(18915433, 4).
 has_arrest(jf393803, 30176942).
-crime_date(30176942, datime(date(2022, 9, 12, 22, 54, 0)))..
+crime_date(30176942, datime(date(2022, 9, 12, 22, 54, 0))).
 criminal_race(30176942,black).
 num_of_charges(30176942, 4).
 has_arrest(jf386051, 30176771).
-crime_date(30176771, datime(date(2022, 9, 12, 13, 9, 0)))..
+crime_date(30176771, datime(date(2022, 9, 12, 13, 9, 0))).
 criminal_race(30176771,black).
 num_of_charges(30176771, 4).
 has_arrest(jf391332, 30178824).
-crime_date(30178824, datime(date(2022, 9, 19, 18, 52, 0)))..
+crime_date(30178824, datime(date(2022, 9, 19, 18, 52, 0))).
 criminal_race(30178824,black).
 num_of_charges(30178824, 4).
 has_arrest(jf395436, 30177412).
-crime_date(30177412, datime(date(2022, 9, 14, 10, 22, 0)))..
+crime_date(30177412, datime(date(2022, 9, 14, 10, 22, 0))).
 criminal_race(30177412,black).
 num_of_charges(30177412, 4).
 has_arrest(jf289187, 30177360).
-crime_date(30177360, datime(date(2022, 9, 14, 10, 45, 0)))..
+crime_date(30177360, datime(date(2022, 9, 14, 10, 45, 0))).
 criminal_race(30177360,black).
 num_of_charges(30177360, 4).
 has_arrest(jf397075, 30177788).
-crime_date(30177788, datime(date(2022, 9, 15, 21, 39, 0)))..
+crime_date(30177788, datime(date(2022, 9, 15, 21, 39, 0))).
 criminal_race(30177788,white).
 num_of_charges(30177788, 4).
 has_arrest(jf400501, 30178454).
-crime_date(30178454, datime(date(2022, 9, 18, 7, 15, 0)))..
+crime_date(30178454, datime(date(2022, 9, 18, 7, 15, 0))).
 criminal_race(30178454,black).
 num_of_charges(30178454, 4).
 has_arrest(jf401498, 30178620).
-crime_date(30178620, datime(date(2022, 9, 18, 22, 58, 0)))..
+crime_date(30178620, datime(date(2022, 9, 18, 22, 58, 0))).
 criminal_race(30178620,black).
 num_of_charges(30178620, 4).
 has_arrest(jf329040, 30178681).
-crime_date(30178681, datime(date(2022, 9, 19, 9, 40, 0)))..
+crime_date(30178681, datime(date(2022, 9, 19, 9, 40, 0))).
 criminal_race(30178681,white_hispanic).
 num_of_charges(30178681, 4).
 has_arrest(jf402236, 30178750).
-crime_date(30178750, datime(date(2022, 9, 19, 13, 58, 0)))..
+crime_date(30178750, datime(date(2022, 9, 19, 13, 58, 0))).
 criminal_race(30178750,white_hispanic).
 num_of_charges(30178750, 4).
 has_arrest(jf355432, 30179024).
-crime_date(30179024, datime(date(2022, 9, 20, 13, 14, 0)))..
+crime_date(30179024, datime(date(2022, 9, 20, 13, 14, 0))).
 criminal_race(30179024,black).
 num_of_charges(30179024, 4).
 has_arrest(jf408958, 30180185).
-crime_date(30180185, datime(date(2022, 9, 24, 17, 47, 0)))..
+crime_date(30180185, datime(date(2022, 9, 24, 17, 47, 0))).
 criminal_race(30180185,asian___pacific_islander).
 num_of_charges(30180185, 4).
 has_arrest(jf218501, 30180100).
-crime_date(30180100, datime(date(2022, 9, 24, 9, 34, 0)))..
+crime_date(30180100, datime(date(2022, 9, 24, 9, 34, 0))).
 criminal_race(30180100,black).
 num_of_charges(30180100, 4).
 has_arrest(jf412684, 30180925).
-crime_date(30180925, datime(date(2022, 9, 27, 14, 33, 0)))..
+crime_date(30180925, datime(date(2022, 9, 27, 14, 33, 0))).
 criminal_race(30180925,black).
 num_of_charges(30180925, 4).
 has_arrest(jf412684, 30180932).
-crime_date(30180932, datime(date(2022, 9, 27, 15, 45, 0)))..
+crime_date(30180932, datime(date(2022, 9, 27, 15, 45, 0))).
 criminal_race(30180932,black).
 num_of_charges(30180932, 4).
 has_arrest(jf347290, 30181246).
-crime_date(30181246, datime(date(2022, 9, 28, 14, 30, 0)))..
+crime_date(30181246, datime(date(2022, 9, 28, 14, 30, 0))).
 criminal_race(30181246,black).
 num_of_charges(30181246, 4).
 has_arrest(jf364416, 30181590).
-crime_date(30181590, datime(date(2022, 9, 29, 16, 3, 0)))..
+crime_date(30181590, datime(date(2022, 9, 29, 16, 3, 0))).
 criminal_race(30181590,black).
 num_of_charges(30181590, 4).
 has_arrest(jf402921, 30181533).
-crime_date(30181533, datime(date(2022, 9, 29, 12, 41, 0)))..
+crime_date(30181533, datime(date(2022, 9, 29, 12, 41, 0))).
 criminal_race(30181533,black).
 num_of_charges(30181533, 4).
 has_arrest(jf414615, 30181406).
-crime_date(30181406, datime(date(2022, 9, 29, 1, 35, 0)))..
+crime_date(30181406, datime(date(2022, 9, 29, 1, 35, 0))).
 criminal_race(30181406,white_hispanic).
 num_of_charges(30181406, 4).
 has_arrest(jf415961, 30181719).
-crime_date(30181719, datime(date(2022, 9, 30, 0, 19, 0)))..
+crime_date(30181719, datime(date(2022, 9, 30, 0, 19, 0))).
 criminal_race(30181719,black).
 num_of_charges(30181719, 4).
 has_arrest(jf445427, 30187930).
-crime_date(30187930, datime(date(2022, 10, 23, 3, 44, 0)))..
+crime_date(30187930, datime(date(2022, 10, 23, 3, 44, 0))).
 criminal_race(30187930,black).
 num_of_charges(30187930, 4).
 has_arrest(jf418920, 30182327).
-crime_date(30182327, datime(date(2022, 10, 2, 12, 0, 0)))..
+crime_date(30182327, datime(date(2022, 10, 2, 12, 0, 0))).
 criminal_race(30182327,black).
 num_of_charges(30182327, 4).
 has_arrest(jf419343, 30182380).
-crime_date(30182380, datime(date(2022, 10, 2, 17, 12, 0)))..
+crime_date(30182380, datime(date(2022, 10, 2, 17, 12, 0))).
 criminal_race(30182380,black).
 num_of_charges(30182380, 4).
 has_arrest(jf419343, 30182373).
-crime_date(30182373, datime(date(2022, 10, 2, 17, 12, 0)))..
+crime_date(30182373, datime(date(2022, 10, 2, 17, 12, 0))).
 criminal_race(30182373,black).
 num_of_charges(30182373, 4).
 has_arrest(jf402236, 30182538).
-crime_date(30182538, datime(date(2022, 10, 3, 11, 0, 0)))..
+crime_date(30182538, datime(date(2022, 10, 3, 11, 0, 0))).
 criminal_race(30182538,white_hispanic).
 num_of_charges(30182538, 4).
 has_arrest(jf290907, 30182902).
-crime_date(30182902, datime(date(2022, 10, 4, 15, 44, 0)))..
+crime_date(30182902, datime(date(2022, 10, 4, 15, 44, 0))).
 criminal_race(30182902,black).
 num_of_charges(30182902, 4).
 has_arrest(jf228216, 30182883).
-crime_date(30182883, datime(date(2022, 10, 4, 2, 15, 0)))..
+crime_date(30182883, datime(date(2022, 10, 4, 2, 15, 0))).
 criminal_race(30182883,white_hispanic).
 num_of_charges(30182883, 4).
 has_arrest(jf407198, 30183518).
-crime_date(30183518, datime(date(2022, 10, 6, 17, 10, 0)))..
+crime_date(30183518, datime(date(2022, 10, 6, 17, 10, 0))).
 criminal_race(30183518,black).
 num_of_charges(30183518, 4).
 has_arrest(jf423887, 30183390).
-crime_date(30183390, datime(date(2022, 10, 6, 8, 38, 0)))..
+crime_date(30183390, datime(date(2022, 10, 6, 8, 38, 0))).
 criminal_race(30183390,black).
 num_of_charges(30183390, 4).
 has_arrest(jf226068, 30183396).
-crime_date(30183396, datime(date(2022, 10, 6, 10, 2, 0)))..
+crime_date(30183396, datime(date(2022, 10, 6, 10, 2, 0))).
 criminal_race(30183396,black).
 num_of_charges(30183396, 4).
 has_arrest(jf344442, 30183411).
-crime_date(30183411, datime(date(2022, 10, 6, 10, 15, 0)))..
+crime_date(30183411, datime(date(2022, 10, 6, 10, 15, 0))).
 criminal_race(30183411,black).
 num_of_charges(30183411, 4).
 has_arrest(jf426400, 30183842).
-crime_date(30183842, datime(date(2022, 10, 7, 19, 16, 0)))..
+crime_date(30183842, datime(date(2022, 10, 7, 19, 16, 0))).
 criminal_race(30183842,white_hispanic).
 num_of_charges(30183842, 4).
 has_arrest(jf419418, 30184383).
-crime_date(30184383, datime(date(2022, 10, 9, 18, 41, 0)))..
+crime_date(30184383, datime(date(2022, 10, 9, 18, 41, 0))).
 criminal_race(30184383,white_hispanic).
 num_of_charges(30184383, 4).
 has_arrest(jf427470, 30184187).
-crime_date(30184187, datime(date(2022, 10, 9, 1, 53, 0)))..
+crime_date(30184187, datime(date(2022, 10, 9, 1, 53, 0))).
 criminal_race(30184187,black).
 num_of_charges(30184187, 4).
 has_arrest(jf429614, 30184598).
-crime_date(30184598, datime(date(2022, 10, 10, 19, 57, 0)))..
+crime_date(30184598, datime(date(2022, 10, 10, 19, 57, 0))).
 criminal_race(30184598,black).
 num_of_charges(30184598, 4).
 has_arrest(jf430994, 30184904).
-crime_date(30184904, datime(date(2022, 10, 11, 21, 10, 0)))..
+crime_date(30184904, datime(date(2022, 10, 11, 21, 10, 0))).
 criminal_race(30184904,white_hispanic).
 num_of_charges(30184904, 4).
 has_arrest(jf435725, 30185847).
-crime_date(30185847, datime(date(2022, 10, 15, 22, 33, 0)))..
+crime_date(30185847, datime(date(2022, 10, 15, 22, 33, 0))).
 criminal_race(30185847,black).
 num_of_charges(30185847, 4).
 has_arrest(jd469441, 30186704).
-crime_date(30186704, datime(date(2022, 10, 18, 23, 16, 0)))..
+crime_date(30186704, datime(date(2022, 10, 18, 23, 16, 0))).
 criminal_race(30186704,black).
 num_of_charges(30186704, 4).
 has_arrest(jf435146, 30186786).
-crime_date(30186786, datime(date(2022, 10, 19, 11, 31, 0)))..
+crime_date(30186786, datime(date(2022, 10, 19, 11, 31, 0))).
 criminal_race(30186786,black).
 num_of_charges(30186786, 4).
 has_arrest(jf435707, 30186928).
-crime_date(30186928, datime(date(2022, 10, 19, 19, 7, 0)))..
+crime_date(30186928, datime(date(2022, 10, 19, 19, 7, 0))).
 criminal_race(30186928,black).
 num_of_charges(30186928, 4).
 has_arrest(jf429564, 30187097).
-crime_date(30187097, datime(date(2022, 10, 20, 11, 11, 0)))..
+crime_date(30187097, datime(date(2022, 10, 20, 11, 11, 0))).
 criminal_race(30187097,black).
 num_of_charges(30187097, 4).
 has_arrest(jf294681, 30187037).
-crime_date(30187037, datime(date(2022, 10, 20, 7, 35, 0)))..
+crime_date(30187037, datime(date(2022, 10, 20, 7, 35, 0))).
 criminal_race(30187037,black).
 num_of_charges(30187037, 4).
 has_arrest(jf463637, 30191571).
-crime_date(30191571, datime(date(2022, 11, 5, 17, 52, 0)))..
+crime_date(30191571, datime(date(2022, 11, 5, 17, 52, 0))).
 criminal_race(30191571,black).
 num_of_charges(30191571, 4).
 has_arrest(jf445360, 30188265).
-crime_date(30188265, datime(date(2022, 10, 24, 14, 15, 0)))..
+crime_date(30188265, datime(date(2022, 10, 24, 14, 15, 0))).
 criminal_race(30188265,white_hispanic).
 num_of_charges(30188265, 4).
 has_arrest(jf450471, 30188880).
-crime_date(30188880, datime(date(2022, 10, 26, 20, 45, 0)))..
+crime_date(30188880, datime(date(2022, 10, 26, 20, 45, 0))).
 criminal_race(30188880,black).
 num_of_charges(30188880, 4).
 has_arrest(jf438566, 30188753).
-crime_date(30188753, datime(date(2022, 10, 26, 13, 44, 0)))..
+crime_date(30188753, datime(date(2022, 10, 26, 13, 44, 0))).
 criminal_race(30188753,black).
 num_of_charges(30188753, 4).
 has_arrest(je465628, 30188772).
-crime_date(30188772, datime(date(2022, 10, 26, 16, 2, 0)))..
+crime_date(30188772, datime(date(2022, 10, 26, 16, 2, 0))).
 criminal_race(30188772,black).
 num_of_charges(30188772, 4).
 has_arrest(jf333033, 30189342).
-crime_date(30189342, datime(date(2022, 10, 28, 15, 11, 0)))..
+crime_date(30189342, datime(date(2022, 10, 28, 15, 11, 0))).
 criminal_race(30189342,black).
 num_of_charges(30189342, 4).
 has_arrest(jf434869, 30190100).
-crime_date(30190100, datime(date(2022, 10, 31, 14, 21, 0)))..
+crime_date(30190100, datime(date(2022, 10, 31, 14, 21, 0))).
 criminal_race(30190100,black).
 num_of_charges(30190100, 4).
 has_arrest(jf459470, 30190733).
-crime_date(30190733, datime(date(2022, 11, 2, 16, 50, 0)))..
+crime_date(30190733, datime(date(2022, 11, 2, 16, 50, 0))).
 criminal_race(30190733,black).
 num_of_charges(30190733, 4).
 has_arrest(jf408000, 30190316).
-crime_date(30190316, datime(date(2022, 11, 1, 11, 40, 0)))..
+crime_date(30190316, datime(date(2022, 11, 1, 11, 40, 0))).
 criminal_race(30190316,black).
 num_of_charges(30190316, 4).
 has_arrest(je437238, 30190889).
-crime_date(30190889, datime(date(2022, 11, 3, 9, 1, 0)))..
+crime_date(30190889, datime(date(2022, 11, 3, 9, 1, 0))).
 criminal_race(30190889,white_hispanic).
 num_of_charges(30190889, 4).
 has_arrest(jf464070, 30191666).
-crime_date(30191666, datime(date(2022, 11, 6, 3, 15, 0)))..
+crime_date(30191666, datime(date(2022, 11, 6, 3, 15, 0))).
 criminal_race(30191666,white_hispanic).
 num_of_charges(30191666, 4).
 has_arrest(jf467209, 30192245).
-crime_date(30192245, datime(date(2022, 11, 8, 16, 19, 0)))..
+crime_date(30192245, datime(date(2022, 11, 8, 16, 19, 0))).
 criminal_race(30192245,black).
 num_of_charges(30192245, 4).
 has_arrest(jf230855, 30192393).
-crime_date(30192393, datime(date(2022, 11, 9, 10, 45, 0)))..
+crime_date(30192393, datime(date(2022, 11, 9, 10, 45, 0))).
 criminal_race(30192393,black).
 num_of_charges(30192393, 4).
 has_arrest(jf302051, 30192637).
-crime_date(30192637, datime(date(2022, 11, 10, 10, 45, 0)))..
+crime_date(30192637, datime(date(2022, 11, 10, 10, 45, 0))).
 criminal_race(30192637,black).
 num_of_charges(30192637, 4).
 has_arrest(jf470150, 30193279).
-crime_date(30193279, datime(date(2022, 11, 12, 14, 23, 0)))..
+crime_date(30193279, datime(date(2022, 11, 12, 14, 23, 0))).
 criminal_race(30193279,black).
 num_of_charges(30193279, 4).
 has_arrest(jf474225, 30193983).
-crime_date(30193983, datime(date(2022, 11, 15, 14, 15, 0)))..
+crime_date(30193983, datime(date(2022, 11, 15, 14, 15, 0))).
 criminal_race(30193983,white_hispanic).
 num_of_charges(30193983, 4).
 has_arrest(jf390178, 30194444).
-crime_date(30194444, datime(date(2022, 11, 17, 11, 7, 0)))..
+crime_date(30194444, datime(date(2022, 11, 17, 11, 7, 0))).
 criminal_race(30194444,black).
 num_of_charges(30194444, 4).
 has_arrest(jf367998, 30195424).
-crime_date(30195424, datime(date(2022, 11, 21, 13, 45, 0)))..
+crime_date(30195424, datime(date(2022, 11, 21, 13, 45, 0))).
 criminal_race(30195424,black).
 num_of_charges(30195424, 4).
 has_arrest(je482387, 30195650).
-crime_date(30195650, datime(date(2022, 11, 22, 12, 45, 0)))..
+crime_date(30195650, datime(date(2022, 11, 22, 12, 45, 0))).
 criminal_race(30195650,white_hispanic).
 num_of_charges(30195650, 4).
 has_arrest(jf468688, 30195714).
-crime_date(30195714, datime(date(2022, 11, 22, 16, 44, 0)))..
+crime_date(30195714, datime(date(2022, 11, 22, 16, 44, 0))).
 criminal_race(30195714,black).
 num_of_charges(30195714, 4).
 has_arrest(jf450765, 30195509).
-crime_date(30195509, datime(date(2022, 11, 21, 19, 25, 0)))..
+crime_date(30195509, datime(date(2022, 11, 21, 19, 25, 0))).
 criminal_race(30195509,white_hispanic).
 num_of_charges(30195509, 4).
 has_arrest(jf450765, 30195480).
-crime_date(30195480, datime(date(2022, 11, 21, 18, 15, 0)))..
+crime_date(30195480, datime(date(2022, 11, 21, 18, 15, 0))).
 criminal_race(30195480,white_hispanic).
 num_of_charges(30195480, 4).
 has_arrest(jf472411, 30194956).
-crime_date(30194956, datime(date(2022, 11, 19, 15, 18, 0)))..
+crime_date(30194956, datime(date(2022, 11, 19, 15, 18, 0))).
 criminal_race(30194956,white_hispanic).
 num_of_charges(30194956, 4).
 has_arrest(jf460197, 30195656).
-crime_date(30195656, datime(date(2022, 11, 22, 13, 34, 0)))..
+crime_date(30195656, datime(date(2022, 11, 22, 13, 34, 0))).
 criminal_race(30195656,white_hispanic).
 num_of_charges(30195656, 4).
 has_arrest(jf160262, 30196817).
-crime_date(30196817, datime(date(2022, 11, 27, 10, 53, 0)))..
+crime_date(30196817, datime(date(2022, 11, 27, 10, 53, 0))).
 criminal_race(30196817,black).
 num_of_charges(30196817, 4).
 has_arrest(jf471551, 30197915).
-crime_date(30197915, datime(date(2022, 12, 1, 15, 40, 0)))..
+crime_date(30197915, datime(date(2022, 12, 1, 15, 40, 0))).
 criminal_race(30197915,black).
 num_of_charges(30197915, 4).
 has_arrest(jf472966, 30198115).
-crime_date(30198115, datime(date(2022, 12, 2, 11, 5, 0)))..
+crime_date(30198115, datime(date(2022, 12, 2, 11, 5, 0))).
 criminal_race(30198115,black).
 num_of_charges(30198115, 4).
 has_arrest(jf496202, 30198306).
-crime_date(30198306, datime(date(2022, 12, 3, 1, 54, 0)))..
+crime_date(30198306, datime(date(2022, 12, 3, 1, 54, 0))).
 criminal_race(30198306,black).
 num_of_charges(30198306, 4).
 has_arrest(jf497370, 30199139).
-crime_date(30199139, datime(date(2022, 12, 6, 15, 20, 0)))..
+crime_date(30199139, datime(date(2022, 12, 6, 15, 20, 0))).
 criminal_race(30199139,white_hispanic).
 num_of_charges(30199139, 4).
 has_arrest(je227034, 30199138).
-crime_date(30199138, datime(date(2022, 12, 6, 14, 12, 0)))..
+crime_date(30199138, datime(date(2022, 12, 6, 14, 12, 0))).
 criminal_race(30199138,black).
 num_of_charges(30199138, 4).
 has_arrest(jf502047, 30199587).
-crime_date(30199587, datime(date(2022, 12, 7, 23, 20, 0)))..
+crime_date(30199587, datime(date(2022, 12, 7, 23, 20, 0))).
 criminal_race(30199587,black).
 num_of_charges(30199587, 4).
 has_arrest(jf502031, 30199535).
-crime_date(30199535, datime(date(2022, 12, 7, 20, 15, 0)))..
+crime_date(30199535, datime(date(2022, 12, 7, 20, 15, 0))).
 criminal_race(30199535,black).
 num_of_charges(30199535, 4).
 has_arrest(jf501354, 30199435).
-crime_date(30199435, datime(date(2022, 12, 7, 12, 30, 0)))..
+crime_date(30199435, datime(date(2022, 12, 7, 12, 30, 0))).
 criminal_race(30199435,black).
 num_of_charges(30199435, 4).
 has_arrest(jf501873, 30199555).
-crime_date(30199555, datime(date(2022, 12, 7, 17, 38, 0)))..
+crime_date(30199555, datime(date(2022, 12, 7, 17, 38, 0))).
 criminal_race(30199555,black).
 num_of_charges(30199555, 4).
 has_arrest(jf504694, 30200095).
-crime_date(30200095, datime(date(2022, 12, 9, 23, 19, 0)))..
+crime_date(30200095, datime(date(2022, 12, 9, 23, 19, 0))).
 criminal_race(30200095,black).
 num_of_charges(30200095, 4).
 has_arrest(jf482140, 30200248).
-crime_date(30200248, datime(date(2022, 12, 10, 19, 45, 0)))..
+crime_date(30200248, datime(date(2022, 12, 10, 19, 45, 0))).
 criminal_race(30200248,white_hispanic).
 num_of_charges(30200248, 4).
 has_arrest(jf505994, 30200731).
-crime_date(30200731, datime(date(2022, 12, 12, 13, 59, 0)))..
+crime_date(30200731, datime(date(2022, 12, 12, 13, 59, 0))).
 criminal_race(30200731,white_hispanic).
 num_of_charges(30200731, 4).
 has_arrest(jf408430, 30201211).
-crime_date(30201211, datime(date(2022, 12, 14, 12, 50, 0)))..
+crime_date(30201211, datime(date(2022, 12, 14, 12, 50, 0))).
 criminal_race(30201211,black).
 num_of_charges(30201211, 4).
 has_arrest(je363226, 30202393).
-crime_date(30202393, datime(date(2022, 12, 19, 11, 43, 0)))..
+crime_date(30202393, datime(date(2022, 12, 19, 11, 43, 0))).
 criminal_race(30202393,black).
 num_of_charges(30202393, 4).
 has_arrest(jf465413, 30202427).
-crime_date(30202427, datime(date(2022, 12, 19, 11, 30, 0)))..
+crime_date(30202427, datime(date(2022, 12, 19, 11, 30, 0))).
 criminal_race(30202427,black).
 num_of_charges(30202427, 4).
 has_arrest(jf519336, 30203194).
-crime_date(30203194, datime(date(2022, 12, 21, 23, 30, 0)))..
+crime_date(30203194, datime(date(2022, 12, 21, 23, 30, 0))).
 criminal_race(30203194,black).
 num_of_charges(30203194, 4).
 has_arrest(jf193651, 30202997).
-crime_date(30202997, datime(date(2022, 12, 21, 11, 6, 0)))..
+crime_date(30202997, datime(date(2022, 12, 21, 11, 6, 0))).
 criminal_race(30202997,black).
 num_of_charges(30202997, 4).
 has_arrest(jf254640, 30203018).
-crime_date(30203018, datime(date(2022, 12, 22, 10, 5, 0)))..
+crime_date(30203018, datime(date(2022, 12, 22, 10, 5, 0))).
 criminal_race(30203018,white_hispanic).
 num_of_charges(30203018, 4).
 has_arrest(jf523087, 30203942).
-crime_date(30203942, datime(date(2022, 12, 27, 8, 34, 0)))..
+crime_date(30203942, datime(date(2022, 12, 27, 8, 34, 0))).
 criminal_race(30203942,black).
 num_of_charges(30203942, 4).
 has_arrest(jf526430, 30204546).
-crime_date(30204546, datime(date(2022, 12, 29, 13, 46, 0)))..
+crime_date(30204546, datime(date(2022, 12, 29, 13, 46, 0))).
 criminal_race(30204546,black).
 num_of_charges(30204546, 4).
 has_arrest(jf333464, 30204523).
-crime_date(30204523, datime(date(2022, 12, 29, 14, 25, 0)))..
+crime_date(30204523, datime(date(2022, 12, 29, 14, 25, 0))).
 criminal_race(30204523,black).
 num_of_charges(30204523, 4).
 has_arrest(jf437358, 30204559).
-crime_date(30204559, datime(date(2022, 12, 29, 16, 40, 0)))..
+crime_date(30204559, datime(date(2022, 12, 29, 16, 40, 0))).
 criminal_race(30204559,black).
 num_of_charges(30204559, 4).
 has_arrest(jf529184, 30205155).
-crime_date(30205155, datime(date(2022, 12, 31, 21, 35, 0)))..
+crime_date(30205155, datime(date(2022, 12, 31, 21, 35, 0))).
 criminal_race(30205155,black).
 num_of_charges(30205155, 4).
 has_arrest(jf301478, 30205497).
-crime_date(30205497, datime(date(2023, 1, 2, 10, 21, 0)))..
+crime_date(30205497, datime(date(2023, 1, 2, 10, 21, 0))).
 criminal_race(30205497,black).
 num_of_charges(30205497, 4).
 has_arrest(jf514599, 30206087).
-crime_date(30206087, datime(date(2023, 1, 4, 12, 20, 0)))..
+crime_date(30206087, datime(date(2023, 1, 4, 12, 20, 0))).
 criminal_race(30206087,black).
 num_of_charges(30206087, 4).
 has_arrest(jf522750, 30206140).
-crime_date(30206140, datime(date(2023, 1, 4, 16, 2, 0)))..
+crime_date(30206140, datime(date(2023, 1, 4, 16, 2, 0))).
 criminal_race(30206140,black).
 num_of_charges(30206140, 4).
 has_arrest(jf484500, 30207219).
-crime_date(30207219, datime(date(2023, 1, 8, 12, 33, 0)))..
+crime_date(30207219, datime(date(2023, 1, 8, 12, 33, 0))).
 criminal_race(30207219,white_hispanic).
 num_of_charges(30207219, 4).
 has_arrest(jf501659, 30207791).
-crime_date(30207791, datime(date(2023, 1, 10, 14, 0, 0)))..
+crime_date(30207791, datime(date(2023, 1, 10, 14, 0, 0))).
 criminal_race(30207791,black).
 num_of_charges(30207791, 4).
 has_arrest(jg110832, 30208696).
-crime_date(30208696, datime(date(2023, 1, 13, 8, 50, 0)))..
+crime_date(30208696, datime(date(2023, 1, 13, 8, 50, 0))).
 criminal_race(30208696,black).
 num_of_charges(30208696, 4).
 has_arrest(jg116551, 30209248).
-crime_date(30209248, datime(date(2023, 1, 14, 11, 50, 0)))..
+crime_date(30209248, datime(date(2023, 1, 14, 11, 50, 0))).
 criminal_race(30209248,black).
 num_of_charges(30209248, 4).
