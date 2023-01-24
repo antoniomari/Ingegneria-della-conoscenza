@@ -1913,6 +1913,11 @@ beat(hy397947,1134).
 district(hy397947,11.0).
 comm_area(hy397947,27.0).
 ward(hy397947,28.0).
+location_description(hy397947, park_property).
+beat(hy397947,1134).
+district(hy397947,11.0).
+comm_area(hy397947,27.0).
+ward(hy397947,28.0).
 location_description(hy401444, street).
 beat(hy401444,222).
 district(hy401444,2.0).
@@ -3413,6 +3418,11 @@ beat(hz442931,523).
 district(hz442931,5.0).
 comm_area(hz442931,53.0).
 ward(hz442931,34.0).
+location_description(hz442931, street).
+beat(hz442931,523).
+district(hz442931,5.0).
+comm_area(hz442931,53.0).
+ward(hz442931,34.0).
 location_description(hz442949, gas_station).
 beat(hz442949,1134).
 district(hz442949,11.0).
@@ -3743,6 +3753,11 @@ beat(hz554936,512).
 district(hz554936,5.0).
 comm_area(hz554936,49.0).
 ward(hz554936,34.0).
+location_description(hz554936, house).
+beat(hz554936,512).
+district(hz554936,5.0).
+comm_area(hz554936,49.0).
+ward(hz554936,34.0).
 location_description(hz555341, cha_parking_lot_grounds).
 beat(hz555341,424).
 district(hz555341,4.0).
@@ -3953,6 +3968,11 @@ beat(ja153462,1013).
 district(ja153462,10.0).
 comm_area(ja153462,29.0).
 ward(ja153462,22.0).
+location_description(ja153462, alley).
+beat(ja153462,1013).
+district(ja153462,10.0).
+comm_area(ja153462,29.0).
+ward(ja153462,22.0).
 location_description(ja153686, tavern_liquor_store).
 beat(ja153686,1522).
 district(ja153686,15.0).
@@ -3963,6 +3983,11 @@ beat(ja146899,121).
 district(ja146899,1.0).
 comm_area(ja146899,28.0).
 ward(ja146899,2.0).
+location_description(ja154850, house).
+beat(ja154850,921).
+district(ja154850,9.0).
+comm_area(ja154850,58.0).
+ward(ja154850,14.0).
 location_description(ja154850, house).
 beat(ja154850,921).
 district(ja154850,9.0).
@@ -4053,6 +4078,11 @@ beat(ja201123,1013).
 district(ja201123,10.0).
 comm_area(ja201123,30.0).
 ward(ja201123,22.0).
+location_description(ja206252, restaurant).
+beat(ja206252,334).
+district(ja206252,3.0).
+comm_area(ja206252,43.0).
+ward(ja206252,7.0).
 location_description(ja206252, restaurant).
 beat(ja206252,334).
 district(ja206252,3.0).
@@ -4363,6 +4393,11 @@ beat(ja311841,1422).
 district(ja311841,14.0).
 comm_area(ja311841,23.0).
 ward(ja311841,26.0).
+location_description(ja311797, apartment).
+beat(ja311797,2533).
+district(ja311797,25.0).
+comm_area(ja311797,25.0).
+ward(ja311797,37.0).
 location_description(ja311863, driveway).
 beat(ja311863,1834).
 district(ja311863,18.0).
@@ -5598,6 +5633,11 @@ beat(jc284673,633).
 district(jc284673,6.0).
 comm_area(jc284673,44.0).
 ward(jc284673,9.0).
+location_description(jc284673, street).
+beat(jc284673,633).
+district(jc284673,6.0).
+comm_area(jc284673,44.0).
+ward(jc284673,9.0).
 location_description(jc285616, alley).
 beat(jc285616,932).
 district(jc285616,9.0).
@@ -5628,6 +5668,11 @@ beat(jc288353,1513).
 district(jc288353,15.0).
 comm_area(jc288353,25.0).
 ward(jc288353,29.0).
+location_description(jc288642, street).
+beat(jc288642,1814).
+district(jc288642,18.0).
+comm_area(jc288642,7.0).
+ward(jc288642,2.0).
 location_description(jc288642, street).
 beat(jc288642,1814).
 district(jc288642,18.0).
@@ -6128,6 +6173,26 @@ beat(jc470284,1632).
 district(jc470284,16.0).
 comm_area(jc470284,17.0).
 ward(jc470284,38.0).
+location_description(jc470284, apartment).
+beat(jc470284,1632).
+district(jc470284,16.0).
+comm_area(jc470284,17.0).
+ward(jc470284,38.0).
+location_description(jc470284, apartment).
+beat(jc470284,1632).
+district(jc470284,16.0).
+comm_area(jc470284,17.0).
+ward(jc470284,38.0).
+location_description(jc470284, apartment).
+beat(jc470284,1632).
+district(jc470284,16.0).
+comm_area(jc470284,17.0).
+ward(jc470284,38.0).
+location_description(jc470284, apartment).
+beat(jc470284,1632).
+district(jc470284,16.0).
+comm_area(jc470284,17.0).
+ward(jc470284,38.0).
 location_description(jc477249, parking_lot___garage__non_residential_).
 beat(jc477249,731).
 district(jc477249,7.0).
@@ -6438,6 +6503,11 @@ beat(jb120039,321).
 district(jb120039,3.0).
 comm_area(jb120039,42.0).
 ward(jb120039,20.0).
+location_description(jb120039, street).
+beat(jb120039,321).
+district(jb120039,3.0).
+comm_area(jb120039,42.0).
+ward(jb120039,20.0).
 location_description(jb121157, residence).
 beat(jb121157,1132).
 district(jb121157,11.0).
@@ -6458,6 +6528,11 @@ beat(jb123351,1234).
 district(jb123351,12.0).
 comm_area(jb123351,31.0).
 ward(jb123351,25.0).
+location_description(jb123810, street).
+beat(jb123810,2512).
+district(jb123810,25.0).
+comm_area(jb123810,19.0).
+ward(jb123810,36.0).
 location_description(jb123810, street).
 beat(jb123810,2512).
 district(jb123810,25.0).
@@ -6988,6 +7063,11 @@ beat(jb308673,313).
 district(jb308673,3.0).
 comm_area(jb308673,42.0).
 ward(jb308673,20.0).
+location_description(jb308673, street).
+beat(jb308673,313).
+district(jb308673,3.0).
+comm_area(jb308673,42.0).
+ward(jb308673,20.0).
 location_description(jb309066, street).
 beat(jb309066,1123).
 district(jb309066,11.0).
@@ -7268,6 +7348,11 @@ beat(jb384159,1113).
 district(jb384159,11.0).
 comm_area(jb384159,26.0).
 ward(jb384159,28.0).
+location_description(jb384159, street).
+beat(jb384159,1113).
+district(jb384159,11.0).
+comm_area(jb384159,26.0).
+ward(jb384159,28.0).
 location_description(jb384769, sidewalk).
 beat(jb384769,533).
 district(jb384769,5.0).
@@ -7478,6 +7563,11 @@ beat(jb457568,123).
 district(jb457568,1.0).
 comm_area(jb457568,32.0).
 ward(jb457568,2.0).
+location_description(jb457568, street).
+beat(jb457568,123).
+district(jb457568,1.0).
+comm_area(jb457568,32.0).
+ward(jb457568,2.0).
 location_description(jb458747, street).
 beat(jb458747,734).
 district(jb458747,7.0).
@@ -7673,6 +7763,11 @@ beat(jb523961,723).
 district(jb523961,7.0).
 comm_area(jb523961,68.0).
 ward(jb523961,6.0).
+location_description(jb523961, house).
+beat(jb523961,723).
+district(jb523961,7.0).
+comm_area(jb523961,68.0).
+ward(jb523961,6.0).
 location_description(jb525987, street).
 beat(jb525987,933).
 district(jb525987,9.0).
@@ -7818,6 +7913,11 @@ beat(jd104512,823).
 district(jd104512,8.0).
 comm_area(jd104512,66.0).
 ward(jd104512,16.0).
+location_description(jd105251, street).
+beat(jd105251,432).
+district(jd105251,4.0).
+comm_area(jd105251,52.0).
+ward(jd105251,10.0).
 location_description(jd105251, street).
 beat(jd105251,432).
 district(jd105251,4.0).
@@ -8023,6 +8123,11 @@ beat(jd168151,932).
 district(jd168151,9.0).
 comm_area(jd168151,61.0).
 ward(jd168151,16.0).
+location_description(jd169963, street).
+beat(jd169963,622).
+district(jd169963,6.0).
+comm_area(jd169963,44.0).
+ward(jd169963,21.0).
 location_description(jd169963, street).
 beat(jd169963,622).
 district(jd169963,6.0).
@@ -8458,6 +8563,11 @@ beat(jd264737,1533).
 district(jd264737,15.0).
 comm_area(jd264737,25.0).
 ward(jd264737,29.0).
+location_description(jd264558, apartment).
+beat(jd264558,423).
+district(jd264558,4.0).
+comm_area(jd264558,48.0).
+ward(jd264558,7.0).
 location_description(jd265084, convenience_store).
 beat(jd265084,433).
 district(jd265084,4.0).
@@ -8513,6 +8623,11 @@ beat(jd270626,414).
 district(jd270626,4.0).
 comm_area(jd270626,46.0).
 ward(jd270626,7.0).
+location_description(jd270626, alley).
+beat(jd270626,414).
+district(jd270626,4.0).
+comm_area(jd270626,46.0).
+ward(jd270626,7.0).
 location_description(jd270705, street).
 beat(jd270705,1434).
 district(jd270705,14.0).
@@ -8533,6 +8648,11 @@ beat(jd271655,1112).
 district(jd271655,11.0).
 comm_area(jd271655,23.0).
 ward(jd271655,37.0).
+location_description(jd272406, street).
+beat(jd272406,614).
+district(jd272406,6.0).
+comm_area(jd272406,71.0).
+ward(jd272406,21.0).
 location_description(jd272406, street).
 beat(jd272406,614).
 district(jd272406,6.0).
@@ -8713,6 +8833,11 @@ beat(jd297331,1131).
 district(jd297331,11.0).
 comm_area(jd297331,26.0).
 ward(jd297331,28.0).
+location_description(jd298408, auto).
+beat(jd298408,734).
+district(jd298408,7.0).
+comm_area(jd298408,67.0).
+ward(jd298408,6.0).
 location_description(jd298408, auto).
 beat(jd298408,734).
 district(jd298408,7.0).
@@ -9108,6 +9233,11 @@ beat(jd357441,1111).
 district(jd357441,11.0).
 comm_area(jd357441,25.0).
 ward(jd357441,37.0).
+location_description(jd272406, street).
+beat(jd272406,614).
+district(jd272406,6.0).
+comm_area(jd272406,71.0).
+ward(jd272406,21.0).
 location_description(jd358038, apartment).
 beat(jd358038,712).
 district(jd358038,7.0).
@@ -9163,6 +9293,11 @@ beat(jd364506,912).
 district(jd364506,9.0).
 comm_area(jd364506,59.0).
 ward(jd364506,25.0).
+location_description(jd364485, street).
+beat(jd364485,1523).
+district(jd364485,15.0).
+comm_area(jd364485,25.0).
+ward(jd364485,29.0).
 location_description(jd364485, street).
 beat(jd364485,1523).
 district(jd364485,15.0).
@@ -9378,6 +9513,11 @@ beat(jd401865,631).
 district(jd401865,6.0).
 comm_area(jd401865,44.0).
 ward(jd401865,8.0).
+location_description(jd397606, yard).
+beat(jd397606,431).
+district(jd397606,4.0).
+comm_area(jd397606,51.0).
+ward(jd397606,7.0).
 location_description(jd403004, street).
 beat(jd403004,621).
 district(jd403004,6.0).
@@ -10318,6 +10458,11 @@ beat(je272404,1121).
 district(je272404,11.0).
 comm_area(je272404,23.0).
 ward(je272404,26.0).
+location_description(je272404, street).
+beat(je272404,1121).
+district(je272404,11.0).
+comm_area(je272404,23.0).
+ward(je272404,26.0).
 location_description(je276719, gas_station).
 beat(je276719,911).
 district(je276719,9.0).
@@ -10488,6 +10633,11 @@ beat(je311442,813).
 district(je311442,8.0).
 comm_area(je311442,65.0).
 ward(je311442,13.0).
+location_description(je309374, alley).
+beat(je309374,1021).
+district(je309374,10.0).
+comm_area(je309374,29.0).
+ward(je309374,24.0).
 location_description(je312144, gas_station_drive_prop_).
 beat(je312144,623).
 district(je312144,6.0).
@@ -10918,6 +11068,11 @@ beat(je428818,612).
 district(je428818,6.0).
 comm_area(je428818,71.0).
 ward(je428818,17.0).
+location_description(je385492, porch).
+beat(je385492,324).
+district(je385492,3.0).
+comm_area(je385492,69.0).
+ward(je385492,5.0).
 location_description(je430596, street).
 beat(je430596,925).
 district(je430596,9.0).
@@ -11323,6 +11478,11 @@ beat(jf152198,931).
 district(jf152198,9.0).
 comm_area(jf152198,61.0).
 ward(jf152198,20.0).
+location_description(jf152198, apartment).
+beat(jf152198,931).
+district(jf152198,9.0).
+comm_area(jf152198,61.0).
+ward(jf152198,20.0).
 location_description(jf152400, residence).
 beat(jf152400,2532).
 district(jf152400,25.0).
@@ -11583,6 +11743,11 @@ beat(jf235754,1423).
 district(jf235754,14.0).
 comm_area(jf235754,24.0).
 ward(jf235754,26.0).
+location_description(jf235754, street).
+beat(jf235754,1423).
+district(jf235754,14.0).
+comm_area(jf235754,24.0).
+ward(jf235754,26.0).
 location_description(jf237550, street).
 beat(jf237550,331).
 district(jf237550,3.0).
@@ -11803,6 +11968,11 @@ beat(jf280055,2512).
 district(jf280055,25.0).
 comm_area(jf280055,25.0).
 ward(jf280055,29.0).
+location_description(jf260542, street).
+beat(jf260542,1111).
+district(jf260542,11.0).
+comm_area(jf260542,23.0).
+ward(jf260542,37.0).
 location_description(jf282944, apartment).
 beat(jf282944,1113).
 district(jf282944,11.0).
@@ -12088,6 +12258,11 @@ beat(jf356096,331).
 district(jf356096,3.0).
 comm_area(jf356096,43.0).
 ward(jf356096,5.0).
+location_description(jf356096, street).
+beat(jf356096,331).
+district(jf356096,3.0).
+comm_area(jf356096,43.0).
+ward(jf356096,5.0).
 location_description(jf356883, cta_property).
 beat(jf356883,731).
 district(jf356883,7.0).
@@ -12188,6 +12363,11 @@ beat(jf390178,131).
 district(jf390178,1.0).
 comm_area(jf390178,33.0).
 ward(jf390178,3.0).
+location_description(jf390178, street).
+beat(jf390178,131).
+district(jf390178,1.0).
+comm_area(jf390178,33.0).
+ward(jf390178,3.0).
 location_description(jf391332, apartment).
 beat(jf391332,1022).
 district(jf391332,10.0).
@@ -12253,6 +12433,11 @@ beat(jf408958,1711).
 district(jf408958,17.0).
 comm_area(jf408958,13.0).
 ward(jf408958,39.0).
+location_description(jf409645, apartment).
+beat(jf409645,1011).
+district(jf409645,10.0).
+comm_area(jf409645,29.0).
+ward(jf409645,24.0).
 location_description(jf409645, apartment).
 beat(jf409645,1011).
 district(jf409645,10.0).
@@ -12463,6 +12648,11 @@ beat(jf476867,332).
 district(jf476867,3.0).
 comm_area(jf476867,43.0).
 ward(jf476867,5.0).
+location_description(jf482140, parking_lot).
+beat(jf482140,1511).
+district(jf482140,15.0).
+comm_area(jf482140,25.0).
+ward(jf482140,29.0).
 location_description(jf482140, parking_lot).
 beat(jf482140,1511).
 district(jf482140,15.0).
