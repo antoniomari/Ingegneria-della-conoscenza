@@ -32,6 +32,11 @@ def create_kb():
         # TODO: distanza coordinate
     print(kb.query(pytholog.Expr("district(C1, 1.0)")))
 
+
+def try_pytholog():
+    kb = pytholog.knowledge_base("prova.pl")
+    print(kb.query(pytholog.Expr("location_description(C, 'house')")))
+
 def use_pyswip():
     prolog = Prolog()
     prolog.consult("facts.pl")
@@ -59,6 +64,12 @@ def use_pyswip():
 
     #print(list(prolog.query("district(C1, 1.0).")))
 
-use_pyswip()
+def try_pyswip():
+    prolog = Prolog()
+    prolog.consult("prova.pl")
+
+#try_pyswip()
+#use_pyswip()
 #create_kb()
+try_pytholog()
 
