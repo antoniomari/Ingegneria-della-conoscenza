@@ -11,13 +11,15 @@ def kb_usage():
                "same_beat(C1, C2) :- beat(C1, B), beat(C2, B).",
                "same_ward(C1, C2) :- ward(C1, W), ward(C2, W).",
                "same_comm_area(C1, C2) :- comm_area(C1, COM), comm_area(C2, COM).",
-               "num_of_same_district(C, N) :- findall(C1, same_district(C1, C), L), length(L, N)."]
+               "num_of_same_district(X, Count) :- findall(Y, (between(1, 5, Y), Y mod 2 =:= 0), X), length(X, Count)"]
 
     kb(clauses)
-    obj = kb.query(pytholog.Expr("num_of_same_district(hs227745, N)"))
+    obj = kb.query(pytholog.Expr("findall(X, same_district(X, hs227745), L)."))
 
     if obj is None:
         pass # Do something
     else:
         print(obj)
     pass
+
+kb_usage()
