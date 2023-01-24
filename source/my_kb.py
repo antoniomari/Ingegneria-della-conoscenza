@@ -23,9 +23,9 @@ def create_kb():
     prolog.assertz("is_homicide(C) :- victim(C, V), victimization(V, homicide)")
     prolog.assertz("is_killed(V) :- victim(C, V), is_homicide(C)")
     prolog.assertz("num_of_arrest(C, N) :- findall(S, has_arrest(C, S), L), length(L, N)")
-    prolog.assertz("night_crime(C) :- crime_date(C, DT), hour_of_day(DT, H), ((H >= 20; H =< 6))")
+    prolog.assertz("night_crime(C) :- crime_date(C, datime(date(Y, M, D, H, M, S))), ((H >= 20; H =< 6))")
 
-    obj = prolog.query("night_crime(X)")
+    obj = prolog.query("night_crime(hx320313)")
 
     for x in obj:
         print(x)
