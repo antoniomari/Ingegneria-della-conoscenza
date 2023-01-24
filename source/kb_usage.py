@@ -4,7 +4,8 @@ def kb_usage():
 
     kb = Prolog()
     kb.consult("facts.pl")
-    obj = kb.query("arrest_date(30206087,01_04_2023_12_20_00_pm)")
+    kb.asserta("num_of_arrest(C, N) :- findall(S, has_arrest(C, S), L), length(L, N)")
+    obj = kb.query("num_of_arrest(A, N)")
 
     for x in obj:
         print(x)
