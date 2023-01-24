@@ -20,6 +20,15 @@ def define_onto():
         class HasArrest(Crime >> Arrest):
             pass
 
+        class Victim(Thing):
+            pass
+
+        class HasVictim(Crime >> Victim):
+            pass
+
+        class NumOfVictims(Crime >> int):
+            pass
+
 
 
     onto.save("crimes.owl")
