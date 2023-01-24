@@ -1,16 +1,10 @@
-import pandas as pd
 from pyswip import Prolog
-import pytholog
-import pyswip
 
 def kb_usage():
 
-    #kb = pytholog.KnowledgeBase("k.pl")
-    #kb.from_file("my_findall.pl")
     kb = Prolog()
-    kb.consult("my_findall.pl")
-    obj = kb.query("num_of_c(a, N)")
-    #obj = kb.query(pytholog.Expr("length([a, b], N)"))
+    kb.consult("facts.pl")
+    obj = kb.query("arrest_date(30206087,01_04_2023_12_20_00_pm)")
 
     for x in obj:
         print(x)

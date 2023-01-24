@@ -1,3 +1,4 @@
+import numpy as np
 import rdflib
 import pandas as pd
 from rdflib.plugins.sparql import prepareQuery
@@ -285,7 +286,9 @@ def string_lower_in_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     for col_name, col_data in df.iteritems():
         if pd.api.types.is_string_dtype(col_data):
             df[col_name] = df[col_name].apply(lambda x: str(x).lower())
+            df[col_name] = df[col_name].apply(lambda x: ''.join(['_' if not c.isalnum() else c for c in x]))
     return df
+
 
 def preprocess_arrest_dataset(extracted_arrest_dataset: pd.DataFrame) -> pd.DataFrame:
     col_ren = {'RACE': 'criminal_race', 'CB_NO': 'ARREST_NUMBER'}
@@ -331,6 +334,24 @@ def create_prolog_kb():
                      f"ward({case_num},{row['Ward']})"]
             prologfile.writelines(".\n".join(facts) + ".\n")
 
+        # insert data for arrests
+        for index, row in arrest_df.iterrows():
+            arrest_num = row['ARREST_NUMBER']
+            facts = [f"has_arrest({row['CASE_NUMBER']}, {arrest_num})",
+                     f"arrest_date({arrest_num},{row['ARREST DATE']})",
+                     f"criminal_race({arrest_num},{row['criminal_race']})"]
+
+            num_charges = 0
+            for i in range(1, 5):
+                if row[f"CHARGE {i} STATUTE"] != np.nan:
+                    print(row[f"CHARGE {i} STATUTE"])
+                    num_charges += 1
+                else:
+                    break
+            # note: num charges is always >= 1
+            facts.append(f"num_of_charges({arrest_num}, {num_charges})")
+
+            prologfile.writelines(".\n".join(facts) + ".\n")
 
 def main():
     crime_codes = extract_crime_codes()
