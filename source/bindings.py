@@ -264,7 +264,7 @@ def create_dataset() -> pd.DataFrame:
 def preprocess_crimes_dataset(extracted_crime_dataset: pd.DataFrame) -> pd.DataFrame:
     col_del = ['Block', 'IUCR',
                'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year',
-               'Updated On', 'Location', 'ID', 'Date']
+               'Updated On', 'Location', 'ID']
 
     col_ren = {'Date': 'Date_Crime'}
 
@@ -277,14 +277,17 @@ def preprocess_crimes_dataset(extracted_crime_dataset: pd.DataFrame) -> pd.DataF
     extracted_crime_dataset = extracted_crime_dataset.drop(extracted_crime_dataset.index[wrong_index], axis=0)
 
     # important: string values to lowercase
-    extracted_crime_dataset = string_lower_in_dataframe(extracted_crime_dataset)
+    extracted_crime_dataset = adjust_string_columns(extracted_crime_dataset, except_columns=["Date"])
 
     return extracted_crime_dataset
 
 
-def string_lower_in_dataframe(df: pd.DataFrame) -> pd.DataFrame:
+def adjust_string_columns(df: pd.DataFrame, except_columns=None) -> pd.DataFrame:
+    if except_columns is None:
+        except_columns = []
+
     for col_name, col_data in df.iteritems():
-        if pd.api.types.is_string_dtype(col_data):
+        if pd.api.types.is_string_dtype(col_data) and (col_name not in except_columns):
             df[col_name] = df[col_name].apply(lambda x: str(x).lower())
             df[col_name] = df[col_name].apply(lambda x: ''.join(['_' if not c.isalnum() else c for c in x]))
     return df
@@ -296,7 +299,7 @@ def preprocess_arrest_dataset(extracted_arrest_dataset: pd.DataFrame) -> pd.Data
     extracted_arrest_dataset.rename(columns=col_ren, inplace=True)
 
     # important: string values to lowercase
-    extracted_arrest_dataset = string_lower_in_dataframe(extracted_arrest_dataset)
+    extracted_arrest_dataset = adjust_string_columns(extracted_arrest_dataset, except_columns=["ARREST DATE"])
 
     return extracted_arrest_dataset
 
@@ -312,7 +315,7 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
     extracted_shoot_dataset = extracted_shoot_dataset.drop(col_del, axis=1)
 
     # important: string values to lowercase
-    extracted_shoot_dataset = string_lower_in_dataframe(extracted_shoot_dataset)
+    extracted_shoot_dataset = adjust_string_columns(extracted_shoot_dataset, except_columns=["DATE_SHOOT"])
 
     return extracted_shoot_dataset
 
