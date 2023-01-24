@@ -275,13 +275,25 @@ def preprocess_crimes_dataset(extracted_crime_dataset: pd.DataFrame) -> pd.DataF
     wrong_index = (extracted_crime_dataset["CASE_NUMBER"] == "JA329470") & (extracted_crime_dataset["Location Description"] == 'PORCH')
     extracted_crime_dataset = extracted_crime_dataset.drop(extracted_crime_dataset.index[wrong_index], axis=0)
 
+    # important: string values to lowercase
+    extracted_crime_dataset = string_lower_in_dataframe(extracted_crime_dataset)
+
     return extracted_crime_dataset
 
+
+def string_lower_in_dataframe(df: pd.DataFrame) -> pd.DataFrame:
+    for col_name, col_data in df.iteritems():
+        if pd.api.types.is_string_dtype(col_data):
+            df[col_name] = df[col_name].apply(lambda x: str(x).lower())
+    return df
 
 def preprocess_arrest_dataset(extracted_arrest_dataset: pd.DataFrame) -> pd.DataFrame:
     col_ren = {'RACE': 'criminal_race', 'CB_NO': 'ARREST_NUMBER'}
 
     extracted_arrest_dataset.rename(columns=col_ren, inplace=True)
+
+    # important: string values to lowercase
+    extracted_arrest_dataset = string_lower_in_dataframe(extracted_arrest_dataset)
 
     return extracted_arrest_dataset
 
@@ -296,7 +308,11 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
     extracted_shoot_dataset.rename(columns=col_ren, inplace=True)
     extracted_shoot_dataset = extracted_shoot_dataset.drop(col_del, axis=1)
 
+    # important: string values to lowercase
+    extracted_shoot_dataset = string_lower_in_dataframe(extracted_shoot_dataset)
+
     return extracted_shoot_dataset
+
 
 def create_prolog_kb():
     crimes_df = pd.read_csv(CLEAN_CRIME_PATH)
@@ -331,5 +347,5 @@ def main():
     # adjust_features()
 
 
-#main()
+main()
 create_prolog_kb()

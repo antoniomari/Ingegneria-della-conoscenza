@@ -5,6 +5,11 @@ import pytholog
 def create_kb():
 
     kb = pytholog.knowledge_base("facts.pl")
+
+    """kb(["same_district(C1, C2) :- district(C1, D), district(C2, D)",
+               "same_beat(C1, C2) :- beat(C1, B), beat(C2, B)",
+               "same_ward(C1, C2) :- ward(C1, W), ward(C2, W)",
+               "same_comm_area(C1, C2) :- comm_area(C1, COM), comm_area(C2, COM)"])"""
     """
     kb([
         "same_district(C1, C2) :- district(C1, D), district(C2, D)",
@@ -31,10 +36,10 @@ def use_pyswip():
     prolog = Prolog()
     prolog.consult("facts.pl")
 
-    clauses = ["same_district(C1, C2) :- district(C1, D), district(C2, D).",
+    """clauses = ["same_district(C1, C2) :- district(C1, D), district(C2, D).",
                "same_beat(C1, C2) :- beat(C1, B), beat(C2, B).",
                "same_ward(C1, C2) :- ward(C1, W), ward(C2, W).",
-               "same_comm_area(C1, C2) :- comm_area(C1, COM), comm_area(C2, COM)."]
+               "same_comm_area(C1, C2) :- comm_area(C1, COM), comm_area(C2, COM)."]"""
 
     # "has_arrest(C, A)", # fact for each copule (crime, arrest)
     # "is_domestic(C) :- location_description(C, apartment); location_description(C, house); "
@@ -49,11 +54,11 @@ def use_pyswip():
     # "num_of_dead(C, N) :- findall(V, (victim(V, C), victimization(V, HOMICIDE), L), count(L, N) "
 
 
-    for clause in clauses:
-        prolog.assertz(clause)
+    """for clause in clauses:
+        prolog.assertz(clause)"""
 
-    print(list(prolog.query("same_district(C1, 1.0).")))
+    #print(list(prolog.query("district(C1, 1.0).")))
 
 use_pyswip()
-# create_kb()
+#create_kb()
 
