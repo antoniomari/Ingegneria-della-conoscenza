@@ -1,6 +1,7 @@
 from pyswip import Prolog
 
-def create_kb():
+
+def create_kb() -> Prolog:
     prolog = Prolog()
 
     prolog.consult("facts.pl")
@@ -44,13 +45,23 @@ def create_kb():
     prolog.assertz("firearm_rate_of_zone(C, H) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
     prolog.assertz("street_organization(C, O) :- victimization(C, V, T), street_org(V, O)")
 
-    while True:
-        try:
-            str = input("Ask:: ")
-            obj = prolog.query(str)
-            obj = list(obj)
-            print(obj)
-        except:
-            pass
+    return prolog
 
-create_kb()
+
+# suppongo che ci sia già
+def calculate_features(kb, crime_id) -> dict:
+    features_dict = {}
+    # num of crimes in district
+
+    features_dict["NUM_CRIMES_DISTRICT"] = list(kb.query(f"num_of_crimes_in_district({crime_id}, N)"))[0]["N"]
+    features_dict["NUM_CRIMES_BEAT"] = list(kb.query(f"num_of_crimes_in_beat({crime_id}, N)"))[0]["N"]
+    features_dict["NUM_CRIMES_COMM_AREA"] = list(kb.query(f"num_of_crimes_community_area({crime_id}, N)"))[0]["N"]
+    features_dict["NUM_CRIMES_WARD"] = list(kb.query(f"num_of_crimes_ward({crime_id}, N)"))[0]["N"]
+
+    return features_dict
+
+
+kb = create_kb()
+for crime_id in ["hs227745", "hs335199", "hs440368"]:
+    print(calculate_features(kb, crime_id))
+
