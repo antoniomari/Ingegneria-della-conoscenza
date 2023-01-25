@@ -356,7 +356,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
     else:
         action = lambda fact_list: assert_all(fact_list, kb)
 
-
+    action([":-style_check(-discontiguous)"])
 
     # insert data for crimes
     for index, row in crimes_df.iterrows():
@@ -432,7 +432,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
 
 def assert_all(facts, kb):
     for fact in facts:
-        kb.assertz(fact)
+        kb.asserta(fact)
 
 
 def assert_all_in_file(facts, kb_file):

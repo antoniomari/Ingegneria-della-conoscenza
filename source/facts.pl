@@ -1,3 +1,4 @@
+:-style_check(-discontiguous).
 location_description(hs227745, house).
 beat(hs227745,532).
 district(hs227745,5.0).
