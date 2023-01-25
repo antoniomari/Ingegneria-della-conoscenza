@@ -367,7 +367,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
                  f"comm_area({case_num},{row['Community Area']})",
                  f"ward({case_num},{row['Ward']})",
                  f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})",
-                 f"block({case_num}, {row['Block']})"]
+                 f"block({case_num}, {'block_' + row['Block']})"]  # due to initial number
 
         action(facts)
 

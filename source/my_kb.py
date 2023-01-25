@@ -44,14 +44,13 @@ def create_kb():
     prolog.assertz("firearm_rate_of_zone(C, H) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
     prolog.assertz("street_organization(C, O) :- victimization(C, V, T), street_org(V, O)")
 
-    obj = prolog.query("night_crime(X)")
-
-    print(type(obj))
-
-    for x in obj:
-        print(x)
-
-
-def prepare_dataset_using_kb():
+    while True:
+        try:
+            str = input("Ask:: ")
+            obj = prolog.query(str)
+            for x in obj:
+                print(x)
+        except:
+            pass
 
 create_kb()
