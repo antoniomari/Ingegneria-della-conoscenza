@@ -377,6 +377,7 @@ def create_prolog_kb():
             prologfile.writelines(".\n".join(facts) + ".\n")
 
         # insert data for shoot
+        # Add info about gunshot injury
         """
         for index, row in shoot_df.iterrows():
             victim_code = row['VICTIM_CODE']
