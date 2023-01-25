@@ -48,8 +48,8 @@ def create_kb():
         try:
             str = input("Ask:: ")
             obj = prolog.query(str)
-            for x in obj:
-                print(x)
+            obj = list(obj)
+            print(obj)
         except:
             pass
 
