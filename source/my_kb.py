@@ -13,7 +13,6 @@ def create_kb():
 
     prolog.assertz("criminal_arrested(C, P) :- has_arrest(C, A), arrested(A, P)")
     prolog.assertz("is_ratial(C) :- criminal_arrested(C, P), victim(C, V), neq(race(V), race(P))")
-    prolog.assertz("victimization(C, V, T)")
     prolog.assertz("same_zipcode(V1, V2) :- zip_code(V1, Z), zip_code(V2, Z)")
     prolog.assertz("crime_zip_code(C, Z) :- victimization(C, V, T), zip_code(V, Z)")
 
@@ -43,6 +42,7 @@ def create_kb():
     prolog.assertz("unemployment_of_zone(C, U) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
     prolog.assertz("homicide_rate_of_zone(C, H) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
     prolog.assertz("firearm_rate_of_zone(C, H) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
+    prolog.assertz("street_organization(C, O) :- victimization(C, V, T), street_org(V, O)")
 
     obj = prolog.query("night_crime(X)")
 
