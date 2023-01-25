@@ -51,4 +51,7 @@ def create_kb():
     for x in obj:
         print(x)
 
+
+def prepare_dataset_using_kb():
+
 create_kb()
