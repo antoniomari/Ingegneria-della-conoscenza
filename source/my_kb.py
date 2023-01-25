@@ -21,6 +21,7 @@ def create_kb() -> Prolog:
     prolog.assertz("num_of_crimes_ward(C, N) :- findall(C1, same_ward(C, C1), L), length(L, N)")
     prolog.assertz("num_of_crimes_block(C, N) :- findall(C1, same_block(C, C1), L), length(L, N)")
 
+    # CLAUSES ABOUT GEO-DATA coming from
     prolog.assertz("crime_zip_code(C, Z) :- victimization(C, V, T), zip_code(V, Z)")
     prolog.assertz("same_zip_code(C1, C2) :- crime_zip_code(C1, Z), crime_zip_code(C2, Z)")
     prolog.assertz("num_of_crimes_in_zip_code(C, N) :- findall(C1, same_zip_code(C, C1), L), length(L, N)")
@@ -54,6 +55,10 @@ def create_kb() -> Prolog:
 
     prolog.assertz("crime_by_group(C) :- num_of_arrest(C, N), N >= 2")
     prolog.assertz("street_organization(C, O) :- victimization(C, V, T), street_org(V, O)")
+    prolog.assertz("same_street_organization(C1, C2) :- street_organization(C1, O), street_organization(C2, O)")
+    # TODO: controllare il seguente
+    prolog.assertz("num_of_crimes_street_organization(C, N) :- "
+                   "findall(C1, same_street_organization(C, C1), L), length(L, N)")
 
     return prolog
 
@@ -77,6 +82,17 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["AREA_HIGH_SCHOOL_DIPLOMA"] = list(kb.query(f"crime_area_hs_diploma({crime_id}, N)"))[0]["N"]
     features_dict["AREA_UNEMPLOYMENT"] = list(kb.query(f"crime_area_unemployment({crime_id}, N)"))[0]["N"]
     features_dict["AREA_BIRTH_RATE"] = list(kb.query(f"crime_area_birth_rate({crime_id}, N)"))[0]["N"]
+
+    features_dict["NUM_OF_DEAD"] = list(kb.query(f"num_of_dead({crime_id}, N)"))[0]["N"]
+    features_dict["NUM_OF_ARREST"] = list(kb.query(f"num_of_arrest({crime_id}, N)"))[0]["N"]
+    features_dict["NUM_OF_VICTIMS"] = list(kb.query(f"num_of_victims({crime_id}, N)"))[0]["N"]
+
+    features_dict["IS_DOMESTIC"] = len(list(kb.query(f"is_domestic({crime_id})")))
+    features_dict["NIGHT_CRIME"] = len(list(kb.query(f"night_crime({crime_id})")))
+    features_dict["IS_KILLED_A_CHILD"] = len(list(kb.query(f"is_killed_a_child({crime_id})")))
+    features_dict["MULTIPLE_ARRESTS"] = len(list(kb.query(f"crime_by_group({crime_id})")))
+    features_dict["STREET_ORGANIZATION"] = len(list(kb.query(f"street_organization({crime_id}, O)")))
+
     return features_dict
 
 
