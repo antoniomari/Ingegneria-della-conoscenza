@@ -264,9 +264,8 @@ def create_dataset() -> pd.DataFrame:
 
 
 def preprocess_crimes_dataset(extracted_crime_dataset: pd.DataFrame) -> pd.DataFrame:
-    col_del = ['Block', 'IUCR',
-               'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year',
-               'Updated On', 'Location', 'ID']
+    col_del = ['IUCR', 'Primary Type', 'Description', 'Arrest', 'FBI Code', 'X Coordinate',
+               'Y Coordinate', 'Year', 'Updated On', 'Location', 'ID']
 
     col_ren = {'Date': 'Date_Crime'}
 
@@ -316,7 +315,7 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
     col_del = ['INCIDENT_IUCR_CD', 'VICTIMIZATION_IUCR_CD', 'UNIQUE_ID', 'COMMUNITY_AREA', 'VICTIMIZATION_FBI_DESCR',
                'INCIDENT_FBI_DESCR', 'VICTIMIZATION_FBI_CD', 'INCIDENT_FBI_CD', 'VICTIMIZATION_IUCR_SECONDARY',
                'INCIDENT_IUCR_SECONDARY', 'UPDATED', 'LATITUDE', 'LONGITUDE', 'LOCATION', 'WARD',
-               'DISTRICT', 'BEAT', 'MONTH', 'HOUR', 'LOCATION_DESCRIPTION']
+               'DISTRICT', 'BEAT', 'MONTH', 'HOUR', 'LOCATION_DESCRIPTION', 'BLOCK']
 
     col_ren = {'DATE': 'DATE_SHOOT', 'RACE': 'victim_race', 'VICTIMIZATION_PRIMARY': 'VICTIMIZATION',
                'INCIDENT_PRIMARY': 'INCIDENT', 'GUNSHOT_INJURY_I': 'GUNSHOT'}
@@ -328,6 +327,11 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
                    "60-69": 65, "70-79": 75, "80+": 80, "Unknown": None}
     # age to middle age
     extracted_shoot_dataset["AGE"] = extracted_shoot_dataset["AGE"].map(age_mapping)
+
+    # map gunshot to boolean
+    # mapping gunshot injury to boolean values
+    gunshot_injury_mapping = {"NO": 0, "YES": 1}
+    extracted_shoot_dataset["GUNSHOT"] = extracted_shoot_dataset["GUNSHOT"].map(gunshot_injury_mapping)
 
     # important: string values to lowercase
     extracted_shoot_dataset = adjust_string_columns(extracted_shoot_dataset, except_columns=["DATE_SHOOT"])
@@ -353,7 +357,8 @@ def create_prolog_kb():
                      f"district({case_num},{row['District']})",
                      f"comm_area({case_num},{row['Community Area']})",
                      f"ward({case_num},{row['Ward']})",
-                     f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})"]
+                     f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})",
+                     f"block({case_num}, {row['Block']})"]
 
             prologfile.writelines(".\n".join(facts) + ".\n")
 
@@ -378,12 +383,26 @@ def create_prolog_kb():
 
         # insert data for shoot
         # Add info about gunshot injury
-        """
+
         for index, row in shoot_df.iterrows():
             victim_code = row['VICTIM_CODE']
             facts = [f"victimization({row['CASE_NUMBER']}, {victim_code}, {row['VICTIMIZATION']})",
-                     f"arrest_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
-                     f"criminal_race({arrest_num},{row['criminal_race']})"]"""
+                     f"date_shoot({victim_code}, {datetime_to_prolog_fact(row['DATE_SHOOT'])})",
+                     f"victim_race({victim_code},{row['victim_race']})",
+                     f"incident({victim_code}, {row['INCIDENT']})",
+                     f"zip_code({victim_code}, {row['ZIP_CODE']}",
+                     f"victim_age({victim_code}, {row['AGE']})",
+                     f"victim_sex({victim_code}, {row['SEX']})",
+                     f"victim_day_of_week({victim_code}, {row['DAY_OF_WEEK']})",
+                     f"state_house_district({victim_code}, {row['STATE_HOUSE_DISTRICT']})",
+                     f"state_house_district({victim_code}, {row['STATE_SENATE_DISTRICT']})"]
+
+            # street outrieach
+            if row['STREET_OUTREACH_ORGANIZATION'] != 'none':
+                facts.append(f"street_org({victim_code}, {row['STREET_OUTREACH_ORGANIZATION']})")
+
+            prologfile.writelines(".\n".join(facts) + ".\n")
+
 
 
 def datetime_to_prolog_fact(datetime_str: str) -> str:
