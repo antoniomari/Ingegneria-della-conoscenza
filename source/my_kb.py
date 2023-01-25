@@ -37,6 +37,12 @@ def create_kb():
         print(x)
 
 
-def prepare_dataset_using_kb():
+# suppongo che ci sia già
+def calculate_features(crime_id) -> dict:
+
+    # num of crimes in district
+    
+
+
 
 create_kb()
