@@ -93,6 +93,8 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["MULTIPLE_ARRESTS"] = len(list(kb.query(f"crime_by_group({crime_id})")))
     features_dict["STREET_ORGANIZATION"] = len(list(kb.query(f"street_organization({crime_id}, O)")))
 
+    print(list(kb.query(f"street_organization({crime_id}, O)")))
+
     return features_dict
 
 
