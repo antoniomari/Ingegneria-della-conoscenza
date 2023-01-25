@@ -22,8 +22,8 @@ def create_kb() -> Prolog:
     prolog.assertz("num_of_crimes_block(C, N) :- findall(C1, same_block(C, C1), L), length(L, N)")
 
     prolog.assertz("crime_zip_code(C, Z) :- victimization(C, V, T), zip_code(V, Z)")
-    prolog.assertz("same_zip_code(V1, V2) :- zip_code(V1, Z), zip_code(V2, Z)")
-    prolog.assertz("num_of_crimes_in_zip_code(C, N) :- findall(C1, same_zipcode(C, C1), L), length(L, N)")
+    prolog.assertz("same_zip_code(C1, C2) :- crime_zip_code(C1, Z), crime_zip_code(C2, Z)")
+    prolog.assertz("num_of_crimes_in_zip_code(C, N) :- findall(C1, same_zip_code(C, C1), L), length(L, N)")
 
     prolog.assertz("criminal_arrested(C, P) :- has_arrest(C, A), arrested(A, P)")
     prolog.assertz("is_ratial(C) :- criminal_arrested(C, P), victim(C, V), "
@@ -90,5 +90,3 @@ print(pd.read_csv("crimes_selected.csv")["CASE_NUMBER"])
 
 end = time.time()
 print("Time: ", end-start)
-
-
