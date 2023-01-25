@@ -341,7 +341,7 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
 
     return extracted_shoot_dataset
 
-
+# Create new proto: create_prolog_kb(PATH1, PATH2,...)
 def create_prolog_kb():
     crimes_df = pd.read_csv(CLEAN_CRIME_PATH)
     arrest_df = pd.read_csv(CLEAN_ARREST_PATH)
