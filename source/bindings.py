@@ -1,6 +1,7 @@
 from datetime import datetime
 
 import numpy as np
+import pyswip
 import rdflib
 import pandas as pd
 from rdflib.plugins.sparql import prepareQuery
@@ -42,6 +43,7 @@ print(f"Intersezione: {len(result)}")
 SHOOT_DATASET_PATH = "../old_dataset/shoot.csv"
 CRIME_DATASET_PATHS = ["../old_dataset/" + str(i) + ".csv" for i in range(2010, 2023)]
 ARRESTS_DATASET_PATHS = ["../old_dataset/arrests_1.csv", "../old_dataset/arrests_2.csv"]
+HEALTH_DATASET_PATH = "../old_dataset/health.csv"
 
 CLEAN_CRIME_PATH = "crimes_selected.csv"
 CLEAN_SHOOT_PATH = "shoot_selected.csv"
@@ -342,66 +344,107 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
     return extracted_shoot_dataset
 
 
+def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
+                    shoot_df: pd.DataFrame, health_df: pd.DataFrame,
+                    kb=None):
+
+    prolog_file = None
+
+    if kb is None:
+        prolog_file = open("facts.pl", "w")
+        action = lambda fact_list: assert_all_in_file(fact_list, prolog_file)
+    else:
+        action = lambda fact_list: assert_all(fact_list, kb)
+
+
+
+    # insert data for crimes
+    for index, row in crimes_df.iterrows():
+        case_num = row['CASE_NUMBER']
+        facts = [f"location_description({case_num}, {row['Location Description']})",
+                 f"beat({case_num},{row['Beat']})",
+                 f"district({case_num},{row['District']})",
+                 f"comm_area({case_num},{row['Community Area']})",
+                 f"ward({case_num},{row['Ward']})",
+                 f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})",
+                 f"block({case_num}, {row['Block']})"]
+
+        action(facts)
+
+    # insert data for arrests
+    for index, row in arrest_df.iterrows():
+        arrest_num = row['ARREST_NUMBER']
+        facts = [f"has_arrest({row['CASE_NUMBER']}, {arrest_num})",
+                 f"arrest_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
+                 f"criminal_race({arrest_num},{row['criminal_race']})"]
+
+        num_charges = 0
+        for i in range(1, 5):
+            if row[f"CHARGE {i} STATUTE"] != np.nan:
+                print(row[f"CHARGE {i} STATUTE"])
+                num_charges += 1
+            else:
+                break
+        # note: num charges is always >= 1
+        facts.append(f"num_of_charges({arrest_num}, {num_charges})")
+
+        action(facts)
+
+    # insert data for shoot
+    # Add info about gunshot injury
+
+    for index, row in shoot_df.iterrows():
+        victim_code = row['VICTIM_CODE']
+        facts = [f"victimization({row['CASE_NUMBER']}, {victim_code}, {row['VICTIMIZATION']})",
+                 f"date_shoot({victim_code}, {datetime_to_prolog_fact(row['DATE_SHOOT'])})",
+                 f"victim_race({victim_code},{row['victim_race']})",
+                 f"incident({victim_code}, {row['INCIDENT']})",
+                 f"zip_code({victim_code}, {row['ZIP_CODE']})",
+                 f"victim_age({victim_code}, {row['AGE']})",
+                 f"victim_sex({victim_code}, {row['SEX']})",
+                 f"victim_day_of_week({victim_code}, {row['DAY_OF_WEEK']})",
+                 f"state_house_district({victim_code}, {row['STATE_HOUSE_DISTRICT']})",
+                 f"state_house_district({victim_code}, {row['STATE_SENATE_DISTRICT']})"]
+
+        # street outreach
+        if row['STREET_OUTREACH_ORGANIZATION'] != 'none':
+            facts.append(f"street_org({victim_code}, {row['STREET_OUTREACH_ORGANIZATION']})")
+
+        action(facts)
+
+    # insert data for health
+
+    for index, row in health_df.iterrows():
+        comm_area_code = float(row["Community Area"])
+        facts = [f"comm_birth_rate({comm_area_code}, {row['Birth Rate']})",
+                 f"comm_assault_homicide({comm_area_code}, {row['Assault (Homicide)']})",
+                 f"comm_firearm({comm_area_code}, {row['Firearm-related']})",
+                 f"comm_poverty_level({comm_area_code}, {row['Below Poverty Level']})",
+                 f"comm_hs_diploma({comm_area_code}, {row['No High School Diploma']})",
+                 f"comm_income({comm_area_code}, {row['Per Capita Income']})",
+                 f"comm_unemployment({comm_area_code}, {row['Unemployment']})"]
+
+        action(facts)
+
+    if kb is not None:
+        prolog_file.close()
+
+
+def assert_all(facts, kb):
+    for fact in facts:
+        kb.assertz(fact)
+
+
+def assert_all_in_file(facts, kb_file):
+    kb_file.writelines(".\n".join(facts) + ".\n")
+
 def create_prolog_kb():
     crimes_df = pd.read_csv(CLEAN_CRIME_PATH)
     arrest_df = pd.read_csv(CLEAN_ARREST_PATH)
     shoot_df = pd.read_csv(CLEAN_SHOOT_PATH)
+    health_df = pd.read_csv(HEALTH_DATASET_PATH)
 
-    with open("facts.pl", "w") as prologfile:
-
-        # insert data for crimes
-        for index, row in crimes_df.iterrows():
-            case_num = row['CASE_NUMBER']
-            facts = [f"location_description({case_num}, {row['Location Description']})",
-                     f"beat({case_num},{row['Beat']})",
-                     f"district({case_num},{row['District']})",
-                     f"comm_area({case_num},{row['Community Area']})",
-                     f"ward({case_num},{row['Ward']})",
-                     f"crime_date({case_num}, {datetime_to_prolog_fact(row['Date'])})",
-                     f"block({case_num}, {row['Block']})"]
-
-            prologfile.writelines(".\n".join(facts) + ".\n")
-
-        # insert data for arrests
-        for index, row in arrest_df.iterrows():
-            arrest_num = row['ARREST_NUMBER']
-            facts = [f"has_arrest({row['CASE_NUMBER']}, {arrest_num})",
-                     f"arrest_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
-                     f"criminal_race({arrest_num},{row['criminal_race']})"]
-
-            num_charges = 0
-            for i in range(1, 5):
-                if row[f"CHARGE {i} STATUTE"] != np.nan:
-                    print(row[f"CHARGE {i} STATUTE"])
-                    num_charges += 1
-                else:
-                    break
-            # note: num charges is always >= 1
-            facts.append(f"num_of_charges({arrest_num}, {num_charges})")
-
-            prologfile.writelines(".\n".join(facts) + ".\n")
-
-        # insert data for shoot
-        # Add info about gunshot injury
-
-        for index, row in shoot_df.iterrows():
-            victim_code = row['VICTIM_CODE']
-            facts = [f"victimization({row['CASE_NUMBER']}, {victim_code}, {row['VICTIMIZATION']})",
-                     f"date_shoot({victim_code}, {datetime_to_prolog_fact(row['DATE_SHOOT'])})",
-                     f"victim_race({victim_code},{row['victim_race']})",
-                     f"incident({victim_code}, {row['INCIDENT']})",
-                     f"zip_code({victim_code}, {row['ZIP_CODE']}",
-                     f"victim_age({victim_code}, {row['AGE']})",
-                     f"victim_sex({victim_code}, {row['SEX']})",
-                     f"victim_day_of_week({victim_code}, {row['DAY_OF_WEEK']})",
-                     f"state_house_district({victim_code}, {row['STATE_HOUSE_DISTRICT']})",
-                     f"state_house_district({victim_code}, {row['STATE_SENATE_DISTRICT']})"]
-
-            # street outrieach
-            if row['STREET_OUTREACH_ORGANIZATION'] != 'none':
-                facts.append(f"street_org({victim_code}, {row['STREET_OUTREACH_ORGANIZATION']})")
-
-            prologfile.writelines(".\n".join(facts) + ".\n")
+    load_data_in_kb(crimes_df=crimes_df, arrest_df=arrest_df, shoot_df=shoot_df, health_df=health_df)
 
 
 
@@ -427,5 +470,5 @@ def main():
     # adjust_features()
 
 
-main()
+#main()
 create_prolog_kb()
