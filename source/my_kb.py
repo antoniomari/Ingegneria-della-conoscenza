@@ -44,7 +44,7 @@ def create_kb() -> Prolog:
     prolog.assertz("is_homicide(C) :- victimization(C, V, homicide)")
     prolog.assertz("is_killed(V) :- victimization(C, V, homicide)")
     prolog.assertz("is_domestic(C) :- location_description(C, apartment); location_description(C, house); "
-                   "local_description(C, residence); local_description(C, driveway)")
+                   "location_description(C, residence); location_description(C, driveway)")
     prolog.assertz("night_crime(C) :- crime_date(C, datime(date(Y, M, D, H, M, S))), ((H >= 20; H =< 6))")
     prolog.assertz("crime_data_arrest(C, D) :- has_arrest(C, A), arrest_data(A, D)")
     prolog.assertz("immediate_arrest(C) :- crime_data(C, D), crime_data_arrest(C, D)") # or choose an error of date
