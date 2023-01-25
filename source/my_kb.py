@@ -21,13 +21,21 @@ def create_kb() -> Prolog:
     prolog.assertz("num_of_crimes_ward(C, N) :- findall(C1, same_ward(C, C1), L), length(L, N)")
     prolog.assertz("num_of_crimes_block(C, N) :- findall(C1, same_block(C, C1), L), length(L, N)")
 
+    prolog.assertz("crime_zip_code(C, Z) :- victimization(C, V, T), zip_code(V, Z)")
+    prolog.assertz("same_zip_code(V1, V2) :- zip_code(V1, Z), zip_code(V2, Z)")
+    prolog.assertz("num_of_crimes_in_zip_code(C, N) :- findall(C1, same_zipcode(C, C1), L), length(L, N)")
+
     prolog.assertz("criminal_arrested(C, P) :- has_arrest(C, A), arrested(A, P)")
     prolog.assertz("is_ratial(C) :- criminal_arrested(C, P), victim(C, V), "
                    "neq(victim_race(V, VR), criminal_race(P, PR))")
-    prolog.assertz("same_zipcode(V1, V2) :- zip_code(V1, Z), zip_code(V2, Z)")
-    prolog.assertz("crime_zip_code(C, Z) :- victimization(C, V, T), zip_code(V, Z)")
 
-    prolog.assertz("income_area(C, I) :- comm_area(C, COM), income(COM, I)")
+    prolog.assertz("crime_area_income(C, I) :- comm_area(C, COM), comm_income(COM, I)")
+    prolog.assertz("crime_area_assault_homicide(C, I) :- comm_area(C, COM), comm_assault_homicide(COM, I)")
+    prolog.assertz("crime_area_firearm(C, I) :- comm_area(C, COM), comm_firearm(COM, I)")
+    prolog.assertz("crime_area_poverty_level(C, I) :- comm_area(C, COM), comm_poverty_level(COM, I)")
+    prolog.assertz("crime_area_hs_diploma(C, I) :- comm_area(C, COM), comm_hs_diploma(COM, I)")
+    prolog.assertz("crime_area_unemployment(C, I) :- comm_area(C, COM), comm_unemployment(COM, I)")
+    prolog.assertz("crime_area_birth_rate(C, I) :- comm_area(C, COM), comm_birth_rate(COM, I)")
 
     prolog.assertz("num_of_victims(C, N) :- findall(V, victimization(C, V, T), L), length(L, N)")
 
@@ -45,11 +53,6 @@ def create_kb() -> Prolog:
     prolog.assertz("is_killed_a_child(C) :- is_there_a_child(C, homicide)")
 
     prolog.assertz("crime_by_group(C) :- num_of_arrest(C, N), N >= 2")
-    prolog.assertz("poverty_of_zone(C, P) :- comm_area(C, COMM), comm_poverty_level(COMM, P)")
-    prolog.assertz("instruction_of_zone(C, I) :- comm_area(C, COMM), comm_hs_diploma(COMM, I)")
-    prolog.assertz("unemployment_of_zone(C, U) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
-    prolog.assertz("homicide_rate_of_zone(C, H) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
-    prolog.assertz("firearm_rate_of_zone(C, H) :- comm_area(C, COMM), comm_unemployment(COMM, U)")
     prolog.assertz("street_organization(C, O) :- victimization(C, V, T), street_org(V, O)")
 
     return prolog
@@ -65,6 +68,15 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["NUM_CRIMES_COMM_AREA"] = list(kb.query(f"num_of_crimes_community_area({crime_id}, N)"))[0]["N"]
     features_dict["NUM_CRIMES_WARD"] = list(kb.query(f"num_of_crimes_ward({crime_id}, N)"))[0]["N"]
     features_dict["NUM_CRIMES_BLOCK"] = list(kb.query(f"num_of_crimes_block({crime_id}, N)"))[0]["N"]
+    features_dict["NUM_CRIMES_ZIP_CODE"] = list(kb.query(f"num_of_crimes_in_zip_code({crime_id}, N)"))[0]["N"]
+
+    features_dict["AREA_INCOME"] = list(kb.query(f"crime_area_income({crime_id}, N)"))[0]["N"]
+    features_dict["AREA_ASSAULT_HOMICIDE"] = list(kb.query(f"crime_area_assault_homicide({crime_id}, N)"))[0]["N"]
+    features_dict["AREA_FIREARM"] = list(kb.query(f"crime_area_firearm({crime_id}, N)"))[0]["N"]
+    features_dict["AREA_POVERTY_HEALTH"] = list(kb.query(f"crime_area_poverty_level({crime_id}, N)"))[0]["N"]
+    features_dict["AREA_HIGH_SCHOOL_DIPLOMA"] = list(kb.query(f"crime_area_hs_diploma({crime_id}, N)"))[0]["N"]
+    features_dict["AREA_UNEMPLOYMENT"] = list(kb.query(f"crime_area_unemployment({crime_id}, N)"))[0]["N"]
+    features_dict["AREA_BIRTH_RATE"] = list(kb.query(f"crime_area_birth_rate({crime_id}, N)"))[0]["N"]
     return features_dict
 
 
