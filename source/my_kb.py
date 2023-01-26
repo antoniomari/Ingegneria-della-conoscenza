@@ -79,6 +79,7 @@ def create_kb() -> Prolog:
 
     return prolog
 
+
 # suppongo che ci sia già
 def calculate_features(kb, crime_id) -> dict:
     features_dict = {}
@@ -105,12 +106,12 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["NUM_OF_ARREST"] = list(kb.query(f"num_of_arrest({crime_id}, N)"))[0]["N"]
     features_dict["NUM_OF_VICTIMS"] = list(kb.query(f"num_of_victims({crime_id}, N)"))[0]["N"]
 
-    features_dict["IS_DOMESTIC"] = len(list(kb.query(f"is_domestic({crime_id})")))
-    features_dict["NIGHT_CRIME"] = len(list(kb.query(f"night_crime({crime_id})")))
-    features_dict["IS_KILLED_A_CHILD"] = len(list(kb.query(f"is_killed_a_child({crime_id})")))
-    features_dict["MULTIPLE_ARRESTS"] = len(list(kb.query(f"crime_by_group({crime_id})")))
-    features_dict["HAS_STREET_ORGANIZATION"] = len(list(kb.query(f"has_street_organization({crime_id})")))
-    features_dict["IS_RATIAL"] = len(list(kb.query(f"is_ratial({crime_id})")))
+    features_dict["IS_DOMESTIC"] = query_boolean_result(kb, f"is_domestic({crime_id})")
+    features_dict["NIGHT_CRIME"] = query_boolean_result(kb, f"night_crime({crime_id})")
+    features_dict["IS_KILLED_A_CHILD"] = query_boolean_result(kb, f"is_killed_a_child({crime_id})")
+    features_dict["MULTIPLE_ARRESTS"] = query_boolean_result(kb, f"crime_by_group({crime_id})")
+    features_dict["HAS_STREET_ORGANIZATION"] = query_boolean_result(kb, f"has_street_organization({crime_id})")
+    features_dict["IS_RATIAL"] = query_boolean_result(kb, f"is_ratial({crime_id})")
 
     arrested_race = list(kb.query(f"crimes_arrested_same_race({crime_id}, PR)"))
     features_dict["ARRESTED_RACE"] = arrested_race[0]['PR'] if len(arrested_race) == 1 else "mixed"
@@ -123,10 +124,14 @@ def calculate_features(kb, crime_id) -> dict:
 
     features_dict["AVG_NUM_CHARGES"] = list(kb.query(f"avg_num_charge({crime_id}, Avg)"))[0]['Avg']
 
-    features_dict["IMMEDIATE_ARREST"] = len(list(kb.query(f"immediate_arrest({crime_id})")))
-    features_dict["IS_HOMICIDE"] = len(list(kb.query(f"is_homicide({crime_id})")))
+    features_dict["IMMEDIATE_ARREST"] = query_boolean_result(kb, f"immediate_arrest({crime_id})")
+    features_dict["IS_HOMICIDE"] = query_boolean_result(kb, f"is_homicide({crime_id})")
 
     return features_dict
+
+
+def query_boolean_result(kb, query_str: str):
+    return min(len(list(kb.query(query_str))), 1)
 
 start = time.time()
 
