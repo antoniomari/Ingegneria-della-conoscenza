@@ -14,7 +14,6 @@ def create_embedding():
     df = pd.read_csv("shoot_selected.csv")
     names = df[df["VICTIMIZATION"] == 'homicide'] [['HOMICIDE_VICTIM_FIRST_NAME', 'HOMICIDE_VICTIM_LAST_NAME']]
     articles = [['this', 'is', 'my', 'test'], ['please', 'another'], ['look', 'here'], ['hello', 'to', 'everyone'], ['satantango', 'by', 'Bela', 'Tarr'], ['']]
-    print(names[names['HOMICIDE_VICTIM_FIRST_NAME'] == 'nan'])
 
     for index, row in names.iterrows():
         try:
