@@ -29,6 +29,13 @@ def create_kb() -> Prolog:
     prolog.assertz("is_ratial(C) :- has_arrest(C, P), victimization(C, V, T), "
                    "victim_race(V, VR), criminal_race(P, PR), dif(VR, PR)")
 
+    prolog.assertz("crime_victim_race(C, VR) :- victimization(C, V, T), victim_race(V, VR) ")
+    # use this
+    prolog.assertz("crimes_victim_same_race(C, VR) :- findall(VR, crime_victim_race(C, VR), L), length(L, 1)")
+    prolog.assertz("crime_arrested_race(C, PR) :- has_arrest(C, P), criminal_race(P, PR) ")
+    # use this
+    prolog.assertz("crimes_arrested_same_race(C, PR) :- findall(PR, crime_arrested_race(C, PR), L), length(L, 1)")
+
     prolog.assertz("crime_area_income(C, I) :- comm_area(C, COM), comm_income(COM, I)")
     prolog.assertz("crime_area_assault_homicide(C, I) :- comm_area(C, COM), comm_assault_homicide(COM, I)")
     prolog.assertz("crime_area_firearm(C, I) :- comm_area(C, COM), comm_firearm(COM, I)")
@@ -47,8 +54,13 @@ def create_kb() -> Prolog:
                    "location_description(C, residence); location_description(C, driveway)")
     prolog.assertz("night_crime(C) :- crime_date(C, datime(date(Y, M, D, H, M, S))), ((H >= 20; H =< 6))")
     prolog.assertz("crime_date_arrest(C, D) :- has_arrest(C, A), arrest_date(A, D)")
-    prolog.assertz("immediate_arrest(C) :- crime_date(C, D), crime_date_arrest(C, D)") # or choose an error of date
-    # Add victime_age fact, i.e victim_age(crime, victim)
+    prolog.assertz("immediate_arrest(C) :- crime_date(C, D), crime_date_arrest(C, D)")  # or choose an error of date
+
+    # Add victim_age fact, i.e victim_age(crime, victim)
+    prolog.assertz("aver_age(C, Avg) :- findall(A, (victimization(C, V, T), victim_age(V, A)), L), "
+                   "sumlist(L, Sum), length(L, Length), Length > 0, Avg is Sum / Length")
+    # Add victim_sex
+    prolog.assertz("crime_victim_sex(C, S) :- findall(S, (victimization(C, V, T), victim_sex(V, S)), L), length(L, 1)")
     prolog.assertz("is_there_a_child(C, T) :- victimization(C, V, T), victim_age(V, A), A =< 15")
     prolog.assertz("is_killed_a_child(C) :- is_there_a_child(C, homicide)")
 
@@ -59,11 +71,6 @@ def create_kb() -> Prolog:
     # TODO: controllare il seguente
     prolog.assertz("num_of_crimes_street_organization(C, N) :- "
                    "findall(C1, same_street_organization(C, C1), L), length(L, N)")
-
-    while True:
-        str = input("Query: ")
-        print(list(prolog.query(str)))
-        pass
 
     return prolog
 
@@ -97,6 +104,16 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["IS_KILLED_A_CHILD"] = len(list(kb.query(f"is_killed_a_child({crime_id})")))
     features_dict["MULTIPLE_ARRESTS"] = len(list(kb.query(f"crime_by_group({crime_id})")))
     features_dict["HAS_STREET_ORGANIZATION"] = len(list(kb.query(f"has_street_organization({crime_id})")))
+    features_dict["IS_RATIAL"] = len(list(kb.query(f"is_ratial({crime_id})")))
+
+    arrested_race = list(kb.query(f"crimes_arrested_same_race({crime_id}, PR)"))
+    features_dict["ARRESTED_RACE"] = arrested_race[0]['PR'] if len(arrested_race) == 1 else "mixed"
+
+    victim_race = list(kb.query(f"crimes_victim_same_race({crime_id}, VR)"))
+    features_dict["VICTIM_RACE"] = victim_race[0]['VR'] if len(victim_race) == 1 else "mixed"
+
+    # aver_age = list(kb.query(f"aver_age(C({crime_id}, Avg)"))
+    # features_dict["AVER_AGE"] = [0]['Avg']
 
     return features_dict
 
@@ -110,3 +127,5 @@ print(pd.read_csv("crimes_selected.csv")["CASE_NUMBER"])
 
 end = time.time()
 print("Time: ", end-start)
+
+print(list(kb.query("crime_by_group(C)")))

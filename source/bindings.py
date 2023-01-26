@@ -400,7 +400,6 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
                  f"victim_race({victim_code},{row['victim_race']})",
                  f"incident({victim_code}, {row['INCIDENT']})",
                  f"zip_code({victim_code}, {row['ZIP_CODE']})",
-                 f"victim_age({victim_code}, {row['AGE']})",
                  f"victim_sex({victim_code}, {row['SEX']})",
                  f"victim_day_of_week({victim_code}, {row['DAY_OF_WEEK']})",
                  f"state_house_district({victim_code}, {row['STATE_HOUSE_DISTRICT']})",
@@ -409,6 +408,9 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
         # street outreach
         if row['STREET_OUTREACH_ORGANIZATION'] != 'none':
             facts.append(f"street_org({victim_code}, {row['STREET_OUTREACH_ORGANIZATION']})")
+
+        if row['AGE'] is not None:
+            facts.append(f"victim_age({victim_code}, {row['AGE']})")
 
         action(facts)
 
