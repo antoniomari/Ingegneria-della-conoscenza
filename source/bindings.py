@@ -336,7 +336,9 @@ def preprocess_shoot_dataset(extracted_shoot_dataset: pd.DataFrame) -> pd.DataFr
     extracted_shoot_dataset["GUNSHOT"] = extracted_shoot_dataset["GUNSHOT"].map(gunshot_injury_mapping)
 
     # important: string values to lowercase
-    extracted_shoot_dataset = adjust_string_columns(extracted_shoot_dataset, except_columns=["DATE_SHOOT"])
+    extracted_shoot_dataset = adjust_string_columns(extracted_shoot_dataset,
+                                                    except_columns=["DATE_SHOOT", "HOMICIDE_VICTIM_FIRST_NAME",
+                                                                    "HOMICIDE_VICTIM_LAST_NAME", "HOMICIDE_VICTIM_MI"])
 
     # since there is no id_column, we will add one
     extracted_shoot_dataset = extracted_shoot_dataset.assign(VICTIM_CODE=extracted_shoot_dataset.index)
@@ -471,5 +473,5 @@ def main():
     # adjust_features()
 
 
-#main()
+main()
 create_prolog_kb()
