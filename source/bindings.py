@@ -380,8 +380,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
 
         num_charges = 0
         for i in range(1, 5):
-            if row[f"CHARGE {i} STATUTE"] != np.nan:
-                print(row[f"CHARGE {i} STATUTE"])
+            if not pd.isnull(row[f"CHARGE {i} STATUTE"]):
                 num_charges += 1
             else:
                 break
@@ -409,7 +408,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
         if row['STREET_OUTREACH_ORGANIZATION'] != 'none':
             facts.append(f"street_org({victim_code}, {row['STREET_OUTREACH_ORGANIZATION']})")
 
-        if row['AGE'] is not None:
+        if not pd.isnull(row['AGE']):
             facts.append(f"victim_age({victim_code}, {row['AGE']})")
 
         action(facts)
