@@ -26,9 +26,8 @@ def create_kb() -> Prolog:
     prolog.assertz("same_zip_code(C1, C2) :- crime_zip_code(C1, Z), crime_zip_code(C2, Z)")
     prolog.assertz("num_of_crimes_in_zip_code(C, N) :- findall(C1, same_zip_code(C, C1), L), length(L, N)")
 
-    prolog.assertz("criminal_arrested(C, P) :- has_arrest(C, A), arrested(A, P)")
-    prolog.assertz("is_ratial(C) :- criminal_arrested(C, P), victim(C, V), "
-                   "neq(victim_race(V, VR), criminal_race(P, PR))")
+    prolog.assertz("is_ratial(C) :- has_arrest(C, P), victimization(C, V, T), "
+                   "victim_race(V, VR), criminal_race(P, PR), dif(VR, PR)")
 
     prolog.assertz("crime_area_income(C, I) :- comm_area(C, COM), comm_income(COM, I)")
     prolog.assertz("crime_area_assault_homicide(C, I) :- comm_area(C, COM), comm_assault_homicide(COM, I)")
@@ -47,8 +46,8 @@ def create_kb() -> Prolog:
     prolog.assertz("is_domestic(C) :- location_description(C, apartment); location_description(C, house); "
                    "location_description(C, residence); location_description(C, driveway)")
     prolog.assertz("night_crime(C) :- crime_date(C, datime(date(Y, M, D, H, M, S))), ((H >= 20; H =< 6))")
-    prolog.assertz("crime_data_arrest(C, D) :- has_arrest(C, A), arrest_data(A, D)")
-    prolog.assertz("immediate_arrest(C) :- crime_data(C, D), crime_data_arrest(C, D)") # or choose an error of date
+    prolog.assertz("crime_date_arrest(C, D) :- has_arrest(C, A), arrest_date(A, D)")
+    prolog.assertz("immediate_arrest(C) :- crime_date(C, D), crime_date_arrest(C, D)") # or choose an error of date
     # Add victime_age fact, i.e victim_age(crime, victim)
     prolog.assertz("is_there_a_child(C, T) :- victimization(C, V, T), victim_age(V, A), A =< 15")
     prolog.assertz("is_killed_a_child(C) :- is_there_a_child(C, homicide)")
@@ -59,6 +58,11 @@ def create_kb() -> Prolog:
     # TODO: controllare il seguente
     prolog.assertz("num_of_crimes_street_organization(C, N) :- "
                    "findall(C1, same_street_organization(C, C1), L), length(L, N)")
+
+    while True:
+        str = input("Query: ")
+        print(list(prolog.query(str)))
+        pass
 
     return prolog
 
@@ -96,7 +100,6 @@ def calculate_features(kb, crime_id) -> dict:
     print(list(kb.query(f"street_organization({crime_id}, O)")))
 
     return features_dict
-
 
 start = time.time()
 
