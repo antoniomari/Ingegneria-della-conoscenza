@@ -152,7 +152,6 @@ for crime_id in crimes_complete["CASE_NUMBER"]:
         extracted_values_df = pd.concat([extracted_values_df, pd.DataFrame([features_dict])], ignore_index=True)
 
 extracted_values_df.to_csv("working_dataset.csv", index=False)
-print(pd.read_csv("crimes_selected.csv")["CASE_NUMBER"])
 
 end = time.time()
 print("Time: ", end-start)
