@@ -124,6 +124,7 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["AVG_NUM_CHARGES"] = list(kb.query(f"avg_num_charge({crime_id}, Avg)"))[0]['Avg']
 
     features_dict["IMMEDIATE_ARREST"] = len(list(kb.query(f"immediate_arrest({crime_id})")))
+    features_dict["IS_HOMICIDE"] = len(list(kb.query(f"is_homicide({crime_id})")))
 
     return features_dict
 
@@ -145,7 +146,7 @@ for crime_id in crimes_complete["CASE_NUMBER"]:
     else:
         extracted_values_df = pd.concat([extracted_values_df, pd.DataFrame([features_dict])], ignore_index=True)
 
-extracted_values_df.to_csv("prova.csv", index=False)
+extracted_values_df.to_csv("working_dataset.csv", index=False)
 print(pd.read_csv("crimes_selected.csv")["CASE_NUMBER"])
 
 end = time.time()
