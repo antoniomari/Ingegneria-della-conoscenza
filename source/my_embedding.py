@@ -70,7 +70,6 @@ class WebDataPickUp:
     def __init__(self, query, n_istances):
         self.m_query = query
         self.m_nistances = n_istances
-        nltk.download('punkt')
 
     def pick_up(self):
         result = ""
@@ -86,4 +85,4 @@ class WebDataPickUp:
         return result
 
 # Example of usage. Note that this is a list of lists
-print(Embedding.build_embedding([['this', 'is', 'my', 'test'], ['this', 'another']]))
+#print(Embedding.build_embedding([['this', 'is', 'my', 'test'], ['this', 'another']]))
