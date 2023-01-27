@@ -16,13 +16,12 @@ def create_embedding():
         if pd.isnull(row["HOMICIDE_VICTIM_FIRST_NAME"]):
             continue
 
-        #try:
-        query = "Chicago homicide " + row['HOMICIDE_VICTIM_FIRST_NAME'] + " " + row['HOMICIDE_VICTIM_LAST_NAME']
-        news = [WebDataPickUp(query, 3).pick_up()]
-        articles.append(news)
-        print(news)
-        #except:
-
+        try:
+            query = "Chicago homicide " + row['HOMICIDE_VICTIM_FIRST_NAME'] + " " + row['HOMICIDE_VICTIM_LAST_NAME']
+            news = [WebDataPickUp(query, 3).pick_up()]
+            articles.append(news)
+            print(news)
+        except: pass
         embedding_df: pd.DataFrame = pd.DataFrame(Embedding.build_embedding(articles))
         embedding_df["VICTIM_CODE"] = row["VICTIM_CODE"]
         embedding_df.to_csv("embeddings.csv", mode='a', index=False)
