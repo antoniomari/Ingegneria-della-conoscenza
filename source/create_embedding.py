@@ -14,7 +14,7 @@ def create_embedding():
     df = pd.read_csv("shoot_selected.csv")
     articles = []
 
-    for index, row in df.iloc[::-1].iterrows():
+    for index, row in df.iterrows():
 
         if pd.isnull(row["HOMICIDE_VICTIM_FIRST_NAME"]):
             continue

@@ -30,7 +30,7 @@ def create_embedding():
         print(embedding)
         embedding_df: pd.DataFrame = pd.DataFrame(embedding)
         embedding_df["VICTIM_CODE"] = row["VICTIM_CODE"]
-        embedding_df.to_csv("embeddings.csv", mode='a', index=False)
+        embedding_df.to_csv("embeddings.csv", mode='a', index=False, header=False)
 
         articles = []
 
