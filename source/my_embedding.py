@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import newspaper
 import nltk
-import googlesearch
 import gensim as gs
+import googlesearch
 from gensim import corpora
 from keras.preprocessing.text import Tokenizer
 from keras.utils import pad_sequences
@@ -11,7 +11,7 @@ import gensim.downloader as api
 
 class Embedding:
 
-    def build_embedding(original_sentences):
+    def build_embedding(self, original_sentences):
 
             MAX_WORDS = 25000
             MAX_SEQUENCE_LENGTH = 80
@@ -86,3 +86,8 @@ class WebDataPickUp:
 
 # Example of usage. Note that this is a list of lists
 #print(Embedding.build_embedding([['this', 'is', 'my', 'test'], ['this', 'another']]))
+
+
+a = [['this is my test'], ['this another']]
+
+a = [sentence[0].split("\\s") for sentence in a]

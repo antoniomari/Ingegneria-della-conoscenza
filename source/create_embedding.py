@@ -24,7 +24,7 @@ def create_embedding():
         except: pass
         embedding_df: pd.DataFrame = pd.DataFrame(Embedding.build_embedding(articles))
         embedding_df["VICTIM_CODE"] = row["VICTIM_CODE"]
-        embedding_df.to_csv("embeddings.csv", mode='a', index=False)
+        embedding_df.to_csv("embeddings.csv", mode='a', index=False, header=False)
 
         articles = []
 
