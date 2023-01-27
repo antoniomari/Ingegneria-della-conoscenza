@@ -7,11 +7,20 @@ from sklearn.cluster import KMeans
 import matplotlib
 import seaborn
 import numpy
+from sklearn.preprocessing import normalize
 
-def create_embedding():
+def make_clusters():
 
     nltk.download('punkt')
     df = pd.read_csv("embeddings.csv")
+
+    # normalize embeddings
+    victim_codes = df["VICTIM_CODE"]
+    df = pd.DataFrame(normalize(df.drop(["VICTIM_CODE"], axis=1), axis=1))
+    df = df.assign(VICTIM_CODE=victim_codes)
+    # save normalized
+    df.to_csv("normalized_embeddings.csv", index=False)
+
     wcss = []
     my_embedding = df.drop(["VICTIM_CODE"], axis=1).to_numpy().tolist()
 
@@ -28,3 +37,5 @@ def create_embedding():
     matplotlib.pyplot.show()
 
     pass
+
+make_clusters()
