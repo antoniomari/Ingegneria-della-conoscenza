@@ -11,7 +11,7 @@ import gensim.downloader as api
 
 class Embedding:
 
-    def build_embedding(self, original_sentences):
+    def build_embedding(original_sentences):
 
             MAX_WORDS = 25000
             MAX_SEQUENCE_LENGTH = 80

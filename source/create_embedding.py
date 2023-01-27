@@ -11,7 +11,7 @@ def create_embedding():
     articles = []
     count = 0
 
-    for index, row in df.iterrows():
+    for index, row in df.iloc[::-1].iterrows():
 
         if pd.isnull(row["HOMICIDE_VICTIM_FIRST_NAME"]):
             continue
