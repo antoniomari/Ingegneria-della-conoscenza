@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\source"
   ],
+  "SelectedNode": "\\source\\clustering.py",
   "PreviewInSolutionExplorer": false
 }

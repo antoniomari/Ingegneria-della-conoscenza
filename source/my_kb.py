@@ -29,7 +29,7 @@ def create_kb() -> Prolog:
     prolog.assertz("is_ratial(C) :- has_arrest(C, P), victimization(C, V, T), "
                    "victim_race(V, VR), criminal_race(P, PR), dif(VR, PR)")
 
-    prolog.assertz("crime_victim_race(C, VR) :- victimization(C, V, T), victim_race(V, VR) ")
+    prolog.assertz("crime_victim_race(C, VR) :- victimization(C, V, T), victim_race(V, VR)")
     # use this
     prolog.assertz("crimes_victim_same_race(C, VR) :- findall(VR, crime_victim_race(C, VR), L), length(L, 1)")
     prolog.assertz("crime_arrested_race(C, PR) :- has_arrest(C, P), criminal_race(P, PR) ")
