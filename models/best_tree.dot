@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="IS_DOMESTIC <= 0.5\nfriedman_mse = 0.25\nsamples = 2289\nvalue = -0.0", fillcolor="#f4caab"] ;
+1 [label="NUM_CRIMES_DISTRICT <= 300.5\nfriedman_mse = 0.248\nsamples = 1901\nvalue = -0.034", fillcolor="#f4cbad"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="IMMEDIATE_ARREST <= 0.5\nfriedman_mse = 0.248\nsamples = 1872\nvalue = -0.042", fillcolor="#f4cbae"] ;
+1 -> 2 ;
+3 [label="friedman_mse = 0.248\nsamples = 1848\nvalue = -0.152", fillcolor="#f5cfb4"] ;
+2 -> 3 ;
+4 [label="friedman_mse = 0.109\nsamples = 24\nvalue = -1.477", fillcolor="#ffffff"] ;
+2 -> 4 ;
+5 [label="AREA_ASSAULT_HOMICIDE <= 39.2\nfriedman_mse = 0.0\nsamples = 29\nvalue = 0.506", fillcolor="#f0b88f"] ;
+1 -> 5 ;
+6 [label="friedman_mse = -0.0\nsamples = 15\nvalue = 2.024", fillcolor="#e58139"] ;
+5 -> 6 ;
+7 [label="friedman_mse = 0.0\nsamples = 14\nvalue = 2.024", fillcolor="#e58139"] ;
+5 -> 7 ;
+8 [label="AVG_NUM_CHARGES <= 1.625\nfriedman_mse = 0.224\nsamples = 388\nvalue = 0.166", fillcolor="#f3c4a2"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="AREA_UNEMPLOYMENT <= 17.75\nfriedman_mse = 0.183\nsamples = 182\nvalue = 0.264", fillcolor="#f2c09d"] ;
+8 -> 9 ;
+10 [label="friedman_mse = 0.134\nsamples = 107\nvalue = 1.388", fillcolor="#ea985d"] ;
+9 -> 10 ;
+11 [label="friedman_mse = 0.23\nsamples = 75\nvalue = 0.584", fillcolor="#f0b58a"] ;
+9 -> 11 ;
+12 [label="NUM_CRIMES_BLOCK <= 3.5\nfriedman_mse = 0.245\nsamples = 206\nvalue = 0.079", fillcolor="#f3c7a7"] ;
+8 -> 12 ;
+13 [label="friedman_mse = 0.248\nsamples = 189\nvalue = 0.182", fillcolor="#f3c3a1"] ;
+12 -> 13 ;
+14 [label="friedman_mse = 0.055\nsamples = 17\nvalue = 1.789", fillcolor="#e78946"] ;
+12 -> 14 ;
+}
