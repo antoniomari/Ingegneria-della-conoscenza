@@ -22,7 +22,7 @@ def make_clusters():
     df.to_csv("normalized_embeddings.csv", index=False)
 
     wcss = []
-    my_embedding = df.drop(["VICTIM_CODE"], axis=1).to_numpy().tolist()
+    my_embedding = df.drop(["VICTIM_CODE"], axis=1).to_numpy()
 
     # Trying to get best number of clusters
     for i in range(1, 21):
