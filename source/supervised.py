@@ -11,32 +11,66 @@ from sklearn.model_selection import learning_curve, train_test_split, cross_val_
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 import numpy as np
+from sklearn.svm import SVC
+from sklearn import model_selection
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.base import clone
 
-def k_fold(tr_data: pd.DataFrame, n_folds=2):
+def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=False):
+
     kf = model_selection.KFold(n_splits=n_folds)
+    i_train = 0
+    i_test = 0
+    j = 1
+    max_score = 0
+    curr_test_score = 0
+    
+    """
+    if model_type=="tree":
+        curr_tree = DecisionTreeClassifier(max_depth=5)
+    elif model_type=="grad_boost":
+        curr_tree = GradientBoostingClassifier()
+    elif model_type=="random_forest":
+        curr_tree = RandomForestClassifier(n_estimators=20)
+        """
+    
 
-    curr_tree = DecisionTreeClassifier(max_depth=10)
+    for train_indexes, test_indexes in kf.split(X, y):
+        curr_classifier = clone(classifier)
+        curr_classifier = curr_classifier.fit(X.iloc[train_indexes], y[train_indexes])
+        
+        curr_train_score = curr_classifier.score(X.iloc[train_indexes], y[train_indexes])
+        curr_test_score = curr_classifier.score(X.iloc[test_indexes], y[test_indexes])
 
-    X: pd.DataFrame = tr_data.drop(columns=["CASE_NUMBER", "NUM_OF_DEAD", "IS_KILLED_A_CHILD",
-                                            "IS_HOMICIDE", "VICTIM_RACE", "ARRESTED_RACE", "AVER_AGE"])
+        if verbose:
+            print("Fold " + str(j) + "/" + str(n_folds))
+            print("--------MODEL " + str(j) + " QUALITY--------")
 
-    y: pd.Series = tr_data["IS_HOMICIDE"]
+            print("-------| Training |-----------")
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
-    curr_tree.fit(X_train, y_train)
-    pred_test = curr_tree.predict(X_test)
+            print_classifier_scores(true_y=y[train_indexes], 
+                                pred_y=curr_classifier.predict(X.iloc[train_indexes]), beta=2.0)
+        
+            print("-------|   Test   |-----------")
+            true_y = y[test_indexes]
+            pred_y = curr_classifier.predict(X.iloc[test_indexes])
+            print_classifier_scores(true_y=true_y, pred_y=pred_y, beta=2.0)
 
-    export_graphviz(curr_tree, out_file="tree.dot")
 
-    print_classifier_scores(true_y=y_test, pred_y=pred_test)
+        if curr_test_score > max_score:
+            best_classifier = curr_classifier
+            max_score = curr_test_score
 
-    for criterion in {"gini", "entropy", "log_loss"}:
-        rf = RandomForestClassifier(n_estimators=50, criterion=criterion)
-        rf.fit(X_train, y_train)
-        pred_test = rf.predict(X_test)
+        j += 1
+        i_train += curr_train_score
+        i_test += curr_test_score
 
-        print_classifier_scores(true_y=y_test, pred_y=pred_test)
+    mean_train_score = i_train / n_folds
+    mean_test_score = i_test / n_folds
 
+    return best_classifier, mean_train_score, mean_test_score
 
 def print_classifier_scores(true_y, pred_y, beta=1.0):
     (pr, rec, f_sc, su) = precision_recall_fscore_support(y_true=true_y, y_pred=pred_y, beta=beta, average="macro")
@@ -51,18 +85,17 @@ def my_knn():
 
     df = pd.read_csv("working_dataset.csv")
     my_model = KNeighborsClassifier()
-    x = np.array(df.drop(["IS_HOMICIDE", "CASE_NUMBER", "VICTIM_RACE", "ARRESTED_RACE", "AVER_AGE", "NUM_OF_DEAD", "IS_KILLED_A_CHILD"], axis=1))
+    x = np.array(df.drop(["IS_HOMICIDE", "CASE_NUMBER", "VICTIM_RACE", "ARRESTED_RACE", "AVER_AGE", "NUM_OF_DEAD", "IS_KILLED_A_CHILD", "NIGHT_CRIME"], axis=1))
     y = np.array(df["IS_HOMICIDE"])
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.1, random_state=33)
     knn = KNeighborsClassifier()
     k_scores = []
 
     for k in range(1, 31):
-        knn.kneighbors = k
-        scores = cross_val_score(knn, x_train, y_train, cv=10, scoring='accuracy')
+        scores = cross_val_score(KNeighborsClassifier(k), x_train, y_train, cv=10, scoring='accuracy')
         k_scores.append(scores.mean())
 
-    best_k = [np.argmax(k_scores)]
+    best_k = range(1, 31)[np.argmax(k_scores)]
     print("Best k is: ", best_k)
 
     for k in range(1,31):
@@ -74,5 +107,18 @@ def my_knn():
         print("\n\nk:", k, "\nAccuracy:",accuracy)
 
     pass
+
+def my_svm():
+    ds_original = pd.read_csv("crimes_selected.csv")
+    ds_new = pd.read_csv("working_dataset.csv")
+
+    complete_df: pd.DataFrame = pd.merge(ds_original, ds_new, on="CASE_NUMBER")
+    df_for_nb = complete_df.drop(["Location Description","CASE_NUMBER", "Date", "Block", "Latitude", "Longitude", "NUM_CRIMES_DISTRICT", "NUM_CRIMES_BEAT", "NUM_CRIMES_COMM_AREA", "NUM_CRIMES_WARD", "NUM_CRIMES_BLOCK", "NUM_CRIMES_ZIP_CODE", "NUM_CRIMES_STREET_ORG", "AVG_NUM_CHARGES", "AREA_INCOME", "AREA_ASSAULT_HOMICIDE", "AREA_FIREARM", "AREA_POVERTY_HEALTH", "AREA_HIGH_SCHOOL_DIPLOMA", "AREA_UNEMPLOYMENT", "AREA_BIRTH_RATE", "NUM_OF_DEAD", "NUM_OF_VICTIMS", "IS_KILLED_A_CHILD", "MULTIPLE_ARRESTS", "ARRESTED_RACE", "VICTIM_RACE", "AVER_AGE"], axis=1)
+    
+    X = df_for_nb.drop(["IS_HOMICIDE"], axis=1)
+    y = df_for_nb["IS_HOMICIDE"]
+    print(df_for_nb.columns)
+    best_model, train_score, test_score = k_fold(X, y, 10, verbose=True, classifier=SVC(kernel='sigmoid'))
+    print(str(test_score)) # 0.5
 
 #k_fold(pd.read_csv("working_dataset.csv"))
