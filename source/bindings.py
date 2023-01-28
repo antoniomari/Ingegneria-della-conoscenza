@@ -403,7 +403,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
 
     for index, row in shoot_df.iterrows():
         victim_code = f"victim({row['VICTIM_CODE']})"
-        facts = [f"victimization({row['CASE_NUMBER']}, {victim_code}, {row['VICTIMIZATION']})",
+        facts = [f"victimization(crime({row['CASE_NUMBER']}), {victim_code}, {row['VICTIMIZATION']})",
                  f"date_shoot({victim_code}, {datetime_to_prolog_fact(row['DATE_SHOOT'])})",
                  f"victim_race({victim_code},{row['victim_race']})",
                  f"incident({victim_code}, {row['INCIDENT']})",
