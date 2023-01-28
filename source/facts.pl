@@ -2680,13 +2680,6 @@ comm_area(hy397947,27.0).
 ward(hy397947,28.0).
 crime_date(hy397947, datime(date(2015, 8, 26, 11, 37, 0))).
 block(hy397947, block_030xx_w_van_buren_st).
-location_description(hy397947, park_property).
-beat(hy397947,1134).
-district(hy397947,11.0).
-comm_area(hy397947,27.0).
-ward(hy397947,28.0).
-crime_date(hy397947, datime(date(2015, 8, 26, 14, 7, 0))).
-block(hy397947, block_030xx_w_van_buren_st).
 location_description(hy401444, street).
 beat(hy401444,222).
 district(hy401444,2.0).
@@ -4787,13 +4780,6 @@ comm_area(hz442931,53.0).
 ward(hz442931,34.0).
 crime_date(hz442931, datime(date(2016, 9, 21, 0, 58, 0))).
 block(hz442931, block_123xx_s_halsted_st).
-location_description(hz442931, street).
-beat(hz442931,523).
-district(hz442931,5.0).
-comm_area(hz442931,53.0).
-ward(hz442931,34.0).
-crime_date(hz442931, datime(date(2016, 9, 21, 1, 6, 0))).
-block(hz442931, block_123xx_s_halsted_st).
 location_description(hz442949, gas_station).
 beat(hz442949,1134).
 district(hz442949,11.0).
@@ -5256,13 +5242,6 @@ comm_area(hz554936,49.0).
 ward(hz554936,34.0).
 crime_date(hz554936, datime(date(2016, 12, 17, 12, 40, 0))).
 block(hz554936, block_001xx_w_105th_st).
-location_description(hz554936, house).
-beat(hz554936,512).
-district(hz554936,5.0).
-comm_area(hz554936,49.0).
-ward(hz554936,34.0).
-crime_date(hz554936, datime(date(2016, 12, 17, 13, 25, 0))).
-block(hz554936, block_001xx_w_105th_st).
 location_description(hz555341, cha_parking_lot_grounds).
 beat(hz555341,424).
 district(hz555341,4.0).
@@ -5557,13 +5536,6 @@ comm_area(ja153462,29.0).
 ward(ja153462,22.0).
 crime_date(ja153462, datime(date(2017, 2, 14, 14, 10, 0))).
 block(ja153462, block_023xx_s_kenneth_ave).
-location_description(ja153462, alley).
-beat(ja153462,1013).
-district(ja153462,10.0).
-comm_area(ja153462,29.0).
-ward(ja153462,22.0).
-crime_date(ja153462, datime(date(2017, 2, 14, 14, 43, 0))).
-block(ja153462, block_023xx_s_kenneth_ave).
 location_description(ja153686, tavern_liquor_store).
 beat(ja153686,1522).
 district(ja153686,15.0).
@@ -5584,13 +5556,6 @@ district(ja154850,9.0).
 comm_area(ja154850,58.0).
 ward(ja154850,14.0).
 crime_date(ja154850, datime(date(2017, 2, 15, 14, 58, 0))).
-block(ja154850, block_039xx_s_albany_ave).
-location_description(ja154850, house).
-beat(ja154850,921).
-district(ja154850,9.0).
-comm_area(ja154850,58.0).
-ward(ja154850,14.0).
-crime_date(ja154850, datime(date(2017, 2, 15, 15, 27, 0))).
 block(ja154850, block_039xx_s_albany_ave).
 location_description(ja158021, club).
 beat(ja158021,933).
@@ -5717,13 +5682,6 @@ district(ja206252,3.0).
 comm_area(ja206252,43.0).
 ward(ja206252,7.0).
 crime_date(ja206252, datime(date(2017, 3, 30, 4, 32, 0))).
-block(ja206252, block_027xx_e_75th_st).
-location_description(ja206252, restaurant).
-beat(ja206252,334).
-district(ja206252,3.0).
-comm_area(ja206252,43.0).
-ward(ja206252,7.0).
-crime_date(ja206252, datime(date(2017, 3, 30, 16, 32, 0))).
 block(ja206252, block_027xx_e_75th_st).
 location_description(ja211599, tavern_liquor_store).
 beat(ja211599,614).
@@ -6152,13 +6110,6 @@ comm_area(ja311841,23.0).
 ward(ja311841,26.0).
 crime_date(ja311841, datime(date(2017, 6, 18, 2, 7, 0))).
 block(ja311841, block_033xx_w_crystal_st).
-location_description(ja311797, apartment).
-beat(ja311797,2533).
-district(ja311797,25.0).
-comm_area(ja311797,25.0).
-ward(ja311797,37.0).
-crime_date(ja311797, datime(date(2017, 6, 18, 2, 15, 0))).
-block(ja311797, block_014xx_n_leclaire_ave).
 location_description(ja311863, driveway).
 beat(ja311863,1834).
 district(ja311863,18.0).
@@ -6250,13 +6201,6 @@ comm_area(ja329731,24.0).
 ward(ja329731,1.0).
 crime_date(ja329731, datime(date(2017, 7, 1, 2, 26, 0))).
 block(ja329731, block_020xx_w_le_moyne_st).
-location_description(ja329470, street).
-beat(ja329470,711).
-district(ja329470,7.0).
-comm_area(ja329470,68.0).
-ward(ja329470,20.0).
-crime_date(ja329470, datime(date(2017, 7, 1, 12, 27, 0))).
-block(ja329470, block_057xx_s_wells_st).
 location_description(ja330849, sidewalk).
 beat(ja330849,223).
 district(ja330849,2.0).
@@ -7888,13 +7832,6 @@ comm_area(jc284673,44.0).
 ward(jc284673,9.0).
 crime_date(jc284673, datime(date(2019, 5, 30, 13, 34, 0))).
 block(jc284673, block_006xx_e_92nd_pl).
-location_description(jc284673, street).
-beat(jc284673,633).
-district(jc284673,6.0).
-comm_area(jc284673,44.0).
-ward(jc284673,9.0).
-crime_date(jc284673, datime(date(2019, 5, 30, 13, 44, 0))).
-block(jc284673, block_006xx_e_92nd_pl).
 location_description(jc285616, alley).
 beat(jc285616,932).
 district(jc285616,9.0).
@@ -7943,13 +7880,6 @@ district(jc288642,18.0).
 comm_area(jc288642,7.0).
 ward(jc288642,2.0).
 crime_date(jc288642, datime(date(2019, 6, 2, 6, 30, 0))).
-block(jc288642, block_001xx_w_north_ave).
-location_description(jc288642, street).
-beat(jc288642,1814).
-district(jc288642,18.0).
-comm_area(jc288642,7.0).
-ward(jc288642,2.0).
-crime_date(jc288642, datime(date(2019, 6, 2, 6, 33, 0))).
 block(jc288642, block_001xx_w_north_ave).
 location_description(jc293193, street).
 beat(jc293193,1532).
@@ -8644,34 +8574,6 @@ comm_area(jc470284,17.0).
 ward(jc470284,38.0).
 crime_date(jc470284, datime(date(2019, 10, 12, 18, 28, 0))).
 block(jc470284, block_067xx_w_irving_park_rd).
-location_description(jc470284, apartment).
-beat(jc470284,1632).
-district(jc470284,16.0).
-comm_area(jc470284,17.0).
-ward(jc470284,38.0).
-crime_date(jc470284, datime(date(2019, 10, 12, 18, 37, 0))).
-block(jc470284, block_067xx_w_irving_park_rd).
-location_description(jc470284, apartment).
-beat(jc470284,1632).
-district(jc470284,16.0).
-comm_area(jc470284,17.0).
-ward(jc470284,38.0).
-crime_date(jc470284, datime(date(2019, 10, 12, 18, 39, 0))).
-block(jc470284, block_067xx_w_irving_park_rd).
-location_description(jc470284, apartment).
-beat(jc470284,1632).
-district(jc470284,16.0).
-comm_area(jc470284,17.0).
-ward(jc470284,38.0).
-crime_date(jc470284, datime(date(2019, 10, 12, 19, 16, 0))).
-block(jc470284, block_067xx_w_irving_park_rd).
-location_description(jc470284, apartment).
-beat(jc470284,1632).
-district(jc470284,16.0).
-comm_area(jc470284,17.0).
-ward(jc470284,38.0).
-crime_date(jc470284, datime(date(2019, 10, 13, 10, 28, 0))).
-block(jc470284, block_067xx_w_irving_park_rd).
 location_description(jc477249, parking_lot___garage__non_residential_).
 beat(jc477249,731).
 district(jc477249,7.0).
@@ -9106,13 +9008,6 @@ comm_area(jb120039,42.0).
 ward(jb120039,20.0).
 crime_date(jb120039, datime(date(2018, 1, 18, 3, 41, 0))).
 block(jb120039, block_066xx_s_evans_ave).
-location_description(jb120039, street).
-beat(jb120039,321).
-district(jb120039,3.0).
-comm_area(jb120039,42.0).
-ward(jb120039,20.0).
-crime_date(jb120039, datime(date(2018, 1, 18, 3, 45, 0))).
-block(jb120039, block_066xx_s_evans_ave).
 location_description(jb121157, residence).
 beat(jb121157,1132).
 district(jb121157,11.0).
@@ -9147,13 +9042,6 @@ district(jb123810,25.0).
 comm_area(jb123810,19.0).
 ward(jb123810,36.0).
 crime_date(jb123810, datime(date(2018, 1, 21, 3, 43, 0))).
-block(jb123810, block_060xx_w_belden_ave).
-location_description(jb123810, street).
-beat(jb123810,2512).
-district(jb123810,25.0).
-comm_area(jb123810,19.0).
-ward(jb123810,36.0).
-crime_date(jb123810, datime(date(2018, 1, 21, 3, 45, 0))).
 block(jb123810, block_060xx_w_belden_ave).
 location_description(jb127512, street).
 beat(jb127512,1033).
@@ -9890,13 +9778,6 @@ comm_area(jb308673,42.0).
 ward(jb308673,20.0).
 crime_date(jb308673, datime(date(2018, 6, 15, 22, 7, 0))).
 block(jb308673, block_005xx_e_63rd_st).
-location_description(jb308673, street).
-beat(jb308673,313).
-district(jb308673,3.0).
-comm_area(jb308673,42.0).
-ward(jb308673,20.0).
-crime_date(jb308673, datime(date(2018, 6, 15, 22, 17, 0))).
-block(jb308673, block_005xx_e_63rd_st).
 location_description(jb309066, street).
 beat(jb309066,1123).
 district(jb309066,11.0).
@@ -10289,13 +10170,6 @@ comm_area(jb384159,26.0).
 ward(jb384159,28.0).
 crime_date(jb384159, datime(date(2018, 8, 8, 4, 5, 0))).
 block(jb384159, block_045xx_w_lake_st).
-location_description(jb384159, street).
-beat(jb384159,1113).
-district(jb384159,11.0).
-comm_area(jb384159,26.0).
-ward(jb384159,28.0).
-crime_date(jb384159, datime(date(2018, 8, 8, 4, 21, 0))).
-block(jb384159, block_045xx_w_lake_st).
 location_description(jb384769, sidewalk).
 beat(jb384769,533).
 district(jb384769,5.0).
@@ -10590,13 +10464,6 @@ comm_area(jb457568,32.0).
 ward(jb457568,2.0).
 crime_date(jb457568, datime(date(2018, 10, 1, 0, 37, 0))).
 block(jb457568, block_005xx_s_michigan_ave).
-location_description(jb457568, street).
-beat(jb457568,123).
-district(jb457568,1.0).
-comm_area(jb457568,32.0).
-ward(jb457568,2.0).
-crime_date(jb457568, datime(date(2018, 10, 1, 0, 39, 0))).
-block(jb457568, block_005xx_s_michigan_ave).
 location_description(jb458747, street).
 beat(jb458747,734).
 district(jb458747,7.0).
@@ -10870,13 +10737,6 @@ comm_area(jb523961,68.0).
 ward(jb523961,6.0).
 crime_date(jb523961, datime(date(2018, 11, 21, 10, 10, 0))).
 block(jb523961, block_066xx_s_lowe_ave).
-location_description(jb523961, house).
-beat(jb523961,723).
-district(jb523961,7.0).
-comm_area(jb523961,68.0).
-ward(jb523961,6.0).
-crime_date(jb523961, datime(date(2018, 11, 21, 10, 22, 0))).
-block(jb523961, block_066xx_s_lowe_ave).
 location_description(jb525987, street).
 beat(jb525987,933).
 district(jb525987,9.0).
@@ -11086,13 +10946,6 @@ district(jd105251,4.0).
 comm_area(jd105251,52.0).
 ward(jd105251,10.0).
 crime_date(jd105251, datime(date(2020, 1, 5, 4, 0, 0))).
-block(jd105251, block_100xx_s_avenue_m).
-location_description(jd105251, street).
-beat(jd105251,432).
-district(jd105251,4.0).
-comm_area(jd105251,52.0).
-ward(jd105251,10.0).
-crime_date(jd105251, datime(date(2020, 1, 5, 16, 33, 0))).
 block(jd105251, block_100xx_s_avenue_m).
 location_description(jd108850, sidewalk).
 beat(jd108850,925).
@@ -11380,13 +11233,6 @@ district(jd169963,6.0).
 comm_area(jd169963,44.0).
 ward(jd169963,21.0).
 crime_date(jd169963, datime(date(2020, 3, 1, 7, 4, 0))).
-block(jd169963, block_001xx_w_83rd_st).
-location_description(jd169963, street).
-beat(jd169963,622).
-district(jd169963,6.0).
-comm_area(jd169963,44.0).
-ward(jd169963,21.0).
-crime_date(jd169963, datime(date(2020, 3, 1, 8, 3, 0))).
 block(jd169963, block_001xx_w_83rd_st).
 location_description(jd170468, vestibule).
 beat(jd170468,223).
@@ -11990,13 +11836,6 @@ comm_area(jd264737,25.0).
 ward(jd264737,29.0).
 crime_date(jd264737, datime(date(2020, 6, 15, 11, 14, 0))).
 block(jd264737, block_049xx_w_congress_pkwy).
-location_description(jd264558, apartment).
-beat(jd264558,423).
-district(jd264558,4.0).
-comm_area(jd264558,48.0).
-ward(jd264558,7.0).
-crime_date(jd264558, datime(date(2020, 6, 15, 12, 40, 0))).
-block(jd264558, block_026xx_e_92nd_st).
 location_description(jd265084, convenience_store).
 beat(jd265084,433).
 district(jd265084,4.0).
@@ -12074,13 +11913,6 @@ comm_area(jd270626,46.0).
 ward(jd270626,7.0).
 crime_date(jd270626, datime(date(2020, 6, 20, 17, 10, 0))).
 block(jd270626, block_079xx_s_luella_ave).
-location_description(jd270626, alley).
-beat(jd270626,414).
-district(jd270626,4.0).
-comm_area(jd270626,46.0).
-ward(jd270626,7.0).
-crime_date(jd270626, datime(date(2020, 6, 20, 17, 46, 0))).
-block(jd270626, block_079xx_s_luella_ave).
 location_description(jd270705, street).
 beat(jd270705,1434).
 district(jd270705,14.0).
@@ -12115,13 +11947,6 @@ district(jd272406,6.0).
 comm_area(jd272406,71.0).
 ward(jd272406,21.0).
 crime_date(jd272406, datime(date(2020, 6, 22, 13, 1, 0))).
-block(jd272406, block_086xx_s_wood_st).
-location_description(jd272406, street).
-beat(jd272406,614).
-district(jd272406,6.0).
-comm_area(jd272406,71.0).
-ward(jd272406,21.0).
-crime_date(jd272406, datime(date(2020, 6, 22, 13, 26, 0))).
 block(jd272406, block_086xx_s_wood_st).
 location_description(jd273788, street).
 beat(jd273788,231).
@@ -12374,13 +12199,6 @@ district(jd298408,7.0).
 comm_area(jd298408,67.0).
 ward(jd298408,6.0).
 crime_date(jd298408, datime(date(2020, 7, 15, 15, 41, 0))).
-block(jd298408, block_069xx_s_throop_st).
-location_description(jd298408, auto).
-beat(jd298408,734).
-district(jd298408,7.0).
-comm_area(jd298408,67.0).
-ward(jd298408,6.0).
-crime_date(jd298408, datime(date(2020, 7, 15, 16, 11, 0))).
 block(jd298408, block_069xx_s_throop_st).
 location_description(jd299547, street).
 beat(jd299547,1021).
@@ -12928,13 +12746,6 @@ comm_area(jd357441,25.0).
 ward(jd357441,37.0).
 crime_date(jd357441, datime(date(2020, 9, 5, 13, 52, 0))).
 block(jd357441, block_047xx_w_augusta_blvd).
-location_description(jd272406, street).
-beat(jd272406,614).
-district(jd272406,6.0).
-comm_area(jd272406,71.0).
-ward(jd272406,21.0).
-crime_date(jd272406, datime(date(2020, 9, 5, 17, 17, 0))).
-block(jd272406, block_086xx_s_wood_st).
 location_description(jd358038, apartment).
 beat(jd358038,712).
 district(jd358038,7.0).
@@ -13018,13 +12829,6 @@ district(jd364485,15.0).
 comm_area(jd364485,25.0).
 ward(jd364485,29.0).
 crime_date(jd364485, datime(date(2020, 9, 12, 3, 4, 0))).
-block(jd364485, block_001xx_n_pine_ave).
-location_description(jd364485, street).
-beat(jd364485,1523).
-district(jd364485,15.0).
-comm_area(jd364485,25.0).
-ward(jd364485,29.0).
-crime_date(jd364485, datime(date(2020, 9, 12, 3, 9, 0))).
 block(jd364485, block_001xx_n_pine_ave).
 location_description(jd365408, street).
 beat(jd365408,432).
@@ -13320,13 +13124,6 @@ comm_area(jd401865,44.0).
 ward(jd401865,8.0).
 crime_date(jd401865, datime(date(2020, 10, 17, 0, 45, 0))).
 block(jd401865, block_080xx_s_ingleside_ave).
-location_description(jd397606, yard).
-beat(jd397606,431).
-district(jd397606,4.0).
-comm_area(jd397606,51.0).
-ward(jd397606,7.0).
-crime_date(jd397606, datime(date(2020, 10, 17, 13, 51, 0))).
-block(jd397606, block_021xx_e_95th_pl).
 location_description(jd403004, street).
 beat(jd403004,621).
 district(jd403004,6.0).
@@ -14643,13 +14440,6 @@ comm_area(je272404,23.0).
 ward(je272404,26.0).
 crime_date(je272404, datime(date(2021, 6, 19, 21, 19, 0))).
 block(je272404, block_032xx_w_division_st).
-location_description(je272404, street).
-beat(je272404,1121).
-district(je272404,11.0).
-comm_area(je272404,23.0).
-ward(je272404,26.0).
-crime_date(je272404, datime(date(2021, 6, 22, 7, 8, 0))).
-block(je272404, block_032xx_w_division_st).
 location_description(je276719, gas_station).
 beat(je276719,911).
 district(je276719,9.0).
@@ -14888,13 +14678,6 @@ comm_area(je311442,65.0).
 ward(je311442,13.0).
 crime_date(je311442, datime(date(2021, 7, 23, 14, 20, 0))).
 block(je311442, block_063xx_s_kilbourn_ave).
-location_description(je309374, alley).
-beat(je309374,1021).
-district(je309374,10.0).
-comm_area(je309374,29.0).
-ward(je309374,24.0).
-crime_date(je309374, datime(date(2021, 7, 23, 17, 50, 0))).
-block(je309374, block_033xx_w_douglas_blvd).
 location_description(je312144, gas_station_drive_prop_).
 beat(je312144,623).
 district(je312144,6.0).
@@ -15497,13 +15280,6 @@ comm_area(je428818,71.0).
 ward(je428818,17.0).
 crime_date(je428818, datime(date(2021, 10, 31, 11, 4, 0))).
 block(je428818, block_075xx_s_morgan_st).
-location_description(je385492, porch).
-beat(je385492,324).
-district(je385492,3.0).
-comm_area(je385492,69.0).
-ward(je385492,5.0).
-crime_date(je385492, datime(date(2021, 11, 1, 1, 26, 0))).
-block(je385492, block_012xx_e_71st_st).
 location_description(je430596, street).
 beat(je430596,925).
 district(je430596,9.0).
@@ -16071,13 +15847,6 @@ comm_area(jf152198,61.0).
 ward(jf152198,20.0).
 crime_date(jf152198, datime(date(2022, 2, 22, 9, 12, 0))).
 block(jf152198, block_049xx_s_marshfield_ave).
-location_description(jf152198, apartment).
-beat(jf152198,931).
-district(jf152198,9.0).
-comm_area(jf152198,61.0).
-ward(jf152198,20.0).
-crime_date(jf152198, datime(date(2022, 2, 22, 9, 14, 0))).
-block(jf152198, block_049xx_s_marshfield_ave).
 location_description(jf152400, residence).
 beat(jf152400,2532).
 district(jf152400,25.0).
@@ -16442,13 +16211,6 @@ comm_area(jf235754,24.0).
 ward(jf235754,26.0).
 crime_date(jf235754, datime(date(2022, 5, 9, 15, 21, 0))).
 block(jf235754, block_013xx_n_luis_munoz_marin_dr_e).
-location_description(jf235754, street).
-beat(jf235754,1423).
-district(jf235754,14.0).
-comm_area(jf235754,24.0).
-ward(jf235754,26.0).
-crime_date(jf235754, datime(date(2022, 5, 9, 15, 23, 0))).
-block(jf235754, block_013xx_n_luis_munoz_marin_dr_e).
 location_description(jf237550, street).
 beat(jf237550,331).
 district(jf237550,3.0).
@@ -16757,13 +16519,6 @@ comm_area(jf280055,25.0).
 ward(jf280055,29.0).
 crime_date(jf280055, datime(date(2022, 6, 14, 23, 19, 0))).
 block(jf280055, block_022xx_n_harlem_ave).
-location_description(jf260542, street).
-beat(jf260542,1111).
-district(jf260542,11.0).
-comm_area(jf260542,23.0).
-ward(jf260542,37.0).
-crime_date(jf260542, datime(date(2022, 6, 16, 9, 0, 0))).
-block(jf260542, block_044xx_w_walton_st).
 location_description(jf282944, apartment).
 beat(jf282944,1113).
 district(jf282944,11.0).
@@ -17163,13 +16918,6 @@ comm_area(jf356096,43.0).
 ward(jf356096,5.0).
 crime_date(jf356096, datime(date(2022, 8, 14, 5, 0, 0))).
 block(jf356096, block_070xx_s_jeffery_blvd).
-location_description(jf356096, street).
-beat(jf356096,331).
-district(jf356096,3.0).
-comm_area(jf356096,43.0).
-ward(jf356096,5.0).
-crime_date(jf356096, datime(date(2022, 8, 14, 5, 35, 0))).
-block(jf356096, block_070xx_s_jeffery_blvd).
 location_description(jf356883, cta_property).
 beat(jf356883,731).
 district(jf356883,7.0).
@@ -17310,13 +17058,6 @@ comm_area(jf390178,33.0).
 ward(jf390178,3.0).
 crime_date(jf390178, datime(date(2022, 9, 10, 2, 48, 0))).
 block(jf390178, block_000xx_e_cermak_rd).
-location_description(jf390178, street).
-beat(jf390178,131).
-district(jf390178,1.0).
-comm_area(jf390178,33.0).
-ward(jf390178,3.0).
-crime_date(jf390178, datime(date(2022, 9, 10, 2, 50, 0))).
-block(jf390178, block_000xx_e_cermak_rd).
 location_description(jf391332, apartment).
 beat(jf391332,1022).
 district(jf391332,10.0).
@@ -17414,13 +17155,6 @@ district(jf409645,10.0).
 comm_area(jf409645,29.0).
 ward(jf409645,24.0).
 crime_date(jf409645, datime(date(2022, 9, 25, 4, 39, 0))).
-block(jf409645, block_013xx_s_harding_ave).
-location_description(jf409645, apartment).
-beat(jf409645,1011).
-district(jf409645,10.0).
-comm_area(jf409645,29.0).
-ward(jf409645,24.0).
-crime_date(jf409645, datime(date(2022, 9, 25, 4, 47, 0))).
 block(jf409645, block_013xx_s_harding_ave).
 location_description(jf412684, church___synagogue___place_of_worship).
 beat(jf412684,222).
@@ -17715,13 +17449,6 @@ district(jf482140,15.0).
 comm_area(jf482140,25.0).
 ward(jf482140,29.0).
 crime_date(jf482140, datime(date(2022, 11, 21, 0, 25, 0))).
-block(jf482140, block_058xx_w_augusta_blvd).
-location_description(jf482140, parking_lot).
-beat(jf482140,1511).
-district(jf482140,15.0).
-comm_area(jf482140,25.0).
-ward(jf482140,29.0).
-crime_date(jf482140, datime(date(2022, 11, 21, 1, 10, 0))).
 block(jf482140, block_058xx_w_augusta_blvd).
 location_description(jf484500, street).
 beat(jf484500,1732).

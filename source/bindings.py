@@ -271,6 +271,13 @@ def preprocess_crimes_dataset(extracted_crime_dataset: pd.DataFrame) -> pd.DataF
 
     col_ren = {'Date': 'Date_Crime'}
 
+    # remove duplicates
+    print("---------| Pre-processing CRIMES DATASET |---------")
+    extracted_crime_dataset.drop_duplicates(subset=['CASE_NUMBER'], inplace=True)
+    print(f"Removed duplicate? {extracted_crime_dataset['CASE_NUMBER'].is_unique }")
+
+
+
     extracted_crime_dataset = extracted_crime_dataset.drop(col_del, axis=1).drop_duplicates()
 
     # now the only wrong value is a duplicate with inconsistent Location
@@ -452,11 +459,14 @@ def create_prolog_kb():
 
 
 def datetime_to_prolog_fact(datetime_str: str) -> str:
-    dt = datetime.strptime(datetime_str, '%m/%d/%Y %I:%M:%S %p')
+    dt = date_time_from_dataset(datetime_str)
     datetime_str = "date({}, {}, {}, {}, {}, {})".format(dt.year, dt.month, dt.day,
                                                          dt.hour, dt.minute, dt.second)
     return f"datime({datetime_str})"
 
+
+def date_time_from_dataset(datetime_str: str) -> datetime:
+    return datetime.strptime(datetime_str, '%m/%d/%Y %I:%M:%S %p')
 
 def main():
     crime_codes = extract_crime_codes()
@@ -468,9 +478,6 @@ def main():
 
     clean_shoot_dataset: pd.DataFrame = preprocess_shoot_dataset(extract_shoot_dataset(crime_codes))
     clean_shoot_dataset.to_csv(CLEAN_SHOOT_PATH, index=False)
-
-    # create_dataset()
-    # adjust_features()
 
 
 main()
