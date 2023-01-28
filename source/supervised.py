@@ -17,6 +17,7 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.base import clone
+from sklearn.preprocessing import normalize
 
 def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=False):
 
@@ -83,28 +84,22 @@ def print_classifier_scores(true_y, pred_y, beta=1.0):
 
 def my_knn():
 
-    df = pd.read_csv("working_dataset.csv")
-    my_model = KNeighborsClassifier()
-    x = np.array(df.drop(["IS_HOMICIDE", "CASE_NUMBER", "VICTIM_RACE", "ARRESTED_RACE", "AVER_AGE", "NUM_OF_DEAD", "IS_KILLED_A_CHILD", "NIGHT_CRIME"], axis=1))
-    y = np.array(df["IS_HOMICIDE"])
+    df1 = pd.read_csv("crimes_selected.csv")
+    df2 = pd.read_csv("working_dataset.csv")
+    df = pd.merge(df1, df2, on="CASE_NUMBER")
+
+    x = pd.DataFrame(normalize(df[["Latitude", "Longitude"]], axis=0))
+
+    y = df["IS_HOMICIDE"]
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.1, random_state=33)
     knn = KNeighborsClassifier()
     k_scores = []
 
-    for k in range(1, 31):
-        scores = cross_val_score(KNeighborsClassifier(k), x_train, y_train, cv=10, scoring='accuracy')
-        k_scores.append(scores.mean())
-
-    best_k = range(1, 31)[np.argmax(k_scores)]
-    print("Best k is: ", best_k)
-
-    for k in range(1,31):
-        knn = KNeighborsClassifier(k)
-        knn.fit(x_train, y_train)
-        y_pred = knn.predict(x_test)
-
-        accuracy = knn.score(x_test, y_test)
-        print("\n\nk:", k, "\nAccuracy:",accuracy)
+    for k in range(1, 31, 2):
+        best_model, train_score, test_score = k_fold(x, y, 10, classifier=KNeighborsClassifier(k),verbose=False)        
+        print("For: ", k)
+        print("Test: ", str(test_score))
+        print("Train: ", str(train_score))
 
     pass
 
