@@ -19,30 +19,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.base import clone
 from sklearn.preprocessing import normalize
 
-from sklearn.metrics import precision_recall_fscore_support, mean_absolute_error, mean_squared_error, accuracy_score,\
-    max_error
-
-ds_original = pd.read_csv("crimes_selected.csv")
-ds_new = pd.read_csv("working_dataset.csv")
-
-# for average -> "macro" or "micro"
-def print_classifier_scores(true_y, pred_y, beta=1.0, average="macro"):
-    
-    (pr, rec, f_sc, su) = precision_recall_fscore_support(y_true=true_y, y_pred=pred_y, beta=beta, average=average)
-    acc = accuracy_score(y_true=true_y, y_pred=pred_y)
-    print("Accuracy:\t" + str(acc))
-    print("Precision:\t" + str(pr))
-    print("Recall:\t\t" + str(rec))
-    print("F-measure" + ":\t" + str(f_sc))
-    print("(beta " + str(beta) + ")")
-
-def tree_classifier():
-
-    X: pd.DataFrame = ds_new.drop(columns=["CASE_NUMBER", "NUM_OF_DEAD", "IS_KILLED_A_CHILD",
-                                            "IS_HOMICIDE", "VICTIM_RACE", "ARRESTED_RACE", "AVER_AGE"])
-    y: pd.Series = ds_new["IS_HOMICIDE"]
-
-    best_tree, mean_train_score, mean_test_score = k_fold(X, y, 10, classifier=DecisionTreeClassifier(max_depth=5), verbose=True)
 
 def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=False):
 
@@ -142,3 +118,8 @@ def my_svm():
     print(str(test_score)) # 0.5
 
 #k_fold(pd.read_csv("working_dataset.csv"))
+
+
+def supervised_main():
+    # Print balance dataset
+    pass

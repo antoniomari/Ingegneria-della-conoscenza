@@ -4,10 +4,18 @@ import pandas as pd
 from pyswip import Prolog
 
 
+def assert_location_facts(kb):
+    with open("locations.pl", "r") as loc_file:
+        lines = loc_file.readlines()
+        for line in lines:
+            kb.assertz(line)
+
+
 def create_kb() -> Prolog:
     prolog = Prolog()
 
     prolog.consult("facts.pl")
+    assert_location_facts(kb=prolog)
 
     # CLAUSES ABOUT GEO-DATA
     prolog.assertz("same_district(crime(C1), crime(C2)) :- district(crime(C1), D), district(crime(C2), D)")
@@ -34,11 +42,12 @@ def create_kb() -> Prolog:
 
     prolog.assertz("crime_victim_race(crime(C), VR) :- "
                    "victimization(crime(C), victim(V), T), victim_race(victim(V), VR)")
-    # use this
+
+    prolog.assertz("crime_arrested_race(crime(C), PR) :- "
+                   "has_arrest(crime(C), arrest(P)), criminal_race(arrest(P), PR) ")
+
     prolog.assertz("crimes_victim_same_race(crime(C), VR) :- "
                    "findall(VR, crime_victim_race(crime(C), VR), L), length(L, 1)")
-    prolog.assertz("crime_arrested_race(crime(C), PR) :- has_arrest(crime(C), arrest(P)), criminal_race(arrest(P), PR) ")
-    # use this
     prolog.assertz("crimes_arrested_same_race(crime(C), PR) :- "
                    "findall(PR, crime_arrested_race(crime(C), PR), L), length(L, 1)")
 
@@ -90,7 +99,7 @@ def create_kb() -> Prolog:
     # added after Naive Bayes Categorical results
 
     # high abstracted categories
-    prolog.assertz("is_vehicle(location(L)) :- is_private_vehicle(location(L)); is_public_vehicle(location(L)); ")
+    prolog.assertz("is_vehicle(location(L)) :- is_private_vehicle(location(L)); is_public_vehicle(location(L))")
     prolog.assertz("is_public_place(location(L)) :- is_parking(location(L)); is_store_pub(location(L)); "
                    "is_gas_station(location(L)); is_park(location(L))")
     prolog.assertz("is_outside(location(L)) :- is_street(location(L)); is_sidewalk(location(L)); "
@@ -103,37 +112,6 @@ def create_kb() -> Prolog:
                   "residential_outside"]:
         prolog.assertz(f"location_{value}(crime(C)) :- location_description(crime(C), location(L)), "
                        f"is_{value}(location(L))")
-
-    """
-    for value in ["street", "sidewalk", "alley", "house", "auto", "residence", "vehicle_non_commercial",
-                  "park_property"]:
-        prolog.assertz(f"location_{value}(crime(C)) :- location_description(crime(C), {value})")
-
-    prolog.assertz("location_apartment(crime(C)) :- location_description(crime(C), apartment); "
-                   "location_description(crime(C), cha_apartment)")
-    prolog.assertz("location_porch(crime(C)) :- location_description(crime(C), porch); "
-                   "location_description(crime(C), residence___porch___hallway); "
-                   "location_description(crime(C), residence_porch_hallway)")
-    prolog.assertz("location_yard(crime(C)) :- location_description(crime(C), yard); "
-                   "location_description(crime(C), residential_yard__front_back_); "
-                   "location_description(crime(C), residence___yard__front___back_)")
-    prolog.assertz("location_parking(crime(C)) :- location_description(crime(C), parking_lot_garage_non_resid__); "
-                   "location_description(crime(C), parking_lot___garage__non_residential_); "
-                   "location_description(crime(C), parking_lot___garage__non_residential_); "
-                   "location_description(crime(C), cha_parking_lot_grounds); "
-                   "location_description(crime(C), cha_parking_lot); "
-                   "location_description(crime(C), parking_lot); ")
-    prolog.assertz("location_store(crime(C)) :- location_description(crime(C), retail_store); "
-                   "location_description(crime(C), liquor_store); "
-                   "location_description(crime(C), tavern_liquor_store); "
-                   "tavern___liquor_store"
-                   "location_description(crime(C), convenience_store); ")
-    prolog.assertz("location_barber(crime(C)) :- location_description(crime(C), barbershop); "
-                   "location_description(crime(C), barber_shop_beauty_salon)")
-    prolog.assertz("location_gas_station(crime(C)) :- location_description(crime(C), gas_station); "
-                   "location_description(crime(C), residence___porch___hallway)")"""
-
-
 
     return prolog
 
@@ -173,11 +151,19 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["HAS_STREET_ORGANIZATION"] = query_boolean_result(kb, f"has_street_organization({crime_id})")
     features_dict["IS_RATIAL"] = query_boolean_result(kb, f"is_ratial({crime_id})")
 
-    arrested_race = list(kb.query(f"crimes_arrested_same_race({crime_id}, PR)"))
-    features_dict["ARRESTED_RACE"] = arrested_race[0]['PR'] if len(arrested_race) == 1 else "mixed"
+    arrested_race_list = list(kb.query(f"crime_arrested_race({crime_id}, PR)"))
+    arrested_race_set = {arrested_race_list[0]['PR']}
+    for i in range(1, len(arrested_race_list)):
+        arrested_race_set.add(arrested_race_list[i]['PR'])
+    features_dict["ARRESTED_RACE"] = next(iter(arrested_race_set)) if len(arrested_race_set) == 1 else "mixed"
+    print(f"Lista race arrested: {arrested_race_list} -> value {features_dict['ARRESTED_RACE']}")
 
-    victim_race = list(kb.query(f"crimes_victim_same_race({crime_id}, VR)"))
-    features_dict["VICTIM_RACE"] = victim_race[0]['VR'] if len(victim_race) == 1 else "mixed"
+    victim_race_list = list(kb.query(f"crime_victim_race({crime_id}, VR)"))
+    victim_race_set = {victim_race_list[0]['VR']}
+    for i in range(1, len(victim_race_list)):
+        victim_race_set.add(victim_race_list[i]['VR'])
+    features_dict["VICTIM_RACE"] = next(iter(victim_race_set)) if len(victim_race_set) == 1 else "mixed"
+    print(f"Lista race victim: {victim_race_set} -> value {features_dict['VICTIM_RACE']}")
 
     aver_age = list(kb.query(f"aver_age({crime_id}, Avg)"))
     features_dict["AVER_AGE"] = aver_age[0]['Avg'] if len(aver_age) == 1 else None
