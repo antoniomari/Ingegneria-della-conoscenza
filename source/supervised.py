@@ -19,6 +19,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.base import clone
 from sklearn.preprocessing import normalize
 
+
 def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=False):
 
     kf = model_selection.KFold(n_splits=n_folds)
@@ -117,3 +118,8 @@ def my_svm():
     print(str(test_score)) # 0.5
 
 #k_fold(pd.read_csv("working_dataset.csv"))
+
+
+def supervised_main():
+    # Print balance dataset
+    pass
