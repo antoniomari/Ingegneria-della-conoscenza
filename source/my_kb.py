@@ -88,6 +88,23 @@ def create_kb() -> Prolog:
                    "sumlist(L, Sum), length(L, Length), Length > 0, Avg is Sum / Length")
 
     # added after Naive Bayes Categorical results
+
+    # high abstracted categories
+    prolog.assertz("is_vehicle(location(L)) :- is_private_vehicle(location(L)); is_public_vehicle(location(L)); ")
+    prolog.assertz("is_public_place(location(L)) :- is_parking(location(L)); is_store_pub(location(L)); "
+                   "is_gas_station(location(L)); is_park(location(L))")
+    prolog.assertz("is_outside(location(L)) :- is_street(location(L)); is_sidewalk(location(L)); "
+                   "is_alley(location(L))")
+    prolog.assertz("is_residential(location(L)) :- is_apartment(location(L)); is_house(location(L)); "
+                   "is_residence(location(L)); is_residential_outside(location(L))")
+
+    for value in ["vehicle", "private_vehicle", "public_vehicle", "public_place", "parking", "store_pub", "gas_station",
+                  "park", "outside", "street", "sidewalk", "alley", "residential", "apartment", "house", "residence",
+                  "residential_outside"]:
+        prolog.assertz(f"location_{value}(crime(C)) :- location_description(crime(C), location(L)), "
+                       f"is_{value}(location(L))")
+
+    """
     for value in ["street", "sidewalk", "alley", "house", "auto", "residence", "vehicle_non_commercial",
                   "park_property"]:
         prolog.assertz(f"location_{value}(crime(C)) :- location_description(crime(C), {value})")
@@ -113,8 +130,8 @@ def create_kb() -> Prolog:
                    "location_description(crime(C), convenience_store); ")
     prolog.assertz("location_barber(crime(C)) :- location_description(crime(C), barbershop); "
                    "location_description(crime(C), barber_shop_beauty_salon)")
-    prolog.assertz("location_gas_station(crime(C)) :- location_description(crime(C), gas_station); 
-                   "location_description(crime(C), residence___porch___hallway)")
+    prolog.assertz("location_gas_station(crime(C)) :- location_description(crime(C), gas_station); "
+                   "location_description(crime(C), residence___porch___hallway)")"""
 
 
 
@@ -171,12 +188,11 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["IS_HOMICIDE"] = query_boolean_result(kb, f"is_homicide({crime_id})")
 
     # added after Naive Bayes Categorical results
-    for value in ["street", "sidewalk", "apartment", "alley", "house", "auto", "residence",
-                  "gas_station", "parking_lot", "porch", "vehicle_non_commercial",
-                  "park_property"]:
+    for value in ["vehicle", "private_vehicle", "public_vehicle", "public_place", "parking", "store_pub", "gas_station",
+                  "park", "outside", "street", "sidewalk", "alley", "residential", "apartment", "house", "residence",
+                  "residential_outside"]:
         features_dict[f"LOCATION_{value}"] = query_boolean_result(kb, f"location_{value}({crime_id})")
 
-    features_dict["LOCATION_YARD"] = query_boolean_result(kb, f"location_yard({crime_id})")
     return features_dict
 
 
