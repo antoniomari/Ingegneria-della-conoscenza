@@ -369,7 +369,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
 
     # insert data for crimes
     for index, row in crimes_df.iterrows():
-        case_num = row['CASE_NUMBER']
+        case_num = f"crime({row['CASE_NUMBER']})"
         facts = [f"location_description({case_num}, {row['Location Description']})",
                  f"beat({case_num},{row['Beat']})",
                  f"district({case_num},{row['District']})",
@@ -382,8 +382,8 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
 
     # insert data for arrests
     for index, row in arrest_df.iterrows():
-        arrest_num = row['ARREST_NUMBER']
-        facts = [f"has_arrest({row['CASE_NUMBER']}, {arrest_num})",
+        arrest_num = f"arrest({row['ARREST_NUMBER']})"
+        facts = [f"has_arrest(crime({row['CASE_NUMBER']}), {arrest_num})",
                  f"arrest_date({arrest_num}, {datetime_to_prolog_fact(row['ARREST DATE'])})",
                  f"criminal_race({arrest_num},{row['criminal_race']})"]
 
@@ -402,8 +402,8 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
     # Add info about gunshot injury
 
     for index, row in shoot_df.iterrows():
-        victim_code = row['VICTIM_CODE']
-        facts = [f"victimization({row['CASE_NUMBER']}, {victim_code}, {row['VICTIMIZATION']})",
+        victim_code = f"victim({row['VICTIM_CODE']})"
+        facts = [f"victimization(crime({row['CASE_NUMBER']}), {victim_code}, {row['VICTIMIZATION']})",
                  f"date_shoot({victim_code}, {datetime_to_prolog_fact(row['DATE_SHOOT'])})",
                  f"victim_race({victim_code},{row['victim_race']})",
                  f"incident({victim_code}, {row['INCIDENT']})",
@@ -448,6 +448,7 @@ def assert_all(facts, kb):
 def assert_all_in_file(facts, kb_file):
     kb_file.writelines(".\n".join(facts) + ".\n")
 
+
 def create_prolog_kb():
     crimes_df = pd.read_csv(CLEAN_CRIME_PATH)
     arrest_df = pd.read_csv(CLEAN_ARREST_PATH)
@@ -455,7 +456,6 @@ def create_prolog_kb():
     health_df = pd.read_csv(HEALTH_DATASET_PATH)
 
     load_data_in_kb(crimes_df=crimes_df, arrest_df=arrest_df, shoot_df=shoot_df, health_df=health_df)
-
 
 
 def datetime_to_prolog_fact(datetime_str: str) -> str:
