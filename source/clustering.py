@@ -11,6 +11,8 @@ from sklearn.preprocessing import normalize
 import seaborn
 from sklearn.metrics import pairwise_distances
 from scipy import stats
+import wordcloud
+from collections import deque
 
 def make_clusters():
 
@@ -96,3 +98,17 @@ def final_cluster():
             print("Different data for column:", col, "values are ", format(f), format(p))
         else:
             print("Not much different data for column:", col, "values are ", format(f), format(p))
+
+def create_wordcloud():
+    df = pd.read_csv("dataset_clustered.csv")
+    news = [''] * 4
+
+    for index, row in df.iterrows():
+        print("News of cluster (",row['Cluster'],")")
+        news[int(row["Cluster"])] += WebDataPickUp(row["HOMICIDE_VICTIM_FIRST_NAME"] + row["HOMICIDE_VICTIM_LAST_NAME"] + " Chicago homicide", 3).pick_up()
+
+    for i in range(0, 4):
+        wc = wordcloud.WordCloud(stopwords=set(wordcloud.STOPWORDS)).generate(news[i])
+        matplotlib.pyplot.imshow(wc)
+        matplotlib.pyplot.axis('off')
+        matplotlib.pyplot.show()
