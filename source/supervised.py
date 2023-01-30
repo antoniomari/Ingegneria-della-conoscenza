@@ -8,6 +8,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import learning_curve, train_test_split, cross_val_score
 
+from sklearn import model_selection
+from sklearn.base import clone
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 import numpy as np
@@ -18,31 +20,32 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.base import clone
 from sklearn.preprocessing import normalize
+import matplotlib.pyplot as plt
+
+
+# for average -> "macro" or "micro"
+def print_classifier_scores(true_y, pred_y, beta=1.0, average="macro"):
+    (pr, rec, f_sc, su) = precision_recall_fscore_support(y_true=true_y, y_pred=pred_y, beta=beta, average=average)
+    acc = accuracy_score(y_true=true_y, y_pred=pred_y)
+    print("Accuracy:\t" + str(acc))
+    print("Precision:\t" + str(pr))
+    print("Recall:\t\t" + str(rec))
+    print("F-measure" + ":\t" + str(f_sc))
+    print("(beta " + str(beta) + ")")
 
 
 def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=False):
-
     kf = model_selection.KFold(n_splits=n_folds)
     i_train = 0
     i_test = 0
     j = 1
     max_score = 0
     curr_test_score = 0
-    
-    """
-    if model_type=="tree":
-        curr_tree = DecisionTreeClassifier(max_depth=5)
-    elif model_type=="grad_boost":
-        curr_tree = GradientBoostingClassifier()
-    elif model_type=="random_forest":
-        curr_tree = RandomForestClassifier(n_estimators=20)
-        """
-    
 
     for train_indexes, test_indexes in kf.split(X, y):
         curr_classifier = clone(classifier)
         curr_classifier = curr_classifier.fit(X.iloc[train_indexes], y[train_indexes])
-        
+
         curr_train_score = curr_classifier.score(X.iloc[train_indexes], y[train_indexes])
         curr_test_score = curr_classifier.score(X.iloc[test_indexes], y[test_indexes])
 
@@ -52,14 +55,13 @@ def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=Fals
 
             print("-------| Training |-----------")
 
-            print_classifier_scores(true_y=y[train_indexes], 
-                                pred_y=curr_classifier.predict(X.iloc[train_indexes]), beta=2.0)
-        
+            print_classifier_scores(true_y=y[train_indexes],
+                                    pred_y=curr_classifier.predict(X.iloc[train_indexes]), beta=2.0)
+
             print("-------|   Test   |-----------")
             true_y = y[test_indexes]
             pred_y = curr_classifier.predict(X.iloc[test_indexes])
             print_classifier_scores(true_y=true_y, pred_y=pred_y, beta=2.0)
-
 
         if curr_test_score > max_score:
             best_classifier = curr_classifier
@@ -73,15 +75,6 @@ def k_fold(X: pd.DataFrame, y: pd.Series, n_folds: int, classifier, verbose=Fals
     mean_test_score = i_test / n_folds
 
     return best_classifier, mean_train_score, mean_test_score
-
-def print_classifier_scores(true_y, pred_y, beta=1.0):
-    (pr, rec, f_sc, su) = precision_recall_fscore_support(y_true=true_y, y_pred=pred_y, beta=beta, average="macro")
-    acc = accuracy_score(y_true=true_y, y_pred=pred_y)
-    print("Accuracy:\t" + str(acc))
-    print("Precision:\t" + str(pr))
-    print("Recall:\t\t" + str(rec))
-    print("F-measure" + ":\t" + str(f_sc))
-    print("(beta " + str(beta) + ")")
 
 def my_knn():
 
@@ -120,6 +113,28 @@ def my_svm():
 #k_fold(pd.read_csv("working_dataset.csv"))
 
 
+def plot_target_imbalance(y_0, y_1):
+    # Plotting the Imbalance
+    x = ['Non-Homicide (0)', 'Homicide (1)']
+    y = [len(y_0), len(y_1)]
+
+    plt.bar(x, y, color=['green', 'blue', 'red'], width=0.5)
+    plt.xlabel('Crime Type')
+    plt.ylabel('Count of Crimes')
+    plt.title("Class Imbalance")
+    plt.savefig("../charts/class_imbalance.png", dpi=400)
+
+    percentage_of_homicides = len(y_1) / (len(y_0) + len(y_1))
+    print(f"Percentage of HOMICIDE: {percentage_of_homicides} %")
+
+
 def supervised_main():
+    ds_original = pd.read_csv("crimes_selected.csv")
+    # DROP NULL VALUES ON AVER_AGE
+    ds_new = pd.read_csv("working_dataset.csv").dropna(subset=["AVER_AGE"]).reset_index()
+
     # Print balance dataset
-    pass
+    plot_target_imbalance(ds_new[ds_new['IS_HOMICIDE'] == 0], ds_new[ds_new['IS_HOMICIDE'] == 1])
+
+
+supervised_main()

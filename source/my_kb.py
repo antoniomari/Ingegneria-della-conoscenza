@@ -117,7 +117,7 @@ def create_kb() -> Prolog:
 
 
 # suppongo che ci sia già
-def calculate_features(kb, crime_id) -> dict:
+def calculate_features(kb, crime_id, final=False) -> dict:
     features_dict = {}
 
     features_dict["CASE_NUMBER"] = crime_id
@@ -156,14 +156,12 @@ def calculate_features(kb, crime_id) -> dict:
     for i in range(1, len(arrested_race_list)):
         arrested_race_set.add(arrested_race_list[i]['PR'])
     features_dict["ARRESTED_RACE"] = next(iter(arrested_race_set)) if len(arrested_race_set) == 1 else "mixed"
-    print(f"Lista race arrested: {arrested_race_list} -> value {features_dict['ARRESTED_RACE']}")
 
     victim_race_list = list(kb.query(f"crime_victim_race({crime_id}, VR)"))
     victim_race_set = {victim_race_list[0]['VR']}
     for i in range(1, len(victim_race_list)):
         victim_race_set.add(victim_race_list[i]['VR'])
     features_dict["VICTIM_RACE"] = next(iter(victim_race_set)) if len(victim_race_set) == 1 else "mixed"
-    print(f"Lista race victim: {victim_race_set} -> value {features_dict['VICTIM_RACE']}")
 
     aver_age = list(kb.query(f"aver_age({crime_id}, Avg)"))
     features_dict["AVER_AGE"] = aver_age[0]['Avg'] if len(aver_age) == 1 else None
@@ -173,11 +171,12 @@ def calculate_features(kb, crime_id) -> dict:
     features_dict["IMMEDIATE_ARREST"] = query_boolean_result(kb, f"immediate_arrest({crime_id})")
     features_dict["IS_HOMICIDE"] = query_boolean_result(kb, f"is_homicide({crime_id})")
 
-    # added after Naive Bayes Categorical results
-    for value in ["vehicle", "private_vehicle", "public_vehicle", "public_place", "parking", "store_pub", "gas_station",
-                  "park", "outside", "street", "sidewalk", "alley", "residential", "apartment", "house", "residence",
-                  "residential_outside"]:
-        features_dict[f"LOCATION_{value}"] = query_boolean_result(kb, f"location_{value}({crime_id})")
+    if final:
+        # added after Naive Bayes Categorical results
+        for value in ["vehicle", "private_vehicle", "public_vehicle", "public_place", "parking", "store_pub", "gas_station",
+                      "park", "outside", "street", "sidewalk", "alley", "residential", "apartment", "house", "residence",
+                      "residential_outside"]:
+            features_dict[f"LOCATION_{value}"] = query_boolean_result(kb, f"location_{value}({crime_id})")
 
     return features_dict
 
@@ -185,28 +184,29 @@ def calculate_features(kb, crime_id) -> dict:
 def query_boolean_result(kb, query_str: str):
     return min(len(list(kb.query(query_str))), 1)
 
-start = time.time()
 
-kb = create_kb()
+def produce_working_dataset(kb: Prolog, path: str, final=False):
+    print(f"Producing dataset at {path}")
+    start = time.time()
+    crimes_complete: pd.DataFrame = pd.read_csv("crimes_selected.csv")
 
-crimes_complete: pd.DataFrame = pd.read_csv("crimes_selected.csv")
+    extracted_values_df = None
 
-extracted_values_df = None
+    first = True
+    for crime_id in crimes_complete["CASE_NUMBER"]:
 
-first = True
-for crime_id in crimes_complete["CASE_NUMBER"]:
+        features_dict = calculate_features(kb, crime_id, final)
+        if first:
+            extracted_values_df = pd.DataFrame([features_dict])
+            first = False
+        else:
+            extracted_values_df = pd.concat([extracted_values_df, pd.DataFrame([features_dict])], ignore_index=True)
 
-    features_dict = calculate_features(kb, crime_id)
-    if first:
-        extracted_values_df = pd.DataFrame([features_dict])
-        first = False
-    else:
-        extracted_values_df = pd.concat([extracted_values_df, pd.DataFrame([features_dict])], ignore_index=True)
+    extracted_values_df.to_csv(path, index=False)
+    end = time.time()
+    print("Total time: ", end-start)
 
-extracted_values_df.to_csv("working_dataset.csv", index=False)
 
-end = time.time()
-print("Time: ", end-start)
-
-print(list(kb.query("crime_by_group(C)")))
-
+knowledge_base = create_kb()
+produce_working_dataset(knowledge_base, "working_dataset.csv")
+produce_working_dataset(knowledge_base, "working_dataset_final.csv", final=True)

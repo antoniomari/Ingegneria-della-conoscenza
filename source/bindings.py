@@ -1,44 +1,6 @@
 from datetime import datetime
 
-import numpy as np
-import pyswip
-import rdflib
 import pandas as pd
-from rdflib.plugins.sparql import prepareQuery
-
-# ds =
-# ds1 =
-# ds2 =
-# ds3 =
-# ds4 = crimes
-
-"""
-g = rdflib.Graph()
-g.parse("dataset/complete.rdf")
-
-query = prepareQuery("SELECT ?crime WHERE "
-                     "{ ?crime ds4:case_number ?o. "
-                     "  ?arrest ds3:case_number ?o. }",
-                     initNs={"ds4": g.store.namespace("ds4"), "ds3": g.store.namespace("ds3")})
-results = g.query(query)
-
-for row in results:
-    print(row)
-
-print(f"Num: {len(results)}")
-
-"""
-
-"""
-arrest_case_codes = pd.concat([arrest_1_df["CASE NUMBER"], arrest_2_df["CASE NUMBER"]])
-print(f"Ci sono {len(arrest_case_codes)} casi di arresto")
-
-shoot_case_codes = shoot_df["CASE_NUMBER"]
-print(f"Ci sono {len(shoot_case_codes)} casi di spari")
-
-result = arrest_case_codes[arrest_case_codes.isin(shoot_case_codes)]
-print(f"Intersezione: {len(result)}")
-"""
 
 SHOOT_DATASET_PATH = "../old_dataset/shoot.csv"
 CRIME_DATASET_PATHS = ["../old_dataset/" + str(i) + ".csv" for i in range(2010, 2023)]
@@ -467,6 +429,7 @@ def datetime_to_prolog_fact(datetime_str: str) -> str:
 
 def date_time_from_dataset(datetime_str: str) -> datetime:
     return datetime.strptime(datetime_str, '%m/%d/%Y %I:%M:%S %p')
+
 
 def main():
     crime_codes = extract_crime_codes()
