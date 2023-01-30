@@ -31,11 +31,21 @@ def create_kb() -> Prolog:
     prolog.assertz("num_of_crimes_ward(crime(C), N) :- findall(C1, same_ward(crime(C), crime(C1)), L), length(L, N)")
     prolog.assertz("num_of_crimes_block(crime(C), N) :- findall(C1, same_block(crime(C), crime(C1)), L), length(L, N)")
 
-    # CLAUSES ABOUT GEO-DATA coming from
+    # CLAUSES ABOUT GEO-DATA coming from VICTIMIZATION
     prolog.assertz("crime_zip_code(crime(C), Z) :- victimization(crime(C), victim(V), T), zip_code(victim(V), Z)")
     prolog.assertz("same_zip_code(crime(C1), crime(C2)) :- crime_zip_code(crime(C1), Z), crime_zip_code(crime(C2), Z)")
     prolog.assertz("num_of_crimes_in_zip_code(crime(C), N) :- "
                    "findall(C1, same_zip_code(crime(C), crime(C1)), L), length(L, N)")
+
+    # PROPERTIES OF COMMUNITY AREA
+    prolog.assertz("crime_area_income(crime(C), I) :- comm_area(crime(C), COM), comm_income(COM, I)")
+    prolog.assertz("crime_area_assault_homicide(crime(C), I) :- comm_area(crime(C), COM), comm_assault_homicide(COM, I)")
+    prolog.assertz("crime_area_firearm(crime(C), I) :- comm_area(crime(C), COM), comm_firearm(COM, I)")
+    prolog.assertz("crime_area_poverty_level(crime(C), I) :- comm_area(crime(C), COM), comm_poverty_level(COM, I)")
+    prolog.assertz("crime_area_hs_diploma(crime(C), I) :- comm_area(crime(C), COM), comm_hs_diploma(COM, I)")
+    prolog.assertz("crime_area_unemployment(crime(C), I) :- comm_area(crime(C), COM), comm_unemployment(COM, I)")
+    prolog.assertz("crime_area_birth_rate(crime(C), I) :- comm_area(crime(C), COM), comm_birth_rate(COM, I)")
+
 
     prolog.assertz("is_ratial(crime(C)) :- has_arrest(crime(C), arrest(P)), victimization(crime(C), victim(V), T), "
                    "victim_race(victim(V), VR), criminal_race(arrest(P), PR), dif(VR, PR)")
@@ -50,13 +60,7 @@ def create_kb() -> Prolog:
                    "has_arrest(crime(C), arrest(P)), criminal_race(arrest(P), PR) ")
 
 
-    prolog.assertz("crime_area_income(crime(C), I) :- comm_area(crime(C), COM), comm_income(COM, I)")
-    prolog.assertz("crime_area_assault_homicide(crime(C), I) :- comm_area(crime(C), COM), comm_assault_homicide(COM, I)")
-    prolog.assertz("crime_area_firearm(crime(C), I) :- comm_area(crime(C), COM), comm_firearm(COM, I)")
-    prolog.assertz("crime_area_poverty_level(crime(C), I) :- comm_area(crime(C), COM), comm_poverty_level(COM, I)")
-    prolog.assertz("crime_area_hs_diploma(crime(C), I) :- comm_area(crime(C), COM), comm_hs_diploma(COM, I)")
-    prolog.assertz("crime_area_unemployment(crime(C), I) :- comm_area(crime(C), COM), comm_unemployment(COM, I)")
-    prolog.assertz("crime_area_birth_rate(crime(C), I) :- comm_area(crime(C), COM), comm_birth_rate(COM, I)")
+
 
     prolog.assertz("num_of_victims(crime(C), N) :- findall(V, victimization(crime(C), victim(V), T), L), length(L, N)")
 

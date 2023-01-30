@@ -371,6 +371,7 @@ def load_data_in_kb(crimes_df: pd.DataFrame, arrest_df: pd.DataFrame,
                  f"victim_sex({victim_code}, {row['SEX']})",
                  f"incident({victim_code}, {row['INCIDENT']})",
                  f"zip_code({victim_code}, {row['ZIP_CODE']})",
+                 f"victim_area({victim_code}, {row['AREA']})",
                  f"victim_day_of_week({victim_code}, {row['DAY_OF_WEEK']})",
                  f"state_house_district({victim_code}, {row['STATE_HOUSE_DISTRICT']})",
                  f"state_senate_district({victim_code}, {row['STATE_SENATE_DISTRICT']})"]
