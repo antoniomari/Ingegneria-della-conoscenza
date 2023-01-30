@@ -40,16 +40,15 @@ def create_kb() -> Prolog:
     prolog.assertz("is_ratial(crime(C)) :- has_arrest(crime(C), arrest(P)), victimization(crime(C), victim(V), T), "
                    "victim_race(victim(V), VR), criminal_race(arrest(P), PR), dif(VR, PR)")
 
+    prolog.assertz("crime_victim_sex(crime(C), S) :- "
+                   "victimization(crime(C), victim(V), T), victim_sex(victim(V), S)")
+
     prolog.assertz("crime_victim_race(crime(C), VR) :- "
                    "victimization(crime(C), victim(V), T), victim_race(victim(V), VR)")
 
     prolog.assertz("crime_arrested_race(crime(C), PR) :- "
                    "has_arrest(crime(C), arrest(P)), criminal_race(arrest(P), PR) ")
 
-    prolog.assertz("crimes_victim_same_race(crime(C), VR) :- "
-                   "findall(VR, crime_victim_race(crime(C), VR), L), length(L, 1)")
-    prolog.assertz("crimes_arrested_same_race(crime(C), PR) :- "
-                   "findall(PR, crime_arrested_race(crime(C), PR), L), length(L, 1)")
 
     prolog.assertz("crime_area_income(crime(C), I) :- comm_area(crime(C), COM), comm_income(COM, I)")
     prolog.assertz("crime_area_assault_homicide(crime(C), I) :- comm_area(crime(C), COM), comm_assault_homicide(COM, I)")
@@ -162,6 +161,13 @@ def calculate_features(kb, crime_id, final=False) -> dict:
     for i in range(1, len(victim_race_list)):
         victim_race_set.add(victim_race_list[i]['VR'])
     features_dict["VICTIM_RACE"] = next(iter(victim_race_set)) if len(victim_race_set) == 1 else "mixed"
+
+    victim_sex_list = list(kb.query(f"crime_victim_sex({crime_id}, S)"))
+    victim_sex_set = {victim_sex_list[0]['S']}
+    for i in range(1, len(victim_sex_list)):
+        victim_sex_set.add(victim_sex_list[i]['S'])
+    features_dict["VICTIM_SEX"] = next(iter(victim_sex_set)) if len(victim_sex_set) == 1 else "mixed"
+
 
     aver_age = list(kb.query(f"aver_age({crime_id}, Avg)"))
     features_dict["AVER_AGE"] = aver_age[0]['Avg'] if len(aver_age) == 1 else None
