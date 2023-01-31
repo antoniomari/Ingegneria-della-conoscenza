@@ -192,7 +192,7 @@ def supervised_main():
     nb_categorical_training(X_nb, y_nb)
     nb_with_dropping_column(X_nb, y_nb)
 
-    hill_climbing_feature_addition(pd.DataFrame(X_nb["Location Description"]), X_nb, y)
+    #hill_climbing_feature_addition(pd.DataFrame(X_nb["Location Description"]), X_nb, y)
 
     # --------------------| Learning part 3 |----------------------
     df_final = pd.read_csv("working_dataset_final.csv").dropna(subset=["AVER_AGE"]).reset_index().drop(["index"], axis=1)
