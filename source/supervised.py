@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 
 
 # for average -> "macro" or "micro"
-def print_classifier_scores(true_y, pred_y, beta=1.0, average="micro"):
+def print_classifier_scores(true_y, pred_y, beta=1.0, average="macro"):
     acc, pr, rec, f_sc = calc_classifier_scores(true_y, pred_y, beta=beta, average=average)
     print("Accuracy:\t" + str(acc))
     print("Precision:\t" + str(pr))
@@ -34,7 +34,7 @@ def print_classifier_scores(true_y, pred_y, beta=1.0, average="micro"):
     print("(beta " + str(beta) + ")")
 
 
-def calc_classifier_scores(true_y, pred_y, beta=1.0, average="micro"):
+def calc_classifier_scores(true_y, pred_y, beta=1.0, average="macro"):
     (pr, rec, f_sc, su) = precision_recall_fscore_support(y_true=true_y, y_pred=pred_y, beta=beta, average=average)
     acc = accuracy_score(y_true=true_y, y_pred=pred_y)
     return acc, pr, rec, f_sc
@@ -166,15 +166,13 @@ def supervised_main():
     # DROP NULL VALUES ON AVER_AGE
     ds_new = pd.read_csv("working_dataset.csv").dropna(subset=["AVER_AGE"]).reset_index().drop(["index"], axis=1)
 
-    for f in ds_new.columns:
-        print(f)
-
     # Print original incident feature value frequencies
     plot_value_counts(shoot_original["INCIDENT"], "INCIDENT")
 
     # Print feature imbalance
     plot_target_imbalance(ds_new[ds_new['IS_HOMICIDE'] == 0], ds_new[ds_new['IS_HOMICIDE'] == 1])
 
+    # --------------------| Learning part 1 |----------------------
     # extract info for trees
     X: pd.DataFrame = ds_new.drop(columns=["CASE_NUMBER", "NUM_OF_DEAD", "IS_KILLED_A_CHILD",
                                            "IS_HOMICIDE", "VICTIM_RACE", "ARRESTED_RACE", "VICTIM_SEX"])
@@ -186,29 +184,32 @@ def supervised_main():
     #ada_boost_training(X, y)
     #gradient_boosting_training(X, y)
 
-    # save_best_models_trees(X, y)
+    #print_features_importances(X, y)
 
+    # --------------------| Learning part 2 |----------------------
     # prepare data for Naive Bayes
     X_nb, y_nb = prepare_dataset_for_nb(ds_original, ds_new)
-    # nb_categorical_training(X_nb, y_nb)
-    # nb_with_dropping_column(X_nb, y_nb)
+    nb_categorical_training(X_nb, y_nb)
+    nb_with_dropping_column(X_nb, y_nb)
 
-    # hill_climbing_feature_addition(pd.DataFrame(X_nb["Location Description"]), X_nb, y)
+    hill_climbing_feature_addition(pd.DataFrame(X_nb["Location Description"]), X_nb, y)
 
+    # --------------------| Learning part 3 |----------------------
     df_final = pd.read_csv("working_dataset_final.csv").dropna(subset=["AVER_AGE"]).reset_index().drop(["index"], axis=1)
     X_final = df_final.drop(columns=["CASE_NUMBER", "NUM_OF_DEAD", "IS_KILLED_A_CHILD",
                                        "IS_HOMICIDE", "VICTIM_RACE", "ARRESTED_RACE", "VICTIM_SEX"], axis=1)
     y_final = df_final["IS_HOMICIDE"]
 
-    tree_training(X_final, y_final, directory="final/")
-    random_forest_training(X_final, y_final, directory="final/")
-    random_forest_training_depth(X_final, y_final, directory="final/")
-    ada_boost_training(X_final, y_final, directory="final/")
-    gradient_boosting_training(X_final, y_final, directory="final/")
+    #tree_training(X_final, y_final, directory="final/")
+    #random_forest_training(X_final, y_final, directory="final/")
+    #random_forest_training_depth(X_final, y_final, directory="final/")
+    #ada_boost_training(X_final, y_final, directory="final/")
+    #gradient_boosting_training(X_final, y_final, directory="final/")
+
+    # print_features_importances(X_final, y_final)
 
 
-
-def save_best_models_trees(X, y):
+def print_features_importances(X, y):
 
     # INITIAL TREE BASED
     best_tree, train_sc, test_sc, \
@@ -247,7 +248,6 @@ def save_best_models_trees(X, y):
     print(" ------| Feature importance - GradientBoosting |------")
     for feature, importance in zip(X.columns, best_grad.feature_importances_):
         print(f"\t{feature}: {importance}")
-
 
 
 def prepare_dataset_for_nb(ds_original: pd.DataFrame, ds_new: pd.DataFrame):

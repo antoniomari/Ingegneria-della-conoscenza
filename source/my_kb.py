@@ -173,7 +173,6 @@ def calculate_features(kb, crime_id, final=False) -> dict:
         victim_sex_set.add(victim_sex_list[i]['S'])
     features_dict["VICTIM_SEX"] = next(iter(victim_sex_set)) if len(victim_sex_set) == 1 else "mixed"
 
-
     aver_age = list(kb.query(f"aver_age({crime_id}, Avg)"))
     features_dict["AVER_AGE"] = aver_age[0]['Avg'] if len(aver_age) == 1 else None
 
