@@ -178,13 +178,13 @@ def supervised_main():
                                            "IS_HOMICIDE", "VICTIM_RACE", "ARRESTED_RACE", "VICTIM_SEX"])
     y: pd.Series = ds_new["IS_HOMICIDE"]
 
-    #tree_training(X, y)  # result -> the best criterion is entropy
-    #random_forest_training(X, y)
-    #random_forest_training_depth(X, y)
-    #ada_boost_training(X, y)
-    #gradient_boosting_training(X, y)
+    tree_training(X, y)  # result -> the best criterion is entropy
+    random_forest_training(X, y)
+    random_forest_training_depth(X, y)
+    ada_boost_training(X, y)
+    gradient_boosting_training(X, y)
 
-    #print_features_importances(X, y)
+    print_features_importances(X, y)
 
     # --------------------| Learning part 2 |----------------------
     # prepare data for Naive Bayes
@@ -200,13 +200,27 @@ def supervised_main():
                                        "IS_HOMICIDE", "VICTIM_RACE", "ARRESTED_RACE", "VICTIM_SEX"], axis=1)
     y_final = df_final["IS_HOMICIDE"]
 
-    #tree_training(X_final, y_final, directory="final/")
-    #random_forest_training(X_final, y_final, directory="final/")
-    #random_forest_training_depth(X_final, y_final, directory="final/")
-    #ada_boost_training(X_final, y_final, directory="final/")
-    #gradient_boosting_training(X_final, y_final, directory="final/")
+    tree_training(X_final, y_final, directory="final/")
+    random_forest_training(X_final, y_final, directory="final/")
+    random_forest_training_depth(X_final, y_final, directory="final/")
+    ada_boost_training(X_final, y_final, directory="final/")
+    gradient_boosting_training(X_final, y_final, directory="final/")
 
-    # print_features_importances(X_final, y_final)
+    print_features_importances(X_final, y_final)
+
+    # export_the best tree among 10
+    export_tree(X_final, y_final)
+
+
+def export_tree(X, y):
+    best_tree, train_sc, test_sc, \
+        test_prec, test_rec, test_f = k_fold(X, y, 10, classifier=DecisionTreeClassifier(max_depth=5, criterion="entropy"))
+    tree.export_graphviz(best_tree,
+                         feature_names=X.columns.tolist(),
+                         class_names=list(map(lambda x: str(x), y.unique().tolist())),
+                         filled=True,
+                         rounded=True,
+                         out_file="../models/best_tree.dot")
 
 
 def print_features_importances(X, y):
@@ -318,6 +332,7 @@ def nb_categorical_training(X: pd.DataFrame, y: pd.Series):
     best_nb, train_sc, test_sc, test_prec, test_rec, test_f = k_fold(
         X, y, 10, CategoricalNB(min_categories=X.nunique()), verbose=True)
 
+    print(f"Media train acc: {train_sc}")
     print(f"Media test acc: {test_sc}")
     print(f"Media test prec: {np.average(test_prec)}")
     print(f"Media test rec: {np.average(test_rec)}")
